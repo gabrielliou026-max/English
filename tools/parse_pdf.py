@@ -28,18 +28,46 @@ OPT = re.compile(r"^([A-D])\.\s?(.*)$")
 ANS = re.compile(r"^作答：\s*答案：\s*([A-D])\s*$")
 
 
+UL_OPEN, UL_CLOSE = "\u27e6", "\u27e7"  # 標記 PDF 中畫了底線的字（同義字題考的字）
+
+
+def plain(line):
+    return line.replace(UL_OPEN, "").replace(UL_CLOSE, "")
+
+
+def page_text(page):
+    """與 page.get_text() 相同的文字，但把畫了底線的字包在 ⟦ ⟧ 中。
+    PDF 的底線是字下方的一條細線（drawing），不在文字裡。"""
+    rules = [d["rect"] for d in page.get_drawings() if d["rect"].height < 2.5 and 3 < d["rect"].width < 350]
+    out = []
+    for b in page.get_text("dict")["blocks"]:
+        if b.get("type") != 0:
+            continue
+        for l in b["lines"]:
+            buf = ""
+            for sp in l["spans"]:
+                t = sp["text"]
+                x0, _, x1, y1 = sp["bbox"]
+                ul = t.strip() and any(
+                    abs(r.y0 - y1) < 3.5 and min(r.x1, x1) - max(r.x0, x0) > 0.6 * (x1 - x0) for r in rules)
+                buf += f"{UL_OPEN}{t}{UL_CLOSE}" if ul else t
+            out.append(buf)
+        out.append("")
+    return "\n".join(out)
+
+
 def read_lines(pdf):
     doc = pymupdf.open(pdf)
-    raw = fix_chars("\n".join(p.get_text() for p in doc))
-    m = re.search(r"第\s*(\d+)\s*回", raw)
+    raw = fix_chars("\n".join(page_text(p) for p in doc))
+    m = re.search(r"第\s*(\d+)\s*回", plain(raw))
     lines = [l.strip() for l in raw.splitlines()]
-    return [l for l in lines if l and not NOISE.match(l)], (m.group(1) if m else None)
+    return [l for l in lines if plain(l).strip() and not NOISE.match(plain(l).strip())], (m.group(1) if m else None)
 
 
 def split_blocks(lines):
     blocks, cur, expect = [], None, 1
     for l in lines:
-        m = QNUM.match(l)
+        m = QNUM.match(plain(l))
         if m and int(m.group(1)) == expect:
             cur = {"n": expect, "lines": []}
             blocks.append(cur)
@@ -55,8 +83,10 @@ def join(parts):
 
 
 def parse_block(b):
+    # 只有題幹保留底線標記；選項、答案、解析用純文字判斷與儲存
     stem, opts, answer, expl, stage, key = [], {}, None, [], "stem", None
-    for l in b["lines"]:
+    for raw in b["lines"]:
+        l = plain(raw)
         a = ANS.match(l)
         if a:
             answer, stage = a.group(1), "expl"
@@ -66,7 +96,7 @@ def parse_block(b):
             key, stage = o.group(1), "opts"
             opts[key] = [o.group(2)]
         elif stage == "stem":
-            stem.append(l)
+            stem.append(raw)
         elif stage == "opts":
             opts[key].append(l)
         else:
@@ -118,12 +148,15 @@ def categorize(section, stem, is_dialogue):
 
 
 CORRECTIONS = Path(__file__).with_name("corrections.json")
+# PDF 沒畫出底線時，手動或由其他回相同題目對照補上的考題字詞：{題目 id: [字詞]}
+UNDERLINES = Path(__file__).with_name("underlines.json")
 
 
 def apply_corrections(q, fixes):
     def fix(text):
+        # 整字比對：避免「ligh→light」把 lights 改成 lightts
         for old, new in fixes:
-            text = text.replace(old, new)
+            text = re.sub(rf"(?<!\w){re.escape(old)}(?!\w)", lambda _: new, text)
         return text
     q["stem"] = fix(q["stem"])
     q["options"] = {k: fix(v) for k, v in q["options"].items()}
@@ -140,18 +173,25 @@ def build(pdf, bank=None):
         sys.exit("Bank number not found in PDF; pass --bank")
     bank = f"{int(bank):02d}"
     corrections = json.loads(CORRECTIONS.read_text("utf-8")) if CORRECTIONS.exists() else {}
+    manual_ul = json.loads(UNDERLINES.read_text("utf-8")) if UNDERLINES.exists() else {}
     parsed = [(b["n"], *parse_block(b)) for b in split_blocks(lines)]
     # 聽力通常是 1–60，但有些回數的對話題接續到 60 題之後（例如 61–66）
-    dialogue_ns = {n for n, stem_lines, *_ in parsed if is_dialogue_stem(join(stem_lines))}
+    dialogue_ns = {n for n, stem_lines, *_ in parsed if is_dialogue_stem(plain(join(stem_lines)))}
     listening_last = LISTENING_LAST
     while listening_last + 1 in dialogue_ns:
         listening_last += 1
     # 有些回數的 PDF 沒有標註（文法），無法區分文法與字彙，改標為 usage（文法・字彙）
-    tagged = any(join(s).startswith("(文法)") for n, s, *_ in parsed if n > listening_last)
+    tagged = any(plain(join(s)).startswith("(文法)") for n, s, *_ in parsed if n > listening_last)
     questions = []
     for n, stem_lines, opts, answer, expl in parsed:
         section = "listening" if n <= listening_last else "reading"
-        stem = join(stem_lines)
+        marked = re.sub(f"{UL_CLOSE}(\\s*){UL_OPEN}", r"\1", join(stem_lines))  # 相鄰底線字合併成片語
+        # 只保留像「考題字詞」的底線：不含填空線、6 個字以內（排除整句被畫線的誤判）
+        underline = [u.strip() for u in re.findall(f"{UL_OPEN}(.*?){UL_CLOSE}", marked)
+                     if u.strip() and "_" not in u and len(u.split()) <= 6 and not u.strip().endswith("?")]
+        if not underline and f"b{bank}-{n:03d}" in manual_ul:
+            underline = [u for u in manual_ul[f"b{bank}-{n:03d}"] if u in plain(marked)]
+        stem = plain(marked)
         is_dialogue = is_dialogue_stem(stem)
         cat = categorize(section, stem, is_dialogue)
         if section == "reading" and cat == "vocab" and not tagged:
@@ -172,6 +212,8 @@ def build(pdf, bank=None):
             q["turns"] = split_turns(stem)
         elif section == "listening" and QMARK.search(stem):
             q["turns"] = split_question(n, stem)
+        if section == "reading" and underline:
+            q["underline"] = underline
         if expl:
             q["explain"] = expl
         if section == "listening":

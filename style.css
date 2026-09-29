@@ -169,3 +169,4 @@ summary .n { color: var(--muted); font-variant-numeric: tabular-nums; margin-rig
   border: 2px solid var(--line); border-radius: 12px; -webkit-appearance: none; appearance: none;
 }
 .select:focus-visible { outline: 3px solid var(--brand-2); outline-offset: 2px; }
+.ul { text-decoration-thickness: 2px; text-underline-offset: 3px; font-weight: 700; color: var(--brand); }

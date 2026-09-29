@@ -45,3 +45,8 @@ python3 tools/gen_audio.py data/bank03.json  # 產生 audio/b03/*.mp3（Kokoro�
 | 文法 | 61–95 | PDF 標註（文法） |
 | 字彙 | 61–95 | 其餘短題 |
 | 閱讀理解 | 96–100 | 長篇短文 |
+
+## 內容校正
+
+- `tools/corrections.json`：PDF 原文錯字，格式 `{題目 id: [[原文, 改成]]}`，整字比對取代題幹、選項、對話與解析。改到聽力題幹時，用 `python3 tools/gen_audio.py data/bankNN.json --force --only 題號` 重做該題音檔。
+- `tools/underlines.json`：同義字題考的字詞。PDF 有畫底線時會自動偵測；沒畫時可在此手動補上，格式 `{題目 id: [字詞]}`。

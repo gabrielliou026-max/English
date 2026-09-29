@@ -1,4 +1,203 @@
 {
  "_說明": "PDF 原文錯字校正。格式：題目 id -> [[原文, 改成]]。套用到題幹、選項、對話、解析；若改到聽力題幹，需用 gen_audio.py --force --only N 重做該題音檔。",
- "b02-015": [["give hr a bath", "give her a bath"]]
+ "b02-015": [
+  [
+   "give hr a bath",
+   "give her a bath"
+  ]
+ ],
+ "b14-055": [
+  [
+   "can affor",
+   "can afford"
+  ]
+ ],
+ "b06-016": [
+  [
+   "arrangd",
+   "arranged"
+  ]
+ ],
+ "b25-055": [
+  [
+   "after breakfa",
+   "after breakfast?"
+  ]
+ ],
+ "b23-063": [
+  [
+   "What are the spea",
+   "What are the speakers talking about?"
+  ]
+ ],
+ "b08-010": [
+  [
+   "cultureal",
+   "cultural"
+  ]
+ ],
+ "b26-065": [
+  [
+   "I didnt",
+   "I didn't"
+  ]
+ ],
+ "b06-034": [
+  [
+   "direcion",
+   "direction"
+  ]
+ ],
+ "b04-055": [
+  [
+   "woman eman?",
+   "woman mean?"
+  ]
+ ],
+ "b06-022": [
+  [
+   "everynight",
+   "every night"
+  ]
+ ],
+ "b06-075": [
+  [
+   "felfish",
+   "selfish"
+  ]
+ ],
+ "b02-020": [
+  [
+   "immediatedly",
+   "immediately"
+  ]
+ ],
+ "b14-030": [
+  [
+   "las night",
+   "last night"
+  ]
+ ],
+ "b08-060": [
+  [
+   "mmet",
+   "meet"
+  ]
+ ],
+ "b08-032": [
+  [
+   "moutain",
+   "mountain"
+  ]
+ ],
+ "b02-025": [
+  [
+   "nearshighted",
+   "nearsighted"
+  ]
+ ],
+ "b08-017": [
+  [
+   "You nee to",
+   "You need to"
+  ]
+ ],
+ "b08-014": [
+  [
+   "onine",
+   "online"
+  ]
+ ],
+ "b06-098": [
+  [
+   "pricture",
+   "picture"
+  ]
+ ],
+ "b14-049": [
+  [
+   "serveys",
+   "surveys"
+  ]
+ ],
+ "b08-027": [
+  [
+   "Both sies",
+   "Both sides"
+  ]
+ ],
+ "b08-039": [
+  [
+   "windowsare",
+   "windows are"
+  ]
+ ],
+ "b04-031": [
+  [
+   "scapstick",
+   "chapstick"
+  ]
+ ],
+ "b14-064": [
+  [
+   "perfect entre",
+   "perfect entry"
+  ]
+ ],
+ "b15-088": [
+  [
+   "very happil",
+   "very happily"
+  ],
+  [
+   "very happ",
+   "very happy"
+  ]
+ ],
+ "b28-062": [
+  [
+   "ligh",
+   "light"
+  ]
+ ],
+ "b08-095": [
+  [
+   "thelogy",
+   "theology"
+  ]
+ ],
+ "b06-085": [
+  [
+   "whoevery",
+   "whoever"
+  ],
+  [
+   "whatevert",
+   "whatever"
+  ]
+ ],
+ "b20-069": [
+  [
+   "afection",
+   "affection"
+  ]
+ ],
+ "b15-080": [
+  [
+   "collid",
+   "collide"
+  ]
+ ],
+ "b11-061": [
+  [
+   "repot",
+   "report"
+  ]
+ ],
+ "b11-084": [
+  [
+   "The principle was",
+   "The principal was"
+  ]
+ ]
 }

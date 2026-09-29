@@ -258,7 +258,7 @@ function renderQuiz(autoplay) {
     html += `<button class="play" data-a="play" id="play">▶ 播放題目</button>
       <div class="plays muted" id="plays">${n ? `已播放 ${n} 次` : '點擊播放，可重複聆聽'}</div>`;
   } else {
-    html += `<div class="card stem">${esc(q.stem)}</div>`;
+    html += `<div class="card stem">${stemHtml(q)}</div>`;
   }
 
   html += `<div class="opts">${optionButtons(q, a && a.pick, !!a)}</div>`;
@@ -284,6 +284,17 @@ function optionButtons(q, chosen, locked) {
     else if (locked && k === chosen) cls = 'ng';
     return `<button class="opt ${cls}" data-a="pick" data-v="${k}" ${locked ? 'disabled' : ''}><b>${k}</b><span>${esc(q.options[k])}</span></button>`;
   }).join('');
+}
+
+// 題幹；同義字題把考的字詞（PDF 中的底線）標出來
+function stemHtml(q) {
+  let html = esc(q.stem);
+  for (const u of q.underline || []) {
+    const e = esc(u);
+    const i = html.indexOf(e);
+    if (i >= 0) html = `${html.slice(0, i)}<u class="ul">${e}</u>${html.slice(i + e.length)}`;
+  }
+  return html;
 }
 
 function transcript(q) {
@@ -405,7 +416,7 @@ function meter(label, ok, n) {
 }
 
 function missItem(q, chosen, extra) {
-  const body = `${q.section === 'listening' ? transcript(q) : `<div class="stem">${esc(q.stem)}</div>`}
+  const body = `${q.section === 'listening' ? transcript(q) : `<div class="stem">${stemHtml(q)}</div>`}
     ${optionButtons(q, chosen, true)}
     ${q.explain ? `<div class="explain muted">${esc(q.explain)}</div>` : ''}`;
   const title = q.section === 'listening' ? (q.turns ? q.turns.map((t) => t.t).join(' ') : q.stem) : q.stem;
