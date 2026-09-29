@@ -150,6 +150,8 @@ def categorize(section, stem, is_dialogue):
 CORRECTIONS = Path(__file__).with_name("corrections.json")
 # PDF 沒畫出底線時，手動或由其他回相同題目對照補上的考題字詞：{題目 id: [字詞]}
 UNDERLINES = Path(__file__).with_name("underlines.json")
+# tools/gen_explain.py 產生的 AI 解析（原檔沒有解析的題目才使用）
+AI_EXPLAIN = Path(__file__).with_name("explanations_ai.json")
 
 
 def apply_corrections(q, fixes):
@@ -174,6 +176,7 @@ def build(pdf, bank=None):
     bank = f"{int(bank):02d}"
     corrections = json.loads(CORRECTIONS.read_text("utf-8")) if CORRECTIONS.exists() else {}
     manual_ul = json.loads(UNDERLINES.read_text("utf-8")) if UNDERLINES.exists() else {}
+    ai_explain = json.loads(AI_EXPLAIN.read_text("utf-8")) if AI_EXPLAIN.exists() else {}
     parsed = [(b["n"], *parse_block(b)) for b in split_blocks(lines)]
     # 聽力通常是 1–60，但有些回數的對話題接續到 60 題之後（例如 61–66）
     dialogue_ns = {n for n, stem_lines, *_ in parsed if is_dialogue_stem(plain(join(stem_lines)))}
@@ -214,8 +217,10 @@ def build(pdf, bank=None):
             q["turns"] = split_question(n, stem)
         if section == "reading" and underline:
             q["underline"] = underline
-        if expl:
+        if expl.strip() not in ("", "*", "-", "—"):
             q["explain"] = expl
+        elif q["id"] in ai_explain:
+            q["explain"], q["explain_ai"] = ai_explain[q["id"]], True
         if section == "listening":
             q["audio"] = f"audio/b{bank}/{n:03d}.mp3"
         if q["id"] in corrections:

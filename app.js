@@ -15,6 +15,10 @@ const CATS = {
 };
 const SPEAKER = { M: '男', W: '女', M2: '男2', W2: '女2', Q: '問' };
 const COUNTS = [0, 50, 20]; // 0 = 全部
+const MODES = [['practice', '練習（即時看答案）'], ['mock', '模擬考（交卷才計分）']];
+const DAY = 86400000;
+// 間隔複習：答錯 → 1 天後到期；到期時答對 → 3 天、7 天；再答對即為已掌握
+const INTERVALS = { 1: 1, 2: 3, 3: 7 };
 
 const $ = (s) => document.querySelector(s);
 const app = $('#app');
@@ -25,11 +29,12 @@ const bankData = {};   // bank -> questions[]
 const Q = {};          // question id -> question
 let db = loadDB();
 let session = loadJSON(CURRENT);
-let pick = { banks: [], count: 0, section: 'both' }; // section: both / listening / reading
+let pick = { banks: [], count: 0, section: 'both', mode: 'practice' }; // section: both / listening / reading
 const SECTIONS = [['both', '聽力＋閱讀'], ['listening', '只考聽力'], ['reading', '只考閱讀']];
 let view = 'home';
 let resultFilter = 'wrong'; // 題目回顧：wrong / right / all
 let shownAttempt = null;
+let flash = null; // 閃卡複習：{ list, i, show }
 
 /* ---------- storage ---------- */
 
@@ -37,8 +42,19 @@ function loadJSON(key) {
   try { return JSON.parse(localStorage.getItem(key)); } catch { return null; }
 }
 function loadDB() {
-  const d = loadJSON(STORE);
-  return d && Array.isArray(d.attempts) && d.stats ? d : { attempts: [], stats: {} };
+  const loaded = loadJSON(STORE);
+  const d = loaded && Array.isArray(loaded.attempts) && loaded.stats ? loaded : { attempts: [], stats: {} };
+  return migrate(d);
+}
+function migrate(d) {
+  d.vocab = d.vocab || {};
+  for (const s of Object.values(d.stats)) {
+    if (s.box === undefined) {  // 舊版紀錄：最近一次仍答錯的題目，轉為今天到期
+      s.box = s.last === 0 ? 1 : 0;
+      if (s.box) s.due = Date.now();
+    }
+  }
+  return d;
 }
 function saveDB() {
   try { localStorage.setItem(STORE, JSON.stringify(db)); } catch { toast('無法儲存紀錄（瀏覽器空間不足或私密模式）'); }
@@ -152,7 +168,9 @@ function renderHome() {
     const m = banks.find((x) => x.bank === b);
     return n + (pick.section === 'both' ? m.count : m[pick.section]);
   }, 0);
-  const reviewN = reviewPool().length;
+  const dueN = duePool().length;
+  const openN = openPool().length;
+  const nextDue = Math.min(...Object.values(db.stats).filter((x) => x.box > 0 && x.due > Date.now()).map((x) => x.due));
   app.innerHTML = `
     <h1>ALCPT 聽力・閱讀練習</h1>
     ${session ? `
@@ -170,6 +188,10 @@ function renderHome() {
         }).join('')}
         ${banks.length > 1 ? `<option value="all" ${pick.banks.length > 1 ? 'selected' : ''}>全部題庫混合（${banks.length} 回）</option>` : ''}
       </select>
+      <h2>模式</h2>
+      <div class="row wrap">
+        ${MODES.map(([k, label]) => `<button class="chip ${pick.mode === k ? 'on' : ''}" data-a="mode" data-v="${k}">${label}</button>`).join('')}
+      </div>
       <h2>範圍</h2>
       <div class="row wrap">
         ${SECTIONS.map(([k, label]) => `<button class="chip ${pick.section === k ? 'on' : ''}" data-a="section" data-v="${k}">${label}</button>`).join('')}
@@ -178,13 +200,16 @@ function renderHome() {
       <div class="row wrap">
         ${COUNTS.map((c) => `<button class="chip ${pick.count === c ? 'on' : ''}" data-a="count" data-v="${c}">${c ? c + ' 題' : `全部 ${pool} 題`}</button>`).join('')}
       </div>
-      <p class="muted">依題型順序出題（聽力：問答 → 敘述 → 對話；閱讀：文法字彙 → 閱讀理解），各題型內隨機。聽力題只播放語音，可重播；作答後顯示逐字稿與正解。</p>
-      <button class="btn" data-a="start" ${pick.banks.length ? '' : 'disabled'}>開始測驗</button>
+      <p class="muted">依題型順序出題（聽力：問答 → 敘述 → 對話；閱讀：文法字彙 → 閱讀理解），各題型內隨機。${pick.mode === 'mock'
+        ? '模擬考：聽力只播放一次、作答時不顯示對錯，可隨時交卷，交卷後才顯示分數與解析。'
+        : '聽力題只播放語音，可重播；作答後立即顯示逐字稿、正解與解析。'}</p>
+      <button class="btn" data-a="start" ${pick.banks.length ? '' : 'disabled'}>${pick.mode === 'mock' ? '開始模擬考' : '開始練習'}</button>
     </div>
     <div class="card">
-      <div class="row between"><b>錯題複習</b><span class="muted">${reviewN} 題待複習</span></div>
-      <p class="muted">收錄最近一次作答仍答錯的題目，答對後自動移出。</p>
-      <button class="btn secondary" data-a="review" ${reviewN ? '' : 'disabled'}>開始複習</button>
+      <div class="row between"><b>錯題複習</b><span class="muted">今天到期 ${dueN} 題・未掌握 ${openN} 題</span></div>
+      <p class="muted">答錯的題目會在 1、3、7 天後再出現，到期時連續答對三次即為已掌握；中途答錯就從 1 天重來。${!dueN && openN && Number.isFinite(nextDue) ? `下次到期：${fmtDate(nextDue)}` : ''}</p>
+      <button class="btn secondary" data-a="review" ${dueN ? '' : 'disabled'}>複習今天到期（${dueN}）</button>
+      <button class="btn ghost" data-a="reviewAll" ${openN ? '' : 'disabled'}>複習全部未掌握（${openN}）</button>
     </div>`;
 }
 
@@ -210,17 +235,38 @@ function buildExam(bankIds, count, section) {
 }
 // 該題庫最近一次單回測驗的得分（%），沒做過回傳 null
 function lastScore(bank) {
-  const a = db.attempts.find((x) => x.mode === 'exam' && (x.section || 'both') === 'both' && x.banks.length === 1 && x.banks[0] === bank);
+  const a = db.attempts.find((x) => (x.mode === 'exam' || x.mode === 'mock') && (x.section || 'both') === 'both' && x.banks.length === 1 && x.banks[0] === bank);
   return a ? pct(a.answers.reduce((t, x) => t + x[2], 0), a.answers.length) : null;
 }
 function attemptTitle(a) {
   if (a.mode === 'review') return '錯題複習';
   const where = a.banks.length > 1 ? `混合 ${a.banks.length} 回` : `第 ${a.banks[0]} 回`;
   const sec = { listening: '・只考聽力', reading: '・只考閱讀' }[a.section] || '';
-  return where + sec;
+  return (a.mode === 'mock' ? '模擬考・' : '') + where + sec;
 }
-function reviewPool() {
-  return Object.entries(db.stats).filter(([, s]) => s.last === 0).map(([id]) => id);
+// 間隔複習：到期（今天該複習）與所有未掌握的題目
+function duePool() {
+  const now = Date.now();
+  return Object.entries(db.stats).filter(([, s]) => s.box > 0 && s.due <= now).map(([id]) => id);
+}
+function openPool() {
+  return Object.entries(db.stats).filter(([, s]) => s.box > 0).map(([id]) => id);
+}
+// 記錄一題作答結果（常見錯誤統計＋間隔複習）
+function recordStat(id, k, ok) {
+  const st = db.stats[id] || (db.stats[id] = { seen: 0, wrong: 0, picks: {}, box: 0 });
+  st.seen++;
+  st.last = ok ? 1 : 0;
+  st.t = Date.now();
+  if (!ok) {
+    st.wrong++;
+    st.picks[k] = (st.picks[k] || 0) + 1;
+    st.box = 1;
+    st.due = st.t + INTERVALS[1] * DAY;
+  } else if (st.box > 0 && st.due <= st.t) {
+    st.box++;
+    if (st.box > 3) { st.box = 0; delete st.due; } else st.due = st.t + INTERVALS[st.box] * DAY;
+  }
 }
 function startSession(mode, qids, bankIds, section = 'both') {
   session = {
@@ -242,6 +288,8 @@ function renderQuiz(autoplay) {
   const isL = q.section === 'listening';
   const secIdx = isL ? s.idx + 1 : s.idx - s.nL + 1;
   const secTotal = isL ? s.nL : total - s.nL;
+  const mock = s.mode === 'mock';
+  if (mock) return renderMock(q, a, isL, secIdx, secTotal, autoplay);
 
   Player.stop();
   let html = `
@@ -266,7 +314,7 @@ function renderQuiz(autoplay) {
   if (a) {
     html += `<div class="fb ${a.ok ? 'ok' : 'ng'}" id="fb">${a.ok ? '✔ 答對了' : `✘ 答錯了，正解是 ${q.answer}`}</div>`;
     if (isL) html += transcript(q);
-    if (q.explain) html += `<div class="card explain"><b>解析</b>\n${esc(q.explain)}</div>`;
+    html += explainBox(q);
     const last = s.idx === total - 1;
     html += `<div class="next-wrap"><button class="btn" data-a="next">${last ? '完成，看成績' : '下一題 →'}</button></div>`;
   }
@@ -275,6 +323,122 @@ function renderQuiz(autoplay) {
   if (a) $('#fb').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
   if (isL && !a && autoplay) playQ(q, true);
   preloadNext();
+}
+
+// 模擬考：不顯示對錯、聽力只播一次、可隨時交卷
+function renderMock(q, a, isL, secIdx, secTotal, autoplay) {
+  const s = session;
+  const total = s.qids.length;
+  const last = s.idx === total - 1;
+  const played = (s.plays[q.id] || 0) > 0;
+  Player.stop();
+  let html = `
+    <div class="qtop">
+      <button class="chip" data-a="submit">交卷</button>
+      <span class="badge ${isL ? '' : 'reading'}">${isL ? '聽力' : '閱讀'} ${secIdx}/${secTotal}</span>
+      <span class="prog">${s.idx + 1} / ${total}</span>
+    </div>
+    <div class="bar"><i style="width:${pct(s.idx, total)}%"></i></div>
+    <div class="cat">模擬考・${CATS[q.cat]}</div>`;
+  if (isL) {
+    html += `<button class="play" data-a="play" id="play" ${played ? 'disabled' : ''}>${played ? '已播放（模擬考只播一次）' : '▶ 播放題目（只能播一次）'}</button>
+      <div class="plays muted" id="plays">${played ? '' : '載入中，會自動播放'}</div>`;
+  } else {
+    html += `<div class="card stem">${stemHtml(q)}</div>`;
+  }
+  html += `<div class="opts">${['A', 'B', 'C', 'D'].map((k) =>
+    `<button class="opt ${a && a.pick === k ? 'sel' : ''}" data-a="pick" data-v="${k}"><b>${k}</b><span>${esc(q.options[k])}</span></button>`).join('')}</div>
+    <div class="next-wrap"><button class="btn" data-a="next">${last ? '交卷' : a ? '下一題 →' : '略過 →'}</button></div>`;
+  app.innerHTML = html;
+  if (isL && !played && autoplay) playQ(q, true);
+  preloadNext();
+}
+
+function explainBox(q) {
+  if (!q.explain) return '';
+  return `<div class="card explain"><b>解析${q.explain_ai ? '<span class="ai">AI 產生，僅供參考</span>' : ''}</b>
+${esc(q.explain)}${vocabChips(q)}</div>`;
+}
+
+/* ---------- vocabulary ---------- */
+
+// 從解析挑出「英文: 中文」的重點單字；同義字題考的字詞也列入
+function vocabCandidates(q) {
+  const out = [];
+  const seen = new Set();
+  const add = (term, meaning) => {
+    term = term.trim();
+    meaning = meaning.trim().replace(/[。.;；]$/, '');
+    const key = term.toLowerCase();
+    if (!term || !meaning || term.length > 40 || seen.has(key) || /^(Q|M|W|A|B|M2|W2)$/.test(term)) return;
+    seen.add(key);
+    out.push({ term, meaning });
+  };
+  for (const u of q.underline || []) add(u, q.options[q.answer]);
+  const text = (q.explain || '').replace(/(^|\n)\s*解析\s*[:：]\s*/g, '$1');
+  for (const seg of text.split(/[;；\n]/)) {
+    let m = seg.match(/^\s*(?:\(\d+\)|\d+[.)、])?\s*([A-Za-z][A-Za-z'’\- ./]{0,38}[A-Za-z.])\s*[:：]\s*(.{1,60})$/);
+    if (m) { add(m[1], m[2]); continue; }
+    // 「on the same page有共識: harmonious」：英文後面直接接中文
+    m = seg.match(/^\s*([A-Za-z][A-Za-z'’\- ]{0,38}[A-Za-z])\s*([\u4e00-\u9fff][^:：]{0,15})\s*[:：]\s*(.{1,50})$/);
+    if (m) add(m[1], `${m[2]}（${m[3]}）`);
+  }
+  return out.slice(0, 6);
+}
+
+function vocabChips(q) {
+  const c = vocabCandidates(q);
+  if (!c.length) return '';
+  return `<div class="vchips"><span class="muted">加入生字本：</span>${c.map((v) => {
+    const on = !!db.vocab[v.term.toLowerCase()];
+    return `<button class="vchip ${on ? 'on' : ''}" data-a="vocab" data-q="${q.id}" data-v="${esc(v.term)}" data-m="${esc(v.meaning)}">${on ? '★' : '＋'} ${esc(v.term)}</button>`;
+  }).join('')}</div>`;
+}
+
+function toggleVocab(el) {
+  const term = el.dataset.v;
+  const key = term.toLowerCase();
+  const on = !db.vocab[key];
+  if (on) db.vocab[key] = { term, meaning: el.dataset.m, qid: el.dataset.q, t: Date.now() };
+  else delete db.vocab[key];
+  saveDB();
+  document.querySelectorAll('.vchip').forEach((b) => {
+    if (b.dataset.v.toLowerCase() === key) { b.classList.toggle('on', on); b.textContent = `${on ? '★' : '＋'} ${b.dataset.v}`; }
+  });
+  toast(on ? `已加入生字本：${term}` : `已移出生字本：${term}`);
+}
+
+function renderVocab() {
+  setView('vocab');
+  flash = null;
+  const list = Object.values(db.vocab).sort((a, b) => b.t - a.t);
+  app.innerHTML = `
+    <h1>生字本</h1>
+    ${list.length ? `
+      <button class="btn" data-a="flash">閃卡複習（${list.length} 個）</button>
+      <div class="card">${list.map((v) => `
+        <div class="vrow">
+          <div class="vtext"><b>${esc(v.term)}</b><div>${esc(v.meaning)}</div>
+            <div class="muted">第${v.qid.slice(1, 3)}回 #${Number(v.qid.slice(-3))}</div></div>
+          <button class="x" data-a="vdel" data-v="${esc(v.term)}" aria-label="移出生字本">✕</button>
+        </div>`).join('')}</div>`
+    : '<div class="empty">作答後，在解析下方點「＋ 單字」，就會收藏到這裡。</div>'}`;
+}
+
+function renderFlash() {
+  setView('vocab');
+  const v = flash.list[flash.i];
+  app.innerHTML = `
+    <button class="btn ghost" data-a="tab" data-v="vocab">← 回到生字本</button>
+    <button class="card flash" data-a="flip">
+      <span class="muted">${flash.i + 1} / ${flash.list.length}</span>
+      <span class="fterm">${esc(v.term)}</span>
+      ${flash.show ? `<span class="fmean">${esc(v.meaning)}</span>` : '<span class="muted">點一下顯示意思</span>'}
+    </button>
+    <div class="row">
+      <button class="btn ghost" data-a="vdel" data-v="${esc(v.term)}">移出生字本</button>
+      <button class="btn" data-a="fnext">下一張 →</button>
+    </div>`;
 }
 
 function optionButtons(q, chosen, locked) {
@@ -312,7 +476,7 @@ function renderBreak() {
   app.innerHTML = `
     <div class="card" style="text-align:center;margin-top:18vh">
       <h1>聽力部分結束</h1>
-      <p>聽力答對 <b>${ok}</b> / ${s.nL} 題</p>
+      <p>${s.mode === 'mock' ? `聽力已作答 <b>${done.length}</b> / ${s.nL} 題` : `聽力答對 <b>${ok}</b> / ${s.nL} 題`}</p>
       <p class="muted">接下來是閱讀部分，共 ${s.qids.length - s.nL} 題。</p>
       <button class="btn" data-a="toReading">開始閱讀 →</button>
     </div>`;
@@ -322,13 +486,15 @@ function playQ(q, auto) {
   const btn = $('#play');
   const setBtn = (text, on) => { if (btn && btn.isConnected) { btn.textContent = text; btn.classList.toggle('playing', !!on); } };
   setBtn('⏳ 載入中…', false);
-  Player.play(q.audio, { onended: () => setBtn('↻ 重播', false) }).then(() => {
+  const mock = session.mode === 'mock';
+  Player.play(q.audio, { onended: () => setBtn(mock ? '已播放（模擬考只播一次）' : '↻ 重播', false) }).then(() => {
     if (!session || session.qids[session.idx] !== q.id) return;
     session.plays[q.id] = (session.plays[q.id] || 0) + 1;
     saveSession();
     const p = $('#plays');
     if (p) p.textContent = `已播放 ${session.plays[q.id]} 次`;
-    setBtn('🔊 播放中…（點擊重播）', true);
+    if (session.mode === 'mock') { setBtn('🔊 播放中…', true); const b = $('#play'); if (b) b.disabled = true; }
+    else setBtn('🔊 播放中…（點擊重播）', true);
   }).catch((e) => {
     setBtn('▶ 點擊播放題目', false);
     if (!auto) {
@@ -346,25 +512,32 @@ function preloadNext() {
 
 function choose(k) {
   const q = Q[session.qids[session.idx]];
+  if (session.mode === 'mock') {  // 可改選，交卷時才計分
+    session.answers[q.id] = { pick: k, ok: k === q.answer };
+    saveSession();
+    document.querySelectorAll('.opt').forEach((b) => b.classList.toggle('sel', b.dataset.v === k));
+    const nx = $('[data-a=next]');
+    if (nx && session.idx < session.qids.length - 1) nx.textContent = '下一題 →';
+    return;
+  }
   if (session.answers[q.id]) return;
   const ok = k === q.answer;
   session.answers[q.id] = { pick: k, ok };
-  const st = db.stats[q.id] || (db.stats[q.id] = { seen: 0, wrong: 0, picks: {} });
-  st.seen++;
-  if (!ok) {
-    st.wrong++;
-    st.picks[k] = (st.picks[k] || 0) + 1;
-  }
-  st.last = ok ? 1 : 0;
-  st.t = Date.now();
+  recordStat(q.id, k, ok);
   saveDB();
   saveSession();
   if (navigator.vibrate) navigator.vibrate(ok ? 15 : [30, 40, 30]);
   renderQuiz(false);
 }
 
+async function submitMock() {
+  const left = session.qids.filter((id) => !session.answers[id]).length;
+  if (!await ask(left ? `還有 ${left} 題未作答（算錯），確定交卷？` : '確定交卷？', '交卷')) return;
+  finish();
+}
+
 function next() {
-  if (session.idx >= session.qids.length - 1) return finish();
+  if (session.idx >= session.qids.length - 1) return session.mode === 'mock' ? submitMock() : finish();
   session.idx++;
   saveSession();
   renderQuiz(true);
@@ -373,10 +546,12 @@ function next() {
 function finish() {
   Player.stop();
   const s = session;
+  const mock = s.mode === 'mock';
   const answered = s.qids.filter((id) => s.answers[id]);
   session = null;
   saveSession();
   if (!answered.length) return renderHome();
+  if (mock) for (const id of answered) recordStat(id, s.answers[id].pick, s.answers[id].ok);
   const attempt = {
     id: Date.now(),
     mode: s.mode,
@@ -385,7 +560,11 @@ function finish() {
     start: s.start,
     end: Date.now(),
     planned: s.qids.length,
-    answers: answered.map((id) => [id, s.answers[id].pick, s.answers[id].ok ? 1 : 0, s.plays[id] || 0]),
+    // 模擬考交卷時，未作答的題目也列入（算錯）
+    answers: (mock ? s.qids : answered).map((id) => {
+      const x = s.answers[id];
+      return [id, x ? x.pick : '', x && x.ok ? 1 : 0, s.plays[id] || 0];
+    }),
   };
   db.attempts.unshift(attempt);
   saveDB();
@@ -418,7 +597,7 @@ function meter(label, ok, n) {
 function missItem(q, chosen, extra) {
   const body = `${q.section === 'listening' ? transcript(q) : `<div class="stem">${stemHtml(q)}</div>`}
     ${optionButtons(q, chosen, true)}
-    ${q.explain ? `<div class="explain muted">${esc(q.explain)}</div>` : ''}`;
+    ${explainBox(q)}`;
   const title = q.section === 'listening' ? (q.turns ? q.turns.map((t) => t.t).join(' ') : q.stem) : q.stem;
   return `<details><summary><span class="n">第${q.id.slice(1, 3)}回 #${q.n}</span>${esc(title.length > 70 ? title.slice(0, 70) + '…' : title)}
     <div class="muted">${CATS[q.cat]}${extra ? '・' + extra : ''}</div></summary>
@@ -428,7 +607,8 @@ function missItem(q, chosen, extra) {
 function reviewList(att) {
   const list = att.answers.filter((a) => resultFilter === 'all' || (resultFilter === 'right') === !!a[2]);
   if (!list.length) return `<div class="empty">${resultFilter === 'wrong' ? '全部答對，太棒了！' : '這次沒有答對的題目。'}</div>`;
-  return list.map(([id, p, ok]) => Q[id] ? missItem(Q[id], p, ok ? `<span class="good">✔ 答對（${p}）</span>` : `<span class="bad">✘ 你選 ${p}，正解 ${Q[id].answer}</span>`) : '').join('');
+  return list.map(([id, p, ok]) => Q[id] ? missItem(Q[id], p, ok ? `<span class="good">✔ 答對（${p}）</span>`
+    : `<span class="bad">✘ ${p ? `你選 ${p}` : '未作答'}，正解 ${Q[id].answer}</span>`) : '').join('');
 }
 
 async function renderResult(att, fromHistory) {
@@ -438,13 +618,14 @@ async function renderResult(att, fromHistory) {
   const ok = att.answers.reduce((t, a) => t + a[2], 0);
   const by = summarize(att.answers);
   shownAttempt = att;
-  const bankTitle = att.mode === 'exam' ? attemptTitle(att) : '';
+  const skipped = att.answers.filter((a) => !a[1]).length;
+  const bankTitle = att.mode !== 'review' ? attemptTitle(att) : '';
   app.innerHTML = `
     ${fromHistory ? '<button class="btn ghost" data-a="tab" data-v="history">← 回到紀錄</button>' : ''}
-    <h1>${att.mode === 'review' ? '錯題複習結果' : '測驗結果'}</h1>
+    <h1>${{ review: '錯題複習結果', mock: '模擬考結果' }[att.mode] || '測驗結果'}</h1>
     <div class="card" style="text-align:center">
       <div class="score">${pct(ok, n)}<small style="font-size:1.2rem">%</small></div>
-      <div>答對 ${ok} / ${n} 題${n < att.planned ? `（共 ${att.planned} 題，提前結束）` : ''}</div>
+      <div>答對 ${ok} / ${n} 題${n < att.planned ? `（共 ${att.planned} 題，提前結束）` : ''}${skipped ? `・未作答 ${skipped} 題` : ''}</div>
       <div class="muted">${fmtDate(att.start)}・用時 ${fmtDur(att.end - att.start)}${bankTitle ? '・' + bankTitle : ''}</div>
     </div>
     <div class="card">
@@ -509,7 +690,7 @@ async function renderMistakes() {
   const missed = ids.filter((id) => Q[id] && db.stats[id].wrong > 0)
     .sort((x, y) => db.stats[y].wrong - db.stats[x].wrong || db.stats[y].wrong / db.stats[y].seen - db.stats[x].wrong / db.stats[x].seen)
     .slice(0, 30);
-  const reviewN = reviewPool().length;
+  const reviewN = duePool().length;
 
   app.innerHTML = `
     <h1>常見錯誤</h1>
@@ -519,13 +700,13 @@ async function renderMistakes() {
         ${cats.map((c) => meter(CATS[c], by[c].ok, by[c].n)).join('')}
         ${pct(by[cats[0]].ok, by[cats[0]].n) < 80 ? `<p class="muted">最需要加強：<b>${CATS[cats[0]]}</b></p>` : ''}
       </div>
-      <button class="btn" data-a="review" ${reviewN ? '' : 'disabled'}>複習待加強錯題（${reviewN} 題）</button>
+      <button class="btn" data-a="review" ${reviewN ? '' : 'disabled'}>複習今天到期的錯題（${reviewN} 題）</button>
       <button class="btn secondary" data-a="drill" ${missed.length ? '' : 'disabled'}>練習最常錯的 ${Math.min(20, missed.length)} 題</button>
       <h2>最常答錯的題目</h2>
       <div class="card">${missed.length ? missed.map((id) => {
         const s = db.stats[id];
         const top = Object.entries(s.picks).sort((a, b) => b[1] - a[1])[0];
-        return missItem(Q[id], top && top[0], `錯 ${s.wrong} / 作答 ${s.seen} 次${top ? `・常選 ${top[0]}` : ''}${s.last === 0 ? '・尚未答對' : ''}`);
+        return missItem(Q[id], top && top[0], `錯 ${s.wrong} / 作答 ${s.seen} 次${top ? `・常選 ${top[0]}` : ''}${s.box > 0 ? '・未掌握' : ''}`);
       }).join('') : '<div class="empty">目前沒有答錯的題目。</div>'}</div>`
     : '<div class="empty">完成測驗後，這裡會分析你的常見錯誤。</div>'}`;
 }
@@ -551,7 +732,7 @@ function importData(file) {
       const d = JSON.parse(r.result);
       if (!Array.isArray(d.attempts) || typeof d.stats !== 'object') throw new Error();
       if (!await ask(`匯入 ${d.attempts.length} 筆紀錄，將取代目前的紀錄，確定嗎？`)) return;
-      db = d;
+      db = migrate(d);
       saveDB();
       toast('匯入完成');
       renderHistory();
@@ -571,19 +752,35 @@ document.addEventListener('click', async (e) => {
   switch (el.dataset.a) {
     case 'tab':
       if (v === 'home') renderHome();
+      else if (v === 'vocab') renderVocab();
       else if (v === 'history') { await ensureBanks(db.attempts.flatMap((a) => a.answers.map(([id]) => bankOf(id)))); renderHistory(); }
       else renderMistakes();
       break;
     case 'count': pick.count = Number(v); renderHome(); break;
+    case 'mode': pick.mode = v; renderHome(); break;
+    case 'vocab': toggleVocab(el); break;
+    case 'flash': flash = { list: shuffle(Object.values(db.vocab)), i: 0, show: false }; renderFlash(); break;
+    case 'flip': flash.show = !flash.show; renderFlash(); break;
+    case 'fnext': flash.i = (flash.i + 1) % flash.list.length; flash.show = false; renderFlash(); break;
+    case 'vdel':
+      delete db.vocab[v.toLowerCase()];
+      saveDB();
+      if (flash) {
+        flash.list.splice(flash.i, 1);
+        if (!flash.list.length) renderVocab();
+        else { flash.i %= flash.list.length; flash.show = false; renderFlash(); }
+      } else renderVocab();
+      break;
+    case 'submit': submitMock(); break;
     case 'section': pick.section = v; renderHome(); break;
     case 'start':
       if (session && !await ask('目前有未完成的測驗，要放棄並開始新的嗎？')) return;
       await ensureBanks(pick.banks);
-      startSession('exam', buildExam(pick.banks, pick.count, pick.section), pick.banks.slice(), pick.section);
+      startSession(pick.mode === 'mock' ? 'mock' : 'exam', buildExam(pick.banks, pick.count, pick.section), pick.banks.slice(), pick.section);
       break;
-    case 'review': case 'drill': {
+    case 'review': case 'reviewAll': case 'drill': {
       if (session && !await ask('目前有未完成的測驗，要放棄並開始複習嗎？')) return;
-      let ids = el.dataset.a === 'review' ? reviewPool()
+      let ids = el.dataset.a === 'review' ? duePool() : el.dataset.a === 'reviewAll' ? openPool()
         : Object.keys(db.stats).filter((id) => db.stats[id].wrong > 0)
           .sort((x, y) => db.stats[y].wrong - db.stats[x].wrong).slice(0, 20);
       await ensureBanks(ids.map(bankOf));
@@ -618,7 +815,7 @@ document.addEventListener('click', async (e) => {
     case 'copy': copyBackup(); break;
     case 'import': $('#file').click(); break;
     case 'wipe':
-      if (await ask('確定清除所有考試紀錄與錯題統計？此動作無法復原。')) { db = { attempts: [], stats: {} }; saveDB(); renderHistory(); }
+      if (await ask('確定清除所有考試紀錄、錯題統計與生字本？此動作無法復原。')) { db = migrate({ attempts: [], stats: {} }); saveDB(); renderHistory(); }
       break;
   }
 });
