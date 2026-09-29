@@ -1,14 +1,14 @@
 """Generate listening MP3s for a bank (American English, normal pace).
 
 Usage:
-  GEMINI_API_KEY=... python3 tools/gen_audio.py data/bank01.json [--force]
-  python3 tools/gen_audio.py data/bank01.json --engine kokoro   # offline fallback
+  python3 tools/gen_audio.py data/bank01.json [--force]
+  GEMINI_API_KEY=... python3 tools/gen_audio.py data/bank01.json --engine gemini
 
 Engines:
-  gemini  Gemini TTS (default). Dialogues use two-speaker generation (man/woman)
-          so turns sound like a real conversation; the "Q:" line is read by a
-          separate narrator voice.
-  kokoro  Local Kokoro TTS; model files are downloaded to tools/models/.
+  kokoro  Local Kokoro TTS (default, free, no quota); model files are
+          downloaded to tools/models/ on first run.
+  gemini  Gemini TTS. Dialogues use two-speaker generation (man/woman); the
+          "Q:" line is read by a separate narrator voice. Paid, daily quota.
 """
 import argparse
 import base64
@@ -164,7 +164,7 @@ def to_mp3(samples):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("bank_json")
-    ap.add_argument("--engine", choices=["gemini", "kokoro"], default="gemini")
+    ap.add_argument("--engine", choices=["gemini", "kokoro"], default="kokoro")
     ap.add_argument("--force", action="store_true", help="regenerate existing files")
     ap.add_argument("--only", help="comma-separated question numbers, e.g. 13,51")
     args = ap.parse_args()
