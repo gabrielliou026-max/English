@@ -3,18 +3,24 @@
   "bank": "01",
   "title": "第 01 回",
   "file": "data/bank01.json",
-  "count": 100
+  "count": 100,
+  "listening": 60,
+  "reading": 40
  },
  {
   "bank": "02",
   "title": "第 02 回",
   "file": "data/bank02.json",
-  "count": 100
+  "count": 100,
+  "listening": 60,
+  "reading": 40
  },
  {
   "bank": "03",
   "title": "第 03 回",
   "file": "data/bank03.json",
-  "count": 100
+  "count": 100,
+  "listening": 60,
+  "reading": 40
  }
 ]

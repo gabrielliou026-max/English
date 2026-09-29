@@ -24,7 +24,8 @@ const bankData = {};   // bank -> questions[]
 const Q = {};          // question id -> question
 let db = loadDB();
 let session = loadJSON(CURRENT);
-let pick = { banks: [], count: 0 };
+let pick = { banks: [], count: 0, section: 'both' }; // section: both / listening / reading
+const SECTIONS = [['both', '聽力＋閱讀'], ['listening', '只考聽力'], ['reading', '只考閱讀']];
 let view = 'home';
 let resultFilter = 'wrong'; // 題目回顧：wrong / right / all
 let shownAttempt = null;
@@ -146,7 +147,10 @@ function setView(v) {
 
 function renderHome() {
   setView('home');
-  const pool = pick.banks.reduce((n, b) => n + banks.find((x) => x.bank === b).count, 0);
+  const pool = pick.banks.reduce((n, b) => {
+    const m = banks.find((x) => x.bank === b);
+    return n + (pick.section === 'both' ? m.count : m[pick.section]);
+  }, 0);
   const reviewN = reviewPool().length;
   app.innerHTML = `
     <h1>ALCPT 聽力・閱讀練習</h1>
@@ -165,6 +169,10 @@ function renderHome() {
         }).join('')}
         ${banks.length > 1 ? `<option value="all" ${pick.banks.length > 1 ? 'selected' : ''}>全部題庫混合（${banks.length} 回）</option>` : ''}
       </select>
+      <h2>範圍</h2>
+      <div class="row wrap">
+        ${SECTIONS.map(([k, label]) => `<button class="chip ${pick.section === k ? 'on' : ''}" data-a="section" data-v="${k}">${label}</button>`).join('')}
+      </div>
       <h2>題數</h2>
       <div class="row wrap">
         ${COUNTS.map((c) => `<button class="chip ${pick.count === c ? 'on' : ''}" data-a="count" data-v="${c}">${c ? c + ' 題' : `全部 ${pool} 題`}</button>`).join('')}
@@ -188,8 +196,8 @@ const STAGES = [['question'], ['statement'], ['dialogue'], ['grammar', 'vocab'],
 function orderByStage(qs) {
   return STAGES.flatMap((cats) => shuffle(qs.filter((q) => cats.includes(q.cat))));
 }
-function buildExam(bankIds, count) {
-  const all = bankIds.flatMap((b) => bankData[b]);
+function buildExam(bankIds, count, section) {
+  const all = bankIds.flatMap((b) => bankData[b]).filter((q) => section === 'both' || q.section === section);
   if (!count || count >= all.length) return orderByStage(all).map((q) => q.id);
   // 依各段題數比例抽題（最大餘數法，總數剛好等於 count）
   const groups = STAGES.map((cats) => shuffle(all.filter((q) => cats.includes(q.cat))));
@@ -201,15 +209,21 @@ function buildExam(bankIds, count) {
 }
 // 該題庫最近一次單回測驗的得分（%），沒做過回傳 null
 function lastScore(bank) {
-  const a = db.attempts.find((x) => x.mode === 'exam' && x.banks.length === 1 && x.banks[0] === bank);
+  const a = db.attempts.find((x) => x.mode === 'exam' && (x.section || 'both') === 'both' && x.banks.length === 1 && x.banks[0] === bank);
   return a ? pct(a.answers.reduce((t, x) => t + x[2], 0), a.answers.length) : null;
+}
+function attemptTitle(a) {
+  if (a.mode === 'review') return '錯題複習';
+  const where = a.banks.length > 1 ? `混合 ${a.banks.length} 回` : `第 ${a.banks[0]} 回`;
+  const sec = { listening: '・只考聽力', reading: '・只考閱讀' }[a.section] || '';
+  return where + sec;
 }
 function reviewPool() {
   return Object.entries(db.stats).filter(([, s]) => s.last === 0).map(([id]) => id);
 }
-function startSession(mode, qids, bankIds) {
+function startSession(mode, qids, bankIds, section = 'both') {
   session = {
-    mode, banks: bankIds, qids, idx: 0, answers: {}, plays: {},
+    mode, banks: bankIds, section, qids, idx: 0, answers: {}, plays: {},
     start: Date.now(), breakSeen: false,
     nL: qids.filter((id) => Q[id].section === 'listening').length,
   };
@@ -354,6 +368,7 @@ function finish() {
   const attempt = {
     id: Date.now(),
     mode: s.mode,
+    section: s.section || 'both',
     banks: s.banks,
     start: s.start,
     end: Date.now(),
@@ -411,7 +426,7 @@ async function renderResult(att, fromHistory) {
   const ok = att.answers.reduce((t, a) => t + a[2], 0);
   const by = summarize(att.answers);
   shownAttempt = att;
-  const bankTitle = att.banks.length ? att.banks.map((b) => `第 ${b} 回`).join('、') : '';
+  const bankTitle = att.mode === 'exam' ? attemptTitle(att) : '';
   app.innerHTML = `
     ${fromHistory ? '<button class="btn ghost" data-a="tab" data-v="history">← 回到紀錄</button>' : ''}
     <h1>${att.mode === 'review' ? '錯題複習結果' : '測驗結果'}</h1>
@@ -448,8 +463,8 @@ function renderHistory() {
       const L = a.answers.filter((x) => x[0] && Q[x[0]] ? Q[x[0]].section === 'listening' : Number(x[0].slice(-3)) <= 60);
       const Lok = L.reduce((t, x) => t + x[2], 0);
       return `<button class="hist" data-a="att" data-v="${i}">
-        <div><div><b>${a.mode === 'review' ? '錯題複習' : a.banks.map((b) => `第 ${b} 回`).join('、')}</b></div>
-        <div class="muted">${fmtDate(a.start)}・${n} 題・聽力 ${Lok}/${L.length}・閱讀 ${ok - Lok}/${n - L.length}</div></div>
+        <div><div><b>${attemptTitle(a)}</b></div>
+        <div class="muted">${fmtDate(a.start)}・${n} 題${L.length ? `・聽力 ${Lok}/${L.length}` : ''}${n - L.length ? `・閱讀 ${ok - Lok}/${n - L.length}` : ''}</div></div>
         <div class="pct">${pct(ok, n)}%</div></button>`;
     }).join('')}
     <h2>資料備份</h2>
@@ -548,10 +563,11 @@ document.addEventListener('click', async (e) => {
       else renderMistakes();
       break;
     case 'count': pick.count = Number(v); renderHome(); break;
+    case 'section': pick.section = v; renderHome(); break;
     case 'start':
       if (session && !await ask('目前有未完成的測驗，要放棄並開始新的嗎？')) return;
       await ensureBanks(pick.banks);
-      startSession('exam', buildExam(pick.banks, pick.count), pick.banks.slice());
+      startSession('exam', buildExam(pick.banks, pick.count, pick.section), pick.banks.slice(), pick.section);
       break;
     case 'review': case 'drill': {
       if (session && !await ask('目前有未完成的測驗，要放棄並開始複習嗎？')) return;

@@ -179,7 +179,9 @@ def main():
     index = json.loads(index_path.read_text("utf-8")) if index_path.exists() else []
     index = [b for b in index if b["bank"] != bank]
     index.append({"bank": bank, "title": f"第 {bank} 回", "file": f"data/bank{bank}.json",
-                  "count": len(qs)})
+                  "count": len(qs),
+                  "listening": sum(q["section"] == "listening" for q in qs),
+                  "reading": sum(q["section"] == "reading" for q in qs)})
     index.sort(key=lambda b: b["bank"])
     index_path.write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
 
