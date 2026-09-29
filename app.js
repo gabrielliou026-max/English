@@ -10,6 +10,7 @@ const CATS = {
   dialogue: '聽力・對話',
   grammar: '文法',
   vocab: '字彙',
+  usage: '文法・字彙', // PDF 未標註文法/字彙的回數
   reading: '閱讀理解',
 };
 const SPEAKER = { M: '男', W: '女', Q: '問' };
@@ -191,7 +192,7 @@ function renderHome() {
 
 // 出題順序依 ALCPT 題型分段，只在各段內隨機：
 // 聽力 問答 → 敘述 → 對話；閱讀 文法/字彙 → 閱讀理解
-const STAGES = [['question'], ['statement'], ['dialogue'], ['grammar', 'vocab'], ['reading']];
+const STAGES = [['question'], ['statement'], ['dialogue'], ['grammar', 'vocab', 'usage'], ['reading']];
 
 function orderByStage(qs) {
   return STAGES.flatMap((cats) => shuffle(qs.filter((q) => cats.includes(q.cat))));

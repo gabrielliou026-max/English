@@ -11,7 +11,7 @@ from pathlib import Path
 
 import pymupdf
 
-LISTENING_LAST = 60  # ALCPT: 1-60 listening, 61-100 reading
+LISTENING_LAST = 60  # ALCPT: 1-60 listening, 61-100 reading (extended if dialogues run past 60)
 
 
 def fix_chars(text):
@@ -87,8 +87,8 @@ def split_turns(text):
     return turns
 
 
-def categorize(n, stem, is_dialogue):
-    if n <= LISTENING_LAST:
+def categorize(section, stem, is_dialogue):
+    if section == "listening":
         if is_dialogue:
             return "dialogue"
         return "question" if stem.rstrip().endswith("?") else "statement"
@@ -122,14 +122,20 @@ def build(pdf, bank=None):
         sys.exit("Bank number not found in PDF; pass --bank")
     bank = f"{int(bank):02d}"
     corrections = json.loads(CORRECTIONS.read_text("utf-8")) if CORRECTIONS.exists() else {}
+    parsed = [(b["n"], *parse_block(b)) for b in split_blocks(lines)]
+    # 聽力通常是 1–60，但有些回數的對話題延伸到 60 題之後（例如 61–66）
+    dialogue_ns = [n for n, stem_lines, *_ in parsed if re.match(r"^[MW]:", join(stem_lines))]
+    listening_last = max([LISTENING_LAST] + dialogue_ns)
+    # 有些回數的 PDF 沒有標註（文法），無法區分文法與字彙，改標為 usage（文法・字彙）
+    tagged = any(join(s).startswith("(文法)") for n, s, *_ in parsed if n > listening_last)
     questions = []
-    for b in split_blocks(lines):
-        stem_lines, opts, answer, expl = parse_block(b)
-        n = b["n"]
-        section = "listening" if n <= LISTENING_LAST else "reading"
+    for n, stem_lines, opts, answer, expl in parsed:
+        section = "listening" if n <= listening_last else "reading"
         stem = join(stem_lines)
         is_dialogue = section == "listening" and bool(re.match(r"^[MW]:", stem))
-        cat = categorize(n, stem, is_dialogue)
+        cat = categorize(section, stem, is_dialogue)
+        if section == "reading" and cat == "vocab" and not tagged:
+            cat = "usage"
         q = {
             "id": f"b{bank}-{n:03d}",
             "n": n,
