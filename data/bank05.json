@@ -1,0 +1,1653 @@
+{
+ "bank": "05",
+ "title": "第 05 回",
+ "questions": [
+  {
+   "id": "b05-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Who is going to be your new baseball coach?",
+   "options": {
+    "A": "I'm really into baseball.",
+    "B": "We often play baseball after school.",
+    "C": "I have no idea.",
+    "D": "We won't go to the beach tonight."
+   },
+   "answer": "C",
+   "audio": "audio/b05/001.mp3"
+  },
+  {
+   "id": "b05-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is your father a professional photographer?",
+   "options": {
+    "A": "Yes, he is a college professor.",
+    "B": "No, he is an amateur.",
+    "C": "Yes, he is a professional golfer",
+    "D": "No, he is not so old."
+   },
+   "answer": "B",
+   "audio": "audio/b05/002.mp3"
+  },
+  {
+   "id": "b05-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you have a table available for two?",
+   "options": {
+    "A": "No, we don't sell furniture here.",
+    "B": "Yes, it's already two o'clock.",
+    "C": "No, I'm not available this afternoon.",
+    "D": "Yes, this way, please."
+   },
+   "answer": "D",
+   "audio": "audio/b05/003.mp3"
+  },
+  {
+   "id": "b05-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How was your date with Betty last night?",
+   "options": {
+    "A": "We had a great time.",
+    "B": "It wasn't her birthday",
+    "C": "We are the same age.",
+    "D": "It was arranged by a friend."
+   },
+   "answer": "A",
+   "audio": "audio/b05/004.mp3"
+  },
+  {
+   "id": "b05-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Which country has the largest population?",
+   "options": {
+    "A": "Russia.",
+    "B": "Australia.",
+    "C": "China.",
+    "D": "The United States."
+   },
+   "answer": "C",
+   "audio": "audio/b05/005.mp3"
+  },
+  {
+   "id": "b05-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Speaking of dance, why do you like the waltz so much?",
+   "options": {
+    "A": "Because it's their favorite place.",
+    "B": "Because it's their war dance.",
+    "C": "Because it looks so ordinary.",
+    "D": "Because it looks so graceful."
+   },
+   "answer": "D",
+   "audio": "audio/b05/006.mp3"
+  },
+  {
+   "id": "b05-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is the course very difficult for you?",
+   "options": {
+    "A": "No, my main course is not served yet.",
+    "B": "Yes, it's a golf course.",
+    "C": "No, I'm easy to please.",
+    "D": "Yes, it's driving me nuts."
+   },
+   "answer": "D",
+   "audio": "audio/b05/007.mp3"
+  },
+  {
+   "id": "b05-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Which of the following is the smallest group of soldiers?",
+   "options": {
+    "A": "A squad.",
+    "B": "A platoon.",
+    "C": "A company.",
+    "D": "A battalion."
+   },
+   "answer": "A",
+   "audio": "audio/b05/008.mp3"
+  },
+  {
+   "id": "b05-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do I need to find a tutor?",
+   "options": {
+    "A": "No, I don't need your help.",
+    "B": "Yes, you need extra help.",
+    "C": "No, I can't find it anywhere.",
+    "D": "Yes, you've done very well."
+   },
+   "answer": "B",
+   "audio": "audio/b05/009.mp3"
+  },
+  {
+   "id": "b05-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is the boss in a good mood?",
+   "options": {
+    "A": "I think so. He looks quite happy",
+    "B": "Yes, he likes good food.",
+    "C": "I think so. He looks very serious.",
+    "D": "No, he's not choosy about food."
+   },
+   "answer": "A",
+   "audio": "audio/b05/010.mp3"
+  },
+  {
+   "id": "b05-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you going to pack your suitcase tonight or tomorrow morning?",
+   "options": {
+    "A": "No, I don't need to buy a new suitcase.",
+    "B": "Yes, I plan to go backpacking around the world.",
+    "C": "I'll buy a new suitcase tomorrow morning.",
+    "D": "I'd better pack it tonight."
+   },
+   "answer": "D",
+   "audio": "audio/b05/011.mp3"
+  },
+  {
+   "id": "b05-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you a fan of Lady Gaga?",
+   "options": {
+    "A": "No, she is not a fashion designer",
+    "B": "Yes, she models herself on Madonna.",
+    "C": "No, she doesn't like the stage.",
+    "D": "Yes, she is my idol."
+   },
+   "answer": "D",
+   "audio": "audio/b05/012.mp3"
+  },
+  {
+   "id": "b05-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How did your math test go?",
+   "options": {
+    "A": "I went there by bike.",
+    "B": "I think it went OK.",
+    "C": "I decided to go alone.",
+    "D": "I'm not a math teacher"
+   },
+   "answer": "B",
+   "audio": "audio/b05/013.mp3"
+  },
+  {
+   "id": "b05-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What kind of shirt are you looking for?",
+   "options": {
+    "A": "I'm going to a wedding, so it must be formal.",
+    "B": "I'm looking for a bunch of keys.",
+    "C": "No, this shirt doesn't fit me.",
+    "D": "Yes, that pair of shoes is a good choice."
+   },
+   "answer": "A",
+   "audio": "audio/b05/014.mp3"
+  },
+  {
+   "id": "b05-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where can I get some organic vegetables?",
+   "options": {
+    "A": "At a drugstore.",
+    "B": "At a flea market.",
+    "C": "At a furniture store.",
+    "D": "At a supermarket."
+   },
+   "answer": "D",
+   "audio": "audio/b05/015.mp3"
+  },
+  {
+   "id": "b05-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "question",
+   "stem": "I'm new here. Can you recommend a good eating place?",
+   "options": {
+    "A": "I can't remember those good old days.",
+    "B": "There is an excellent Chinese restaurant across the street.",
+    "C": "I'd rather eat at home.",
+    "D": "There is a time limit, so please hurry."
+   },
+   "answer": "B",
+   "audio": "audio/b05/016.mp3"
+  },
+  {
+   "id": "b05-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where can I try on these pants?",
+   "options": {
+    "A": "In a day or two.",
+    "B": "In cash or by credit card.",
+    "C": "In the spotlight.",
+    "D": "In the fitting room over there."
+   },
+   "answer": "D",
+   "audio": "audio/b05/017.mp3"
+  },
+  {
+   "id": "b05-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "question",
+   "stem": "May I look at that watch, please?",
+   "options": {
+    "A": "Sure. Here it is.",
+    "B": "You don't need it, do you?",
+    "C": "No, it doesn't cost that much.",
+    "D": "You are being watched."
+   },
+   "answer": "A",
+   "audio": "audio/b05/018.mp3"
+  },
+  {
+   "id": "b05-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where did they go on vacation?",
+   "options": {
+    "A": "They really should take a vacation.",
+    "B": "They went to eat Mexican food.",
+    "C": "They went to school after the summer vacation.",
+    "D": "They went to a hot spring resort."
+   },
+   "answer": "D",
+   "audio": "audio/b05/019.mp3"
+  },
+  {
+   "id": "b05-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Who is your immediate superior, Major Gibson?",
+   "options": {
+    "A": "Colonel Morris.",
+    "B": "Lieutenant Morris.",
+    "C": "Sergeant Hoffman.",
+    "D": "Private Davis."
+   },
+   "answer": "A",
+   "audio": "audio/b05/020.mp3"
+  },
+  {
+   "id": "b05-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Hey, Lily, how are you doing?",
+   "options": {
+    "A": "I'm not doing anything at all.",
+    "B": "Not bad. What about you?",
+    "C": "I'm heading home now.",
+    "D": "None of your business."
+   },
+   "answer": "B",
+   "audio": "audio/b05/021.mp3"
+  },
+  {
+   "id": "b05-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why does your hair look so neat?",
+   "options": {
+    "A": "I think I need some fresh air",
+    "B": "I like meat, but I hate vegetables.",
+    "C": "I just came back from a beauty shop.",
+    "D": "I was just kidding."
+   },
+   "answer": "C",
+   "audio": "audio/b05/022.mp3"
+  },
+  {
+   "id": "b05-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Has Tom remained single all these years?",
+   "options": {
+    "A": "No, he's been married for two years.",
+    "B": "Yes, he's just hit a single.",
+    "C": "No, he asked the bartender to make it a double.",
+    "D": "Yes, he's been a singer all these years."
+   },
+   "answer": "A",
+   "audio": "audio/b05/023.mp3"
+  },
+  {
+   "id": "b05-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Did you enjoy the concert last night?",
+   "options": {
+    "A": "No, I'm not concerned about that.",
+    "B": "Yes, I went to the movies last night.",
+    "C": "No, it wasn't so convenient.",
+    "D": "Yes, it was awesome."
+   },
+   "answer": "D",
+   "audio": "audio/b05/024.mp3"
+  },
+  {
+   "id": "b05-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How do you usually go to work?",
+   "options": {
+    "A": "I usually take the subway.",
+    "B": "I usually take a walk after supper.",
+    "C": "I usually get to work at 8:30.",
+    "D": "I usually get up at 6:30."
+   },
+   "answer": "A",
+   "audio": "audio/b05/025.mp3"
+  },
+  {
+   "id": "b05-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Excuse me. Have we met before?",
+   "options": {
+    "A": "Yes, we met them about a week ago.",
+    "B": "No, they failed to come.",
+    "C": "I was your classmate in high school. Remember?",
+    "D": "I won't believe your excuses."
+   },
+   "answer": "C",
+   "audio": "audio/b05/026.mp3"
+  },
+  {
+   "id": "b05-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you have any hobbies?",
+   "options": {
+    "A": "Yes, I've never been happier in my life.",
+    "B": "No, happiness is not easy to find.",
+    "C": "Yes, I collect coins from around the world.",
+    "D": "No, I don't like those hippies."
+   },
+   "answer": "C",
+   "audio": "audio/b05/027.mp3"
+  },
+  {
+   "id": "b05-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Have you ever been to Spain?",
+   "options": {
+    "A": "Yes, I'm willing to spend money.",
+    "B": "No, I haven't been there.",
+    "C": "Yes, I'm going to Paris tomorrow.",
+    "D": "No, I haven't learned Spanish."
+   },
+   "answer": "B",
+   "audio": "audio/b05/028.mp3"
+  },
+  {
+   "id": "b05-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Jack worked his way through college.",
+   "options": {
+    "A": "Jack graduated from college with honors.",
+    "B": "Jack did not graduate from college.",
+    "C": "Jack walked to school for four years.",
+    "D": "Jack worked part-time to finish college."
+   },
+   "answer": "D",
+   "audio": "audio/b05/029.mp3"
+  },
+  {
+   "id": "b05-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Michael is crazy about football.",
+   "options": {
+    "A": "Michael is a very good football player",
+    "B": "Michael is full of crazy ideas about football.",
+    "C": "Michael hates to watch football games.",
+    "D": "Michael likes football very much."
+   },
+   "answer": "D",
+   "audio": "audio/b05/030.mp3"
+  },
+  {
+   "id": "b05-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The hostages have been set free.",
+   "options": {
+    "A": "The hostages have been physically abused.",
+    "B": "The hostages have been released.",
+    "C": "The hostages have been executed.",
+    "D": "The hostages have been rescued."
+   },
+   "answer": "B",
+   "audio": "audio/b05/031.mp3"
+  },
+  {
+   "id": "b05-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "My older sister and I used to fight a lot.",
+   "options": {
+    "A": "We often had arguments in the past.",
+    "B": "We looked very much alike.",
+    "C": "We got along very well.",
+    "D": "We enjoyed frightening each other."
+   },
+   "answer": "A",
+   "audio": "audio/b05/032.mp3"
+  },
+  {
+   "id": "b05-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Well, I'm all ears.",
+   "options": {
+    "A": "I am ready to listen to what you want to say.",
+    "B": "I am an old man now.",
+    "C": "I am fond of music.",
+    "D": "I am still young and energetic."
+   },
+   "answer": "A",
+   "audio": "audio/b05/033.mp3"
+  },
+  {
+   "id": "b05-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Let's go grab a bite, Henry.",
+   "options": {
+    "A": "Let's get something to eat, Henry",
+    "B": "Let's relax a bit, Henry.",
+    "C": "Let's go fishing, Henry.",
+    "D": "Let's seize the opportunity, Henry"
+   },
+   "answer": "A",
+   "audio": "audio/b05/034.mp3"
+  },
+  {
+   "id": "b05-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I hope I can get back in shape soon.",
+   "options": {
+    "A": "I hope I can have my revenge soon.",
+    "B": "I hope I can regain fitness soon.",
+    "C": "I hope I can get a refund soon.",
+    "D": "I hope I can return home soon."
+   },
+   "answer": "B",
+   "audio": "audio/b05/035.mp3"
+  },
+  {
+   "id": "b05-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Please excuse me for a moment.",
+   "options": {
+    "A": "Sorry, I did not mean what I said.",
+    "B": "Please excuse me for my mistake.",
+    "C": "Sorry, I need to be away for a few minutes.",
+    "D": "Please excuse me for my rudeness."
+   },
+   "answer": "C",
+   "audio": "audio/b05/036.mp3"
+  },
+  {
+   "id": "b05-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "He is such a bonehead!",
+   "options": {
+    "A": "He's not smart.",
+    "B": "He eats a lot of meat.",
+    "C": "He is very strong.",
+    "D": "He is stubborn."
+   },
+   "answer": "A",
+   "audio": "audio/b05/037.mp3"
+  },
+  {
+   "id": "b05-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "We need more cooperation than competition.",
+   "options": {
+    "A": "Cooperation and competition are equally important to us.",
+    "B": "Cooperation is more important to us than competition.",
+    "C": "Competition is more important to us than cooperation.",
+    "D": "Competition and cooperation are not important to us."
+   },
+   "answer": "B",
+   "audio": "audio/b05/038.mp3"
+  },
+  {
+   "id": "b05-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Don't get lost in cyberspace.",
+   "options": {
+    "A": "Don't get addicted to the Internet.",
+    "B": "Don't believe in any UFOs.",
+    "C": "Don't get lost in big cities.",
+    "D": "Don't believe in miracles."
+   },
+   "answer": "A",
+   "audio": "audio/b05/039.mp3"
+  },
+  {
+   "id": "b05-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The scenery in the village is breathtaking.",
+   "options": {
+    "A": "The scenery in the village is artificial.",
+    "B": "The scenery in the village is already spoiled.",
+    "C": "The scenery in the village is very beautiful.",
+    "D": "The scenery in the village is very ordinary."
+   },
+   "answer": "C",
+   "audio": "audio/b05/040.mp3"
+  },
+  {
+   "id": "b05-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Tea is an essential part of my daily life.",
+   "options": {
+    "A": "I drink tea on a daily basis.",
+    "B": "I believe drinking tea is good for health.",
+    "C": "I drink tea only once in a while.",
+    "D": "I prefer drinking tea to drinking coffee."
+   },
+   "answer": "A",
+   "audio": "audio/b05/041.mp3"
+  },
+  {
+   "id": "b05-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "It must have cost him an arm and a leg.",
+   "options": {
+    "A": "It must have cost him a lot of money.",
+    "B": "It must have had an accident.",
+    "C": "It must have cost him a lot of effort.",
+    "D": "It must have gotten into a big trouble."
+   },
+   "answer": "A",
+   "audio": "audio/b05/042.mp3"
+  },
+  {
+   "id": "b05-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "It's time to hit the sack now.",
+   "options": {
+    "A": "It's time to work now.",
+    "B": "It's time to have a meeting now.",
+    "C": "It's time to go to bed now.",
+    "D": "It's time to chat now."
+   },
+   "answer": "C",
+   "audio": "audio/b05/043.mp3"
+  },
+  {
+   "id": "b05-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "She decided to travel on her own.",
+   "options": {
+    "A": "She decided to travel on budget.",
+    "B": "She decided to travel by herself.",
+    "C": "She decided to travel with her own friends.",
+    "D": "She decided to travel by bike."
+   },
+   "answer": "B",
+   "audio": "audio/b05/044.mp3"
+  },
+  {
+   "id": "b05-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Our company may need to downsize.",
+   "options": {
+    "A": "Our company may need to lay off some workers.",
+    "B": "Our company may need to expand elsewhere.",
+    "C": "Our company may need to hire more employees.",
+    "D": "Our company may need to close down."
+   },
+   "answer": "A",
+   "audio": "audio/b05/045.mp3"
+  },
+  {
+   "id": "b05-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Drop by whenever you feel like it.",
+   "options": {
+    "A": "Send me a letter whenever you want to do it.",
+    "B": "Send me an e-mail whenever you want to do it.",
+    "C": "Do me a favor whenever you want to do it.",
+    "D": "Pay me a visit whenever you want to do it."
+   },
+   "answer": "D",
+   "audio": "audio/b05/046.mp3"
+  },
+  {
+   "id": "b05-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I'm just browsing.",
+   "options": {
+    "A": "I'm just looking around.",
+    "B": "I'm just making a joke.",
+    "C": "I'm just fooling around.",
+    "D": "I'm just taking a break."
+   },
+   "answer": "A",
+   "audio": "audio/b05/047.mp3"
+  },
+  {
+   "id": "b05-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "In terms of human rights, we speak the same language.",
+   "options": {
+    "A": "All people should have the same human rights.",
+    "B": "We should all respect human rights.",
+    "C": "All people know the importance of human rights.",
+    "D": "We share the same ideas about human rights."
+   },
+   "answer": "D",
+   "audio": "audio/b05/048.mp3"
+  },
+  {
+   "id": "b05-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Don't make a pig of yourself.",
+   "options": {
+    "A": "Don't eat too much food.",
+    "B": "Don't act as if you were a cop.",
+    "C": "Don't drink too much alcohol.",
+    "D": "Don't act like an idiot."
+   },
+   "answer": "A",
+   "audio": "audio/b05/049.mp3"
+  },
+  {
+   "id": "b05-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Passive smoking is no less dangerous than smoking itself.",
+   "options": {
+    "A": "Passive smoking is not so dangerous as smoking itself.",
+    "B": "Passive smoking is more dangerous than smoking itself.",
+    "C": "Passive smoking is as dangerous as smoking itself.",
+    "D": "Passive smoking is no more dangerous than smoking itself."
+   },
+   "answer": "C",
+   "audio": "audio/b05/050.mp3"
+  },
+  {
+   "id": "b05-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I can't help missing the girl.",
+   "options": {
+    "A": "The girl is missing, but I can't do anything to help.",
+    "B": "I failed to meet the girl in person.",
+    "C": "The girl is hiding from me.",
+    "D": "I just can't get the girl out of my mind."
+   },
+   "answer": "D",
+   "audio": "audio/b05/051.mp3"
+  },
+  {
+   "id": "b05-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Jason is an extrovert.",
+   "options": {
+    "A": "He is a shy person.",
+    "B": "He is a quiet person.",
+    "C": "He is an outgoing person.",
+    "D": "He is an easygoing person."
+   },
+   "answer": "C",
+   "audio": "audio/b05/052.mp3"
+  },
+  {
+   "id": "b05-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Make yourself at home!",
+   "options": {
+    "A": "Build a house for yourself.",
+    "B": "Buy a house for yourself.",
+    "C": "Feel comfortable like when you are in your own home.",
+    "D": "Find a woman, get married and have kids."
+   },
+   "answer": "C",
+   "audio": "audio/b05/053.mp3"
+  },
+  {
+   "id": "b05-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "John is the last man to tell a lie.",
+   "options": {
+    "A": "Lying is what characterizes him.",
+    "B": "He readily tells a lie.",
+    "C": "He is inclined to tell a lie.",
+    "D": "By no means will he tell a lie."
+   },
+   "answer": "D",
+   "audio": "audio/b05/054.mp3"
+  },
+  {
+   "id": "b05-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mark is a couch potato.",
+   "options": {
+    "A": "He is eating potato chips all the time.",
+    "B": "He is lying in bed all the time.",
+    "C": "He is lying on the sofa, watching TV all the time.",
+    "D": "He is working on the computer all the time."
+   },
+   "answer": "C",
+   "audio": "audio/b05/055.mp3"
+  },
+  {
+   "id": "b05-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I wish I could help you.",
+   "options": {
+    "A": "You surely need my help.",
+    "B": "I hope I can help you.",
+    "C": "You certainly are a good help.",
+    "D": "I really can't help you."
+   },
+   "answer": "D",
+   "audio": "audio/b05/056.mp3"
+  },
+  {
+   "id": "b05-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Who's that girl you were talking to? W: That's Becky. We've been sharing an apartment for years. Q: Who is Becky?",
+   "options": {
+    "A": "She is the woman's neighbor.",
+    "B": "She is the woman's co-worker.",
+    "C": "She is the woman's cousin.",
+    "D": "She is the woman's roommate."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Who's that girl you were talking to?"
+    },
+    {
+     "s": "W",
+     "t": "That's Becky. We've been sharing an apartment for years."
+    },
+    {
+     "s": "Q",
+     "t": "Who is Becky?"
+    }
+   ],
+   "audio": "audio/b05/057.mp3"
+  },
+  {
+   "id": "b05-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: General, one more question. Face the camera, please. Do you think your enemy will use any chemical weapons against you? M: Very likely. But we already have countermeasures. Q: Who is the woman most likely to be?",
+   "options": {
+    "A": "A female soldier.",
+    "B": "A chemistry teacher.",
+    "C": "A TV reporter.",
+    "D": "A weapon expert."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "General, one more question. Face the camera, please. Do you think your enemy will use any chemical weapons against you?"
+    },
+    {
+     "s": "M",
+     "t": "Very likely. But we already have countermeasures."
+    },
+    {
+     "s": "Q",
+     "t": "Who is the woman most likely to be?"
+    }
+   ],
+   "audio": "audio/b05/058.mp3"
+  },
+  {
+   "id": "b05-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: You do not look yourself today. What's wrong with you? M: I didn't sleep a wink last night. Q: What does the man mean?",
+   "options": {
+    "A": "He has suffered from insomnia for a week",
+    "B": "He didn't get any sleep last night.",
+    "C": "He has been too busy for a week.",
+    "D": "He didn't take sleeping pills last night."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "You do not look yourself today. What's wrong with you?"
+    },
+    {
+     "s": "M",
+     "t": "I didn't sleep a wink last night."
+    },
+    {
+     "s": "Q",
+     "t": "What does the man mean?"
+    }
+   ],
+   "audio": "audio/b05/059.mp3"
+  },
+  {
+   "id": "b05-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: I've been trying to find a used car I can afford. M: Steve wants to sell his car. Maybe you should call him. W: That's a good idea. Q: Why should the woman call Steve?",
+   "options": {
+    "A": "He is a car dealer.",
+    "B": "He is a good driver.",
+    "C": "He wants to buy a car.",
+    "D": "He wants to sell a car."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "I've been trying to find a used car I can afford."
+    },
+    {
+     "s": "M",
+     "t": "Steve wants to sell his car. Maybe you should call him."
+    },
+    {
+     "s": "W",
+     "t": "That's a good idea."
+    },
+    {
+     "s": "Q",
+     "t": "Why should the woman call Steve?"
+    }
+   ],
+   "audio": "audio/b05/060.mp3"
+  },
+  {
+   "id": "b05-061",
+   "n": 61,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Hi, Judy. You look great and you've really slimmed down. What have you done? W: I've been working out at a gym for a while. M: I see. Q: What does the woman mean?",
+   "options": {
+    "A": "She has been working late recently.",
+    "B": "She has been on a diet for a while.",
+    "C": "She has done a lot of physical exercise.",
+    "D": "She has done a lot of research."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Hi, Judy. You look great and you've really slimmed down. What have you done?"
+    },
+    {
+     "s": "W",
+     "t": "I've been working out at a gym for a while."
+    },
+    {
+     "s": "M",
+     "t": "I see."
+    },
+    {
+     "s": "Q",
+     "t": "What does the woman mean?"
+    }
+   ],
+   "audio": "audio/b05/061.mp3"
+  },
+  {
+   "id": "b05-062",
+   "n": 62,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: How did you break your leg? M: I fell on a hillside while I was hiking in the mountains. Q: How did the man break his leg?",
+   "options": {
+    "A": "He was running a marathon.",
+    "B": "He fell down a hill.",
+    "C": "He was hit by a falling stone.",
+    "D": "He jumped into a lake."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "How did you break your leg?"
+    },
+    {
+     "s": "M",
+     "t": "I fell on a hillside while I was hiking in the mountains."
+    },
+    {
+     "s": "Q",
+     "t": "How did the man break his leg?"
+    }
+   ],
+   "audio": "audio/b05/062.mp3"
+  },
+  {
+   "id": "b05-063",
+   "n": 63,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Do you have any religious beliefs? W: Of course I do. I'm a Buddhist. Q: What religion does the woman believe in?",
+   "options": {
+    "A": "Buddhism.",
+    "B": "Christianity.",
+    "C": "Islamism.",
+    "D": "None of the above."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Do you have any religious beliefs?"
+    },
+    {
+     "s": "W",
+     "t": "Of course I do. I'm a Buddhist."
+    },
+    {
+     "s": "Q",
+     "t": "What religion does the woman believe in?"
+    }
+   ],
+   "audio": "audio/b05/063.mp3"
+  },
+  {
+   "id": "b05-064",
+   "n": 64,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Don't you hate TV commercials? W: I don't watch much TV, so they are quite interesting to me. Q: How does the woman feel about the TV commercials?",
+   "options": {
+    "A": "They are fun to watch.",
+    "B": "They are boring.",
+    "C": "They are too loud.",
+    "D": "They are educational."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Don't you hate TV commercials?"
+    },
+    {
+     "s": "W",
+     "t": "I don't watch much TV, so they are quite interesting to me."
+    },
+    {
+     "s": "Q",
+     "t": "How does the woman feel about the TV commercials?"
+    }
+   ],
+   "audio": "audio/b05/064.mp3"
+  },
+  {
+   "id": "b05-065",
+   "n": 65,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: The pizza is really delicious. Would you like to have any more? W: No, thanks. I can't eat another bite. Q: What does the woman mean?",
+   "options": {
+    "A": "She is full.",
+    "B": "She doesn't like pizza.",
+    "C": "She is still hungry.",
+    "D": "She wants to eat something else."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "The pizza is really delicious. Would you like to have any more?"
+    },
+    {
+     "s": "W",
+     "t": "No, thanks. I can't eat another bite."
+    },
+    {
+     "s": "Q",
+     "t": "What does the woman mean?"
+    }
+   ],
+   "audio": "audio/b05/065.mp3"
+  },
+  {
+   "id": "b05-066",
+   "n": 66,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: I wish I had brought my umbrella. It's raining cats and dogs! M: Here. Take mine. I have a raincoat in my office room. I'll go get it. W: Thanks a lot. Q: Why doesn't the man need the umbrella?",
+   "options": {
+    "A": "The rain has stopped.",
+    "B": "He has a raincoat on standby.",
+    "C": "The rain is letting up.",
+    "D": "He will remain in the office."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "I wish I had brought my umbrella. It's raining cats and dogs!"
+    },
+    {
+     "s": "M",
+     "t": "Here. Take mine. I have a raincoat in my office room. I'll go get it."
+    },
+    {
+     "s": "W",
+     "t": "Thanks a lot."
+    },
+    {
+     "s": "Q",
+     "t": "Why doesn't the man need the umbrella?"
+    }
+   ],
+   "audio": "audio/b05/066.mp3"
+  },
+  {
+   "id": "b05-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "All the planes were _______ this morning because of heavy thunderstorms.",
+   "options": {
+    "A": "founded",
+    "B": "funded",
+    "C": "granted",
+    "D": "grounded"
+   },
+   "answer": "D",
+   "explain": "grounded為ground過去式及過去分詞,為“著地”"
+  },
+  {
+   "id": "b05-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Because the riot was getting out of control, the police _______ called in to disperse the crowds.",
+   "options": {
+    "A": "have",
+    "B": "had",
+    "C": "was",
+    "D": "were"
+   },
+   "answer": "D",
+   "explain": "the police為“警方”,為集合名詞,當複數用;被叫去驅散人群,故使用被動式"
+  },
+  {
+   "id": "b05-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Eric felt _______ because Amy stood him up again last night.",
+   "options": {
+    "A": "depressed",
+    "B": "expressed",
+    "C": "impressed",
+    "D": "repressed"
+   },
+   "answer": "A",
+   "explain": "stood + 人 + up為“放某人鴿子”,所以覺得depressed難過"
+  },
+  {
+   "id": "b05-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "We enjoyed the opera from start to _______.",
+   "options": {
+    "A": "finish",
+    "B": "end",
+    "C": "close",
+    "D": "stop"
+   },
+   "answer": "A",
+   "explain": "from start to finish為“從頭到尾”"
+  },
+  {
+   "id": "b05-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Mr. Tanaka is unable to make himself _______ in English; his English is too poor.",
+   "options": {
+    "A": "understand",
+    "B": "understanding",
+    "C": "understands",
+    "D": "understood"
+   },
+   "answer": "D",
+   "explain": "人make他人understand,後面的understand使用p.p.—understood,過去分詞意\n旨讓自己被人聽懂他說的英文"
+  },
+  {
+   "id": "b05-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "We must do something to stop the rumors. Our company's reputation is _______.",
+   "options": {
+    "A": "at risk",
+    "B": "at ease",
+    "C": "at hand",
+    "D": "at will"
+   },
+   "answer": "A",
+   "explain": "at risk為“陷入危險”, at ease稍息, at hand即將到來或在手邊,at will隨意"
+  },
+  {
+   "id": "b05-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Three months after the surgery, Henry still had difficulty _______.",
+   "options": {
+    "A": "to walk",
+    "B": "walking",
+    "C": "walk",
+    "D": "walked"
+   },
+   "answer": "B",
+   "explain": "have difficulty為“有困難”後面動詞要加ing"
+  },
+  {
+   "id": "b05-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "According to her parents, Elizabeth is the most intelligent _______ the three sisters.",
+   "options": {
+    "A": "of",
+    "B": "in",
+    "C": "to",
+    "D": "with"
+   },
+   "answer": "A",
+   "explain": "the most + adj.形容詞為最高級形容詞,後三個之中的最…之介系詞用of"
+  },
+  {
+   "id": "b05-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "You don't mind my smoking in here, _______?",
+   "options": {
+    "A": "do you",
+    "B": "are you",
+    "C": "will you",
+    "D": "can you"
+   },
+   "answer": "A",
+   "explain": "附加問句用法,前面句子否定,附加問句使用肯定,反之亦然"
+  },
+  {
+   "id": "b05-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "_______ pork, Sarah eats all kinds of meat.",
+   "options": {
+    "A": "Apart from",
+    "B": "Across from",
+    "C": "Aside with",
+    "D": "Away with"
+   },
+   "answer": "A",
+   "explain": "apart from為“除了….之外”,同aside from, in addition to, besides, except"
+  },
+  {
+   "id": "b05-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Some people are spending money _______ there is no tomorrow.",
+   "options": {
+    "A": "as of",
+    "B": "even to",
+    "C": "as if",
+    "D": "even when"
+   },
+   "answer": "C",
+   "explain": "as if為“如同”, “好像”"
+  },
+  {
+   "id": "b05-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "In terms of temperament, cats and dogs _______ be more different",
+   "options": {
+    "A": "wouldn't",
+    "B": "shouldn't",
+    "C": "couldn't",
+    "D": "needn't"
+   },
+   "answer": "C",
+   "explain": "couldn't be more different為“沒有甚麼不同”"
+  },
+  {
+   "id": "b05-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Since I last saw Alice, many strange things _______ to her.",
+   "options": {
+    "A": "happen",
+    "B": "happen",
+    "C": "has happened",
+    "D": "have happened"
+   },
+   "answer": "D",
+   "explain": "since為“自從”, 後面之主要句子常使用現在完成式表達“自…以來已經…..”"
+  },
+  {
+   "id": "b05-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Diane became the first woman on the company's _______ of directors.",
+   "options": {
+    "A": "cabin",
+    "B": "board",
+    "C": "flow",
+    "D": "grade"
+   },
+   "answer": "B",
+   "explain": "board of directors為“董事會”"
+  },
+  {
+   "id": "b05-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "I tried on the two suits, but _______ one fit me.",
+   "options": {
+    "A": "either",
+    "B": "neither",
+    "C": "no",
+    "D": "every"
+   },
+   "answer": "B",
+   "explain": "neither為“兩者皆非”"
+  },
+  {
+   "id": "b05-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "As the saying goes, \"God never shuts one door _______ he opens another.\"",
+   "options": {
+    "A": "when",
+    "B": "if",
+    "C": "or",
+    "D": "but"
+   },
+   "answer": "D",
+   "explain": "此句為諺語,天無絕人之路"
+  },
+  {
+   "id": "b05-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The _______ for the North Atlantic Treaty Organization is NATO.",
+   "options": {
+    "A": "synonym",
+    "B": "antonym",
+    "C": "homonym",
+    "D": "acronym"
+   },
+   "answer": "D",
+   "explain": "acronym為“首字母縮略字”"
+  },
+  {
+   "id": "b05-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "In 1903, the Wright brothers made the first successful _______ in a motorized airplane.",
+   "options": {
+    "A": "fight",
+    "B": "flight",
+    "C": "freight",
+    "D": "fright"
+   },
+   "answer": "B",
+   "explain": "flight為“飛行”,萊特兄弟完成第一次成功的飛行"
+  },
+  {
+   "id": "b05-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Bighorn sheep have huge horns and _______ the Rocky Mountains.",
+   "options": {
+    "A": "inhabit",
+    "B": "exhibit",
+    "C": "inhibit",
+    "D": "prohibit"
+   },
+   "answer": "A",
+   "explain": "inhabit為“棲息”,”居住於”"
+  },
+  {
+   "id": "b05-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "This training center is responsible for training _______.",
+   "options": {
+    "A": "recruits",
+    "B": "bestsellers",
+    "C": "circuits",
+    "D": "zippers"
+   },
+   "answer": "A",
+   "explain": "recruits為“新兵”,”入伍生”"
+  },
+  {
+   "id": "b05-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "The funny movie made all the audience in the theater _______ loudly.",
+   "options": {
+    "A": "laugh",
+    "B": "laughed",
+    "C": "laughed",
+    "D": "to laugh"
+   },
+   "answer": "A",
+   "explain": "make使役動詞,後面接原形動詞"
+  },
+  {
+   "id": "b05-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Not only women but also men are having cosmetic _______ nowadays.",
+   "options": {
+    "A": "injury",
+    "B": "surgery",
+    "C": "memory",
+    "D": "forgery"
+   },
+   "answer": "B",
+   "explain": "cosmetic surgery為“整形手術”"
+  },
+  {
+   "id": "b05-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The dog as well as her puppies _______ excited by the knock on the door.",
+   "options": {
+    "A": "had",
+    "B": "have",
+    "C": "was",
+    "D": "were"
+   },
+   "answer": "C",
+   "explain": "主詞A + as well as + 主詞B, 動詞以主詞A 為主。主詞A: The dog, 所以動詞應\n選擇C. was."
+  },
+  {
+   "id": "b05-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "_______ because you are a professor, it does not mean you know everything.",
+   "options": {
+    "A": "Even",
+    "B": "Just",
+    "C": "Only",
+    "D": "But"
+   },
+   "answer": "B",
+   "explain": "just because為“就因為”"
+  },
+  {
+   "id": "b05-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Yogurt is an excellent low-fat _______ for ice cream.",
+   "options": {
+    "A": "substitute",
+    "B": "attitude",
+    "C": "platform",
+    "D": "platform"
+   },
+   "answer": "A",
+   "explain": "substitute 為“代替品”,後面介系詞接for"
+  },
+  {
+   "id": "b05-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "The great writer _______ in that small fishing village over the last 30 years.",
+   "options": {
+    "A": "lives",
+    "B": "lived",
+    "C": "has lived",
+    "D": "would live"
+   },
+   "answer": "C",
+   "explain": "over + 時間表從30年前到現在還是如此使用現在完成式has/have + p.p."
+  },
+  {
+   "id": "b05-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The bullet train is the fastest _______ of transportation on land.",
+   "options": {
+    "A": "species",
+    "B": "lease",
+    "C": "means",
+    "D": "piece"
+   },
+   "answer": "C",
+   "explain": "means為“工具”"
+  },
+  {
+   "id": "b05-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Don't use my toothbrush. Use _______.",
+   "options": {
+    "A": "your",
+    "B": "your own",
+    "C": "your it",
+    "D": "your one"
+   },
+   "answer": "B",
+   "explain": "人稱所有格+ own,為“…..人的”,用你自己的牙刷"
+  },
+  {
+   "id": "b05-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "I can't go to the dance party tonight because I have a science report _______ tomorrow.",
+   "options": {
+    "A": "daily",
+    "B": "definite",
+    "C": "definite",
+    "D": "due"
+   },
+   "answer": "D",
+   "explain": "due為“期限”"
+  },
+  {
+   "id": "b05-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Avian flu (or bird flu) is a virus specific to birds. It causes flu-like symptoms in birds, and it can sometimes pass from birds to humans. There are actually many different kinds of flu viruses, and some only affect certain animals. The bird flu H5N1 is considered very dangerous because it passes so quickly from one bird to another, and it has killed millions of birds worldwide. It can also pass from an infected bird to a human. It killed over 300 people in its last outbreak, and made many more sick. Luckily, the H5N1 virus can't pass from one person to another. Recently, however, there has been a new outbreak of H7N9, another version of the bird flu virus. Again, this virus can't travel from person to person, but doctors are worried that the virus will someday be able to infect more people, which could be a huge disaster. Why isn't the bird flu as dangerous to people as it is to birds?",
+   "options": {
+    "A": "It passes from bird to bird very easily.",
+    "B": "It can't pass from person to person.",
+    "C": "It can sometimes pass from birds to humans.",
+    "D": "It has killed over 300 people."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "b05-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Margaret Thatcher, also known as the Iron Lady, lived from 1925 until 2013. She was a remarkable person in many ways. Thatcher was the first woman to lead a major political party in the United Kingdom. She was also the first and only woman to serve as the Prime Minister of England. She earned her nickname of Iron Lady by being a tough politician who wouldn't compromise. She believed in relaxing laws controlling business and banking as well as reducing the government's role in business. Thatcher brought up strong emotions in people: many loved her and many hated her. While her decisions definitely helped the United Kingdom in the short term, many also believe that she damaged the economy in the long term by giving businesses too much power. However she is remembered, though, she will be remembered for a long time to come as a very powerful woman. Why is Margaret Thatcher called \"The Iron Lady?\"",
+   "options": {
+    "A": "She exercised a lot.",
+    "B": "She was the first female Prime Minister.",
+    "C": "She didn't give up easily.",
+    "D": "Many people loved her, and many people hated her."
+   },
+   "answer": "C"
+  },
+  {
+   "id": "b05-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Tattoos were often seen on sailors, criminals or gangsters. But now tattoos are not just connected with people with something to prove. In fact, getting tattoos is becoming more and more popular with ordinary people. They often have pictures of their sweethearts or idols tattooed on their skin. What is the main idea of the passage?",
+   "options": {
+    "A": "Getting tattoos is not so popular now.",
+    "B": "The negative view of tattoos is fading away.",
+    "C": "People should think twice before getting a tattoo.",
+    "D": "Many parents don't want their children to get any tattoos."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "b05-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "The lobster looks so strange and hostile that it's surprising anyone first had the nerve to try to eat it. Looking like a large insect, the lobster is actually a cousin of the spider. It has eight legs covered with tiny hairs that detect sounds and smells. When sensing danger, the lobster runs backward. According to the passage, the lobster _______ when sensing danger.",
+   "options": {
+    "A": "retreats",
+    "B": "attacks",
+    "C": "fights itself",
+    "D": "hides itself"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "b05-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "When most people think of deserts, they are hot, dry, sandy places. In truth, deserts only need to be dry. A desert is defined as a place that gets less than 25cm of rain per year. Some deserts are actually quite cold. The Gobi desert in northern Asia often has a little snow in the winter, and its temperature can change by as much as 25 degrees Celsius in a single day. The Atacama desert in South America can also get some snow in the winter, and its temperature can change by 40 degrees Celsius or more in a single day. It shouldn't be surprising then that one of the driest places on Earth is also one of the coldest: Antarctica. This cold continent is mostly desert, even though it's covered in ice. It's just that the ice has been there a very long time, in many cases thousands of years. According to this passage, what is true about deserts?",
+   "options": {
+    "A": "They are always hot, dry, and sandy.",
+    "B": "They are always hot and dry.",
+    "C": "They are always cold and dry.",
+    "D": "They are always dry."
+   },
+   "answer": "D"
+  }
+ ]
+}

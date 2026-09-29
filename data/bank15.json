@@ -1,0 +1,1880 @@
+{
+ "bank": "15",
+ "title": "第 15 回",
+ "questions": [
+  {
+   "id": "b15-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Have you finished your household chores yet?",
+   "options": {
+    "A": "Yes, I chose the house on my own.",
+    "B": "No, I didn't have much choice.",
+    "C": "Yes, I need to get some household supplies.",
+    "D": "No, I still have to mop the floor."
+   },
+   "answer": "D",
+   "explain": "解析: household chore 家務; mop v.用拖把拖洗n. 拖把",
+   "audio": "audio/b15/001.mp3"
+  },
+  {
+   "id": "b15-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How about we take a hike into the mountains?",
+   "options": {
+    "A": "It takes courage to venture down there.",
+    "B": "Why not? We are almost home now.",
+    "C": "It is the thought that matters.",
+    "D": "Good idea! I enjoy getting close to nature."
+   },
+   "answer": "D",
+   "explain": "解析: 我們步行到山上好嗎? D. 好主意, 我喜歡接近大自然 venture. V. 冒險;\nnature 大自然",
+   "audio": "audio/b15/002.mp3"
+  },
+  {
+   "id": "b15-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where can I find a mover?",
+   "options": {
+    "A": "Make sure you have your ID with you.",
+    "B": "Check the classified ads in newspapers.",
+    "C": "See if you are interested.",
+    "D": "Let nature take its course."
+   },
+   "answer": "B",
+   "explain": "解析: mover搬家工人; classified ads 分類廣告",
+   "audio": "audio/b15/003.mp3"
+  },
+  {
+   "id": "b15-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "May I take a message, Miss Hopkins?",
+   "options": {
+    "A": "Please tell him to call me back.",
+    "B": "I'd like to give you a massage.",
+    "C": "Please help clean up the mess.",
+    "D": "I'd like to give you some tips."
+   },
+   "answer": "A",
+   "explain": "題目:要留言給他嗎? 答案a. 請告訴他打電話給我 May I take a\nmessage=Would you like to leave a message? massage: v. 按摩; message:\nn. 訊息 clean up the mess:把雜亂的東⻄清理乾淨。 Tip: n. 小費",
+   "audio": "audio/b15/004.mp3"
+  },
+  {
+   "id": "b15-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Which of us should go first: you or me?",
+   "options": {
+    "A": "You are always on the go.",
+    "B": "Let's go at once.",
+    "C": "I don’t know who won.",
+    "D": "Let's toss a coin to decide."
+   },
+   "answer": "D",
+   "explain": "解析:你或我哪個應該先走? d. 讓我們丟銅板決定 On the go=very busy or\nbeing produced 忙個不停的/處於生產中 toss a coin丟銅板",
+   "audio": "audio/b15/005.mp3"
+  },
+  {
+   "id": "b15-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you saying you are working in a sweatshop?",
+   "options": {
+    "A": "Yes, I work out twice a week.",
+    "B": "No, I work two shifts sometimes.",
+    "C": "Yes, I work long hours and the pay is low.",
+    "D": "No, I work hard for my wage."
+   },
+   "answer": "C",
+   "explain": "解析: sweatshop: a small factory where workers are paid very little and work\nmany hours in very bad conditions血汗工廠; shift n.輪班、改變; wage n.\n（尤指支付給體力勞動者並通常按週計算的）工資",
+   "audio": "audio/b15/006.mp3"
+  },
+  {
+   "id": "b15-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "question",
+   "stem": "On what charges was the man arrested?",
+   "options": {
+    "A": "He was taking a rest somewhere.",
+    "B": "He was selling drugs to teenagers.",
+    "C": "He was dealing with a legal issue.",
+    "D": "He was watching a documentary."
+   },
+   "answer": "B",
+   "explain": "題目:這人是因為被控何種罪而被捕的? b. 賣毒品給青少年人 charge: v. (of\nthe police) to make a formal statement saying that someone is accused of a\ncrime（警方）指控，控告 arrest: v. 逮捕",
+   "audio": "audio/b15/007.mp3"
+  },
+  {
+   "id": "b15-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you going to have the last slice of the pizza?",
+   "options": {
+    "A": "Yes, I enjoy the peace and quiet here.",
+    "B": "No, I'm not ready to go there.",
+    "C": "Yes, I ordered food delivery last night.",
+    "D": "No, I'm already full."
+   },
+   "answer": "D",
+   "explain": "題目: 你要在吃最後一片披薩嗎?\n答案:d:不,我已經飽了 slice: n. a flat, often thin, piece of food that has been\ncut from a larger piece (薄片)\ndelivery: n. the act of taking goods, letters, parcels, etc. to people's houses\nor places of work\n運送，遞送; deliver v.",
+   "audio": "audio/b15/008.mp3"
+  },
+  {
+   "id": "b15-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Can you lower the price to 30 dollars?",
+   "options": {
+    "A": "40 dollars is the bottom line.",
+    "B": "40 dollars would be too much for me to pay.",
+    "C": "40 dollars is within my budget.",
+    "D": "40 dollars would make a big difference."
+   },
+   "answer": "A",
+   "explain": "解析: 你能降價到30元嗎? 答案a. 40 元是最底線了\nlower 降低; bottom line帳本底線; budget 預算",
+   "audio": "audio/b15/009.mp3"
+  },
+  {
+   "id": "b15-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Which does a doctor use to listen to a patient's heartbeat?",
+   "options": {
+    "A": "A microscope.",
+    "B": "A stethoscope.",
+    "C": "A thermometer.",
+    "D": "A speedometer."
+   },
+   "answer": "B",
+   "explain": "解析: heartbeat 心跳; microscope顯微鏡; stethoscope聽診器; thermometer\n溫度計; speedometer（車輛的）速度計",
+   "audio": "audio/b15/010.mp3"
+  },
+  {
+   "id": "b15-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why do you change channels all the time?",
+   "options": {
+    "A": "I love playing video games.",
+    "B": "I have to work against time.",
+    "C": "I hate watching TV commercials.",
+    "D": "I need to make a phone call."
+   },
+   "answer": "C",
+   "explain": "解析: 為何你一直在換頻道? C. 我討厭看電視廣告 Channel 頻道; commercial\n商業廣告; work against time 趕時間完成工作",
+   "audio": "audio/b15/011.mp3"
+  },
+  {
+   "id": "b15-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What is the reason those food products were taken off the shelves?",
+   "options": {
+    "A": "They were selling very well.",
+    "B": "They were all contaminated.",
+    "C": "They were on sale.",
+    "D": "They were all imported."
+   },
+   "answer": "B",
+   "explain": "解析: 題目:那些吃的產品從架上拿走的原因是什麼? Contaminated= polluted\n汙染; on sale 拍賣; import v. 進口; export v. 出口",
+   "audio": "audio/b15/012.mp3"
+  },
+  {
+   "id": "b15-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Have you asked your boss to give you a raise?",
+   "options": {
+    "A": "Of course. He promised to give me a few days off.",
+    "B": "Not yet. I'll wait until he's in a good mood.",
+    "C": "Yes, he'll be retired soon.",
+    "D": "No, I didn't say I would resign."
+   },
+   "answer": "B",
+   "explain": "解析:你有要求你老闆給你加薪嗎? B. 還沒. 我會等他心情好時再說\nin a good mood 心情好; promise 承諾; retire 退休; resign= quit 辭職",
+   "audio": "audio/b15/013.mp3"
+  },
+  {
+   "id": "b15-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Which candidate do you think will win the mayoral election?",
+   "options": {
+    "A": "It's a matter of urgency.",
+    "B": "It will be held on September 1.",
+    "C": "It's anyone's guess now.",
+    "D": "It will encourage a lot of voters to go out."
+   },
+   "answer": "C",
+   "explain": "解析: 你認為哪一位候選人會贏得市長選舉 答案c 現在誰也說不準 urgency n.\n緊急; encourage v. 鼓勵;激發; voter 選⺠",
+   "audio": "audio/b15/014.mp3"
+  },
+  {
+   "id": "b15-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you sure we can afford to eat at this fancy restaurant?",
+   "options": {
+    "A": "Yes, I just got my yearly bonus.",
+    "B": "No, it is not located there.",
+    "C": "Yes, it’s too fancy for us.",
+    "D": "No, it is not open around the clock."
+   },
+   "answer": "A",
+   "explain": "解析: afford 買得起; fancy= expensive昂貴的; bonus 奬金; around the clock",
+   "audio": "audio/b15/015.mp3"
+  },
+  {
+   "id": "b15-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Can I eat those bananas?",
+   "options": {
+    "A": "No, they are not my favorite fruit.",
+    "B": "Yes, they are on display only.",
+    "C": "No, they are not ripe enough.",
+    "D": "Yes, they are rotten now."
+   },
+   "answer": "C",
+   "explain": "解析: display n. v.展示; ripe adj. 成熟; rotten= decayed腐爛的",
+   "audio": "audio/b15/016.mp3"
+  },
+  {
+   "id": "b15-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What are you going to wear to the barbecue?",
+   "options": {
+    "A": "I think I'll ride my bike there.",
+    "B": "I think I'll bring a friend or two.",
+    "C": "I think I'll make it on time.",
+    "D": "I think I'll dress casually."
+   },
+   "answer": "D",
+   "explain": "解析:你要穿甚麼去烤肉? d. 我想我會穿便服 casually=informally 非正式",
+   "audio": "audio/b15/017.mp3"
+  },
+  {
+   "id": "b15-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How did you hurt yourself so badly?",
+   "options": {
+    "A": "I was injured playing soccer at my school.",
+    "B": "I heard that you were coming home.",
+    "C": "I needed the money badly.",
+    "D": "I told myself I would work harder."
+   },
+   "answer": "A",
+   "explain": "題目:你是如何把自己弄得受傷這麼嚴重的? 答案a. 我在學校踢足球受傷的\nhurt: v. to feel pain in a part of your body, or to injure someone or cause\nthem pain （使）感到疼痛；弄傷 injury: v. physical harm or damage to\nsomeone's body caused by an accident or an attack 傷害，損傷",
+   "audio": "audio/b15/018.mp3"
+  },
+  {
+   "id": "b15-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you good at making clothes?",
+   "options": {
+    "A": "Of course! I'm a tailor.",
+    "B": "No way! I won't put on those wet clothes.",
+    "C": "Yes, I bought them from a store.",
+    "D": "No, I do the laundry only once a week."
+   },
+   "answer": "A",
+   "explain": "解析: tailor n.裁縫; do the laundry 洗衣服",
+   "audio": "audio/b15/019.mp3"
+  },
+  {
+   "id": "b15-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Did your grandfather die at the hospital?",
+   "options": {
+    "A": "No, he did not use a wheelchair.",
+    "B": "Yes, he was released from the hospital this morning.",
+    "C": "No, he did not need to go on a diet.",
+    "D": "Yes, he passed away this morning."
+   },
+   "answer": "D",
+   "explain": "解析: pass away=die; release 釋放; go on a diet節食",
+   "audio": "audio/b15/020.mp3"
+  },
+  {
+   "id": "b15-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Would you give me a ride on that scooter?",
+   "options": {
+    "A": "Sure, let’s buy it!",
+    "B": "Nope, it runs on electricity.",
+    "C": "Sure, hop on!",
+    "D": "Nope, it was made in Japan."
+   },
+   "answer": "C",
+   "explain": "題目:你能否用摩托車順便載我一程 答案 c. 沒問題,快跳上來! Give someone\na ride= give someone a lift 讓某人搭車to drive someone to a particular\nlocation. Scooter=motorcycle 摩托車 Hop: v. to go somewhere quickly or to\nget into or out of a vehicle quickly 快速去（某地）；快速跳上（或跳下）",
+   "audio": "audio/b15/021.mp3"
+  },
+  {
+   "id": "b15-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why is Mary looking at the crystal ball all the time?",
+   "options": {
+    "A": "She is crazy about playing baseball.",
+    "B": "She is learning how to predict the future.",
+    "C": "She is disappointed about not win the lottery.",
+    "D": "She is looking for an island on the globe."
+   },
+   "answer": "B",
+   "explain": "題目:Mary 為何總是在看水晶球? 答案b: 她正在學如何預測未 crystal: n.\ntransparent glass of very high quality, usually with its surface cut into\ndelicate patterns水晶玻璃\ncrystal ball: a transparent glass ball used by someone who says they can\ndiscover what will happen to you in the future by looking into it",
+   "audio": "audio/b15/022.mp3"
+  },
+  {
+   "id": "b15-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why do you dislike your husband's friends?",
+   "options": {
+    "A": "They usually hang out on weekends.",
+    "B": "They usually treat us kindly.",
+    "C": "They are a bad influence on him.",
+    "D": "They are getting along very well."
+   },
+   "answer": "C",
+   "explain": "解析: dislike= don’t like; hang out （與某人）廝混; influence=impact 影響",
+   "audio": "audio/b15/023.mp3"
+  },
+  {
+   "id": "b15-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why do you like visiting the flea market so much?",
+   "options": {
+    "A": "I can pick up a few bargains there.",
+    "B": "I can do some grocery shopping there.",
+    "C": "I can see a lot of wild animals there.",
+    "D": "I can withdraw money there."
+   },
+   "answer": "A",
+   "explain": "解析: flea market 跳蚤市場; bargain n. 便宜貨; withdraw 提錢",
+   "audio": "audio/b15/024.mp3"
+  },
+  {
+   "id": "b15-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Isn't your daughter a bit too precocious?",
+   "options": {
+    "A": "Yes, she often talks like an adult.",
+    "B": "No, she is not that naughty.",
+    "C": "Yes, she often talks to herself.",
+    "D": "No, she is curious about everything."
+   },
+   "answer": "A",
+   "explain": "解析: precocious adj.早熟的; adult n. 成人; naughty adj.頑皮; curious adj.好\n奇的",
+   "audio": "audio/b15/025.mp3"
+  },
+  {
+   "id": "b15-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The police are interrogating a suspect.",
+   "options": {
+    "A": "The police are searching for a suspect.",
+    "B": "The police are intimidating a suspect.",
+    "C": "The police are asking a suspect a lot of questions.",
+    "D": "The police are taking a suspect to court."
+   },
+   "answer": "C",
+   "explain": "解析: interrogate: to ask someone a lot of questions for a long time in order\nto get information, sometimes using threats or violence審問，盤問; suspect\nn. 嫌疑犯; intimidate vt.威嚇；脅迫",
+   "audio": "audio/b15/026.mp3"
+  },
+  {
+   "id": "b15-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I will never go back on my word.",
+   "options": {
+    "A": "I will never lose my confidence.",
+    "B": "I will never forget your advice.",
+    "C": "I will never break my promise.",
+    "D": "I will never hurt your feelings"
+   },
+   "answer": "C",
+   "explain": "解析: I never go back on my word. = I always keep my word. = I always keep\nmy promise. 信守承諾",
+   "audio": "audio/b15/027.mp3"
+  },
+  {
+   "id": "b15-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Most of the students think highly of Mr. Stone.",
+   "options": {
+    "A": "Most of the students admire Mr. Stone.",
+    "B": "Most of the students avoid Mr. Stone.",
+    "C": "Most of the students hate Mr. Stone.",
+    "D": "Most of the students miss Mr. Stone."
+   },
+   "answer": "A",
+   "explain": "解析: admire欽佩；讚賞",
+   "audio": "audio/b15/028.mp3"
+  },
+  {
+   "id": "b15-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You look stunning in that pink hat.",
+   "options": {
+    "A": "You look much younger in that pink hat.",
+    "B": "You look very funny in that pink hat.",
+    "C": "You look much older in that pink hat.",
+    "D": "You look very beautiful in that pink hat."
+   },
+   "answer": "D",
+   "explain": "解析: stunning: adj. extremely beautiful or attractive 極漂亮的，極迷人的;\nshocking or very impressive 震驚；驚訝",
+   "audio": "audio/b15/029.mp3"
+  },
+  {
+   "id": "b15-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Nick is an industrious worker.",
+   "options": {
+    "A": "Nick is a diligent worker.",
+    "B": "Nick is a blue-collar worker.",
+    "C": "Nick is a factory worker.",
+    "D": "Nick is a full-time worker."
+   },
+   "answer": "A",
+   "explain": "解析: industrious=diligent 勤勞的，勤奮的; blue-collar藍領階級的，從事體力\n勞動的; factory",
+   "audio": "audio/b15/030.mp3"
+  },
+  {
+   "id": "b15-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Some of the weapons are highly sophisticated.",
+   "options": {
+    "A": "Some of the weapons are very heavy.",
+    "B": "Some of the weapons are very costly.",
+    "C": "Some of the weapons are very light.",
+    "D": "Some of the weapons are very advanced."
+   },
+   "answer": "D",
+   "explain": "解析: sophisticated精密的，複雜的= advanced ; costly=expensive; light=not\nheavy輕的",
+   "audio": "audio/b15/031.mp3"
+  },
+  {
+   "id": "b15-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "My grandmother is partially deaf.",
+   "options": {
+    "A": "My grandmother is hard of hearing.",
+    "B": "My grandmother is gradually recovering.",
+    "C": "My grandmother is still alive.",
+    "D": "My grandmother is very sensitive."
+   },
+   "answer": "A",
+   "explain": "解析: partially: not completely不完全地; deaf: adj. unable to hear, either\ncompletely or partly 耳聾的; gradually slowly over a period of time or a\ndistance逐步地，逐漸地; recover: v. to become completely well again after\nan illness or injury（在疾病或受傷之後）完全恢復健康; alive: adj.",
+   "audio": "audio/b15/032.mp3"
+  },
+  {
+   "id": "b15-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Your room looks very cozy.",
+   "options": {
+    "A": "Your room looks very comfortable.",
+    "B": "Your room looks very spacious.",
+    "C": "Your room looks very messy.",
+    "D": "Your room looks very tidy."
+   },
+   "answer": "A",
+   "explain": "解析: cozy: adj. comfortable 舒適; spacious: adj. large and with a lot of\nspace\n寬敞的，空間大的; messy: adj. untidy淩亂的，雜亂的；髒的; tidy: adj.整齊\n的；整潔的，有條理的",
+   "audio": "audio/b15/033.mp3"
+  },
+  {
+   "id": "b15-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Professor Jones' speech was very tedious.",
+   "options": {
+    "A": "Professor Jones' speech was very inspiring.",
+    "B": "Professor Jones' speech was very boring.",
+    "C": "Professor Jones' speech was very informative.",
+    "D": "Professor Jones' speech was very brief."
+   },
+   "answer": "B",
+   "explain": "解析: tedious: adj. boring單調乏味的，無趣的; inspiring: adj. encouraging, or\nmaking you feel you want to do something鼓舞人心的; informative: adj.\nproviding a lot of useful information提供資訊的；增長見聞的; brief: adj.\nlasting only a short time or containing few words短暫的；簡短的",
+   "audio": "audio/b15/034.mp3"
+  },
+  {
+   "id": "b15-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Tommy is trying to outdo the other kids.",
+   "options": {
+    "A": "Tommy is trying to do better than the other kids.",
+    "B": "Tommy is trying to understand the other kids.",
+    "C": "Tommy is trying to fit in with the other kids.",
+    "D": "Tommy is trying to catch up with the other kids."
+   },
+   "answer": "A",
+   "explain": "解析: outdo: v. to be, or do something, better than someone else勝過，超\n越；優於 He always tries to outdo everybody else in the class",
+   "audio": "audio/b15/035.mp3"
+  },
+  {
+   "id": "b15-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "My dad is in high spirits.",
+   "options": {
+    "A": "My dad is in a good mood.",
+    "B": "My dad is drinking alcohol.",
+    "C": "My dad is in a bad mood.",
+    "D": "My dad is climbing a mountain."
+   },
+   "answer": "A",
+   "explain": "解析: If someone is in high spirits, they are extremely happy and having a\ngood time.\n興高采烈; in a good mood",
+   "audio": "audio/b15/036.mp3"
+  },
+  {
+   "id": "b15-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Allied forces were preparing to launch a counter-attack.",
+   "options": {
+    "A": "Allied forces were preparing to admit defeat.",
+    "B": "Allied forces were preparing to strike back.",
+    "C": "Allied forces were preparing to withdraw.",
+    "D": "Allied forces were preparing to train for battle."
+   },
+   "answer": "B",
+   "explain": "解析: allied forces: 盟軍； launch: begin 啟動; counter-attack反擊; defeat戰\n敗; strike=hit or attack 攻擊; withdraw: to take or move out or back, or to\nremove取回；提取；撤回",
+   "audio": "audio/b15/037.mp3"
+  },
+  {
+   "id": "b15-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "A lot of my colleagues are opposed to the plan.",
+   "options": {
+    "A": "A lot of my colleagues are welcoming the plan.",
+    "B": "A lot of my colleagues are against the plan.",
+    "C": "A lot of my colleagues are interested in the plan.",
+    "D": "A lot of my colleagues are indifferent to the plan."
+   },
+   "answer": "B",
+   "explain": "解析: be opposed to something= to disagree with something 反對\nindifferent=not thinking about or interested in someone or something不感興\n趣的；不關心的，冷淡的",
+   "audio": "audio/b15/038.mp3"
+  },
+  {
+   "id": "b15-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Jenny is crazy about seafood.",
+   "options": {
+    "A": "Jenny is sick of eating seafood.",
+    "B": "Jenny likes seafood very much.",
+    "C": "Jenny is allergic to seafood.",
+    "D": "Jenny never eats seafood."
+   },
+   "answer": "B",
+   "explain": "解析: be crazy about sb/sth: to be very interested in something or love\nsomeone very much 對…很狂熱；醉心於…；迷戀…; allergic to: 對…過敏的",
+   "audio": "audio/b15/039.mp3"
+  },
+  {
+   "id": "b15-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I suggest that you reboot your computer.",
+   "options": {
+    "A": "I suggest that you have your computer repaired.",
+    "B": "I suggest that you have your computer replaced.",
+    "C": "I suggest that you restart your computer.",
+    "D": "I suggest that you turn off your computer."
+   },
+   "answer": "C",
+   "explain": "解析: reboot: to switch off and then start again immediately, or to make a\ncomputer do this （使）重新啟動（電腦）; replace v. 代替",
+   "audio": "audio/b15/040.mp3"
+  },
+  {
+   "id": "b15-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I live on the outskirts of the city.",
+   "options": {
+    "A": "I live in the center of the city.",
+    "B": "I live in the suburbs of the city.",
+    "C": "I live in a different city.",
+    "D": "I live in an expensive part of the city."
+   },
+   "answer": "B",
+   "explain": "解析: the outskirts郊區= the suburbs",
+   "audio": "audio/b15/041.mp3"
+  },
+  {
+   "id": "b15-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mr. Smith is a born leader.",
+   "options": {
+    "A": "Mr. Smith is a natural leader.",
+    "B": "Mr. Smith is a decisive leader.",
+    "C": "Mr. Smith is a political leader.",
+    "D": "Mr. Smith is a weak leader."
+   },
+   "answer": "A",
+   "explain": "解析: born leader 天生的領袖; decisive: able to make decisions quickly and\nconfidently果斷的",
+   "audio": "audio/b15/042.mp3"
+  },
+  {
+   "id": "b15-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The book you want is out on loan.",
+   "options": {
+    "A": "The book you want is out of print.",
+    "B": "The book you want has been borrowed by someone.",
+    "C": "The book you want is out of stock.",
+    "D": "The book you want has disappeared."
+   },
+   "answer": "B",
+   "explain": "解析: On loan: an act of borrowing or lending something借入；借出; out on\nloan 借出; out of stock: are not available to buy in a store because they have\nall been sold 已售完、沒存貨",
+   "audio": "audio/b15/043.mp3"
+  },
+  {
+   "id": "b15-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "It's time that you and Lisa made up.",
+   "options": {
+    "A": "It's time that you and Lisa were friends again.",
+    "B": "It's time that you and Lisa got married.",
+    "C": "It's time that you and Lisa teamed up.",
+    "D": "It's time that you and Lisa got divorced."
+   },
+   "answer": "A",
+   "explain": "解析: Make up: to forgive someone and be friendly with them again after an\nargument or disagreement和解，言歸於好 ; team up: to join another person,\nor form a group with other people, in order to do something together結成一\n隊；合作",
+   "audio": "audio/b15/044.mp3"
+  },
+  {
+   "id": "b15-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "My boss has a short fuse.",
+   "options": {
+    "A": "My boss forgets about things easily.",
+    "B": "My boss makes decisions quickly.",
+    "C": "My boss becomes angry easily.",
+    "D": "My boss takes action quickly."
+   },
+   "answer": "C",
+   "explain": "解析: have a short fuse= to get angry very easily",
+   "audio": "audio/b15/045.mp3"
+  },
+  {
+   "id": "b15-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "George did not do it on purpose.",
+   "options": {
+    "A": "George did not do it carefully.",
+    "B": "George did not do it publicly.",
+    "C": "George did not do it willingly.",
+    "D": "George did not do it deliberately."
+   },
+   "answer": "D",
+   "explain": "解析: on purpose: If you do something on purpose, you do it intentionally,\nnot by accident. 故意地",
+   "audio": "audio/b15/046.mp3"
+  },
+  {
+   "id": "b15-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The convenience store is open around the clock.",
+   "options": {
+    "A": "The convenience store opens at seven o'clock.",
+    "B": "The convenience store is open 24 hours a day.",
+    "C": "The convenience store closes on weekends.",
+    "D": "The convenience store is open until midnight."
+   },
+   "answer": "B",
+   "explain": "解析: around the clock: 全天候的；不分晝夜的（同 round-the-clock）",
+   "audio": "audio/b15/047.mp3"
+  },
+  {
+   "id": "b15-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "During that time, Peter's wife was expecting.",
+   "options": {
+    "A": "During that time, Peter's wife was going to have a baby.",
+    "B": "During that time, Peter's wife was seeing a doctor.",
+    "C": "During that time, Peter's wife was busy with her business.",
+    "D": "During that time, Peter's wife was tired of her job."
+   },
+   "answer": "A",
+   "explain": "解析: be expecting (a baby) : to be pregnant 懷孕；有孕在身\nShe shouldn't be lifting those boxes if she's expecting.",
+   "audio": "audio/b15/048.mp3"
+  },
+  {
+   "id": "b15-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "John's new pet is a kitten.",
+   "options": {
+    "A": "John's new pet is an old dog.",
+    "B": "John's new pet is a turtle.",
+    "C": "John's new pet is a young cat.",
+    "D": "John's new pet is a bird."
+   },
+   "answer": "C",
+   "explain": "解析: kitten: n. 小貓",
+   "audio": "audio/b15/049.mp3"
+  },
+  {
+   "id": "b15-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I felt a little puzzled at that time.",
+   "options": {
+    "A": "I felt a little excited at that time.",
+    "B": "I felt a little nervous at that time.",
+    "C": "I felt a little confused at that time.",
+    "D": "I felt a little guilty at that time."
+   },
+   "answer": "C",
+   "explain": "解析: puzzle: v. to cause someone to feel confused and slightly worried\nbecause they cannot understand something （使）感到迷惑; confuse v. 困\n惑; guilty adj. 內疚的",
+   "audio": "audio/b15/050.mp3"
+  },
+  {
+   "id": "b15-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: That will be $2050, please. W: I don't have enough cash. May I use plastic here? M: Of course. Q: How is the woman going to pay?",
+   "options": {
+    "A": "With a credit card.",
+    "B": "In cash.",
+    "C": "By borrowing money from someone.",
+    "D": "By check."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "That will be $2050, please."
+    },
+    {
+     "s": "W",
+     "t": "I don't have enough cash. May I use plastic here?"
+    },
+    {
+     "s": "M",
+     "t": "Of course."
+    },
+    {
+     "s": "Q",
+     "t": "How is the woman going to pay?"
+    }
+   ],
+   "explain": "解析: Plastic: n. (plastic money) credit cards",
+   "audio": "audio/b15/051.mp3"
+  },
+  {
+   "id": "b15-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Uh-oh! There's a police car behind us. W: So? What's wrong? M: I was speeding. He wants me to pull over. W: Get your driver's license ready. It's in the glove compartment. Q: Where are the speakers?",
+   "options": {
+    "A": "In their car.",
+    "B": "In a police car.",
+    "C": "At a toll station.",
+    "D": "At a police station."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Uh-oh! There's a police car behind us."
+    },
+    {
+     "s": "W",
+     "t": "So? What's wrong?"
+    },
+    {
+     "s": "M",
+     "t": "I was speeding. He wants me to pull over."
+    },
+    {
+     "s": "W",
+     "t": "Get your driver's license ready. It's in the glove compartment."
+    },
+    {
+     "s": "Q",
+     "t": "Where are the speakers?"
+    }
+   ],
+   "explain": "解析:題目問說話者在哪裡? 依據他們對話的內容: I was speeding. He wants\nme to pull over.( 我超速了，他要我停下來。) 以得知是他們在開車 答案選a",
+   "audio": "audio/b15/052.mp3"
+  },
+  {
+   "id": "b15-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Did you call a cab for me? I can't be late. M: It'll be here in about 10 minutes. Do you have your passport and tickets? Have you packed everything? W: Yes, I double-checked everything. Q: Where is the woman most likely going?",
+   "options": {
+    "A": "To a theater.",
+    "B": "To a museum.",
+    "C": "To an airport.",
+    "D": "To an advertising agency."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Did you call a cab for me? I can't be late."
+    },
+    {
+     "s": "M",
+     "t": "It'll be here in about 10 minutes. Do you have your passport and tickets? Have you packed everything?"
+    },
+    {
+     "s": "W",
+     "t": "Yes, I double-checked everything."
+    },
+    {
+     "s": "Q",
+     "t": "Where is the woman most likely going?"
+    }
+   ],
+   "explain": "解析: cab= taxi計程車; passport: 護照; pack: 打包，收拾（行李）; double-\ncheck: examine again 複查",
+   "audio": "audio/b15/053.mp3"
+  },
+  {
+   "id": "b15-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Next, please. How can I help you, ma'am? W: I'd like to cash the check and withdraw some money from my account. M: Have you signed your name on the back of the check? Q: Where is the conversation taking place?",
+   "options": {
+    "A": "At a bank.",
+    "B": "At a theater.",
+    "C": "At a hotel.",
+    "D": "At a drugstore."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Next, please. How can I help you, ma'am?"
+    },
+    {
+     "s": "W",
+     "t": "I'd like to cash the check and withdraw some money from my account."
+    },
+    {
+     "s": "M",
+     "t": "Have you signed your name on the back of the check?"
+    },
+    {
+     "s": "Q",
+     "t": "Where is the conversation taking place?"
+    }
+   ],
+   "explain": "Cash a check: to exchange a check, etc. for cash兌現支票; withdraw: v. to\ntake or move out or back, or to remove提取、撤回、撤離; sign: v. 簽名",
+   "audio": "audio/b15/054.mp3"
+  },
+  {
+   "id": "b15-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Don't add boiling water to the pot. M: I know. I'll let it cool down a little before pouring it on the leaves. W: Remember to let the leaves soak for a few minutes before pouring it out. Q: What is the man doing?",
+   "options": {
+    "A": "Cooking a meal.",
+    "B": "Making tea.",
+    "C": "Planting a tree.",
+    "D": "Drinking water."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Don't add boiling water to the pot."
+    },
+    {
+     "s": "M",
+     "t": "I know. I'll let it cool down a little before pouring it on the leaves."
+    },
+    {
+     "s": "W",
+     "t": "Remember to let the leaves soak for a few minutes before pouring it out."
+    },
+    {
+     "s": "Q",
+     "t": "What is the man doing?"
+    }
+   ],
+   "explain": "解析: boiling water: 熱開水; pour: 倒，注，灌; soak: to leave something in\nliquid浸泡",
+   "audio": "audio/b15/055.mp3"
+  },
+  {
+   "id": "b15-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Fifth floor, please. W: Yes, sir. That's men's clothing. M: I know. I come here often. W: Here you are. Please watch your step when exiting. Q: Where is the conversation taking place?",
+   "options": {
+    "A": "At a shoe store.",
+    "B": "In an office.",
+    "C": "At a carpet store.",
+    "D": "In an elevator."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Fifth floor, please."
+    },
+    {
+     "s": "W",
+     "t": "Yes, sir. That's men's clothing."
+    },
+    {
+     "s": "M",
+     "t": "I know. I come here often."
+    },
+    {
+     "s": "W",
+     "t": "Here you are. Please watch your step when exiting."
+    },
+    {
+     "s": "Q",
+     "t": "Where is the conversation taking place?"
+    }
+   ],
+   "explain": "解析:題目問：談話在哪裡進行？根據Fifth floor, Please watch your step\nwhen exiting. （出去時請注意您的腳步）。可以得知：電梯　所以答案ｄ",
+   "audio": "audio/b15/056.mp3"
+  },
+  {
+   "id": "b15-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: You'd better take an umbrella with you. M: Why? It's a sunny morning. W: By lunchtime it'll be a different story. Q: What does the woman mean?",
+   "options": {
+    "A": "The man forgot to take his box lunch.",
+    "B": "It is raining now.",
+    "C": "The man overslept this morning.",
+    "D": "It is likely to rain by noon."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "You'd better take an umbrella with you."
+    },
+    {
+     "s": "M",
+     "t": "Why? It's a sunny morning."
+    },
+    {
+     "s": "W",
+     "t": "By lunchtime it'll be a different story."
+    },
+    {
+     "s": "Q",
+     "t": "What does the woman mean?"
+    }
+   ],
+   "explain": "解析: W: 你最好帶把傘 M: 為什麼? 早上出太陽 W: 中午時就會變天了\nd. 中午可能會下雨\nbe likely to: If something is likely, it will probably happen or is expected.\n很可能的，可能要發生的; likely=probably",
+   "audio": "audio/b15/057.mp3"
+  },
+  {
+   "id": "b15-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Please open your mouth, Mr. Adams. M: I couldn't fall asleep last night. W: Please don't talk now. I can't see your teeth. Q: Who is the woman?",
+   "options": {
+    "A": "A dietitian.",
+    "B": "A dentist.",
+    "C": "A physician.",
+    "D": "A physicist."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Please open your mouth, Mr. Adams."
+    },
+    {
+     "s": "M",
+     "t": "I couldn't fall asleep last night."
+    },
+    {
+     "s": "W",
+     "t": "Please don't talk now. I can't see your teeth."
+    },
+    {
+     "s": "Q",
+     "t": "Who is the woman?"
+    }
+   ],
+   "explain": "解析: fall asleep: 睡著; dietitian: n. a person who scientifically studies and\ngives advice about food and eating飲食保健專家，營養師; dentist: n.牙醫;\nphysician: n. a medical doctor, especially one who has general skill and is\nnot a surgeon醫生；（尤指）內科醫生; physicist: n. a person who studies\nphysics or whose job is connected with physics 物理學家",
+   "audio": "audio/b15/058.mp3"
+  },
+  {
+   "id": "b15-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Would you like a cigarette? W: No, thanks. I've kicked the habit. M: Do you mind if I light up here? W: I do. You'd better go to the balcony. Q: What is the man going to do?",
+   "options": {
+    "A": "Have a smoke.",
+    "B": "Turn on a light.",
+    "C": "Clean the balcony.",
+    "D": "Get some fresh air."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Would you like a cigarette?"
+    },
+    {
+     "s": "W",
+     "t": "No, thanks. I've kicked the habit."
+    },
+    {
+     "s": "M",
+     "t": "Do you mind if I light up here?"
+    },
+    {
+     "s": "W",
+     "t": "I do. You'd better go to the balcony."
+    },
+    {
+     "s": "Q",
+     "t": "What is the man going to do?"
+    }
+   ],
+   "explain": "解析: kick the habit: to give up something harmful that you have done for a\nlong time\n改掉舊習慣；戒除惡習 ; light up: to light a cigarette點煙；點著（煙）;\nbalcony: 陽臺",
+   "audio": "audio/b15/059.mp3"
+  },
+  {
+   "id": "b15-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Can you help Michael with his financial problem? M: I'd like to, but I'm broke now. W: So am I. Q: What does the man mean?",
+   "options": {
+    "A": "He broke his promise.",
+    "B": "He is too busy.",
+    "C": "He has no money.",
+    "D": "He is tired of helping Michael."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Can you help Michael with his financial problem?"
+    },
+    {
+     "s": "M",
+     "t": "I'd like to, but I'm broke now."
+    },
+    {
+     "s": "W",
+     "t": "So am I."
+    },
+    {
+     "s": "Q",
+     "t": "What does the man mean?"
+    }
+   ],
+   "explain": "解析: financial: adj. relating to money or how money is managed財務的；財\n政的；金融的 broke: adj. without money 沒錢的; 破産; break a promise: 違背\n諾言; keep a promise: 信守承諾",
+   "audio": "audio/b15/060.mp3"
+  },
+  {
+   "id": "b15-061",
+   "n": 61,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: I need someone to help me with a few legal matters. W: Why don't you consult Mr. Miller? He is quite an expert. M: I'll call his office now. Q: Who most likely is Mr. Miller?",
+   "options": {
+    "A": "A lawyer.",
+    "B": "An accountant.",
+    "C": "A priest.",
+    "D": "An engineer."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "I need someone to help me with a few legal matters."
+    },
+    {
+     "s": "W",
+     "t": "Why don't you consult Mr. Miller? He is quite an expert."
+    },
+    {
+     "s": "M",
+     "t": "I'll call his office now."
+    },
+    {
+     "s": "Q",
+     "t": "Who most likely is Mr. Miller?"
+    }
+   ],
+   "explain": "解析: legal: connected with the law法律的; matter: n. 事件; consult: to get\ninformation or advice from a person, book, etc. with special knowledge on a\nparticular subject諮詢；請教; expert: a person with a high level of\nknowledge or skill relating to a particular subject or activity專家; lawyer n. 律\n師 ; accountant n. 會計師; priest. n.神父，牧師",
+   "audio": "audio/b15/061.mp3"
+  },
+  {
+   "id": "b15-062",
+   "n": 62,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Cathy told me she failed her math test. M: Why didn't she pass it? She stayed up all night studying for it. W: She was so tired that she didn't hear her alarm clock. Q: Why did Cathy fail the test?",
+   "options": {
+    "A": "She was too nervous.",
+    "B": "She didn't wake up in time.",
+    "C": "She was too confident.",
+    "D": "She didn't study at all."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Cathy told me she failed her math test."
+    },
+    {
+     "s": "M",
+     "t": "Why didn't she pass it? She stayed up all night studying for it."
+    },
+    {
+     "s": "W",
+     "t": "She was so tired that she didn't hear her alarm clock."
+    },
+    {
+     "s": "Q",
+     "t": "Why did Cathy fail the test?"
+    }
+   ],
+   "explain": "解析: fail her math test 她的數學考試不及格; stayed up all night熬夜\nShe was so tired that she didn't hear her alarm clock.(她是太疲倦，以至於沒\n有\n聽到鬧鐘。) 所以答案 b　She didn't wake up in time. 她沒有及時醒來。\nfail (v.) to be unsuccessful, or to judge that someone has been unsuccessful,\nin a test or exam（使）不及格；（使）未能通過（考試）\nA lot of people fail their driving test the first time.",
+   "audio": "audio/b15/062.mp3"
+  },
+  {
+   "id": "b15-063",
+   "n": 63,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: I need to buy a new pair of sneakers. W: Fine. I'm going to look at women's clothing. M: I'll meet you at the Japanese restaurant on the top floor in half an hour. Q: Where are the speakers?",
+   "options": {
+    "A": "In a supermarket.",
+    "B": "In a restaurant.",
+    "C": "In a post office.",
+    "D": "In a department store."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "I need to buy a new pair of sneakers."
+    },
+    {
+     "s": "W",
+     "t": "Fine. I'm going to look at women's clothing."
+    },
+    {
+     "s": "M",
+     "t": "I'll meet you at the Japanese restaurant on the top floor in half an hour."
+    },
+    {
+     "s": "Q",
+     "t": "Where are the speakers?"
+    }
+   ],
+   "explain": "解析: sneaker: a type of light, comfortable shoe that is suitable for playing\nsports 運動鞋; department store: 百貨公司",
+   "audio": "audio/b15/063.mp3"
+  },
+  {
+   "id": "b15-064",
+   "n": 64,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Did you check your briefcase? M: I checked it twice, but I still can't find them. W: Maybe they are in your coat pocket. M: No, they are not there. It looks like I'll have to take public transportation to work instead of driving. Q: What is the man looking for?",
+   "options": {
+    "A": "His car keys.",
+    "B": "His reading glasses.",
+    "C": "His briefcase.",
+    "D": "His coat."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Did you check your briefcase?"
+    },
+    {
+     "s": "M",
+     "t": "I checked it twice, but I still can't find them."
+    },
+    {
+     "s": "W",
+     "t": "Maybe they are in your coat pocket."
+    },
+    {
+     "s": "M",
+     "t": "No, they are not there. It looks like I'll have to take public transportation to work instead of driving."
+    },
+    {
+     "s": "Q",
+     "t": "What is the man looking for?"
+    }
+   ],
+   "explain": "解析:題目問男士在找什麼? 由他的回答 It looks like I'll have to take public\ntransportation to work instead of driving.(看來我必須乘公車去上班，而不是\n開車。)可以得知他是找車鑰匙 答案選 a",
+   "audio": "audio/b15/064.mp3"
+  },
+  {
+   "id": "b15-065",
+   "n": 65,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: You are late for work again. What happened? W: Sorry, Jack. I had to take my son to a clinic. M: I am sorry to hear that. Is he OK? Q: Why is the woman late for work?",
+   "options": {
+    "A": "She had to take her son to school.",
+    "B": "She had to visit her parents.",
+    "C": "Her son was sick.",
+    "D": "Her son didn't want to go to school."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "You are late for work again. What happened?"
+    },
+    {
+     "s": "W",
+     "t": "Sorry, Jack. I had to take my son to a clinic."
+    },
+    {
+     "s": "M",
+     "t": "I am sorry to hear that. Is he OK?"
+    },
+    {
+     "s": "Q",
+     "t": "Why is the woman late for work?"
+    }
+   ],
+   "explain": "解析:題目問女士為何又上班遲到? 由她的回答: I had to take my son to a\nclinic.我必須帶兒子去診所。可以得知是她兒子生病 答案選 c",
+   "audio": "audio/b15/065.mp3"
+  },
+  {
+   "id": "b15-066",
+   "n": 66,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: I think this one matches your shirt and suit. M: Are you sure? It seems too bright. W: That's the fashion this season. M: All right. And I'll need a pin to go with it. Q: What is the man buying?",
+   "options": {
+    "A": "A shirt.",
+    "B": "A suit.",
+    "C": "A tie.",
+    "D": "A belt."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "I think this one matches your shirt and suit."
+    },
+    {
+     "s": "M",
+     "t": "Are you sure? It seems too bright."
+    },
+    {
+     "s": "W",
+     "t": "That's the fashion this season."
+    },
+    {
+     "s": "M",
+     "t": "All right. And I'll need a pin to go with it."
+    },
+    {
+     "s": "Q",
+     "t": "What is the man buying?"
+    }
+   ],
+   "explain": "解析:題目問男士在買什麼? 由他的回答:我需要一根別針才能跟它搭配。可以\n得知是他買的是領帶 答案選 c",
+   "audio": "audio/b15/066.mp3"
+  },
+  {
+   "id": "b15-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "_______ I agree with you, it does not necessarily mean that I'll support you.",
+   "options": {
+    "A": "Unless",
+    "B": "Whether",
+    "C": "Until",
+    "D": "While"
+   },
+   "answer": "D",
+   "explain": "解析: 句意_______我同意你的意見，但這不一定意味著我會支持你的。 a\nunless _除非 b. Whether無論 c. Until 直到d. While 儘管 依照句意答案選 d"
+  },
+  {
+   "id": "b15-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Let's go grab a bite to eat before the movie, _______",
+   "options": {
+    "A": "shall we",
+    "B": "will you",
+    "C": "may we",
+    "D": "can you"
+   },
+   "answer": "A",
+   "explain": "解析: 句意我們看電影前去吃點東⻄吧，_______？ 特殊附加問句 ① Let's ...\n, shall we ? ② Let's not ... , all right /OK ? 　③ 祈使句... , will you ? (否定也\n是用will you ) ④ 邀請 , won't you ?"
+  },
+  {
+   "id": "b15-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The patient is suffering from a _______ disease and only has weeks to live.",
+   "options": {
+    "A": "terminal",
+    "B": "tremendous",
+    "C": "treatable",
+    "D": "trial"
+   },
+   "answer": "A",
+   "explain": "解析: 句意 該患者患有_______疾病，只能存活數週。依照句意 答案a\nterminal末期的 Terminal (adj.) (of a disease or illness) leading gradually to\ndeath （疾病）晚期的，末期的 They didn't realize his cancer was terminal."
+  },
+  {
+   "id": "b15-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The huge traffic jam _______ the road system in the city for more than 3 hours.",
+   "options": {
+    "A": "aroused",
+    "B": "paralyzed",
+    "C": "arranged",
+    "D": "prevented"
+   },
+   "answer": "B",
+   "explain": "解析: 句意巨大的交通擁堵使該市的道路系統_______了3個多小時。依照句\n意 答案b paralyzed 癱瘓的 Paralyze (v.) unable to move or act 麻痺的，癱瘓\n的 The accident left her paralysed from the waist down."
+  },
+  {
+   "id": "b15-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Take a deep breath, George. You are _______ too nervous now.",
+   "options": {
+    "A": "been",
+    "B": "being",
+    "C": "be",
+    "D": "to be"
+   },
+   "answer": "B",
+   "explain": "解析: 句意 深吸一口氣，喬治。您現在_______太緊張了。 「主詞 + be動詞\n+ being + 形容詞」的句型是用來指某人只是在此刻或過去的某一刻是那樣子\n注意主詞後的 be 動詞要視時態而用 am, are, is 或過去的 was, were"
+  },
+  {
+   "id": "b15-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "You must _______ your cigarette in the special container outside the restaurant before going back inside.",
+   "options": {
+    "A": "distinguish",
+    "B": "resist",
+    "C": "extinguish",
+    "D": "consist"
+   },
+   "answer": "C",
+   "explain": "解析:句意 您必須先在餐廳外的專用容器中_______抽煙，然後再返回店內。\na distinguish區分 b. resist 抵抗 c. extinguish熄滅 d. consist組成 依照句意答\n案選 c Extinguish (v.) to stop a fire or a light burning 熄滅，撲滅（火或光）\nIt took the firefighters several hours to extinguish the flames."
+  },
+  {
+   "id": "b15-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The pedestrian _______ down by a van has been rushed to a nearby hospital.",
+   "options": {
+    "A": "run",
+    "B": "ran",
+    "C": "running",
+    "D": "to run"
+   },
+   "answer": "A",
+   "explain": "解析: 這裡選run 是過去分詞表示被動-\u0000 原句子 the pedestrian who was run\ndown by…..-\u0000who was 省略。句子意思:被貨車撞倒的行人已被送往附近的醫\n院。"
+  },
+  {
+   "id": "b15-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The war hero survived the war, _______ die in a car accident on his way home.",
+   "options": {
+    "A": "in order to",
+    "B": "due to",
+    "C": "only to",
+    "D": "even to"
+   },
+   "answer": "C",
+   "explain": "解析: 句意這位戰爭英雄在戰爭中倖存下來，在回家途中因車禍喪生\n_______。only to + 原形動詞常常充當結果副詞, 它所表示的事件是緊接在前\n面的事件之後發生的, 往往表示意外或不幸的結果。"
+  },
+  {
+   "id": "b15-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "David went through a three-month trial period before he was offered a _______ job.",
+   "options": {
+    "A": "logical",
+    "B": "preventive",
+    "C": "likely",
+    "D": "permanent"
+   },
+   "answer": "D",
+   "explain": "解析: 句意大衛經歷了三個月的試用期，然後才被提供_______的工作。\nlogical 合乎邏輯的 b. preventive預防性的 c. likely可能的 d. permanent永久的\n依照句意答案選 d trial (n.) a test, usually over a limited period of time, to\ndiscover how effective or suitable something or someone is 試驗；試用\nThey've employed her for a six-month trial period. permanent (adj.) lasting\nor continuing for a very long time or forever The museum's permanent\ncollection includes works of art from the 18th century."
+  },
+  {
+   "id": "b15-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Listen, you guys. A prize of $200 will go to _______ tells the best joke.",
+   "options": {
+    "A": "which",
+    "B": "whom",
+    "C": "whoever",
+    "D": "whomever"
+   },
+   "answer": "C",
+   "explain": "解析: whoever = any one who，複合關係代名詞 whoever 結合先行詞 any\none 與關係代名詞 who。複合關係代名詞含有先行詞與關係代名詞雙重角\n色。使用複合關係代名詞不需要先行詞。"
+  },
+  {
+   "id": "b15-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Doing anything _______ is likely to invite trouble. You should always look before you leap.",
+   "options": {
+    "A": "consequently",
+    "B": "relatively",
+    "C": "consciously",
+    "D": "recklessly"
+   },
+   "answer": "D",
+   "explain": "解析: 句意________做任何事情都可能引起麻煩。 你應該總是在跳之前先看\n一下。 a. consequently 因此 b. relatively 相對地 c. consciously 有意識地 d.\nrecklessly魯莽地。依照句意答案選 d Recklessly (adv.) marked by lack of\nproper caution: careless of consequences魯莽地 They recklessly threw\nthemselves into battle."
+  },
+  {
+   "id": "b15-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Some people believe there is a(n) _______ force in the Bermuda Triangle that pulls pilots off their courses.",
+   "options": {
+    "A": "infectious",
+    "B": "mysterious",
+    "C": "simultaneous",
+    "D": "miserable"
+   },
+   "answer": "B",
+   "explain": "解析: 句意 有人認為，百慕大三角地區有一________力量將飛行員拖離航\n道。 依照句意答案選 b mysterious 難以理解的 Mysterious (adj.) strange, not\nknown, or not understood 神秘的事物，難以理解的事物，謎 He died in\nmysterious circumstances, and there is still a possibility that it was murder."
+  },
+  {
+   "id": "b15-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Donald Trump was the first president in US history to be _______ twice.",
+   "options": {
+    "A": "grazed",
+    "B": "impeached",
+    "C": "generated",
+    "D": "prepared"
+   },
+   "answer": "B",
+   "explain": "解析: 句意唐納德·特朗普（Donald Trump）是美國歷史上第一位_____兩次\n總統。a. grazed 吃草的 b. impeached彈劾 c. generated產生的d. prepared\n準備好的 依照句意答案選 b Impeach (v.) to charge (a public official) with a\ncrime done while in office 彈劾 Congress will vote on whether or not to\nimpeach the President."
+  },
+  {
+   "id": "b15-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The terrorist tried to _______ the airplane but was subdued on board by an undercover cop.",
+   "options": {
+    "A": "persuade",
+    "B": "hire",
+    "C": "collide",
+    "D": "hijack"
+   },
+   "answer": "D",
+   "explain": "解析: 句意 恐怖分子試圖_______飛機，但被一名臥底警察制服。\na. persuade 說服 b. hire聘請 c. collide碰撞 d. hijack劫持\n依照句意答案選 d\nhijack (v.) to take control of an aircraft or other vehicle during a journey,\nespecially using violence 劫持（飛機或車輛）\nTwo men hijacked a jet travelling to Paris and demanded $125,000."
+  },
+  {
+   "id": "b15-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I stayed in Paris for five years, during _______ time I studied the French language and culture.",
+   "options": {
+    "A": "what",
+    "B": "which",
+    "C": "that",
+    "D": "this"
+   },
+   "answer": "B",
+   "explain": "解析: 句意我在巴黎待了五年，在那期間我學習了法語和文化。 關係代名詞\nwhich是代替前面整個主要子句内容的，因此 which子句做修飾句子的形容詞\n子句，上句的難點在於：which在子句中不是作主詞或受詞，也不是作介係詞\n受詞，而是作形容詞。因此，可以把 which叫做關係形容詞或關係限定詞\n（relative determiner）。"
+  },
+  {
+   "id": "b15-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "In the early days of the 20th century, almost all photographers _______ professionals.",
+   "options": {
+    "A": "are",
+    "B": "were",
+    "C": "have been",
+    "D": "had been"
+   },
+   "answer": "B",
+   "explain": "解析: 句意在20世紀初期，幾乎所有攝影師都是_______專業人士。 過去簡單\n式可用來表示過去的事實或普遍性真理 (但現在已不存在) 依照句意答案選 b\nProfessional (n.) a person who has the type of job that needs a high level of\neducation and training 專業人員 Will healthcare professionals risk their\nlicenses if they assist a woman?"
+  },
+  {
+   "id": "b15-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Mandy _______ her mother in looks and personality.",
+   "options": {
+    "A": "takes after",
+    "B": "makes up",
+    "C": "catches on",
+    "D": "settles down"
+   },
+   "answer": "A",
+   "explain": "解析: 依照句意答案a take after : to be similar to an older member of your\nfamily in appearance or character （在外貌、性格等方面）與（家庭中某個\n年紀較大成員）相像"
+  },
+  {
+   "id": "b15-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Fatigue from overwork and lack of sleep can severely decrease our work _______ and performance.",
+   "options": {
+    "A": "efficiency",
+    "B": "sensation",
+    "C": "anxiety",
+    "D": "conscience"
+   },
+   "answer": "A",
+   "explain": "解析: 句意 過度勞累和缺乏睡眠造成的疲勞會嚴重降低我們的工作_____和表\n現。依照句意答案選 a efficiency 效率 Efficiency (n.) the good use of time\nand energy in a way that does not waste any 效率；效能；功效 What is so\nimpressive about their society is the efficiency of the public services."
+  },
+  {
+   "id": "b15-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "My colleague suggested that we _______ at some other places for a change.",
+   "options": {
+    "A": "eat",
+    "B": "ate",
+    "C": "have eaten",
+    "D": "had eaten"
+   },
+   "answer": "A",
+   "explain": "解析:英文中要表示「建議、堅持或要求某人事物做某某動作」會應用一種句\n型：動詞 + that + 主詞 + (should) + 動詞，其中助動詞 should 可以省略，不\n過就算省略之後，其後的動詞仍然要維持原本原形動詞的型態喔！因此就算\nthat 這個子句裡的主詞為第三人稱單數 my colleague，後面的動詞仍然要用\n原形。答案a"
+  },
+  {
+   "id": "b15-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Except for a few occasions, motorists are not allowed to use the _______ on the highway.",
+   "options": {
+    "A": "hanger",
+    "B": "shredder",
+    "C": "hacker",
+    "D": "shoulder"
+   },
+   "answer": "D",
+   "explain": "解析: 句意除少數情況外，不允許駕駛員在高速公路上使用_______。 依照句\n意答案選 d shoulder 路肩 Shoulder (n.) an area along the side of a main\nroad where cars can stop 路肩，（大路兩側的）緊急停車道 There were tire\ntracks left in the soft shoulder"
+  },
+  {
+   "id": "b15-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "A flashlight, a first aid kit, a pocket knife, and other gadgets will come in _______ when you go camping in the mountains.",
+   "options": {
+    "A": "ready",
+    "B": "dizzy",
+    "C": "handy",
+    "D": "fizzy"
+   },
+   "answer": "C",
+   "explain": "解析: 句意當您在山上露營時，手電筒，急救箱，小刀和其他小工具會派上用\n場。 Handy (adj.) very useful or helpful便利 The extra batteries for the\nflashlight came in handy when the electricity went off."
+  },
+  {
+   "id": "b15-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "We wish the bride and the bridegroom _______.",
+   "options": {
+    "A": "very happy",
+    "B": "very happily",
+    "C": "ever happy",
+    "D": "every happiness"
+   },
+   "answer": "D",
+   "explain": "解析: wish + 某人 ＋ 某事 答案d"
+  },
+  {
+   "id": "b15-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "All things _______, I think we should take the initiative.",
+   "options": {
+    "A": "consider",
+    "B": "considering",
+    "C": "considered",
+    "D": "to consider"
+   },
+   "answer": "C",
+   "explain": "解析: 句意 考慮到所有事情，我認為我們應該採取主動。 all things\nconsidered 這是一個固定用法，表示「考慮到所有的因素；總體來說」。\nInitiative (n.) a new plan or process to achieve something or solve a problem\n倡議；新措施 The peace initiative was welcomed by both sides."
+  },
+  {
+   "id": "b15-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The COVID-19 _______ has lasted more than a year so far.",
+   "options": {
+    "A": "patronage",
+    "B": "version",
+    "C": "pandemic",
+    "D": "virtue"
+   },
+   "answer": "C",
+   "explain": "解析: 句意 迄今為止，COVID-19________已經持續了一年多。 a. patronage\n惠顧 b. version版本 c. pandemic 大流行病 d. virtue 美德 依照句意答案選 c\nPandemic (adj.) (of a disease) existing in almost all of an area or in almost\nall of a group of people, animals, or plants （疾病）大規模流行的，廣泛蔓延\n的 In some parts of the world malaria is still pandemic."
+  },
+  {
+   "id": "b15-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "There will _______ no additional charges for our delivery service.",
+   "options": {
+    "A": "have",
+    "B": "be",
+    "C": "take",
+    "D": "bring"
+   },
+   "answer": "B",
+   "explain": "解析: 句意我們的送貨服務不會_______收取額外費用。依照句意 答案選b 想\n要表達「現在哪裡有某人、事、物」時，英文是用 There is 或 There are 開\n頭，至於要用 is 或 are，則取決於後面加的人事物。這裡因為是There will 所\n以用原型be Additional (adj.) extra 外加的，額外的 There will be an extra\ncharge for any additional passengers. Charge (n.) the amount of money that\nyou have to pay for something, especially for an activity or service （尤指某\n一活動或服務的）收費，費用，價格 Is there a charge for children or do they\ngo free?"
+  },
+  {
+   "id": "b15-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "You shouldn't _______ Eva's silence as a sign of weakness. She's not afraid to voice her opinion.",
+   "options": {
+    "A": "interpret",
+    "B": "oppose",
+    "C": "interrupt",
+    "D": "offend"
+   },
+   "answer": "A",
+   "explain": "解析: 句意 您不應該________伊娃的沉默表示軟弱。她不怕發表意見。 依照\n句意答案選 a interpret闡釋 Interpret (v.) to decide what the intended\nmeaning of something is 理解，解釋，闡釋 It's difficult to interpret these\nstatistics without knowing how they were obtained."
+  },
+  {
+   "id": "b15-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "People who _______ a lot of red meat tend to have higher blood pressure and cholesterol levels.",
+   "options": {
+    "A": "consume",
+    "B": "deny",
+    "C": "commute",
+    "D": "delete"
+   },
+   "answer": "A",
+   "explain": "解析: 句意_______紅肉的人往往有較高的血壓和膽固醇 a. consume 消耗 b.\ndeny 否定 c. commute通勤 d. delete 刪除 依照句意答案選 a Consume (v.) to\neat or drink (something) They consumed a lot of beer at the party."
+  },
+  {
+   "id": "b15-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "At the end of the ceremony, the graduates _______ their caps into the air.",
+   "options": {
+    "A": "threw",
+    "B": "swiped",
+    "C": "drew",
+    "D": "claimed"
+   },
+   "answer": "A",
+   "explain": "解析:句意典禮結束時，畢業生_______帽子向空中。依照句意 答案選a a.\nthrew 扔 b. swiped刷 c. drew畫 d. claimed聲稱"
+  },
+  {
+   "id": "b15-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "_______ as I sympathize with those earthquake victims, I'm not able to offer much help.",
+   "options": {
+    "A": "Much",
+    "B": "Many",
+    "C": "Since",
+    "D": "Ever"
+   },
+   "answer": "A",
+   "explain": "解析: 句意 我對那些地震受害者深表同情，但我無法提供太多幫助。much as\nS + V, S + V. 為連接詞，連接兩個完整子句(有主詞有動詞)，表示「儘管、雖\n然」。 引導的子句可置於主要子句之前或之後，中間用逗點隔開。 皆不可再\n加連接詞but。 Sympathize (v.) to understand and care about someone's\nproblems 同情，體諒，憐憫 I know what it's like to have migraines, so I\nreally sympathize (with you)."
+  },
+  {
+   "id": "b15-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "By the time we meet again, spring _______.",
+   "options": {
+    "A": "has arrived",
+    "B": "must be arrived",
+    "C": "is arriving",
+    "D": "will have arrived"
+   },
+   "answer": "D",
+   "explain": "解析: 句意 到我們再次見面的時候，春天_______。 By the time 是指\n「到……的時候」的意思。[ By the time ]是連接詞，假如它引導的子句是描\n述未來，主要子句要用未來完成式。依照句意答案選 d"
+  },
+  {
+   "id": "b15-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "According to a study, walking _______ has some health benefits. It lets us connect to the Earth and its magnetic fields.",
+   "options": {
+    "A": "barefoot",
+    "B": "elsewhere",
+    "C": "otherwise",
+    "D": "meanwhile"
+   },
+   "answer": "A",
+   "explain": "解析: 句意 一項研究表明，_______走有一定的健康益處。它使我們可以連接\n到地球及其磁場。依照句意答案選 a Barefoot 赤腳的（地） Barefoot (adj.)\nnot wearing any shoes or socks 赤腳的（地） We took off our shoes and\nsocks and walked barefoot along the beach."
+  },
+  {
+   "id": "b15-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Since the invention of the television and the internet, fewer and fewer people have been listening to the radio. Nevertheless, it has remained an important source of information and entertainment for some people. And of late, a new form of radio show has really taken off ─ the podcast. Podcasts are essentially online radio shows that you can access on your mobile device or computer. The new term is a combination of the words “ipod” and “broadcast.” They can either be downloaded as an audio file or streamed directly on the internet. Which of the following can you use to access a podcast?",
+   "options": {
+    "A": "A radio",
+    "B": "A smartphone",
+    "C": "A bulletin board",
+    "D": "A megaphone"
+   },
+   "answer": "B",
+   "explain": "解析: 題目問您可以使用以下哪項可以使用播客？依照句意 答案b"
+  },
+  {
+   "id": "b15-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "These days, one's temperature can be taken by some new devices that are accurate and easy to use. One such device is known as an infrared thermometer. It should be held close to, but not touch, a person's forehead. The infrared thermometer provides a digital readout of the person's temperature. Another device is an infrared sensor. This is a much larger device that can measure temperature from a distance of several meters. A person's image can be seen on a screen. Unlike the mercury thermometer, both of the devices are non-invasive. Which of the following statements is true about infrared thermometers and infrared sensors?",
+   "options": {
+    "A": "Infrared sensors are less expensive than infrared thermometers.",
+    "B": "Infrared sensors are hand-held, while infrared thermometers are not",
+    "C": "Neither infrared thermometers nor infrared sensors have to come into contact with a person’s skin.",
+    "D": "Both infrared thermometers and infrared sensors use colors to display a person's temperature."
+   },
+   "answer": "C",
+   "explain": "解析: 題目問關於紅外線溫度計和紅外線傳感器，以下哪項是正確的？依照 文\n中 “與水銀溫度計不同，這兩種設備都是非侵入性的。” 答案c Neither\ninfrared thermometers nor infrared sensors have to come into contact with a\nperson’s skin. (紅外溫度計和紅外傳感器都不必與人的皮膚接觸。)\nInvasive (adj.)moving into all areas of something and difficult to stop 侵襲\n的，侵入的\nThey treated the cancer with non-invasive methods/surgery."
+  },
+  {
+   "id": "b15-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Peloton has been called the Amazon, the Apple, and the Netflix of the fitness industry. With such comparisons, you would be right in assuming that Peloton is an incredibly successful business. In a short time, the American company has sold hundreds of thousands of stationary bikes to enthusiastic customers. However, these aren't your typical workout bikes. The exercise equipment comes with an attached computer screen that you can use to watch fitness classes. Peloton also offers treadmills with built-in tablets. Who most likely would become a customer of Peloton?",
+   "options": {
+    "A": "A person who enjoys going to a gym.",
+    "B": "A person who likes to watch movies.",
+    "C": "A person who enjoys hanging out with friends.",
+    "D": "A person who likes to play chess."
+   },
+   "answer": "A",
+   "explain": "解析: 題目問誰最有可能成為Peloton的客戶？依照 文中 ”Peloton被稱為健身\n行業的亞馬遜，蘋果和Netflix。” 答案a 一個喜歡去健身房的人。"
+  }
+ ]
+}

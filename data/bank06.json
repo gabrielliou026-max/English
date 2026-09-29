@@ -1,0 +1,1645 @@
+{
+ "bank": "06",
+ "title": "第 06 回",
+ "questions": [
+  {
+   "id": "b06-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why did you break up with John?",
+   "options": {
+    "A": "He had been two-timing me.",
+    "B": "He was a record-breaker.",
+    "C": "He had been waiting for me.",
+    "D": "He was crazy about me."
+   },
+   "answer": "A",
+   "audio": "audio/b06/001.mp3"
+  },
+  {
+   "id": "b06-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "You seem to be lost. Need help?",
+   "options": {
+    "A": "No, I'm not a loser.",
+    "B": "Thanks for your help.",
+    "C": "Yes, I've lost some weight.",
+    "D": "Yes, I'm looking for the exit."
+   },
+   "answer": "D",
+   "audio": "audio/b06/002.mp3"
+  },
+  {
+   "id": "b06-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "question",
+   "stem": "May I speak with John, please?",
+   "options": {
+    "A": "Yes, you may speak your mind.",
+    "B": "This is he.",
+    "C": "No, I did not say anything.",
+    "D": "It's all right."
+   },
+   "answer": "B",
+   "audio": "audio/b06/003.mp3"
+  },
+  {
+   "id": "b06-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How did you meet your girlfriend?",
+   "options": {
+    "A": "Someone fixed me up with her.",
+    "B": "It was at a restaurant.",
+    "C": "She stood me up several times.",
+    "D": "It was in 2009."
+   },
+   "answer": "A",
+   "audio": "audio/b06/004.mp3"
+  },
+  {
+   "id": "b06-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What's the time difference between Taipei and Toronto?",
+   "options": {
+    "A": "Taipei has a population of 2.6 million.",
+    "B": "Toronto is a big city in Canada .",
+    "C": "Taipei is 12 hours ahead.",
+    "D": "Toronto has been famous for its nightlife."
+   },
+   "answer": "C",
+   "audio": "audio/b06/005.mp3"
+  },
+  {
+   "id": "b06-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How was your flight?",
+   "options": {
+    "A": "It was a business trip.",
+    "B": "It was a bumpy trip.",
+    "C": "It was a camping trip.",
+    "D": "It was a company trip."
+   },
+   "answer": "B",
+   "audio": "audio/b06/006.mp3"
+  },
+  {
+   "id": "b06-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you often skip breakfast?",
+   "options": {
+    "A": "No, I never make breakfast for myself.",
+    "B": "Yes, I'm too busy in the morning.",
+    "C": "No, I haven't had lunch yet.",
+    "D": "Yes, breakfast is the most important meal of the day."
+   },
+   "answer": "B",
+   "audio": "audio/b06/007.mp3"
+  },
+  {
+   "id": "b06-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How long are you going to stay there?",
+   "options": {
+    "A": "That depends.",
+    "B": "It won't take long to get there.",
+    "C": "That sounds interesting.",
+    "D": "It will take about a week."
+   },
+   "answer": "A",
+   "audio": "audio/b06/008.mp3"
+  },
+  {
+   "id": "b06-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you going with us?",
+   "options": {
+    "A": "Yes. I'm planning to go alone.",
+    "B": "No, I don't want to be a third wheel.",
+    "C": "Yes, I accept your apologies.",
+    "D": "No, I'm not that busy."
+   },
+   "answer": "B",
+   "audio": "audio/b06/009.mp3"
+  },
+  {
+   "id": "b06-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you need a hand?",
+   "options": {
+    "A": "No, I can't offer any help.",
+    "B": "Yes, I'm ready to be assistant.",
+    "C": "No, I can manage.",
+    "D": "Yes, I'll give you a big hand."
+   },
+   "answer": "C",
+   "audio": "audio/b06/010.mp3"
+  },
+  {
+   "id": "b06-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is it a he or a she?",
+   "options": {
+    "A": "Yes, it is.",
+    "B": "I have no idea.",
+    "C": "No, they are not.",
+    "D": "Are you sure?"
+   },
+   "answer": "B",
+   "audio": "audio/b06/011.mp3"
+  },
+  {
+   "id": "b06-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where can I claim my baggage?",
+   "options": {
+    "A": "At the carousel.",
+    "B": "At the check-in counter.",
+    "C": "At the boarding gate.",
+    "D": "At the duty-free shop."
+   },
+   "answer": "A",
+   "audio": "audio/b06/012.mp3"
+  },
+  {
+   "id": "b06-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where should I put some waste paper?",
+   "options": {
+    "A": "In the fridge.",
+    "B": "In the safe.",
+    "C": "In the trash can.",
+    "D": "In the bank."
+   },
+   "answer": "C",
+   "audio": "audio/b06/013.mp3"
+  },
+  {
+   "id": "b06-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do I have to change planes in Hong Kong?",
+   "options": {
+    "A": "Yes, let's go somewhere else for a change.",
+    "B": "No, it won't take too much time.",
+    "C": "Yes, all plans are subject to change.",
+    "D": "No, it'll be a direct flight."
+   },
+   "answer": "D",
+   "audio": "audio/b06/014.mp3"
+  },
+  {
+   "id": "b06-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Shall we split the bill?",
+   "options": {
+    "A": "Yes, I've invited Bill.",
+    "B": "Yes, I spilled the coffee.",
+    "C": "No, it's my treat this time.",
+    "D": "No, it's not a cold pill."
+   },
+   "answer": "C",
+   "audio": "audio/b06/015.mp3"
+  },
+  {
+   "id": "b06-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Did you check the best-before date?",
+   "options": {
+    "A": "No, I've never used checks.",
+    "B": "Yes, I've arranged a date for you.",
+    "C": "No, it isn't the best yet.",
+    "D": "Yes, it says it'll expire on September 30."
+   },
+   "answer": "D",
+   "audio": "audio/b06/016.mp3"
+  },
+  {
+   "id": "b06-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What kind of beverage would you like?",
+   "options": {
+    "A": "I don't like to be as busy as a beaver.",
+    "B": "I don't like to be average.",
+    "C": "I'd like a double bed, please.",
+    "D": "I'd like a coke, please."
+   },
+   "answer": "D",
+   "audio": "audio/b06/017.mp3"
+  },
+  {
+   "id": "b06-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Did you work your way through college?",
+   "options": {
+    "A": "No, I rarely walked to school.",
+    "B": "Yes, I worked part-time to pay my tuition.",
+    "C": "No, I didn't live on campus.",
+    "D": "Yes, I miss my school days."
+   },
+   "answer": "B",
+   "audio": "audio/b06/018.mp3"
+  },
+  {
+   "id": "b06-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Would you like a second helping?",
+   "options": {
+    "A": "I don't think I need your help now.",
+    "B": "I think I still have room for more food.",
+    "C": "I don't think I'll have a second chance.",
+    "D": "I think I can wait a little longer."
+   },
+   "answer": "B",
+   "audio": "audio/b06/019.mp3"
+  },
+  {
+   "id": "b06-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Does the iPad carry a guarantee?",
+   "options": {
+    "A": "Yes, they offer a one-year warranty.",
+    "B": "No, they won't give it a try.",
+    "C": "Yes, the battery is rechargeable.",
+    "D": "No, the price is not reasonable."
+   },
+   "answer": "A",
+   "audio": "audio/b06/020.mp3"
+  },
+  {
+   "id": "b06-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you have a reservation?",
+   "options": {
+    "A": "Yes, I had a conversation with him.",
+    "B": "No, I haven't got any information.",
+    "C": "Yes, I booked a table for four.",
+    "D": "No, I don't care about my reputation."
+   },
+   "answer": "C",
+   "audio": "audio/b06/021.mp3"
+  },
+  {
+   "id": "b06-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What was your childhood like?",
+   "options": {
+    "A": "My children are the center of my life.",
+    "B": "I had a very strict upbringing.",
+    "C": "They all had a happy childhood.",
+    "D": "I told them bedtime stories every night."
+   },
+   "answer": "B",
+   "audio": "audio/b06/022.mp3"
+  },
+  {
+   "id": "b06-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you have a minute?",
+   "options": {
+    "A": "Sure. What's up?",
+    "B": "No, I won't be late.",
+    "C": "Yes, I need to take a few minutes' break.",
+    "D": "Sorry, I forgot to wear my watch."
+   },
+   "answer": "A",
+   "audio": "audio/b06/023.mp3"
+  },
+  {
+   "id": "b06-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why was there an ambulance outside?",
+   "options": {
+    "A": "One of our neighbors had a stroke.",
+    "B": "It was raining really hard.",
+    "C": "One of our colleagues was fired.",
+    "D": "It was a free delivery."
+   },
+   "answer": "A",
+   "audio": "audio/b06/024.mp3"
+  },
+  {
+   "id": "b06-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why did you drop out of the game?",
+   "options": {
+    "A": "I like to play video games.",
+    "B": "The game was very exciting.",
+    "C": "I pulled a muscle.",
+    "D": "The game was at its height."
+   },
+   "answer": "C",
+   "audio": "audio/b06/025.mp3"
+  },
+  {
+   "id": "b06-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "They may give away our plans.",
+   "options": {
+    "A": "They may oppose our plans.",
+    "B": "They may support our plans.",
+    "C": "They may obstruct our plans.",
+    "D": "They may reveal our plans."
+   },
+   "answer": "D",
+   "audio": "audio/b06/026.mp3"
+  },
+  {
+   "id": "b06-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The jury were unanimous in their decision.",
+   "options": {
+    "A": "They had difficulty reaching a decision.",
+    "B": "They had disagreements about their decision.",
+    "C": "They were in complete agreement when reaching the decision.",
+    "D": "They were ready to announce their decision."
+   },
+   "answer": "C",
+   "audio": "audio/b06/027.mp3"
+  },
+  {
+   "id": "b06-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The president of Egypt has stepped down.",
+   "options": {
+    "A": "The president of Egypt has resigned.",
+    "B": "The president of Egypt has disappeared.",
+    "C": "The president of Egypt has retired.",
+    "D": "The president of Egypt has escaped."
+   },
+   "answer": "A",
+   "audio": "audio/b06/028.mp3"
+  },
+  {
+   "id": "b06-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "An overdose of sleeping pills can be lethal.",
+   "options": {
+    "A": "Buying sleeping pills is legal.",
+    "B": "Selling sleeping pills is legal.",
+    "C": "Taking too many sleeping pills can cause death.",
+    "D": "Taking some sleeping pills can improve your sleep quality."
+   },
+   "answer": "C",
+   "audio": "audio/b06/029.mp3"
+  },
+  {
+   "id": "b06-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Hemingway was a prolific writer.",
+   "options": {
+    "A": "Hemingway wrote a lot of books.",
+    "B": "Hemingway was a world-famous writer.",
+    "C": "Heming way wrote a few political novels.",
+    "D": "Hemingway was a professional writer."
+   },
+   "answer": "A",
+   "audio": "audio/b06/030.mp3"
+  },
+  {
+   "id": "b06-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "It's a hybrid car.",
+   "options": {
+    "A": "It's a brand-new car.",
+    "B": "It uses both gas and electricity for power.",
+    "C": "It's a racing car.",
+    "D": "It uses only solar energy."
+   },
+   "answer": "B",
+   "audio": "audio/b06/031.mp3"
+  },
+  {
+   "id": "b06-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You should weigh your words.",
+   "options": {
+    "A": "You should wait and see.",
+    "B": "You should remain silent.",
+    "C": "You should think carefully before speaking.",
+    "D": "You should check with your dictionary."
+   },
+   "answer": "C",
+   "audio": "audio/b06/032.mp3"
+  },
+  {
+   "id": "b06-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Either you or I have to give a briefing.",
+   "options": {
+    "A": "Neither of us has to give a briefing.",
+    "B": "One of us has to give a briefing.",
+    "C": "Both of us have to go to a briefing.",
+    "D": "One of us has to go to a briefing."
+   },
+   "answer": "B",
+   "audio": "audio/b06/033.mp3"
+  },
+  {
+   "id": "b06-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The hurricane is gaining momentum.",
+   "options": {
+    "A": "The hurricane is heading in our direction.",
+    "B": "The hurricane is coming now.",
+    "C": "The hurricane is slowing down.",
+    "D": "The hurricane is moving faster."
+   },
+   "answer": "D",
+   "audio": "audio/b06/034.mp3"
+  },
+  {
+   "id": "b06-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The supermarket is open around the clock.",
+   "options": {
+    "A": "It opens around nine o'clock.",
+    "B": "It closes around midnight.",
+    "C": "It is open 24 hours a day.",
+    "D": "It is closed on ."
+   },
+   "answer": "C",
+   "audio": "audio/b06/035.mp3"
+  },
+  {
+   "id": "b06-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I'm no big fan of basketball.",
+   "options": {
+    "A": "I'm too short to play basketball.",
+    "B": "I'm not interested in basketball.",
+    "C": "I'm too busy to play basketball.",
+    "D": "I'm not good at basketball."
+   },
+   "answer": "B",
+   "audio": "audio/b06/036.mp3"
+  },
+  {
+   "id": "b06-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Your motorcycle needs to be maintained.",
+   "options": {
+    "A": "Your motorcycle needs to be insured.",
+    "B": "Your motorcycle needs to be warmed up.",
+    "C": "Your motorcycle needs to be registered.",
+    "D": "Your motorcycle needs to be serviced."
+   },
+   "answer": "D",
+   "audio": "audio/b06/037.mp3"
+  },
+  {
+   "id": "b06-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "This painting is a forgery.",
+   "options": {
+    "A": "This painting is a fake.",
+    "B": "This painting is very valuable.",
+    "C": "This painting is a masterpiece.",
+    "D": "This painting is very abstract."
+   },
+   "answer": "A",
+   "audio": "audio/b06/038.mp3"
+  },
+  {
+   "id": "b06-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The media can make or break a politician.",
+   "options": {
+    "A": "The media can change a politician's behavior.",
+    "B": "The media can promote or destroy a politician's career.",
+    "C": "The media can help realize a politician's dreams.",
+    "D": "The media can influence a politician's view."
+   },
+   "answer": "B",
+   "audio": "audio/b06/039.mp3"
+  },
+  {
+   "id": "b06-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You've opened a can of worms.",
+   "options": {
+    "A": "You'll need a can-opener.",
+    "B": "You'll have to bring your fishing gear.",
+    "C": "You've created a lot of problems.",
+    "D": "You've created a lot of opportunities."
+   },
+   "answer": "C",
+   "audio": "audio/b06/040.mp3"
+  },
+  {
+   "id": "b06-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "They are using cutting-edge weapons.",
+   "options": {
+    "A": "They are using conventional weapons.",
+    "B": "They are using very advanced weapons.",
+    "C": "They are using automatic weapons.",
+    "D": "They are using chemical weapons."
+   },
+   "answer": "B",
+   "audio": "audio/b06/041.mp3"
+  },
+  {
+   "id": "b06-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "They hired the woman on the spot.",
+   "options": {
+    "A": "They employed the woman immediately.",
+    "B": "They fired the woman immediately.",
+    "C": "They discriminated against the woman.",
+    "D": "They hurt the woman's feelings."
+   },
+   "answer": "A",
+   "audio": "audio/b06/042.mp3"
+  },
+  {
+   "id": "b06-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "My grandmother is hard of hearing.",
+   "options": {
+    "A": "She is still very healthy.",
+    "B": "She is very stubborn.",
+    "C": "She is partially deaf.",
+    "D": "She is gradually recovering."
+   },
+   "answer": "C",
+   "audio": "audio/b06/043.mp3"
+  },
+  {
+   "id": "b06-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You are supposed to be present at the meeting.",
+   "options": {
+    "A": "You should give presents at the meeting.",
+    "B": "You should call the meeting to order now.",
+    "C": "You should preside over the meeting.",
+    "D": "You should attend the meeting."
+   },
+   "answer": "D",
+   "audio": "audio/b06/044.mp3"
+  },
+  {
+   "id": "b06-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I'm having butterflies in my stomach.",
+   "options": {
+    "A": "I am feeling sick.",
+    "B": "I am feeling very nervous.",
+    "C": "I'm having a stomach ache.",
+    "D": "I have a lot of air in my stomach."
+   },
+   "answer": "B",
+   "audio": "audio/b06/045.mp3"
+  },
+  {
+   "id": "b06-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The movie has an excellent cast.",
+   "options": {
+    "A": "The movie has very good soundtracks.",
+    "B": "The movie has very good special effects.",
+    "C": "The movie has very good costumes.",
+    "D": "The movie has very good actors."
+   },
+   "answer": "D",
+   "audio": "audio/b06/046.mp3"
+  },
+  {
+   "id": "b06-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "My younger sister was scared to death.",
+   "options": {
+    "A": "She was very frightened.",
+    "B": "She almost lost her life.",
+    "C": "She ws in poor health.",
+    "D": "She almost broke into tears."
+   },
+   "answer": "A",
+   "audio": "audio/b06/047.mp3"
+  },
+  {
+   "id": "b06-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The headache he had was imaginary.",
+   "options": {
+    "A": "His headache was very serious.",
+    "B": "His headache was a symptom of some disease.",
+    "C": "His headache was not real.",
+    "D": "His headache was caused by insomnia."
+   },
+   "answer": "C",
+   "audio": "audio/b06/048.mp3"
+  },
+  {
+   "id": "b06-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I'll bet my bottom dollar that he'll come.",
+   "options": {
+    "A": "I'm very sure that he'll come.",
+    "B": "I'm not sure whether he'll come.",
+    "C": "I'm very sure he won't be able to come.",
+    "D": "I'm not sure when he'll come."
+   },
+   "answer": "A",
+   "audio": "audio/b06/049.mp3"
+  },
+  {
+   "id": "b06-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Their service leaves nothing to be desired.",
+   "options": {
+    "A": "Their service is very bad.",
+    "B": "Their service is very satisfactory.",
+    "C": "Their service is free of charge.",
+    "D": "Their service is erratic."
+   },
+   "answer": "B",
+   "audio": "audio/b06/050.mp3"
+  },
+  {
+   "id": "b06-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Before you sign the lease, do you have any questions? W: Yes. Does the rent include utilities? Q: What is the woman doing?",
+   "options": {
+    "A": "Renting an apartment.",
+    "B": "Selling some furniture.",
+    "C": "Buying an insurance.",
+    "D": "Doing some housework."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Before you sign the lease, do you have any questions?"
+    },
+    {
+     "s": "W",
+     "t": "Yes. Does the rent include utilities?"
+    },
+    {
+     "s": "Q",
+     "t": "What is the woman doing?"
+    }
+   ],
+   "audio": "audio/b06/051.mp3"
+  },
+  {
+   "id": "b06-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Should we take the subway or a taxi to the airport? W: Let's take a taxi. My suitcase is too bulky to carry around. Q: Why does the woman suggest taking a taxi?",
+   "options": {
+    "A": "Taking a taxi will save more time.",
+    "B": "Her suitcase is large and heavy.",
+    "C": "The taxi driver will offer some help.",
+    "D": "The airport is crowded with people."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Should we take the subway or a taxi to the airport?"
+    },
+    {
+     "s": "W",
+     "t": "Let's take a taxi. My suitcase is too bulky to carry around."
+    },
+    {
+     "s": "Q",
+     "t": "Why does the woman suggest taking a taxi?"
+    }
+   ],
+   "audio": "audio/b06/052.mp3"
+  },
+  {
+   "id": "b06-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: You look very handsome in your cap and gown. M: Thanks, sis. You'll be going to college soon. Q: Why is the man wearing a cap and gown?",
+   "options": {
+    "A": "He is participating in some contest.",
+    "B": "He is participating in a cosplay event.",
+    "C": "He is going to play baseball.",
+    "D": "He is going to graduate from college."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "You look very handsome in your cap and gown."
+    },
+    {
+     "s": "M",
+     "t": "Thanks, sis. You'll be going to college soon."
+    },
+    {
+     "s": "Q",
+     "t": "Why is the man wearing a cap and gown?"
+    }
+   ],
+   "audio": "audio/b06/053.mp3"
+  },
+  {
+   "id": "b06-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: What do you think of Jenny's boyfriend? M: He is a bore. Q: What does the man mean?",
+   "options": {
+    "A": "Jenny's boyfriend is an intelligent person.",
+    "B": "Jenny's boyfriend is a reliable person.",
+    "C": "Jenny's boyfriend is an uninteresting person.",
+    "D": "Jenny's boyfriend is a nice person."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "What do you think of Jenny's boyfriend?"
+    },
+    {
+     "s": "M",
+     "t": "He is a bore."
+    },
+    {
+     "s": "Q",
+     "t": "What does the man mean?"
+    }
+   ],
+   "audio": "audio/b06/054.mp3"
+  },
+  {
+   "id": "b06-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: What time is it now? W: It's a quarter of three. Q: What time is it now?",
+   "options": {
+    "A": "It's 3:15.",
+    "B": "It's 2:45.",
+    "C": "It's 3:45.",
+    "D": "It's2:15."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "What time is it now?"
+    },
+    {
+     "s": "W",
+     "t": "It's a quarter of three."
+    },
+    {
+     "s": "Q",
+     "t": "What time is it now?"
+    }
+   ],
+   "audio": "audio/b06/055.mp3"
+  },
+  {
+   "id": "b06-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Let me check the doctor's schedule. Well, how about Friday afternoon at 2:30? M: OK, that'll be fine with me. Q: What is the man doing?",
+   "options": {
+    "A": "Asking the woman out for a date.",
+    "B": "Making an appointment.",
+    "C": "Giving the woman some instructions.",
+    "D": "Paying a fine to the court."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Let me check the doctor's schedule. Well, how about Friday afternoon at 2:30?"
+    },
+    {
+     "s": "M",
+     "t": "OK, that'll be fine with me."
+    },
+    {
+     "s": "Q",
+     "t": "What is the man doing?"
+    }
+   ],
+   "audio": "audio/b06/056.mp3"
+  },
+  {
+   "id": "b06-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Would you like to try your luck in Las Vegas? M: Of course. I can't wait to hit the jackpot. Q: Where will the man go in Las Vegas?",
+   "options": {
+    "A": "To a nightclub.",
+    "B": "To a magic show.",
+    "C": "To a restaurant.",
+    "D": "To a casino."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Would you like to try your luck in Las Vegas?"
+    },
+    {
+     "s": "M",
+     "t": "Of course. I can't wait to hit the jackpot."
+    },
+    {
+     "s": "Q",
+     "t": "Where will the man go in Las Vegas?"
+    }
+   ],
+   "audio": "audio/b06/057.mp3"
+  },
+  {
+   "id": "b06-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: The bride and the groom look very happy. M: Let's raise our glasses to them. W: OK. Q: What are the man and the woman going to do?",
+   "options": {
+    "A": "Put on their glasses to see better.",
+    "B": "Raise money for charity.",
+    "C": "Drink a toast to the bride and the groom.",
+    "D": "Arrange their own wedding."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "The bride and the groom look very happy."
+    },
+    {
+     "s": "M",
+     "t": "Let's raise our glasses to them."
+    },
+    {
+     "s": "W",
+     "t": "OK."
+    },
+    {
+     "s": "Q",
+     "t": "What are the man and the woman going to do?"
+    }
+   ],
+   "audio": "audio/b06/058.mp3"
+  },
+  {
+   "id": "b06-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Why are you crying? Has anything happened? M: My father passed away this morning. Q: What happened to the woman?",
+   "options": {
+    "A": "Her father died.",
+    "B": "Her father is very ill.",
+    "C": "Her father walked out on them.",
+    "D": "Her father vanished without a trace."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Why are you crying? Has anything happened?"
+    },
+    {
+     "s": "M",
+     "t": "My father passed away this morning."
+    },
+    {
+     "s": "Q",
+     "t": "What happened to the woman?"
+    }
+   ],
+   "audio": "audio/b06/059.mp3"
+  },
+  {
+   "id": "b06-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: How time flies! W: Yeah. New Year is around the corner. Q: What does the woman mean?",
+   "options": {
+    "A": "New Year is coming soon.",
+    "B": "She likes New Year best.",
+    "C": "New Year is still far away.",
+    "D": "She wants to make some New Year's resolutions."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "How time flies!"
+    },
+    {
+     "s": "W",
+     "t": "Yeah. New Year is around the corner."
+    },
+    {
+     "s": "Q",
+     "t": "What does the woman mean?"
+    }
+   ],
+   "audio": "audio/b06/060.mp3"
+  },
+  {
+   "id": "b06-061",
+   "n": 61,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "______ most people know, Nashville, Tennesse, is the home of country music.",
+   "options": {
+    "A": "When",
+    "B": "As",
+    "C": "While",
+    "D": "So"
+   },
+   "answer": "B",
+   "explain": "as表如同, 如眾所皆知的"
+  },
+  {
+   "id": "b06-062",
+   "n": 62,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The loud music from my next-door neighbor is driving me ______.",
+   "options": {
+    "A": "cuts",
+    "B": "nuts",
+    "C": "guts",
+    "D": "huts"
+   },
+   "answer": "B",
+   "explain": "drive someone nuts（mad/crazy） 讓某人火大"
+  },
+  {
+   "id": "b06-063",
+   "n": 63,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Jogging may be good for your health, but swimming is ______ better.",
+   "options": {
+    "A": "just",
+    "B": "justly",
+    "C": "even",
+    "D": "evenly"
+   },
+   "answer": "C",
+   "explain": "even better更好,慢跑對健康有益但游泳更甚於慢跑"
+  },
+  {
+   "id": "b06-064",
+   "n": 64,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Make one more mistake, ______ you are fired.",
+   "options": {
+    "A": "and",
+    "B": "or",
+    "C": "but",
+    "D": "for"
+   },
+   "answer": "A",
+   "explain": "用and表示話沒講完,你再犯錯就直接開除了"
+  },
+  {
+   "id": "b06-065",
+   "n": 65,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The coffee you brewed tastes really good . I'd like to get a ______.",
+   "options": {
+    "A": "refill",
+    "B": "refund",
+    "C": "return",
+    "D": "report"
+   },
+   "answer": "A",
+   "explain": "單字題refill續杯"
+  },
+  {
+   "id": "b06-066",
+   "n": 66,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "I fully enjoyed the high speed of the roller coaster______.",
+   "options": {
+    "A": "from door to door",
+    "B": "from near and far",
+    "C": "from start to finish",
+    "D": "from far and wide"
+   },
+   "answer": "C",
+   "explain": "from start to finish從頭到尾"
+  },
+  {
+   "id": "b06-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "______ I'm late, start the dinner party without me.",
+   "options": {
+    "A": "In time",
+    "B": "In case",
+    "C": "At worst",
+    "D": "At once"
+   },
+   "answer": "B",
+   "explain": "in case是萬一,萬一我遲到,你們就開始晚宴,不必等我"
+  },
+  {
+   "id": "b06-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "It is a one-stop shopping mall. You can ______ whatever you want there.",
+   "options": {
+    "A": "pick up",
+    "B": "make up",
+    "C": "look up",
+    "D": "take up"
+   },
+   "answer": "A",
+   "explain": "pick up撿起,收集,用少數的錢買到,用（車）來接,one-stop shopping是大型量\n販店"
+  },
+  {
+   "id": "b06-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "To tell you the truth, my sole hobby is ______ stamps and coins.",
+   "options": {
+    "A": "collect",
+    "B": "collected",
+    "C": "collecting",
+    "D": "collection"
+   },
+   "answer": "C",
+   "explain": "收集郵票和錢幣是動詞當名詞用,故collect 要+ing"
+  },
+  {
+   "id": "b06-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Most of the ______around the world feed on gossip and scandals.",
+   "options": {
+    "A": "temples",
+    "B": "temperatures",
+    "C": "tables",
+    "D": "tabloids"
+   },
+   "answer": "D",
+   "explain": "tabloids是八卦小報"
+  },
+  {
+   "id": "b06-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Although Jerry and I ______ co-workers for years, we do not get along.",
+   "options": {
+    "A": "had been",
+    "B": "have been",
+    "C": "had had",
+    "D": "have had"
+   },
+   "answer": "B",
+   "explain": "for + 一段時間句型使用現在完成式,表某段時間到現在我和Jerry雖然共事好多\n年還是處不來"
+  },
+  {
+   "id": "b06-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "It's your sister's wedding. You should ______for the occasion.",
+   "options": {
+    "A": "dress down",
+    "B": "dress up",
+    "C": "dress in",
+    "D": "dress on"
+   },
+   "answer": "B",
+   "explain": "dress up為盛裝打扮之意"
+  },
+  {
+   "id": "b06-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "If you are worried about coming down with the flu, ______vaccinated as soon as possible.",
+   "options": {
+    "A": "getting",
+    "B": "to get",
+    "C": "get",
+    "D": "got"
+   },
+   "answer": "C",
+   "explain": "get vaccinated要人去打疫苗是祈使句或命令句,需使用原形"
+  },
+  {
+   "id": "b06-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Wait a minute! Who do you think ______?",
+   "options": {
+    "A": "you are",
+    "B": "are you",
+    "C": "you were",
+    "D": "were you"
+   },
+   "answer": "A",
+   "explain": "who do you think後接子句,你以為你是誰？"
+  },
+  {
+   "id": "b06-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Lisa is very selfish. That's ______ I don't like about her.",
+   "options": {
+    "A": "how",
+    "B": "whether",
+    "C": "what",
+    "D": "who"
+   },
+   "answer": "C",
+   "explain": "Lisa很自私,這就是我不喜歡她的地方,what表示selfish"
+  },
+  {
+   "id": "b06-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Diana's image as a charity icon has remained intact ______ she died.",
+   "options": {
+    "A": "since",
+    "B": "until",
+    "C": "while",
+    "D": "as"
+   },
+   "answer": "A",
+   "explain": "since + 一個時間點的句型使用現在完成式; 自那時到現在"
+  },
+  {
+   "id": "b06-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "______ we have time to go grab a bite before the movie?",
+   "options": {
+    "A": "Are",
+    "B": "Do",
+    "C": "Were",
+    "D": "Had"
+   },
+   "answer": "B",
+   "explain": "主要動詞have的問句需使用助動詞do,看電影前我們有時間簡單吃點東⻄嗎？"
+  },
+  {
+   "id": "b06-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "It did not ______ to me that my cousin was the thief.",
+   "options": {
+    "A": "recall",
+    "B": "bring",
+    "C": "occur",
+    "D": "happen"
+   },
+   "answer": "C",
+   "explain": "occur to浮現;從沒想過我表哥就是那個小偷"
+  },
+  {
+   "id": "b06-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Judging from this picture, your father ______ very rich when young.",
+   "options": {
+    "A": "had to be",
+    "B": "must be",
+    "C": "has been",
+    "D": "must have been"
+   },
+   "answer": "D",
+   "explain": "從這張照片看來你父親一定以前就很有錢了,用現在完成式表達從以前到現在\n就是有錢人"
+  },
+  {
+   "id": "b06-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The passengers came to realize that the plane was losing ______ very quickly.",
+   "options": {
+    "A": "altitude",
+    "B": "attitude",
+    "C": "longitude",
+    "D": "latitude"
+   },
+   "answer": "A",
+   "explain": "altitude是高度,乘客領悟到飛機很快失去重心了"
+  },
+  {
+   "id": "b06-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "They had ______ walked for five minutes when they spotted a bus stop.",
+   "options": {
+    "A": "usually",
+    "B": "hardly",
+    "C": "normally",
+    "D": "practically"
+   },
+   "answer": "B",
+   "explain": "hardly幾乎不,當他們找到巴士站牌時幾乎連要走五分鐘都走不了了"
+  },
+  {
+   "id": "b06-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "I hate ______when I have to get out of bed very early on a cold morning.",
+   "options": {
+    "A": "that",
+    "B": "this",
+    "C": "it",
+    "D": "itself"
+   },
+   "answer": "C",
+   "explain": "it表示後者這件事;若為that,後面不接句子"
+  },
+  {
+   "id": "b06-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Ralph is packing his snorkeling ______ for the trip to the beach.",
+   "options": {
+    "A": "gear",
+    "B": "fee",
+    "C": "heel",
+    "D": "drill"
+   },
+   "answer": "A",
+   "explain": "gear為用具,snorkeling浮潛"
+  },
+  {
+   "id": "b06-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "______ to my disappointment, the guest I was expecting did not show up.",
+   "options": {
+    "A": "Rather",
+    "B": "Quite",
+    "C": "Much",
+    "D": "Very"
+   },
+   "answer": "C",
+   "explain": "much形容名詞disappointment表很失望"
+  },
+  {
+   "id": "b06-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "The king has three daughters. He said you may marry______you like.",
+   "options": {
+    "A": "whoever",
+    "B": "whatever",
+    "C": "however",
+    "D": "whichever"
+   },
+   "answer": "D",
+   "explain": "三個中任何一個用which表任一個"
+  },
+  {
+   "id": "b06-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "According to the study, such chemicals in the air will ______ harm to the ozone layer.",
+   "options": {
+    "A": "bring",
+    "B": "take",
+    "C": "make",
+    "D": "do"
+   },
+   "answer": "D",
+   "explain": "do harm是造成傷害　harm之前動詞需使用do"
+  },
+  {
+   "id": "b06-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "The officer said to me, \"Can you stand ______ one leg?",
+   "options": {
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "for"
+   },
+   "answer": "B",
+   "explain": "stand on one leg用一隻腳站立"
+  },
+  {
+   "id": "b06-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Not knowing ______, Tom turned to his friends for help.",
+   "options": {
+    "A": "to do how",
+    "B": "how to do",
+    "C": "to do what",
+    "D": "what to do"
+   },
+   "answer": "D",
+   "explain": "not know what to do是不知道做什麼好;而非怎麼做;句首動詞+ing"
+  },
+  {
+   "id": "b06-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "George demanded that Mary______ back all the money she had taken from him.",
+   "options": {
+    "A": "gave",
+    "B": "to give",
+    "C": "give",
+    "D": "giving"
+   },
+   "answer": "C",
+   "explain": "demand要求他人做的事使用原形,與suggest,　recommend的用法相同"
+  },
+  {
+   "id": "b06-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "______was the popularity of the opera that the theater was full every night.",
+   "options": {
+    "A": "Such",
+    "B": "So",
+    "C": "It",
+    "D": "That"
+   },
+   "answer": "A",
+   "explain": "such + N. … that…歌劇如此受歡迎到每晚都爆滿，such後接名詞\npopularity；so + adj.形容詞"
+  },
+  {
+   "id": "b06-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "My younger brother and I go hiking every Sundy morning, rain or ______.",
+   "options": {
+    "A": "shine",
+    "B": "sun",
+    "C": "shining",
+    "D": "sunny"
+   },
+   "answer": "A",
+   "explain": "rain or shine不論晴天或雨天"
+  },
+  {
+   "id": "b06-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Helen is too young to travel to Europe______.",
+   "options": {
+    "A": "lonely",
+    "B": "lonesome",
+    "C": "along",
+    "D": "alone"
+   },
+   "answer": "D",
+   "explain": "travel alone單獨旅行,用alone副詞形容動詞travel"
+  },
+  {
+   "id": "b06-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "All the players were very confident of winning the game. The coach was not so sure, ______.",
+   "options": {
+    "A": "but",
+    "B": "yet",
+    "C": "whatever",
+    "D": "though"
+   },
+   "answer": "D",
+   "explain": "though不過,可放句尾要加逗點,所有選手都有信心會贏但教練可沒把握"
+  },
+  {
+   "id": "b06-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "We spent a whole day ______art galleries and antique shops in Mumbai.",
+   "options": {
+    "A": "visiting",
+    "B": "visited",
+    "C": "to visit",
+    "D": "visit"
+   },
+   "answer": "A",
+   "explain": "spend後面動詞要+ ing,　花一整天在參觀美術館和骨董店"
+  },
+  {
+   "id": "b06-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The cause of the ______was due to the taxi driver's careless driving.",
+   "options": {
+    "A": "symbol",
+    "B": "subject",
+    "C": "current",
+    "D": "collision"
+   },
+   "answer": "D",
+   "explain": "collision撞擊,車子相撞起因於計程車司機的不小心"
+  },
+  {
+   "id": "b06-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "The ancient Greeks thought all the forces of nature were spirits. Therefore, the whole earth was filled with gods and goddesses. Each woodland, and even each great tree had its own god, not to mention the sun or the moon. What is the passage about?",
+   "options": {
+    "A": "Greek mythology.",
+    "B": "Greek philosophy.",
+    "C": "Greek medicine.",
+    "D": "Greek politics."
+   },
+   "answer": "A"
+  },
+  {
+   "id": "b06-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "During the second half of 2010, the price of corn rose sharply-73 percent in the United States. Most researchers attributed the soaring price to the greater use of American corn for making biofuel. What did the price of corn rise so sharply in the United States?",
+   "options": {
+    "A": "Because of a bad harvest.",
+    "B": "Because of natural disasters.",
+    "C": "Because demand for corn as food was increasing.",
+    "D": "Because more and more corn was used to make fuel."
+   },
+   "answer": "D"
+  },
+  {
+   "id": "b06-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Some people eat mostly fast food. One study shows that most fast-food eaters have a lot in common. They are competitive and good at business. They are also usually in a hurry. Many fast-food eaters might not agree with this description of their personalities, but it is a common picture of them. Which of the following is a trait of fast-food eaters?",
+   "options": {
+    "A": "They are more conservative.",
+    "B": "They are often on the go.",
+    "C": "They tend to disagree with each other.",
+    "D": "They enjoy taking pictures."
+   },
+   "answer": "B"
+  },
+  {
+   "id": "b06-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Dentists think that women can put up with more pain than men. Michael is a dentist and he says, \"Women are more aware of what pain is than a man.\" Men do not seem to expect any pain and are surprised when the drilling hurts. Pain researchers think that men aren't prepared for pain. What can be implied from the passage?",
+   "options": {
+    "A": "Women can endure pain better than men.",
+    "B": "Most dentists around the world are male.",
+    "C": "Men are always ready to endure pain.",
+    "D": "Female dentists are more welcome than male ones."
+   },
+   "answer": "A"
+  },
+  {
+   "id": "b06-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Global warming is not all bad for farming. For instance, in some parts of Siberia or northern Canada, increased temperature tends to lengthen the growing season with the possibility of growing a greater variety of crops in these regions. What is the main idea of this passage?",
+   "options": {
+    "A": "Global warming is good for nothing.",
+    "B": "Global warming is growing more serious.",
+    "C": "Global warming has some positive impacts.",
+    "D": "Global warming has many bad influences."
+   },
+   "answer": "C"
+  }
+ ]
+}

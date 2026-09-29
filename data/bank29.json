@@ -1,0 +1,1788 @@
+{
+ "bank": "29",
+ "title": "第 29 回",
+ "questions": [
+  {
+   "id": "b29-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "When was the last time you spoke to your daughter?",
+   "options": {
+    "A": "I called her just yesterday.",
+    "B": "She’s getting married next week.",
+    "C": "I tried to persuade her to adopt a pet.",
+    "D": "She’s coming back home from school."
+   },
+   "answer": "A",
+   "explain": "解析:你最近一次跟妳女兒講話是什麼時候? 答案:A 我昨晚才打給她。eat out\n外食",
+   "audio": "audio/b29/001.mp3"
+  },
+  {
+   "id": "b29-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Can I have a cheeseburger and a large Coke?",
+   "options": {
+    "A": "Yes, for here or to go?",
+    "B": "Sorry, I don’t like cheese.",
+    "C": "Yes, we still have seats available.",
+    "D": "Sorry, we don’t have Diet Coke."
+   },
+   "answer": "A",
+   "explain": "解析:我可以要一份起司漢堡跟一杯大杯可樂嗎? 答案:A 好的，內用還是要外\n帶呢?for here or to go 內用還是外帶",
+   "audio": "audio/b29/002.mp3"
+  },
+  {
+   "id": "b29-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is Michael going to become our CEO?",
+   "options": {
+    "A": "Yes, but it’s not official yet.",
+    "B": "No, our CEO will retire soon.",
+    "C": "Yes, he sadly passed away recently.",
+    "D": "No, he doesn’t want to quit."
+   },
+   "answer": "A",
+   "explain": "解析:麥可即將成為我們的執行長? 答案:A 是阿，但官方還沒宣布。filling\nstation 加油站定義: a place where fuel is sold for road vehicles, often with a\nsmall shop",
+   "audio": "audio/b29/003.mp3"
+  },
+  {
+   "id": "b29-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How did your Covid test come out?",
+   "options": {
+    "A": "The new model is still being tested.",
+    "B": "I passed all my exams with flying colors.",
+    "C": "The test was a piece of cake.",
+    "D": "I tested negative."
+   },
+   "answer": "D",
+   "explain": "解析:你快篩篩檢結果如何呀? 答案:D 呈陰性反應.come out 定義: to go\nsomewhere with someone for a social event 例句: Would you like to come\nout for a drink sometime? 找時間出來喝一杯嗎？",
+   "audio": "audio/b29/004.mp3"
+  },
+  {
+   "id": "b29-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why are you eating snacks while studying?",
+   "options": {
+    "A": "I need to lose some weight.",
+    "B": "I can’t focus when I’m hungry.",
+    "C": "I need to starve myself to help me concentrate.",
+    "D": "I don’t like to study on my own."
+   },
+   "answer": "B",
+   "explain": "解析:你為什麼要在讀書的時候吃點心呢? 答案: B 當我肚子餓的時候無法專\n心。 starve （使）挨餓；（使）餓死 定義: to (cause someone to) become\nvery weak or die because there is not enough food to eat 例句: Whole\ncommunities starved to death during the long drought. 在這場漫長的大旱\n中，整個村落的人都餓死了。",
+   "audio": "audio/b29/005.mp3"
+  },
+  {
+   "id": "b29-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What liquid is there in the container?",
+   "options": {
+    "A": "It’s free of charge.",
+    "B": "It’s gasoline.",
+    "C": "It’s already in use.",
+    "D": "It’s made of plastic."
+   },
+   "answer": "B",
+   "explain": "解析:在容器裡的是什麼液體? 答案:B 是汽油。",
+   "audio": "audio/b29/006.mp3"
+  },
+  {
+   "id": "b29-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you in a bad mood?",
+   "options": {
+    "A": "Yes, I think it’s a good move.",
+    "B": "Not really. I’m just a little tired.",
+    "C": "Yes, I need to catch up on some sleep.",
+    "D": "Not now. I’ll watch it later."
+   },
+   "answer": "B",
+   "explain": "解析:你心情不好嗎? 答案:B 沒耶，我只是有點累。a bad mood 心情很差",
+   "audio": "audio/b29/007.mp3"
+  },
+  {
+   "id": "b29-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Could you demonstrate that dance move for me one more time?",
+   "options": {
+    "A": "Sure, I’ll be ready for the next dance.",
+    "B": "Very well. Keep up the good work",
+    "C": "Sorry, I forgot where we were.",
+    "D": "No problem. Let me show you again."
+   },
+   "answer": "D",
+   "explain": "解析:可以請你在示範一次舞步給我看呢? 答案:D 沒問題，我再做一次給你\n看。 demonstrate 展示，示範 定義: to show something and explain how it\nworks 例句: The teacher demonstrated how to use the equipment.老師示範\n了如何使用這種設備。Keep up 定義: to prevent someone from going to bed\nor sleeping",
+   "audio": "audio/b29/008.mp3"
+  },
+  {
+   "id": "b29-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you think that conference room will fit the bill?",
+   "options": {
+    "A": "No, I’m not sure who will pay the bill.",
+    "B": "Yes, I think Bill has lost weight.",
+    "C": "No, I haven’t booked any rooms yet.",
+    "D": "Yes, it is exactly what we are looking for."
+   },
+   "answer": "D",
+   "explain": "解析:你覺得那間會議室符合需求嗎? 答案:D 沒錯，它剛剛好就是我們要找\n的。fit the bill 與目的相符，滿足要求 定義: to be suitable for a particular\npurpose",
+   "audio": "audio/b29/009.mp3"
+  },
+  {
+   "id": "b29-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you sure these numbers are accurate?",
+   "options": {
+    "A": "Yes, that’s my telephone number.",
+    "B": "No, I’m not to blame.",
+    "C": "Yes, they’re correct. I’ve checked a few times.",
+    "D": "No, I saved his number in my phone."
+   },
+   "answer": "C",
+   "explain": "解析:你確定這些數字有準確嗎 答案:C 是的，它們是對的，我已經確認好幾次\n了。accurate 精確的，準確的 定義: correct, exact, and without any mistakes\n例句: an accurate machine精密的機器",
+   "audio": "audio/b29/010.mp3"
+  },
+  {
+   "id": "b29-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Does your watch gain or lose?",
+   "options": {
+    "A": "My watch is slow by three minutes.",
+    "B": "This watch has many functions.",
+    "C": "My watch is imported from Switzerland.",
+    "D": "This watch has gained in value."
+   },
+   "answer": "A",
+   "explain": "解析:你的手錶走得比較快還是慢? 答案:A 我的手錶慢三分鐘。",
+   "audio": "audio/b29/011.mp3"
+  },
+  {
+   "id": "b29-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What’s your biggest phobia?",
+   "options": {
+    "A": "I’ve invested a lot in real estate.",
+    "B": "I’m very good at reading people’s minds.",
+    "C": "I’ve wasted a lot of time doing nothing.",
+    "D": "I’m terrified of snakes."
+   },
+   "answer": "D",
+   "explain": "解析:你最害怕的是什麼? 答案: D 我害怕蛇。 phobia 定義: an extreme fear\nor dislike of a particular thing or situation, especially one that cannot be\nreasonably explained 例句: I've got a phobia about/of cockroach.我很怕蟑\n螂。",
+   "audio": "audio/b29/012.mp3"
+  },
+  {
+   "id": "b29-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Would you like anything to drink?",
+   "options": {
+    "A": "The meal really hit the spot.",
+    "B": "I swore I’d never drink alcohol.",
+    "C": "A glass of water would be fine.",
+    "D": "I’d like to go to the pub."
+   },
+   "answer": "C",
+   "explain": "解析:你想喝點什麼嗎? 答案:C 一杯水就好。iconic 受歡迎的，出名的 定\n義:very famous or popular, especially being considered to represent\nparticular opinions or a particular time 例句: John Lennon gained iconic\nstatus following his death.約翰‧藍儂死後成了受歡迎的人物。",
+   "audio": "audio/b29/013.mp3"
+  },
+  {
+   "id": "b29-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Who should you seek help from to get rid of cockroaches?",
+   "options": {
+    "A": "A financial expert.",
+    "B": "A legal expert.",
+    "C": "A pest control expert.",
+    "D": "A medical expert."
+   },
+   "answer": "C",
+   "explain": "解析:為了擺脫蟑螂，你應該向誰求救? 答案:C 害蟲防治專家. cockroach 蟑螂\n定義: a flat, brown or black insect sometimes found in the home pest 定義:\nan insect or small animal that is harmful or damages crops 例句: common\npests such as rats, mice, or cockroaches老鼠、蟑螂等常見害蟲",
+   "audio": "audio/b29/014.mp3"
+  },
+  {
+   "id": "b29-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you want me to turn off all the lights?",
+   "options": {
+    "A": "No, use the remote control.",
+    "B": "Yes, turn the volume up.",
+    "C": "No, leave a light on.",
+    "D": "Yes, cancel the reservation."
+   },
+   "answer": "C",
+   "explain": "解析:你想要我關掉全部的燈嗎? 答案: C 不，留盞燈給我。turn off the lights\n關燈",
+   "audio": "audio/b29/015.mp3"
+  },
+  {
+   "id": "b29-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why do you look so pale?",
+   "options": {
+    "A": "I didn’t have a wink of sleep last night.",
+    "B": "I just got a pay raise.",
+    "C": "I’ve got some questions to ask you.",
+    "D": "I just came back from the spa."
+   },
+   "answer": "A",
+   "explain": "解析:你為什麼臉色看起來很黯淡? 答案:A 我昨晚一夜沒睡。 pale （臉色或膚\n色）蒼白的，白的 定義: used to describe a person's face or skin if it has\nless colour than usual, for example when the person is or ill or frightened, or\nif it has less colour than people gener",
+   "audio": "audio/b29/016.mp3"
+  },
+  {
+   "id": "b29-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you know you missed a golden opportunity when you refused that job?",
+   "options": {
+    "A": "Yes, I was hired on the spot.",
+    "B": "No, I didn’t go to the job interview.",
+    "C": "Yeah, it was a huge mistake.",
+    "D": "Nope, it was not my fault."
+   },
+   "answer": "C",
+   "explain": "解析:你知道當你回絕那份工作時，你錯失了一份絕佳的機會? 答案:C 是阿，\n那是個很大的錯失.refuse 拒絕，回絕 定義: to say that you will not do or\naccept something 例句: He asked me to give him another loan, but I\nrefused. 他讓我再借給他一筆錢，我拒絕了。",
+   "audio": "audio/b29/017.mp3"
+  },
+  {
+   "id": "b29-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How about we eat out tonight?",
+   "options": {
+    "A": "Good idea. I enjoy going to restaurants.",
+    "B": "Good thinking. We need to work out more often.",
+    "C": "Good idea. I enjoy going on a picnic.",
+    "D": "Good thinking. We need to cook at home more often."
+   },
+   "answer": "A",
+   "explain": "解析:我們今晚吃外食如何? 答案:A 好主意! 我喜歡吃餐廳。 eat out 外食",
+   "audio": "audio/b29/018.mp3"
+  },
+  {
+   "id": "b29-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why were you absent from the meeting?",
+   "options": {
+    "A": "The meeting lasted for more than two hours.",
+    "B": "I wasn’t informed about the meeting.",
+    "C": "The meeting was called by the manager.",
+    "D": "I fell asleep halfway through the meeting."
+   },
+   "answer": "B",
+   "explain": "解析:你為什麼缺席會議? 答案:B 我並沒有被通知到那場會議。absent from\n缺席 定義: not in the place where you are expected to be, especially at\nschool or work 例句: John has been absent from school for three days now.\n約翰至今已經曠課三天。",
+   "audio": "audio/b29/019.mp3"
+  },
+  {
+   "id": "b29-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How’s your headache?",
+   "options": {
+    "A": "I must have caught a cold.",
+    "B": "It’s caused by pressure from work.",
+    "C": "I stayed up until very late last night.",
+    "D": "It’s almost gone now."
+   },
+   "answer": "D",
+   "explain": "解析:你的頭痛還好嗎? 答案:D 現在好的差不多了. stay up 定義: to go to bed\nlater than usual 例句: We stayed up to watch a film.我們熬夜看了部電影。",
+   "audio": "audio/b29/020.mp3"
+  },
+  {
+   "id": "b29-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Don’t you think your suit is a bit outdated?",
+   "options": {
+    "A": "Yeah, this suit is about 10 years old.",
+    "B": "Nope, my date isn’t a co-worker of mine.",
+    "C": "Of course. I’ll do my best to suit your needs.",
+    "D": "No way! I’m not going to sell it."
+   },
+   "answer": "A",
+   "explain": "解析:你不覺得你的服裝有點過時了嗎? 答案:A 對阿，這套已經將近10年了。\noutdated 定義: old-fashioned and therefore not as good or as fashionable as\nsomething modern 例句: Nowadays this technique is completely outdated.現\n在這種技術已經相當過時了。",
+   "audio": "audio/b29/021.mp3"
+  },
+  {
+   "id": "b29-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you sure you didn’t forget anything?",
+   "options": {
+    "A": "I’m sure I’ll do everything to please you.",
+    "B": "Oh, no! I left my smartphone in the taxi!",
+    "C": "I’m sure you can achieve greatness.",
+    "D": "Wow! I can’t believe you’ve bought so many things."
+   },
+   "answer": "B",
+   "explain": "解析:你確定你沒有忘記任何事情嗎? 答案:B 不! 我把手機忘在計程車上。.a\nbad mood 心情很差",
+   "audio": "audio/b29/022.mp3"
+  },
+  {
+   "id": "b29-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Did you come into contact with any of the sick patients?",
+   "options": {
+    "A": "No, I didn’t sign any contracts with them.",
+    "B": "Yes, I’m always patient.",
+    "C": "No, I wasn’t even near any of them.",
+    "D": "Yes, I feel homesick now."
+   },
+   "answer": "C",
+   "explain": "解析: 你有接觸任何染疫的患者嗎 答案:C 不，甚至我沒有靠近任何一位患\n者.homesick: 定義: unhappy because of being away from home for a long\nperiod 例句: As I read my mother's letter, I began to feel more and more\nhomesick. 我在讀媽媽的來信時開始覺得越來越想家。",
+   "audio": "audio/b29/023.mp3"
+  },
+  {
+   "id": "b29-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The Eiffel Tower is the most iconic landmark in Paris, isn’t it?",
+   "options": {
+    "A": "No, I’ve never been there in my life.",
+    "B": "Yes, it’s recognized all over the world.",
+    "C": "No, I suggest you go see the London Eye.",
+    "D": "Yes, it’s more economical to take a bus there."
+   },
+   "answer": "B",
+   "explain": "解析:艾菲爾鐵塔是巴黎最著名的地標，不是嗎? 答案:B 是阿，他是世界公認\n的。iconic 受歡迎的，出名的 定義:very famous or popular, especially being\nconsidered to represent particular opinions or a particular time 例句: John\nLennon gained iconic status following his death.約翰‧藍儂死後成了受歡迎的\n人物。 recognize 識別，認出",
+   "audio": "audio/b29/024.mp3"
+  },
+  {
+   "id": "b29-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why didn’t you wake up at 6:30 this morning?",
+   "options": {
+    "A": "I got off work at 5:30 yesterday.",
+    "B": "I must have hit the snooze button.",
+    "C": "I had my breakfast at 7:30 this morning",
+    "D": "I went jogging in the park this morning."
+   },
+   "answer": "B",
+   "explain": "解析:你今天早上為什麼沒在06:30起床? 答案:B 我一定是按了延時按鈕。\nsnooze小睡，打瞌睡 定義: to sleep lightly for a short while 例句: The dog's\nsnoozing in front of the fire.那隻狗在爐火前打瞌睡。",
+   "audio": "audio/b29/025.mp3"
+  },
+  {
+   "id": "b29-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where are cars maintained or repaired?",
+   "options": {
+    "A": "At a motel.",
+    "B": "At a filling station.",
+    "C": "At a garage.",
+    "D": "At a police station."
+   },
+   "answer": "C",
+   "explain": "解析:車輛在哪裡維護或修理? 答案:C 在加油站。 filling station 加油站 定義: a\nplace where fuel is sold for road vehicles, often with a small shop",
+   "audio": "audio/b29/026.mp3"
+  },
+  {
+   "id": "b29-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What’s wrong with your computer?",
+   "options": {
+    "A": "It has crashed, I think.",
+    "B": "I have to type some documents.",
+    "C": "It was recently purchased.",
+    "D": "I have to save up to buy a new one."
+   },
+   "answer": "A",
+   "explain": "解析: 你的電腦有什麼問題嗎? 答案:A 我想它是當機了。 fit the bill 與目的相\n符，滿足要求 定義: to be suitable for a particular purpose",
+   "audio": "audio/b29/027.mp3"
+  },
+  {
+   "id": "b29-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What is your favorite book genre?",
+   "options": {
+    "A": "Science fiction.",
+    "B": "Games of Thrones.",
+    "C": "The library.",
+    "D": "Jane Austen."
+   },
+   "answer": "A",
+   "explain": "解析:你最喜歡的書籍類型是什麼? 答案:A 科幻,genre 風格，類型，體裁 定\n義: a style, especially in the arts, that involves a particular set of\ncharacteristics 例句: a film genre電影類型",
+   "audio": "audio/b29/028.mp3"
+  },
+  {
+   "id": "b29-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The idea of time varies from culture to culture.",
+   "options": {
+    "A": "The idea of time has changed over time.",
+    "B": "People from different cultures have different ideas of time.",
+    "C": "The idea of time is important to every culture.",
+    "D": "All people in the world have the same idea of time."
+   },
+   "answer": "B",
+   "explain": "解析:時間的觀點因文化不同有所差異 答案:B .",
+   "audio": "audio/b29/029.mp3"
+  },
+  {
+   "id": "b29-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Lisa has a finger in every pie.",
+   "options": {
+    "A": "Lisa is involved in many activities.",
+    "B": "Lisa is a chef in a bakery.",
+    "C": "Lisa is eating some finger bread.",
+    "D": "Lisa is an apprentice in a bakery."
+   },
+   "answer": "A",
+   "explain": "解析:麗莎凡事都要插上一腳 答案:A 麗莎涉入許多事情當中.have a finger in\nevery pie. 定義: to be involved in and have influence over many different\nactivities, often in a way that people do not approve of",
+   "audio": "audio/b29/030.mp3"
+  },
+  {
+   "id": "b29-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "A woman was caught driving while intoxicated.",
+   "options": {
+    "A": "A woman was caught running a red light.",
+    "B": "A woman was caught exceeding the speed limit.",
+    "C": "A woman was caught driving in the opposite direction.",
+    "D": "A woman was caught drinking and driving."
+   },
+   "answer": "D",
+   "explain": "解析:一名女性酒後駕車被逮捕 答案:D . intoxicated.喝醉的 定義: drunk 例句:\nShe was charged with driving while intoxicated.她被指控酒後駕車。 exceed\n超過，超出（數ᰁ）；超越（規定的範圍） 定義: to be greater than a\nnumber or amount, or to go past an allowed limit 例句: he final cost should\nnot exceed $500最終的費用不應超出500美元。",
+   "audio": "audio/b29/031.mp3"
+  },
+  {
+   "id": "b29-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Dairy products spoil easily.",
+   "options": {
+    "A": "Dairy products are rich in nutrients.",
+    "B": "Dairy products can be bought easily.",
+    "C": "Dairy products are easy to digest.",
+    "D": "Dairy products go bad easily."
+   },
+   "answer": "D",
+   "explain": "解析:乳製品容易變質。 答案:D 乳製品容易壞掉. Dairy 乳製品 定義: used to\nrefer to cows that are used for producing milk, rather than meat, or to foods\nthat are made from milk, such as cream, butter, and cheese 例句: dairy\nproducts乳製產品 spoil （使）（食物）變質，（使）變壞 定義: When food\nspoils or is spoiled, it is no longer good enough to eat. 例句: The dessert will\nspoil if you don't keep it in the fridge. 如果你不把甜點放冰箱，它會壞掉。",
+   "audio": "audio/b29/032.mp3"
+  },
+  {
+   "id": "b29-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Unblocking a toilet is not rocket science.",
+   "options": {
+    "A": "Unblocking a toilet is not difficult to do.",
+    "B": "Unblocking a toilet takes a lot of time.",
+    "C": "Unblocking a toilet is not easy to do.",
+    "D": "Unblocking a toilet costs a lot of money."
+   },
+   "answer": "A",
+   "explain": "解析:通廁所不是件難事 答案:A 通廁所做起來不困難.it is not rocket science\n不難，不複雜",
+   "audio": "audio/b29/033.mp3"
+  },
+  {
+   "id": "b29-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The music they played was out of this world.",
+   "options": {
+    "A": "The music they played was very funny.",
+    "B": "The music they played was not very original.",
+    "C": "The music they played was very enjoyable.",
+    "D": "The music they played was not in tune."
+   },
+   "answer": "C",
+   "explain": "解析:他們彈奏的音樂真是太美了 答案:C. out of this world 定義: extremely\ngood 例句: What a restaurant - the food was out of this world!多好的餐館呀\n—飯菜真是棒極了！",
+   "audio": "audio/b29/034.mp3"
+  },
+  {
+   "id": "b29-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "That actually is a petty problem.",
+   "options": {
+    "A": "That actually is an unimportant problem.",
+    "B": "That actually is a very serious problem.",
+    "C": "That actually is an urgent problem.",
+    "D": "That actually is a tricky problem."
+   },
+   "answer": "A",
+   "explain": "解析:這其實是個小問題 答案:A 這其實是個不᯿要的問題. petty 瑣碎的；無足\n輕᯿的 定義: not important and not worth giving attention to 例句: 放輕鬆一\n點！你不能老想著一些無關緊要的小事。 Lighten up! You cannot be\nobsessed about every petty details. exceed 超過，超出（數ᰁ）；超越（規\n定的範圍） 定義: to be greater than a number or amount, or to go past an\nallowed limit 例句: he final cost should not exceed $500最終的費用不應超出\n500美元。",
+   "audio": "audio/b29/035.mp3"
+  },
+  {
+   "id": "b29-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Money is no object.",
+   "options": {
+    "A": "Money can’t buy this object.",
+    "B": "Cost is a major concern.",
+    "C": "Money doesn’t grow on trees.",
+    "D": "Cost isn’t an issue."
+   },
+   "answer": "D",
+   "explain": "解析:錢不是問題 答案:D. Money is no object.錢不是問題",
+   "audio": "audio/b29/036.mp3"
+  },
+  {
+   "id": "b29-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I’ve cleaned my plate.",
+   "options": {
+    "A": "I’ve finished eating all my food.",
+    "B": "I’ve tidied up the mess.",
+    "C": "I’ve hit a home run.",
+    "D": "I’ve proved myself innocent."
+   },
+   "answer": "A",
+   "explain": "解析:我吃完盤內的食物了 答案:A 我已經吃完所有食物了.",
+   "audio": "audio/b29/037.mp3"
+  },
+  {
+   "id": "b29-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "There are many hazards in the jungle.",
+   "options": {
+    "A": "There are many animal species in the jungle.",
+    "B": "There are many plant species in the jungle.",
+    "C": "There are many dangers in the jungle.",
+    "D": "There are many treasures in the jungle."
+   },
+   "answer": "C",
+   "explain": "解析:叢林裡有許多危險 答案:C.hazard 定義: something that is dangerous\nand likely to cause damage 例句: The busy traffic entrance was a hazard to\npedestrians. 那個繁忙的車輛入口處對行人來說很不安全。",
+   "audio": "audio/b29/038.mp3"
+  },
+  {
+   "id": "b29-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I need to buy some footwear.",
+   "options": {
+    "A": "I need to buy some shoes.",
+    "B": "I need to buy some flowers.",
+    "C": "I need to buy some groceries.",
+    "D": "I need to buy some clothes."
+   },
+   "answer": "A",
+   "explain": "解析:我需要買一些鞋子。 答案:A 我需要買一些鞋子. 例句: dairy products乳\n製產品",
+   "audio": "audio/b29/039.mp3"
+  },
+  {
+   "id": "b29-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I start my day with a workout.",
+   "options": {
+    "A": "I start my day by taking a shower.",
+    "B": "I start my day by drinking a cup of coffee.",
+    "C": "I start my day by doing some exercise.",
+    "D": "I start my day by saying a prayer."
+   },
+   "answer": "C",
+   "explain": "解析:我用健身開始我的一天 答案:透過做一些運動開始我的一天.",
+   "audio": "audio/b29/040.mp3"
+  },
+  {
+   "id": "b29-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Let’s go grab a bite.",
+   "options": {
+    "A": "Let’s go fishing.",
+    "B": "Let’s go get something to eat.",
+    "C": "Let’s go hiking.",
+    "D": "Let’s go get something to drink."
+   },
+   "answer": "B",
+   "explain": "解析:我們去吃點東⻄吧 答案:B 我們去找點東⻄吃吧.grab a bite 吃點東⻄，\n覓食",
+   "audio": "audio/b29/041.mp3"
+  },
+  {
+   "id": "b29-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I like the plot of the movie.",
+   "options": {
+    "A": "I like the storyline of the movie.",
+    "B": "I like the cast of the movie.",
+    "C": "I like the music of the movie.",
+    "D": "I like the special effects of the movie."
+   },
+   "answer": "A",
+   "explain": "解析:我喜歡這部電影的情節 答案:A 我喜歡電的故事情節. plot 定義: the story\nof a book, film, play, etc. 例句: The plots of his books are basically all the\nsame.他的書情節基本上都一樣。",
+   "audio": "audio/b29/042.mp3"
+  },
+  {
+   "id": "b29-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The refrigerator is quite packed.",
+   "options": {
+    "A": "The refrigerator is fairly new.",
+    "B": "The refrigerator is full of everything.",
+    "C": "The refrigerator is too old.",
+    "D": "The refrigerator is cleaned out of everything."
+   },
+   "answer": "B",
+   "explain": "解析:冰箱塞得相當滿 答案:B 冰箱已被填滿東⻄. packed 擠滿的，擁擠的 定\n義: completely full 例句: This book is packed with useful information.這本書\n裡滿滿都是有用的資料。",
+   "audio": "audio/b29/043.mp3"
+  },
+  {
+   "id": "b29-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "We need to rightsize our workforce.",
+   "options": {
+    "A": "We need to increase the number of our employees.",
+    "B": "We need to emphasize our work conditions.",
+    "C": "We need to reduce the number of our employees.",
+    "D": "We need to improve our work efficiency."
+   },
+   "answer": "C",
+   "explain": "解析:我們需要精簡我們的員工數 答案: C 我們需要減少我們的員工數ᰁ.",
+   "audio": "audio/b29/044.mp3"
+  },
+  {
+   "id": "b29-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Colonel Marcus has a short fuse.",
+   "options": {
+    "A": "Colonel Marcus is not very tall.",
+    "B": "Colonel Marcus is going to be retired.",
+    "C": "Colonel Marcus is bad-tempered.",
+    "D": "Colonel Marcus is going to be promoted."
+   },
+   "answer": "C",
+   "explain": "解析:馬克思上校個性易怒 答案:C has a short fuse 易怒 bad-tempered壞脾\n氣，易怒的 例句: She has a crush on one of her teachers at school.她迷戀\n上了學校裡的一位老師。",
+   "audio": "audio/b29/045.mp3"
+  },
+  {
+   "id": "b29-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Your boss is a self-effacing person.",
+   "options": {
+    "A": "Your boss is a humble person.",
+    "B": "Your boss is a selfish person.",
+    "C": "Your boss is a cunning person.",
+    "D": "Your boss is a self-reliant person."
+   },
+   "answer": "A",
+   "explain": "解析:你老闆是個謙虛的人 答案:A . self-effacing 自謙，謙虛 定義: not making\nyourself noticeable, or not trying to get the attention of other people:",
+   "audio": "audio/b29/046.mp3"
+  },
+  {
+   "id": "b29-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I’d like to go for a dip before lunch.",
+   "options": {
+    "A": "I’d like to go swimming before lunch.",
+    "B": "I’d like to go shopping before lunch.",
+    "C": "I’d like to go jogging before lunch.",
+    "D": "I’d like to go boating before lunch."
+   },
+   "answer": "A",
+   "explain": "解析:午餐之前我想去游泳一下 答案:A .dip 定義: a quick swim 例句: a dip in\nthe pool在水池裡遊一會兒",
+   "audio": "audio/b29/047.mp3"
+  },
+  {
+   "id": "b29-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "George was at loss for words.",
+   "options": {
+    "A": "George was lost in the woods.",
+    "B": "George had a sore throat.",
+    "C": "George was unable to say anything.",
+    "D": "George lost something in the woods."
+   },
+   "answer": "C",
+   "explain": "解析:喬治說不出話來 答案:C 喬治什麼也不說出來.",
+   "audio": "audio/b29/048.mp3"
+  },
+  {
+   "id": "b29-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You should extinguish that cigarette.",
+   "options": {
+    "A": "You should light up that cigarette.",
+    "B": "You should throw out that cigarette.",
+    "C": "You should pick up that cigarette.",
+    "D": "You should put out that cigarette."
+   },
+   "answer": "D",
+   "explain": "解析:你應該要熄滅那支菸 答案:D . extinguish 定義: to stop a fire or a light\nburning 例句: o extinguish a cigarette掐滅香煙 put out 撲滅（火）；熄滅\n（香煙） 定義: to make something such as a fire or cigarette stop burning 例\n句: Would you mind putting your cigarette out, please?請你把煙弄熄好嗎？",
+   "audio": "audio/b29/049.mp3"
+  },
+  {
+   "id": "b29-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The food has passed the expiration date.",
+   "options": {
+    "A": "The food has been examined.",
+    "B": "The food is ready to be served.",
+    "C": "The food has been overcooked.",
+    "D": "The food is no longer safe to eat."
+   },
+   "answer": "D",
+   "explain": "解析:食物已經過有效期限 答案:D 吃的食物已經不安全了.",
+   "audio": "audio/b29/050.mp3"
+  },
+  {
+   "id": "b29-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The toilet is occupied.",
+   "options": {
+    "A": "The toilet is blocked.",
+    "B": "Someone is using the toilet.",
+    "C": "The toilet is overflowing.",
+    "D": "Someone is repairing the toilet."
+   },
+   "answer": "B",
+   "explain": "解析:廁所正使用中 答案:B 某人正在使用.",
+   "audio": "audio/b29/051.mp3"
+  },
+  {
+   "id": "b29-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "They got ripped off at the restaurant.",
+   "options": {
+    "A": "They were overcharged at the restaurant.",
+    "B": "They got a discount at the restaurant.",
+    "C": "They were humiliated at the restaurant.",
+    "D": "They had a good time at the restaurant."
+   },
+   "answer": "A",
+   "explain": "解析:他們在那間餐廳被敲竹槓 答案:A 他們在那間餐廳被多收錢.",
+   "audio": "audio/b29/052.mp3"
+  },
+  {
+   "id": "b29-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I think we need to join forces.",
+   "options": {
+    "A": "I think we need to branch out.",
+    "B": "I think we need to join the army.",
+    "C": "I think we need to combine our efforts.",
+    "D": "I think we need to go our separate ways."
+   },
+   "answer": "C",
+   "explain": "解析:我想我們需要團結力ᰁ 答案:C 我認為我們需要共同努力. expiration 定\n義: the situation in which something that lasts for a fixed length of time\ncomes to an end or stops being in use: 例句: the expiration of visa VISA到期\n日",
+   "audio": "audio/b29/053.mp3"
+  },
+  {
+   "id": "b29-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You need to stay hydrated on such a hot day.",
+   "options": {
+    "A": "You need to drink plenty of water on such a hot day.",
+    "B": "You need to stay indoors on such a hot day.",
+    "C": "You need to turn on an air conditioner on such a hot day.",
+    "D": "You need to take a cold bath on such a hot day."
+   },
+   "answer": "A",
+   "explain": "解析:這麼熱的天你需要保持水分 答案:A 這麼熱的天你需要喝充足的水.\nhydrated 攝入足夠水分（或其他液體）的 定義: having absorbed enough\nwater or other liquid 例句: Hydrated skin looks younger and smoother. 水潤\n的肌膚看起來更年輕，更光滑。",
+   "audio": "audio/b29/054.mp3"
+  },
+  {
+   "id": "b29-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I don’t know how to express my gratitude to her.",
+   "options": {
+    "A": "I don’t know how to encourage her",
+    "B": "I don’t know how to thank her.",
+    "C": "I don’t know how to comfort her.",
+    "D": "I don’t know how to convince her."
+   },
+   "answer": "B",
+   "explain": "解析:我不知道如何對她表達我的感激 答案:B 我不知道如何感謝她. gratitude\n定義: the feeling or quality of being grateful 例句: deep gratitude感激不盡",
+   "audio": "audio/b29/055.mp3"
+  },
+  {
+   "id": "b29-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "My daughter is a celebrity now.",
+   "options": {
+    "A": "My daughter is a famous person now.",
+    "B": "My daughter is celebrating her birthday.",
+    "C": "My daughter is a civil servant now.",
+    "D": "My daughter is setting the table now."
+   },
+   "answer": "A",
+   "explain": "解析:我的女兒現在是一位名人 答案:A.",
+   "audio": "audio/b29/056.mp3"
+  },
+  {
+   "id": "b29-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: How is everything you ordered? W: The salad is delicious. I like the dressing a lot. M: And what about your steak? W: Perfect. Now I’m looking forward to dessert. Q: Where are the speakers?",
+   "options": {
+    "A": "At a clothes store.",
+    "B": "In a restaurant.",
+    "C": "At a grocery store.",
+    "D": "In a supermarket."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "How is everything you ordered?"
+    },
+    {
+     "s": "W",
+     "t": "The salad is delicious. I like the dressing a lot."
+    },
+    {
+     "s": "M",
+     "t": "And what about your steak?"
+    },
+    {
+     "s": "W",
+     "t": "Perfect. Now I’m looking forward to dessert."
+    },
+    {
+     "s": "Q",
+     "t": "Where are the speakers?"
+    }
+   ],
+   "explain": "解析:討論餐點及滿意度 答案:B",
+   "audio": "audio/b29/057.mp3"
+  },
+  {
+   "id": "b29-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Ouch! W: What’s the matter, honey? Did you bite your tongue? M: No, I bit a bone in this steak. My tooth is killing me! W: You’d better go see Dr. Brown. Q: Who most likely is Dr. Brown?",
+   "options": {
+    "A": "A college professor.",
+    "B": "The man’s co-worker.",
+    "C": "A dentist.",
+    "D": "The owner of the restaurant."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Ouch!"
+    },
+    {
+     "s": "W",
+     "t": "What’s the matter, honey? Did you bite your tongue?"
+    },
+    {
+     "s": "M",
+     "t": "No, I bit a bone in this steak. My tooth is killing me!"
+    },
+    {
+     "s": "W",
+     "t": "You’d better go see Dr. Brown."
+    },
+    {
+     "s": "Q",
+     "t": "Who most likely is Dr. Brown?"
+    }
+   ],
+   "explain": "解析: My tooth is killing me 代表牙痛到不行",
+   "audio": "audio/b29/058.mp3"
+  },
+  {
+   "id": "b29-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Did you hear about the fire at the Wilsons’ home last night? W: Yes, that was terrible. Luckily, they all got out of their house in time. M: Didn’t they have a fire alarm in the house? W: Yes, but the batteries were dead. Oh, that reminds me. We’d better change ours. Q: What are the speakers going to do?",
+   "options": {
+    "A": "Visit the Wilsons.",
+    "B": "Replace their fire alarm batteries.",
+    "C": "Notify the fire department.",
+    "D": "Move to a different building."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Did you hear about the fire at the Wilsons’ home last night?"
+    },
+    {
+     "s": "W",
+     "t": "Yes, that was terrible. Luckily, they all got out of their house in time."
+    },
+    {
+     "s": "M",
+     "t": "Didn’t they have a fire alarm in the house?"
+    },
+    {
+     "s": "W",
+     "t": "Yes, but the batteries were dead. Oh, that reminds me. We’d better change ours."
+    },
+    {
+     "s": "Q",
+     "t": "What are the speakers going to do?"
+    }
+   ],
+   "explain": "解析: fire alarm 火警警報器.",
+   "audio": "audio/b29/059.mp3"
+  },
+  {
+   "id": "b29-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Excuse me. Where are the staplers? M: They’re right down this aisle next to the notebooks. W: Now I see them. And where are the paper clips? M: In aisle 2. Q: Where is the woman?",
+   "options": {
+    "A": "In a stationery store.",
+    "B": "At a library.",
+    "C": "In a post office.",
+    "D": "At a newsstand."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Excuse me. Where are the staplers?"
+    },
+    {
+     "s": "M",
+     "t": "They’re right down this aisle next to the notebooks."
+    },
+    {
+     "s": "W",
+     "t": "Now I see them. And where are the paper clips?"
+    },
+    {
+     "s": "M",
+     "t": "In aisle 2."
+    },
+    {
+     "s": "Q",
+     "t": "Where is the woman?"
+    }
+   ],
+   "explain": "解析: staplers釘書機 aisle 走道 paper clips 迴紋針 stationery store 文具店\nstaplers 釘書機 定義: a small device that you can hold in your hand or use\non table to push staples through pieces of paper aisle 走道 定義: a long,\nnarrow space between rows of seats in an aircraft,",
+   "audio": "audio/b29/060.mp3"
+  },
+  {
+   "id": "b29-061",
+   "n": 61,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Are you still upset about not getting the promotion? M: Yeah, a little. How can you tell? W: You’ve tried to avoid the boss every day this week. Q: Why is the man upset?",
+   "options": {
+    "A": "He did not get a promotion.",
+    "B": "He was scolded by his boss.",
+    "C": "He did not get a pay raise.",
+    "D": "He was fired by his boss."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Are you still upset about not getting the promotion?"
+    },
+    {
+     "s": "M",
+     "t": "Yeah, a little. How can you tell?"
+    },
+    {
+     "s": "W",
+     "t": "You’ve tried to avoid the boss every day this week."
+    },
+    {
+     "s": "Q",
+     "t": "Why is the man upset?"
+    }
+   ],
+   "explain": "解析: promotion升遷，晉升 答案:A.",
+   "audio": "audio/b29/061.mp3"
+  },
+  {
+   "id": "b29-062",
+   "n": 62,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: The score is tied. I feel so nervous. M: This is really a great game. I hope our team wins. W: Look! M: Wow! Roger hit a home run! Q: What are the speakers doing?",
+   "options": {
+    "A": "Watching a baseball game.",
+    "B": "Playing a video game.",
+    "C": "Watching a parade.",
+    "D": "Playing the piano."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "The score is tied. I feel so nervous."
+    },
+    {
+     "s": "M",
+     "t": "This is really a great game. I hope our team wins."
+    },
+    {
+     "s": "W",
+     "t": "Look!"
+    },
+    {
+     "s": "M",
+     "t": "Wow! Roger hit a home run!"
+    },
+    {
+     "s": "Q",
+     "t": "What are the speakers doing?"
+    }
+   ],
+   "explain": "解析: home run 全壘打 屬於棒球名詞 答案:A",
+   "audio": "audio/b29/062.mp3"
+  },
+  {
+   "id": "b29-063",
+   "n": 63,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: What would you like to buy on this floor? M: I need a warm winter jacket. My old one is falling apart. W: They have quite a selection here, don’t they? M: They sure do. Q: Where are the speakers?",
+   "options": {
+    "A": "At a food court.",
+    "B": "In a swimming pool.",
+    "C": "At a repair shop.",
+    "D": "In a department store."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "What would you like to buy on this floor?"
+    },
+    {
+     "s": "M",
+     "t": "I need a warm winter jacket. My old one is falling apart."
+    },
+    {
+     "s": "W",
+     "t": "They have quite a selection here, don’t they?"
+    },
+    {
+     "s": "M",
+     "t": "They sure do."
+    },
+    {
+     "s": "Q",
+     "t": "Where are the speakers?"
+    }
+   ],
+   "explain": "解析: I need a warm winter jacket. 可發現劇中人物需要添購衣物 答案:D.",
+   "audio": "audio/b29/063.mp3"
+  },
+  {
+   "id": "b29-064",
+   "n": 64,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: I’m going to make breakfast. What would you like? M: Toast with jam and a cup of coffee. Thanks. W: And two eggs sunny-side up, right? M: No, my cholesterol level is on the high side. Q: Why doesn’t the man want the eggs?",
+   "options": {
+    "A": "The eggs are overcooked.",
+    "B": "He is allergic to eggs.",
+    "C": "The eggs are contaminated.",
+    "D": "He is worried about his own health."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "I’m going to make breakfast. What would you like?"
+    },
+    {
+     "s": "M",
+     "t": "Toast with jam and a cup of coffee. Thanks."
+    },
+    {
+     "s": "W",
+     "t": "And two eggs sunny-side up, right?"
+    },
+    {
+     "s": "M",
+     "t": "No, my cholesterol level is on the high side."
+    },
+    {
+     "s": "Q",
+     "t": "Why doesn’t the man want the eggs?"
+    }
+   ],
+   "explain": "解析: eggs sunny-side up 太陽蛋 cholesterol 膽固醇.定義: a substance\ncontaining a lot of fat that is found in the body tissue and blood of all\nanimals, thought to be part of the cause of heart disease if there is too much\nof it",
+   "audio": "audio/b29/064.mp3"
+  },
+  {
+   "id": "b29-065",
+   "n": 65,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Betty, is your cousin coming this weekend? W: Yeah, Linda is going to stay with me for a few days. M: I was wondering if I could invite you both out to dinner. W: Oh, I get it! You have a crush on her. Q: What does the woman mean?",
+   "options": {
+    "A": "The man is not Linda’s type.",
+    "B": "She is not sure whether Linda will come.",
+    "C": "The man really likes Linda.",
+    "D": "She is not sure whether Linda will accept the man’s invitation."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Betty, is your cousin coming this weekend?"
+    },
+    {
+     "s": "W",
+     "t": "Yeah, Linda is going to stay with me for a few days."
+    },
+    {
+     "s": "M",
+     "t": "I was wondering if I could invite you both out to dinner."
+    },
+    {
+     "s": "W",
+     "t": "Oh, I get it! You have a crush on her."
+    },
+    {
+     "s": "Q",
+     "t": "What does the woman mean?"
+    }
+   ],
+   "explain": "解析: have a crush on sb 迷上某人，喜歡上某人 答案:C. have a crush on sb.\n愛上某人，迷上某人 定義: a strong but temporary feeling of liking someone\n例句: She has a crush on one of her teachers at school.她迷戀上了學校裡的\n一位老師。",
+   "audio": "audio/b29/065.mp3"
+  },
+  {
+   "id": "b29-066",
+   "n": 66,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: I have all our bills for this month here. W: Well, let’s get started. Utilities? M: Gas, electricity, and water come to $630. W: The car payment and gasoline total $5,200. Q: What are the speakers discussing?",
+   "options": {
+    "A": "Their transport options.",
+    "B": "Their savings account.",
+    "C": "Their monthly expenses.",
+    "D": "Their monthly salaries."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "I have all our bills for this month here."
+    },
+    {
+     "s": "W",
+     "t": "Well, let’s get started. Utilities?"
+    },
+    {
+     "s": "M",
+     "t": "Gas, electricity, and water come to $630."
+    },
+    {
+     "s": "W",
+     "t": "The car payment and gasoline total $5,200."
+    },
+    {
+     "s": "Q",
+     "t": "What are the speakers discussing?"
+    }
+   ],
+   "explain": "解析: expenses 花費 答案:C",
+   "audio": "audio/b29/066.mp3"
+  },
+  {
+   "id": "b29-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "It is _______ to kill stray dogs and show the process on the internet.",
+   "options": {
+    "A": "brutal",
+    "B": "initial",
+    "C": "environmental",
+    "D": "rural"
+   },
+   "answer": "A",
+   "explain": "解析: brutal ᰀ蠻的，殘忍的 定義: cruel, violent, and completely without\nfeelings 舉例: a brutal dictator殘暴的獨裁者 Stray: 定義:a pet that no longer\nhas a home or cannot find its home 舉例: stray dog 流浪狗"
+  },
+  {
+   "id": "b29-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "When it comes to snacks like chocolate cookies, Judy prefers soft and chewy ones _______ hard and crispy ones.",
+   "options": {
+    "A": "than",
+    "B": "to",
+    "C": "for",
+    "D": "by"
+   },
+   "answer": "B",
+   "explain": "解析:chewy 耐嚼的 定義: Chewy food needs to be chewed a lot before it is\nswallowed. 例句: The meat was tasteless and chewy.這份肉沒味道而且嚼不\n爛"
+  },
+  {
+   "id": "b29-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The TV station’s telephones have been ringing off the _______ since it announced the singing contest.",
+   "options": {
+    "A": "dial",
+    "B": "hook",
+    "C": "pad",
+    "D": "base"
+   },
+   "answer": "B",
+   "explain": "解析: ringing off the hook 電話響不停,例句: Phone's ringing off the hook and\nthey keep answering it 電話不停的響他們不停的接"
+  },
+  {
+   "id": "b29-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I was hoping someone would come to my _______ when I was lost, but I had to rely on myself in the end.",
+   "options": {
+    "A": "melody",
+    "B": "rescue",
+    "C": "shift",
+    "D": "rover"
+   },
+   "answer": "B",
+   "explain": "解析: rescue拯救 定義: to help someone or something out of a dangerous,\nharmful, or unpleasant situation 例句:The lifeboat rescued the sailors from\nthe sinking boat.救生艇將水手們從正在下沈的船上救起 rely on 依靠 定義:to\nneed a particular thing or the help and support of someone or something in\norder to continue, to work correctly, or to succeed 例句: I rely on you for\ngood advice.我得靠你給我提出好的建議。"
+  },
+  {
+   "id": "b29-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "As many people know, vitamin pills are no _______ for a healthy diet.",
+   "options": {
+    "A": "substitute",
+    "B": "substance",
+    "C": "institute",
+    "D": "instance"
+   },
+   "answer": "A",
+   "explain": "解析: substitute 用…代替 instance 舉例，情況 定義: a particular situation,\nevent, or fact, especially an example of something that happens generally 例\n句: I don't usually side with the management, but in this instance I agree\nwith what they're saying.我通常並不站在資方一邊，但在這件事情上我同意\n他們所說的。"
+  },
+  {
+   "id": "b29-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "A badminton court _______ a tennis court except that the former has smaller dimensions.",
+   "options": {
+    "A": "resembles",
+    "B": "implies",
+    "C": "assembles",
+    "D": "multiplies"
+   },
+   "answer": "A",
+   "explain": "解析: badminton 羽毛球 resemble類似, dimension 定義: a measurement of\nsomething in a particular direction, especially its height, length, or width 例\n句: a building of vast dimensions (= size)一座規模很大的建築物 resemble類\n似，相似 定義: to look like or be like someone or something 例句: After the\nearthquake, the city resembled a battlefield.地震過後，這座城市看上去就像\n戰場一般。"
+  },
+  {
+   "id": "b29-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The patient’s _______ disease has weakened him so much that he has difficulty getting around.",
+   "options": {
+    "A": "proper",
+    "B": "strict",
+    "C": "fabulous",
+    "D": "chronic"
+   },
+   "answer": "D",
+   "explain": "解析: chronic disease慢性病定義: (especially of a disease or something bad)\ncontinuing for a long time 例句: chronic diseases/conditions慢性病"
+  },
+  {
+   "id": "b29-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "All the roads to the _______ were closed, so the refugees were forced to change plans.",
+   "options": {
+    "A": "career",
+    "B": "border",
+    "C": "welfare",
+    "D": "crater"
+   },
+   "answer": "B",
+   "explain": "解析: refugee 難⺠ 定義: a person who has escaped from their own country\nfor political, religious, or economic reasons or because of a war 例句:\nThousands of refugees fled across the border. 數以千計的難⺠越過邊境逃入\n鄰國。定義: the round hole at the top of a volcano, or a hole in the ground\nsimilar to this 例句: a bomb crater炸彈坑crater火山口，坑 welfare 福利定義:\nhelp given, especially by the state or an organization, to people who need it,\nespecially because they do not have enough money 例句: Your taxes pay\nfor welfare benefits such as unemployment and sickness pay. 你交的稅用作\n諸如失業和醫療等方面的福利救濟。"
+  },
+  {
+   "id": "b29-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Because my grandmother is _______ deaf, you may have to speak louder when talking to her.",
+   "options": {
+    "A": "passively",
+    "B": "consistently",
+    "C": "partially",
+    "D": "completely"
+   },
+   "answer": "C",
+   "explain": "解析: partially 一部分地，不完全地 定義: not completely 例句: The meat was\nonly partially cooked.這塊肉沒有完全煮熟。"
+  },
+  {
+   "id": "b29-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The antique clock you bought at the flea market was a real _______.",
+   "options": {
+    "A": "bargain",
+    "B": "decoy",
+    "C": "barrel",
+    "D": "design"
+   },
+   "answer": "A",
+   "explain": "解析: antique古董 定義: something made in an earlier period that is collected\nand considered to have value because it is beautiful, rare, old, or of high\nquality 例句: My mother collects antiques.我母親收藏古玩。 flea market跳蚤\n市場 定義: a market, usually taking place outside, where old or used goods\nare sold cheaply"
+  },
+  {
+   "id": "b29-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I could _______ hear the TV due to the noise from the construction site outside my apartment.",
+   "options": {
+    "A": "previously",
+    "B": "privately",
+    "C": "secretly",
+    "D": "scarcely"
+   },
+   "answer": "D",
+   "explain": "解析: scarcely 勉強，幾乎無法"
+  },
+  {
+   "id": "b29-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "These special forces soldiers have been trained to _______ in with their surroundings wherever they are.",
+   "options": {
+    "A": "blend",
+    "B": "miss",
+    "C": "vanish",
+    "D": "murmur"
+   },
+   "answer": "A",
+   "explain": "解析: blend 融入，交融定義: a mixture of different things or styles 例句:\nTheir music is a blend of jazz and African rhythms.他們的音樂融合了爵士樂\n和非洲音樂。 vanish 消失 定義: to disappear or stop being present or\nexisting, especially in a sudden, surprising way 例句: The child vanished\nwhile on her way home from school.那個小女孩在放學回家的路上不見了。\nmurmur低聲說話，小聲抱怨 定義: to speak or say something very quietly 例\n句: He was murmuring to himself.他正喃喃自語"
+  },
+  {
+   "id": "b29-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Although Jenny and I have been colleagues for years, there is no _______ between us.",
+   "options": {
+    "A": "chemistry",
+    "B": "physics",
+    "C": "biology",
+    "D": "electricity"
+   },
+   "answer": "A",
+   "explain": "解析: colleagues同事,定義: one of a group of people who work together 例\n句: We're entertaining some colleagues of Carol's tonight.今晚我們要招待卡\n羅的幾位同事。 chemistry化學反應"
+  },
+  {
+   "id": "b29-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "One key to efficiency at work _______ not biting off more than you can chew.",
+   "options": {
+    "A": "dwells on",
+    "B": "lies in",
+    "C": "catches on",
+    "D": "tunes in"
+   },
+   "answer": "B",
+   "explain": "解析: lie in sth 在於，存在於"
+  },
+  {
+   "id": "b29-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Some parents believe that they should not give their children more money than _______.",
+   "options": {
+    "A": "they need it",
+    "B": "is needed",
+    "C": "they are necessary",
+    "D": "are needed"
+   },
+   "answer": "B",
+   "explain": "解析: is needed 必要的"
+  },
+  {
+   "id": "b29-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "_______ a Dalai Lama dies, a search begins for his reincarnation.",
+   "options": {
+    "A": "Whoever",
+    "B": "Whatever",
+    "C": "Wherever",
+    "D": "Whenever"
+   },
+   "answer": "D",
+   "explain": "解析: reincarnation. 轉世化身 定義: the belief that a dead person's spirit\nreturns to life in another body 例句: Hindus and Buddhists believe in\nreincarnation.印度教徒和佛教徒相信輪回轉世說。"
+  },
+  {
+   "id": "b29-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "During the economic recession, many large enterprises reduced their workforce in order to _______.",
+   "options": {
+    "A": "refine",
+    "B": "survive",
+    "C": "persist",
+    "D": "deploy"
+   },
+   "answer": "B",
+   "explain": "解析: recession (經濟) 衰退期 定義: a period when the economy of a country\nis not successful and conditions for business are bad 例句: The country is\nsliding into the depths of (a) recession.這個國家一步步滑入經濟衰退的谷\n底。 enterprise 組織，公司 定義: an organization, especially a business, or\na difficult and important plan, especially one that will earn money 例句: Don't\nforget this is a commercial enterprise - we're here to make money. 不要忘記\n這是一個商業組織—我們到這兒來是爲了賺錢的。"
+  },
+  {
+   "id": "b29-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The baseball players were caught in the rain, and by the end of the game all of them were _______ wet.",
+   "options": {
+    "A": "steaming",
+    "B": "rolling",
+    "C": "soaking",
+    "D": "rushing"
+   },
+   "answer": "C",
+   "explain": "解析: soaking 溼透的,定義: completely wet 例句: It's so hot outside - I've only\nbeen walking ten minutes and my shirt is soaking! 外面太熱了—我只走了十\n分鐘，襯衫就濕透了！"
+  },
+  {
+   "id": "b29-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Only when you lose your health _______ understand the importance of it.",
+   "options": {
+    "A": "you will",
+    "B": "will you",
+    "C": "you have",
+    "D": "have you"
+   },
+   "answer": "B",
+   "explain": "解析: will用法在這裡並不是表示“將來”，而是表示主詞所代表事物的傾向、特\n徵、趨勢"
+  },
+  {
+   "id": "b29-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Elvis Presley has been dead for more than four decades, but he is still a _______ name.",
+   "options": {
+    "A": "genuine",
+    "B": "typical",
+    "C": "common",
+    "D": "household"
+   },
+   "answer": "D",
+   "explain": "解析: household 家庭 household name 家喻戶曉,定義: a famous person that\nmost people know of 例句:He was a household name in the 1950s.他的名字\n在20世紀50年代家喻戶曉。"
+  },
+  {
+   "id": "b29-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Old Joe’s wife walked out on him 20 years ago, and he has never seen her _______.",
+   "options": {
+    "A": "now",
+    "B": "since",
+    "C": "then",
+    "D": "before"
+   },
+   "answer": "B",
+   "explain": "解析: Old Joe’s wife walked out on him 20 years ago 老喬的太太20年前離他\n而去 since自從 定義: from a particular time in the past until a later time, or\nuntil now 例句: Emma went to work in New York a year ago, and we haven't\nseen her since. 埃瑪一年前去紐約工作了，自從那時起我們就沒有見過她。"
+  },
+  {
+   "id": "b29-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Once formed, all habits are hard to kick, _______ they are good or bad.",
+   "options": {
+    "A": "even",
+    "B": "ever",
+    "C": "whether",
+    "D": "however"
+   },
+   "answer": "C",
+   "explain": "解析: whether…or…不管…還是… 定義: (used to introduce two or more\npossibilities) it is not important if 例句:I'm going, whether she likes it or not.\n不管她高不高興，我都要走。"
+  },
+  {
+   "id": "b29-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "According to studies, direct exposure to the sun for too long may _______ skin cancer.",
+   "options": {
+    "A": "bring in",
+    "B": "give in",
+    "C": "result in",
+    "D": "participate in"
+   },
+   "answer": "C",
+   "explain": "解析:result in 導致"
+  },
+  {
+   "id": "b29-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The hostage was cruelly _______ after he was kidnapped by the terrorists.",
+   "options": {
+    "A": "motivated",
+    "B": "panicked",
+    "C": "tortured",
+    "D": "snatched"
+   },
+   "answer": "C",
+   "explain": "解析: 人質被恐怖分子綁架後受到殘酷的折磨。 kidnapped 綁架 定義: to take\na person away illegally by force, usually in order to demand money in\nexchange for releasing them 例句: The wife of a businessman was\nkidnapped from her home in London last night. 昨天晚上，一個商人的妻子\n在倫敦家中遭綁架。 hostage人質 定義: someone who is taken as a prisoner\nby an enemy in order to force the other people involved to do what the\nenemy wants 例句: She was taken/held hostage by the gunmen.她被持槍歹\n徒劫持作為人質。 cruel 殘忍的，殘酷的 定義: extremely unkind and\nunpleasant and causing pain to people or animals intentionally 例句: Don't\ntease him about his weight - it's cruel.別拿他的體᯿開玩笑——這樣太殘忍\n了。 tortured 受苦，受難 定義: involving suffering and difficulty 例句: the\ncountry's tortured past該國苦難的過去 panicked 恐慌，驚慌 定義: to\nsuddenly feel so worried or frightened that you cannot think or behave\ncalmly or reasonably 例句: Don't panic! Everything will be okay.別驚慌，一\n切都會沒事的！ snatched奪走，綁架 定義: to take hold of something\nsuddenly and roughly 例句: He snatched the photos out of my hand before I\nhad a chance to look at them. 我還沒來得及看，他就一把搶走了我手裡的照\n片。"
+  },
+  {
+   "id": "b29-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Albert Einstein led a very simple life _______ he should waste his time and energy on useless things.",
+   "options": {
+    "A": "until",
+    "B": "or",
+    "C": "but",
+    "D": "lest"
+   },
+   "answer": "D",
+   "explain": "解析: lest 以免，唯恐,定義: in order to prevent any possibility that something\nwill happen 例句: hey were afraid to complain about the noise lest they\nannoyed the neighbours. 他們不敢對噪音有任何抱怨，唯恐惹惱了鄰居。"
+  },
+  {
+   "id": "b29-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Chicken King has opened a store at the mall, and _______ Burger Home.",
+   "options": {
+    "A": "so is",
+    "B": "so does",
+    "C": "so has",
+    "D": "so have"
+   },
+   "answer": "C",
+   "explain": "解析:and so 也是"
+  },
+  {
+   "id": "b29-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Many regions in the world may face a water _______ if climate change continues.",
+   "options": {
+    "A": "crisis",
+    "B": "level",
+    "C": "stage",
+    "D": "margin"
+   },
+   "answer": "A",
+   "explain": "解析: crisis危機 margin 利潤 定義: the amount by which one thing is different\nfrom another 例句:Using cheap labour increases profit margin.使用廉價勞動\n力可提高利潤。"
+  },
+  {
+   "id": "b29-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Snoring can _______ the sleep patterns of both the snorer and anyone sleeping nearby.",
+   "options": {
+    "A": "reflect",
+    "B": "connect",
+    "C": "corrupt",
+    "D": "disrupt"
+   },
+   "answer": "D",
+   "explain": "解析: snore 打呼，打鼾 定義: to breathe in a very noisy way while you are\nsleeping 例句: Do you know any cures for snoring?你知道有甚麽辦法能治打\n呼嗎？ corrupt 腐敗 定義: dishonestly using your position or power to get an\nadvantage, especially for money 例句: The whole system was corrupt -\nevery official she approached wanted money before helping her.整個體系都\n腐敗了——她接觸的所有官員在幫她之前都討錢。 disrupt 打斷 定義: to\nprevent something, especially a system, process, or event, from continuing\nas usual or as expected 例句: Heavy snow disrupted travel into the city this\nmorning.今晨的大雪擾亂了入城交通的正常運作。"
+  },
+  {
+   "id": "b29-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Talented _______ my wife is in fashion design, she is a hopeless cook.",
+   "options": {
+    "A": "as",
+    "B": "although",
+    "C": "when",
+    "D": "while"
+   },
+   "answer": "A",
+   "explain": "解析: hopeless 無可救藥,定義: without hope 例句: a hopeless situation毫無\n希望的局勢"
+  },
+  {
+   "id": "b29-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "It was not until 2008 _______ the first black American president was elected.",
+   "options": {
+    "A": "that",
+    "B": "when",
+    "C": "then",
+    "D": "where"
+   },
+   "answer": "A",
+   "explain": "解析: It was not until 2008 直到2008年"
+  },
+  {
+   "id": "b29-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Most of the health benefits of tea are _______ to its antioxidants, which help prevent many diseases.",
+   "options": {
+    "A": "inscribed",
+    "B": "contributed",
+    "C": "prescribed",
+    "D": "attributed"
+   },
+   "answer": "D",
+   "explain": "解析: attribute 特性 定義: a quality or characteristic that someone or\nsomething has 例句: Organizational ability is an essential attribute for a\ngood manager. 組織能力是一個出色經理必備的素質。 antioxidant抗氧化劑\n定義: a substance that slows down the rate at which something decays\nbecause of oxidization"
+  },
+  {
+   "id": "b29-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Dutch chocolate company Tony’s Chocolonely has a business goal that may come as a surprise to people: create a 100% slave-free industry. While most think that slavery is a thing of the past, the reality is quite the opposite. Modern-day slavery comes in the form of forced child labor, worker exploitation, and unsafe and inhumane working conditions. As the Dutch chocolate maker was informed in 2004, no chocolate was guaranteed to be slave-free at that time. What is NOT mentioned as an example of modern slavery?",
+   "options": {
+    "A": "Making young children work.",
+    "B": "Forcing people to risk dangers while working.",
+    "C": "Discriminating against groups when hiring.",
+    "D": "Treating employees unfairly and unreasonably."
+   },
+   "answer": "C",
+   "explain": "解析: Discriminating 有辨別能力的，有分辨力的,定義: able to know and act\non the difference between good and bad 例句: They're discriminating\nshoppers.他們是識貨的買主。"
+  },
+  {
+   "id": "b29-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "The Delta variant was first identified in India. It has been detected in more than 80 countries across the world. It is now the dominant form of Covid-19 in the UK. It continues to mutate as it is spreading. Compared to the Alpha strain, the Delta variant is more resistant to the current vaccines and carries a great risk of death. Which of the following is closest in meaning to the word “mutate” in the passage?",
+   "options": {
+    "A": "react",
+    "B": "change",
+    "C": "reproduce",
+    "D": "chase"
+   },
+   "answer": "B",
+   "explain": "解析: mutate （遺傳物質等）突變，變異；轉變,定義:to develop new\nphysical characteristics because of a permanent change in the genes.\nThese changes can happen naturally or can be produced by the use of\nchemicals or radiation. 轉變 定義:to change from one thing or type of thing\ninto another 例句: Jon has mutated from an awkward teenager into a\nsophisticated young man. 約翰從一個笨拙的少年變成了一個見多識廣的年輕\n人。"
+  },
+  {
+   "id": "b29-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "The guinea pig is not a pig─it is a rodent. However, these animals do make similar sounds. The origin of today’s guinea pigs was South America. It is said they once played a crucial role in the diet of mountain people as a source of protein. But things have changed now. They are now model test subjects in medical experiments. Based on the passage, which of the following statements is true?",
+   "options": {
+    "A": "Both guinea pigs and pigs are rodents.",
+    "B": "Guinea pigs could be found everywhere in the world.",
+    "C": "People in South America used to eat guinea pigs.",
+    "D": "Guinea pigs are now raised only as pets."
+   },
+   "answer": "C",
+   "explain": "解析: guinea pig 豚鼠、天竺鼠； 定義:a small animal covered in fur with\nrounded ears, short legs, and no tail, often kept as a pet by children. protein\n蛋白質 定義: one of the many substances found in food such as meat,\ncheese, fish, or eggs, that is necessary for the body to grow and be strong\n例句: Meat and fish are a vital source of protein.魚跟肉都是᯿要的蛋白質來\n源。 rodent 嚙齒動物（如老鼠等）"
+  }
+ ]
+}

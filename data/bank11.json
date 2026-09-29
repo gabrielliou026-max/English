@@ -1,0 +1,1714 @@
+{
+ "bank": "11",
+ "title": "第 11 回",
+ "questions": [
+  {
+   "id": "b11-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What is the weather there like?",
+   "options": {
+    "A": "It's very small.",
+    "B": "It's a bit cloudy.",
+    "C": "It's not easy.",
+    "D": "It's very expensive."
+   },
+   "answer": "B",
+   "explain": "解：那裡的天氣如何?\na. 非常小\nb. 有一點烏雲\nc. 這不簡單\nd. 這非常貴",
+   "audio": "audio/b11/001.mp3"
+  },
+  {
+   "id": "b11-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Which of the followings has the same meaning as pollute?",
+   "options": {
+    "A": "contaminate",
+    "B": "clean",
+    "C": "purify",
+    "D": "sterilize"
+   },
+   "answer": "A",
+   "explain": "解： 下面哪個單字為「汙染」的同義字\na. 汙染\nb. 乾淨\nc. 淨化\nd. 消毒\n# pollute/contaminate v. 汙染",
+   "audio": "audio/b11/002.mp3"
+  },
+  {
+   "id": "b11-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "question",
+   "stem": "You seemed to be lost, need help?",
+   "options": {
+    "A": "Yes, could you tell me where the train station is?",
+    "B": "No, I didn't lose anything.",
+    "C": "Yes, I can help you if you need.",
+    "D": "No, I am full of energy and ready to go."
+   },
+   "answer": "A",
+   "explain": "解：你看起來似乎有點迷路了，需要幫助嗎?\na. 好喔，請問您可以告訴我火車站在哪嗎?\nb. 不，我並沒有掉任何東⻄\nc. 好喔，我可以幫你如果你需要的話\nd. 不，我充滿能ᰁ並且準備好了",
+   "audio": "audio/b11/003.mp3"
+  },
+  {
+   "id": "b11-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Did you have a minute?",
+   "options": {
+    "A": "Give me a second.",
+    "B": "Do me a favor.",
+    "C": "Give me a hand.",
+    "D": "You are always punctual."
+   },
+   "answer": "A",
+   "explain": "解：你現在有空嗎?\na. 等我一下\nb. 幫我一下忙\nc. 休息一下\nd. 你總是那麼準時\n# punctual a. 準時的",
+   "audio": "audio/b11/004.mp3"
+  },
+  {
+   "id": "b11-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "If you were very thirsty, what would you like to do?",
+   "options": {
+    "A": "go swimming",
+    "B": "go hiking",
+    "C": "take a rest",
+    "D": "have some water"
+   },
+   "answer": "D",
+   "explain": "解：如果你非常的口渴，你將做什麼?\na. 去游泳\nb. 去爬山\nc. 休息一下\nd. 喝些水",
+   "audio": "audio/b11/005.mp3"
+  },
+  {
+   "id": "b11-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is it a boy or a girl?",
+   "options": {
+    "A": "Congratulations, here is your son.",
+    "B": "Who is the boy?",
+    "C": "A girl will be a woman.",
+    "D": "The boy is sitting on the bench."
+   },
+   "answer": "A",
+   "explain": "解：是男生還是女生?\na. 恭喜您！這是您的兒子\nb. 這男孩是誰?\nc. 一個女孩子將成為一個女人\nd. 男孩正坐在海灘上",
+   "audio": "audio/b11/006.mp3"
+  },
+  {
+   "id": "b11-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How do you know Captain Wu would be promoted?",
+   "options": {
+    "A": "Umm, it's top secret.",
+    "B": "Well, everyone knows it.",
+    "C": "Sorry, I can't remember who told me that.",
+    "D": "No one knows who he is."
+   },
+   "answer": "C",
+   "explain": "解：你怎麼知道吳上尉準備要升官了?\na. 嗯，這是最高機密\nb. 這...大家都知道\nc. 不好意思，我已經忘記是誰告訴我的\nd. 沒人知道他是誰",
+   "audio": "audio/b11/007.mp3"
+  },
+  {
+   "id": "b11-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What is another name for helicopter?",
+   "options": {
+    "A": "motorcycle",
+    "B": "truck",
+    "C": "aircraft",
+    "D": "ferry"
+   },
+   "answer": "C",
+   "explain": "解：直升機的同義字是什麼?\na. 機車\nb. 貨車\nc. 航空器\nd. 渡輪\n# helicopter/chopper n. 直升機",
+   "audio": "audio/b11/008.mp3"
+  },
+  {
+   "id": "b11-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Did you eat any of the dessert?",
+   "options": {
+    "A": "No, I didn't. It's nothing to do with me.",
+    "B": "What happened to you?",
+    "C": "Yes, I haven't met you for a while.",
+    "D": "No, it's not my fault."
+   },
+   "answer": "A",
+   "explain": "解：你有吃這個甜點嗎?\na. 不，我沒有\nb. 你發生什麼事了?\nc. 是的，我好一陣子沒看到你了\nd. 不，這不是我的錯",
+   "audio": "audio/b11/009.mp3"
+  },
+  {
+   "id": "b11-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Colonel, should I give them a briefing now?",
+   "options": {
+    "A": "Sure, I think they are ready.",
+    "B": "I am not sure if it's available now.",
+    "C": "No, I am afraid that you might call another time.",
+    "D": "Sorry, we didn't receive your message until now."
+   },
+   "answer": "A",
+   "explain": "解：上校，請問我應該要開始給他們做簡報了嗎?\na. 好啊，我認為他們應該就位了\nb. 我不確定他們現在是否有空\nc. 不，恐怕你得下次再打來了\nd. 不好意思，到目前為止我還是無法收到你的訊息",
+   "audio": "audio/b11/010.mp3"
+  },
+  {
+   "id": "b11-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Have you decided when you're going to retire?",
+   "options": {
+    "A": "Yes. Let's take a break now.",
+    "B": "No. I have never felt tired at work.",
+    "C": "Maybe the end of this year.",
+    "D": "I have been tired of my job recently."
+   },
+   "answer": "C",
+   "explain": "解：你已經決定什麼時候要退休了嗎?\na. 是的，我們現在休息一下\nb. 不，我在工作上從不感到累\nc. 或許在今年年底吧\nd. 我最近對我的工作感到厭倦",
+   "audio": "audio/b11/011.mp3"
+  },
+  {
+   "id": "b11-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Peter is a physician, what is he?",
+   "options": {
+    "A": "a musician",
+    "B": "a teacher",
+    "C": "a doctor",
+    "D": "a coach"
+   },
+   "answer": "C",
+   "explain": "解：彼得是一個內科醫生，他的工作是?\na. 音樂家。\nb. 老師。\nc. 醫生。\nd. 教練。\nphysician n. 內科醫生 surgeon n. 外科醫生",
+   "audio": "audio/b11/012.mp3"
+  },
+  {
+   "id": "b11-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Would you like another slice of pizza?",
+   "options": {
+    "A": "No, I prefer to have one more.",
+    "B": "No, thanks. I am full.",
+    "C": "Yes, please give me a glass of water.",
+    "D": "Yes, you can say that again."
+   },
+   "answer": "B",
+   "explain": "解：想要再來一片比薩嗎?\na. 不，我䌀可多一片\nb. 不用了，謝謝。我飽了\nc. 好，請給我一杯水\nd. 好，你可以再說一次",
+   "audio": "audio/b11/013.mp3"
+  },
+  {
+   "id": "b11-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How do you usually go to work?",
+   "options": {
+    "A": "I didn't go to work.",
+    "B": "I go to work by bus.",
+    "C": "I don't know the transportation system here.",
+    "D": "My father likes to give me a lift at the end of the day."
+   },
+   "answer": "B",
+   "explain": "解：你通常如何去工作?\na. 我不工作\nb. 我坐巴士去上班\nc. 我不知道這裡有什麼大眾交通工具\nd. 我爸爸喜歡在下班的時候順道載我",
+   "audio": "audio/b11/014.mp3"
+  },
+  {
+   "id": "b11-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where shall you go for a physical check out?",
+   "options": {
+    "A": "a drug store",
+    "B": "a hotel",
+    "C": "a gym",
+    "D": "a hospital"
+   },
+   "answer": "D",
+   "explain": "解：可以到哪做身體健康檢查?\na. 藥局\nb. 飯店\nc. 健身房\nd. 醫院",
+   "audio": "audio/b11/015.mp3"
+  },
+  {
+   "id": "b11-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What's the best way to find a job, Jeff?",
+   "options": {
+    "A": "ask for someone who is working",
+    "B": "check the wanted ad in the newspaper",
+    "C": "study an advanced degree",
+    "D": "check it in the lost and found department"
+   },
+   "answer": "B",
+   "explain": "解：傑夫，什麼是找工作最好的方式?\na. 問問誰正在工作\nb. 去報紙的求職廣告上看看\nc. 去獲得更高的學位\nd. 去失物招領區看看\n# wanted ad 求職廣告、degree n. 學位",
+   "audio": "audio/b11/016.mp3"
+  },
+  {
+   "id": "b11-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is the hurricane going to come?",
+   "options": {
+    "A": "Yes. The weather forecast has confirmed it.",
+    "B": "Yes. We can run.",
+    "C": "The weather is good.",
+    "D": "It is the clear sky."
+   },
+   "answer": "A",
+   "explain": "解：颶風將至嗎?\na. 是的。氣象預報已經確認了\nb. 是的。我可以跑\nc. 天氣很好\nd. 現在晴空萬里",
+   "audio": "audio/b11/017.mp3"
+  },
+  {
+   "id": "b11-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you close to your uncle?",
+   "options": {
+    "A": "Yes, he is.",
+    "B": "Yes, I am.",
+    "C": "No, I didn't know him.",
+    "D": "No, he hated everyone."
+   },
+   "answer": "B",
+   "explain": "解：你跟你舅舅很親近嗎?\na. 是，他是\nb. 是，我跟我舅舅很親近\nc. 不，我不認識他\nd. 不，他討厭每個人",
+   "audio": "audio/b11/018.mp3"
+  },
+  {
+   "id": "b11-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "question",
+   "stem": "If your mother says I agree with you in 100 percent, what does she mean?",
+   "options": {
+    "A": "She doesn't trust in you.",
+    "B": "She fully supports you.",
+    "C": "She loves you.",
+    "D": "She doesn’t care about you."
+   },
+   "answer": "B",
+   "explain": "解：如果你的母親對你說：我百分之百同意你。請問她的意思是?\na. 她不相信你\nb. 她百分之百支持你\nc. 她愛你\nd. 她一點都不關心你\n# percent n. 百分比",
+   "audio": "audio/b11/019.mp3"
+  },
+  {
+   "id": "b11-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What should you wear when riding a motorcycle?",
+   "options": {
+    "A": "a helmet",
+    "B": "a pair of gloves",
+    "C": "a pair of glasses",
+    "D": "a bracelet"
+   },
+   "answer": "A",
+   "explain": "解： 當你在騎機車的時候，你會穿戴什麽?\na. 安全帽\nb. 一雙手套\nc. 一副眼鏡\nd. 一個手鐲",
+   "audio": "audio/b11/020.mp3"
+  },
+  {
+   "id": "b11-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What would the flight attendant say to you when you get on the plane?",
+   "options": {
+    "A": "Welcome aboard.",
+    "B": "Have a nice trip!",
+    "C": "Enjoy your meal.",
+    "D": "Look forward to flying with you again."
+   },
+   "answer": "A",
+   "explain": "解：當你剛登上飛機的時候，空服員會跟你說什麼?\na. 歡迎搭乘\nb. 祝你旅途愉快\nc. 請享用你的餐點\nd. 期待您再次搭乘",
+   "audio": "audio/b11/021.mp3"
+  },
+  {
+   "id": "b11-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How did you do on the test?",
+   "options": {
+    "A": "I don't like the taste.",
+    "B": "I didn't test it at all.",
+    "C": "Not very well. But I did my best.",
+    "D": "I didn't make it this time."
+   },
+   "answer": "C",
+   "explain": "解：你這次考試考得如何?\na. 我不喜歡這個味道\nb. 我沒有測試過這個\nc. 不太好。但我盡力了\nd. 這次我沒做到",
+   "audio": "audio/b11/022.mp3"
+  },
+  {
+   "id": "b11-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Could you lend me your car tonight?",
+   "options": {
+    "A": "My car hasn't landed yet.",
+    "B": "I am afraid that I couldn't do it tonight.",
+    "C": "Let me find out who will be there tonight.",
+    "D": "Sure, you can pick it up after 5 p.m."
+   },
+   "answer": "D",
+   "explain": "解：今晚可以借我你的車子嗎?\na. 我的車子還沒被借走\nb. 我恐怕今晚無法這樣做\nc. 讓我看看今晚誰會在那\nd. 當然，你可以下午5點的時候來拿",
+   "audio": "audio/b11/023.mp3"
+  },
+  {
+   "id": "b11-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "You don't mind my smoking here, do you?",
+   "options": {
+    "A": "Yes, I don't mind.",
+    "B": "No, not at all.",
+    "C": "Be my guest.",
+    "D": "Sure, go ahead."
+   },
+   "answer": "B",
+   "explain": "解：你不介意我在這抽菸，對吧?\na. 對，我不介意\nb. 不，一點也不介意\nc. 別客氣\nd. 可以啊，去吧",
+   "audio": "audio/b11/024.mp3"
+  },
+  {
+   "id": "b11-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Did George ask Susan to marry him?",
+   "options": {
+    "A": "She has no clue.",
+    "B": "No, he has the courage.",
+    "C": "Yes, he did ask Susan for her hand last night.",
+    "D": "No, he didn't ask her for help."
+   },
+   "answer": "C",
+   "explain": "解：喬治向蘇珊求婚了嗎?\na. 她沒有任何的線索\nb. 不，他沒有勇氣\nc. 是的，他昨晚問她是否可以嫁給他\nd. 不，他沒有向她求助",
+   "audio": "audio/b11/025.mp3"
+  },
+  {
+   "id": "b11-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Hey, take it easy!",
+   "options": {
+    "A": "You should calm down.",
+    "B": "You should be angry.",
+    "C": "Don't feel bad.",
+    "D": "You should be nervous."
+   },
+   "answer": "A",
+   "explain": "解：放輕鬆一點！\na. 你需要冷靜一點\nb. 你應該要感到生氣\nc. 不要感到糟糕\nd. 你應該要感到緊張",
+   "audio": "audio/b11/026.mp3"
+  },
+  {
+   "id": "b11-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Each time you work out, you should exercise for a minimum of 30 minutes.",
+   "options": {
+    "A": "You should exercise for 30 minutes at most each time.",
+    "B": "You should exercise for 30 minutes at least each time.",
+    "C": "You should warm up for 30 minutes before you do exercise.",
+    "D": "You are supposed to finish this exercise in 30 minutes."
+   },
+   "answer": "B",
+   "explain": "解：每次你在運動的時候，你應該運動至少30分鐘。\na. 你每次運動應不超過30分鐘\nb. 你每次運動應至少30分鐘\nc. 在你運動前應暖身30分鐘\nd. 你應該在30 分鐘內完成這項運動",
+   "audio": "audio/b11/027.mp3"
+  },
+  {
+   "id": "b11-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "David refused to give me a hand.",
+   "options": {
+    "A": "He didn't want to help me.",
+    "B": "He wants to give me another hand.",
+    "C": "He didn't want to come to my house.",
+    "D": "He didn't feel good."
+   },
+   "answer": "A",
+   "explain": "解：大衛拒絕幫助我。\na. 他不想幫助我\nb. 他想給我另一隻手\nc. 他不想來我家\nd. 他感到身體不適",
+   "audio": "audio/b11/028.mp3"
+  },
+  {
+   "id": "b11-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Nancy has been under a lot of pressure recently.",
+   "options": {
+    "A": "Nancy feels overwhelmed.",
+    "B": "Nancy feels uncomfortable on her heart.",
+    "C": "Nancy feels sad.",
+    "D": "Nancy feels motivated."
+   },
+   "answer": "A",
+   "explain": "解：南⻄最近以承受了很多壓力。\na. 南⻄感到極大壓力\nb. 南⻄的心臟感到不舒服\nc. 南⻄感到難過\nd. 南⻄感到充滿動力",
+   "audio": "audio/b11/029.mp3"
+  },
+  {
+   "id": "b11-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The idea of time varies from culture to culture.",
+   "options": {
+    "A": "Different cultures have the same ideas about time.",
+    "B": "Different cultures have different ideas about time.",
+    "C": "Different cultures have no idea about time.",
+    "D": "Different cultures have some ideas about time."
+   },
+   "answer": "B",
+   "explain": "解：不同的文化對於時間的概念也不同。\na. 不同的文化對於時間的概念也相同\nb. 不同的文化對於時間的概念也不同\nc. 不同的文化對於時間的概念沒有想法\nd. 不同的文化對於時間的概念有些想法\nvary v. 不同、變化",
+   "audio": "audio/b11/030.mp3"
+  },
+  {
+   "id": "b11-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Let me pick up the bill this time.",
+   "options": {
+    "A": "Let me pay for it this time.",
+    "B": "Let me pick up the kid this time.",
+    "C": "Let me have some pick-me-up first.",
+    "D": "Let Bill pick up something on his way home."
+   },
+   "answer": "A",
+   "explain": "解：這次就讓我請客吧。\na. 這次讓我付錢吧\nb. 這次讓我去接小孩吧\nc. 先讓我喝些提神飲料\nd. 讓比爾在回家路上帶些東⻄\npick-me-up 提神飲料、興奮飲料",
+   "audio": "audio/b11/031.mp3"
+  },
+  {
+   "id": "b11-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "It's a matter of urgency.",
+   "options": {
+    "A": "We had some meal in the restaurant.",
+    "B": "We must hurry up.",
+    "C": "We can take a rest.",
+    "D": "We don't need to worry."
+   },
+   "answer": "B",
+   "explain": "解：這事非常緊急。\na. 我們在餐廳用過餐\nb. 我們必須快一點\nc. 我們可以休息一下\nd. 我們不需要擔心",
+   "audio": "audio/b11/032.mp3"
+  },
+  {
+   "id": "b11-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Driving carelessly will endanger your life.",
+   "options": {
+    "A": "You are risking your life when driving carelessly.",
+    "B": "You are saving your life when driving carelessly.",
+    "C": "You are cherishing your life when driving carelessly.",
+    "D": "You are wasting your life when driving carelessly."
+   },
+   "answer": "A",
+   "explain": "解：開車不專心將危害你的生命。\na. 當開車不專心時，你將你的生命置於危險之中\nb. 當開車不專心時，你正拯救你的生命\nc. 當開車不專心時，你正珍惜你的生命\nd. 當開車不專心時，你正浪費你的生命",
+   "audio": "audio/b11/033.mp3"
+  },
+  {
+   "id": "b11-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "This convenience store opens round the clock.",
+   "options": {
+    "A": "This convenience store is open until midnight.",
+    "B": "This convenience store opens at seven o'clock in the morning.",
+    "C": "This convenience store also sells clocks.",
+    "D": "This convenience store is open 24 hours a day."
+   },
+   "answer": "D",
+   "explain": "解：這家便利商店24小時營業。\na. 這家便利商店開到半夜\nb. 這家便利商店每天早上7點開始營業\nc. 這家便利商店也有賣時鐘\nd. 這家便利商店24小時營業\nround the clock 24小時",
+   "audio": "audio/b11/034.mp3"
+  },
+  {
+   "id": "b11-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Your sister is a celebrity now.",
+   "options": {
+    "A": "She wants to keep low.",
+    "B": "She is famous now.",
+    "C": "She is celebrating her success.",
+    "D": "She is a good teacher."
+   },
+   "answer": "B",
+   "explain": "解：你的姊姊現在是名人了。\na. 她想要保持低調\nb. 她現在很有名\nc. 她正慶祝她的成功\nd. 她是位好的老師",
+   "audio": "audio/b11/035.mp3"
+  },
+  {
+   "id": "b11-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "They have encountered many problems in their training.",
+   "options": {
+    "A": "They have caused many problems in their training.",
+    "B": "They have solved many problems in their training.",
+    "C": "They have avoided many problems in their training.",
+    "D": "They have met with many problems in their training."
+   },
+   "answer": "D",
+   "explain": "解：他們已經在訓練的時候遭遇到很多問題。\na. 他們已經在訓練的時候造成很多問題\nb. 他們已經在訓練的時候解決很多問題\nc. 他們已經在訓練的時候避免很多問題\nd. 他們已經在訓練的時候遇到很多問題\nencounter v. 遭遇、面臨、邂逅",
+   "audio": "audio/b11/036.mp3"
+  },
+  {
+   "id": "b11-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mr. Johnson's secretary may resign if she does not get pay raise.",
+   "options": {
+    "A": "She may design something new.",
+    "B": "She may make trouble.",
+    "C": "She may quit.",
+    "D": "She may raise her voice."
+   },
+   "answer": "C",
+   "explain": "解：強納生先生的秘書可能會離職如果她沒加薪的話。\na. 她或許會設計出新的東⻄\nb. 她或許會製造麻煩\nc. 她或許會離職\nd. 她或許會提高她的音ᰁ\nquit v. 不幹了、放棄；resign v. 辭職",
+   "audio": "audio/b11/037.mp3"
+  },
+  {
+   "id": "b11-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The apartment buildings around here all are identical.",
+   "options": {
+    "A": "The apartment buildings around here are all very tall.",
+    "B": "The apartment buildings around here all look exactly the same.",
+    "C": "The apartment buildings around here are all highly-priced.",
+    "D": "The apartment buildings around here all look very old."
+   },
+   "answer": "B",
+   "explain": "解：這附近的公寓都長的一樣。\na. 這附近的公寓都非常的高\nb. 這附近的公寓看起來都一樣\nc. 這附近的公寓都非常的貴\nd. 這附近的公寓看起來都非常的老",
+   "audio": "audio/b11/038.mp3"
+  },
+  {
+   "id": "b11-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "My brother and I have nothing in common.",
+   "options": {
+    "A": "We are twins.",
+    "B": "We look like the same.",
+    "C": "We are so different in every aspect.",
+    "D": "We go to the same school."
+   },
+   "answer": "C",
+   "explain": "解：我跟我的弟弟沒有共同點。\na. 我們是雙胞胎\nb. 我們看起來一樣\nc. 我們在各方面都不同\nd. 我們去同一間學校",
+   "audio": "audio/b11/039.mp3"
+  },
+  {
+   "id": "b11-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mandy has a lot of housework to do every day.",
+   "options": {
+    "A": "She has to leave her house every day.",
+    "B": "She has to do many household chores every day.",
+    "C": "She is looking for a house husband.",
+    "D": "She has become a housewife now."
+   },
+   "answer": "B",
+   "explain": "解：曼迪每天都有很多家事得做。\na. 她必須每天離開家裡\nb. 她每天必須做很多家庭瑣碎的事\nc. 她正尋找一個家庭主夫\nd. 她現在已經成為一個家庭主婦了\nhousehold a. 家庭的 chore n. 瑣事",
+   "audio": "audio/b11/040.mp3"
+  },
+  {
+   "id": "b11-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Look! The professor is irritated.",
+   "options": {
+    "A": "The professor is very surprised.",
+    "B": "The professor is a little angry.",
+    "C": "The professor is quite happy.",
+    "D": "The professor is too tired."
+   },
+   "answer": "B",
+   "explain": "解：嘿注意一下！教授要生氣了。\na. 教授相當驚訝\nb. 教授有些生氣\nc. 教授相當開心\nd. 教授太累了",
+   "audio": "audio/b11/041.mp3"
+  },
+  {
+   "id": "b11-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Sergeant Smith wants you to look up to him.",
+   "options": {
+    "A": "You should find him.",
+    "B": "He can punish you.",
+    "C": "You need to salute him.",
+    "D": "He wants to hang out with you."
+   },
+   "answer": "C",
+   "explain": "解：史密斯中士要你對他敬禮。\na. 你需要找到他\nb. 他可以處罰你\nc. 你必須向他敬禮\nd. 他要你跟他出去玩",
+   "audio": "audio/b11/042.mp3"
+  },
+  {
+   "id": "b11-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "In my country, you can smoke practically anywhere.",
+   "options": {
+    "A": "In my country, you are not allowed to smoke.",
+    "B": "In my country, you can smoke almost everywhere.",
+    "C": "In my country, you cannot smoke until you are 18.",
+    "D": "In my country, you cannot smoke in public places."
+   },
+   "answer": "B",
+   "explain": "解：在我的國家，基本上你可以在任何地方抽菸。\na. 在我的國家，你不被允許抽菸\nb. 在我的國家，你幾乎可以在任何地方抽菸\nc. 在我的國家，你不能在18歲前抽菸\nd. 在我的國家，你不能在公共場所抽菸",
+   "audio": "audio/b11/043.mp3"
+  },
+  {
+   "id": "b11-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "My older sister seldom eats breakfast.",
+   "options": {
+    "A": "She doesn't eat breakfast very often.",
+    "B": "She skips breakfast every morning.",
+    "C": "She enjoys a big breakfast very often.",
+    "D": "She eats breakfast every morning."
+   },
+   "answer": "A",
+   "explain": "解：我的姊姊很少吃早餐。\na. 她不常吃早餐\nb. 她從不吃早餐\nc. 她常常享受豐盛的早餐\nd. 她每天都吃早餐",
+   "audio": "audio/b11/044.mp3"
+  },
+  {
+   "id": "b11-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "What I want is a permanent job.",
+   "options": {
+    "A": "I want a temporary job.",
+    "B": "I want a well-paying job.",
+    "C": "I want a part-time job.",
+    "D": "I want a steady job."
+   },
+   "answer": "D",
+   "explain": "解：我要的是一個正職的工作。\na. 我要一個暫時的工作\nb. 我要一個高收入的工作\nc. 我要一個打工性質的工作\nd. 我要一個穩定的工作\npermanent job/steady job 正職穩定的工作、part-time job 打工(兼職)",
+   "audio": "audio/b11/045.mp3"
+  },
+  {
+   "id": "b11-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I really had a good time at the party.",
+   "options": {
+    "A": "I didn't go to the party.",
+    "B": "I won't go to the party.",
+    "C": "I didn't like the party.",
+    "D": "I really enjoyed the party."
+   },
+   "answer": "D",
+   "explain": "解：我在派對上玩得很開心。\na. 我沒去派對\nb. 我將不會去派對\nc. 我不喜歡派對\nd. 我真的很享受派對時光",
+   "audio": "audio/b11/046.mp3"
+  },
+  {
+   "id": "b11-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "General Swift is giving them a pep talk.",
+   "options": {
+    "A": "He is saying something to encourage them.",
+    "B": "He is having a chat with them.",
+    "C": "He is demonstrating how to talk efficiently.",
+    "D": "He is delivering a long speech to them."
+   },
+   "answer": "A",
+   "explain": "解：Swift將軍將對他們精神講話。\na. 他要說些鼓勵他們的話\nb. 他將與他們閒聊\nc. 他將示範如何說話有效率\nd. 他將對他們訴說長篇大論",
+   "audio": "audio/b11/047.mp3"
+  },
+  {
+   "id": "b11-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I'm fed up with students like Tom.",
+   "options": {
+    "A": "I'm fond of students like Tom.",
+    "B": "I'll model myself on students like Tom.",
+    "C": "I'm disgusted with students like Tom.",
+    "D": "I'll feel pity for students like Tom."
+   },
+   "answer": "C",
+   "explain": "解：我受夠像湯姆這樣的學生了\na. 我很喜歡像湯姆這樣的學生\nb. 我將模仿像湯姆這樣的學生\nc. 我很厭惡像湯姆這樣的學生\nd. 我將覺得像湯姆這樣的學生很可憐",
+   "audio": "audio/b11/048.mp3"
+  },
+  {
+   "id": "b11-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "There are many hazards in the jungle.",
+   "options": {
+    "A": "There are many animal species there.",
+    "B": "There are many insect species.",
+    "C": "There are many dangers there.",
+    "D": "There are many strange things there."
+   },
+   "answer": "C",
+   "explain": "解：叢林中暗藏許多危險。\na. 叢林中有很多動物種類\nb. 叢林中有很多昆蟲種類\nc. 叢林中存在很多危險\nd. 叢林中有很多奇怪的事\nhazard/danger n. 危險、危機",
+   "audio": "audio/b11/049.mp3"
+  },
+  {
+   "id": "b11-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The plane is going to land any minute now.",
+   "options": {
+    "A": "The plane will take off in a few minutes.",
+    "B": "The plane will be delayed for some time.",
+    "C": "The plane will come down to the ground soon.",
+    "D": "The plane is not in a no man's land."
+   },
+   "answer": "C",
+   "explain": "解：飛機現在隨時都會降落。\na. 飛機將在幾分鐘內起飛\nb. 飛機會誤點一些時間\nc. 飛機將在短時間內落地\nd. 飛機不是在無人區\nno man's land 無人區、take off 起飛、land v. 降落",
+   "audio": "audio/b11/050.mp3"
+  },
+  {
+   "id": "b11-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: What a pleasant surprise. I haven't seen you for ages. W: It's good to see you again. How have you been? M: Couldn't be better. How do you describe the way they met each other?",
+   "options": {
+    "A": "They met on schedule.",
+    "B": "They met coincidently.",
+    "C": "They didn't know each other.",
+    "D": "They are relatives."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "What a pleasant surprise. I haven't seen you for ages."
+    },
+    {
+     "s": "W",
+     "t": "It's good to see you again. How have you been?"
+    },
+    {
+     "s": "M",
+     "t": "Couldn't be better. How do you describe the way they met each other?"
+    }
+   ],
+   "explain": "男：真是太巧了，我多久沒見到你了。\n女：很高興再次見到你，你最近過如何?\n男：一直都很好啊。\n你如何描述他們見到彼此的情形?\na. 他們計畫性的相遇\nb. 他們巧合的遇到\nc. 他們不認識彼此\nd. 他們是親戚",
+   "audio": "audio/b11/051.mp3"
+  },
+  {
+   "id": "b11-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: We are planning an outing on Friday afternoon. Want to join us? M: I'd like to but I won't be back until next Monday. What will the woman be doing on Friday afternoon?",
+   "options": {
+    "A": "She will go on picnic.",
+    "B": "She will go the hospital.",
+    "C": "She will stay in the barracks.",
+    "D": "She won't go anywhere."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "We are planning an outing on Friday afternoon. Want to join us?"
+    },
+    {
+     "s": "M",
+     "t": "I'd like to but I won't be back until next Monday. What will the woman be doing on Friday afternoon?"
+    }
+   ],
+   "explain": "女：我們正計畫週五下午的戶外活動。想要加入我們嗎?\n男：我很想去但我要到下星期一才會回來。\n這位女性將在週五下午做些什麼?\na. 他將去戶外ᰀ餐\nb. 他將去醫院\nc. 他將待在營區內\nd. 他不會去任何地方",
+   "audio": "audio/b11/052.mp3"
+  },
+  {
+   "id": "b11-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: I've got to go now. It's getting late. M: All right. If you insist, I will go and get the cab for you. What's the man going to do?",
+   "options": {
+    "A": "He is going to go home.",
+    "B": "He is going to call the taxi.",
+    "C": "He is about to leave.",
+    "D": "He is putting his cloth on."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "I've got to go now. It's getting late."
+    },
+    {
+     "s": "M",
+     "t": "All right. If you insist, I will go and get the cab for you. What's the man going to do?"
+    }
+   ],
+   "explain": "女：我要走了，快要遲到了。\n男：好吧，如果你堅持要走，我去幫你叫計程車。\n那為男性將要做什麼?\na. 他將要回家了\nb. 他將要叫計程車\nc. 他將要離開\nd. 他將要穿上衣服",
+   "audio": "audio/b11/053.mp3"
+  },
+  {
+   "id": "b11-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: What seems to be your problem? W: I have a headache and a running nose M: Don't worry. Let me take your temperature. Where is the woman?",
+   "options": {
+    "A": "She is in the clinic.",
+    "B": "She is on the bus.",
+    "C": "She is walking on the street.",
+    "D": "She is driving on the road."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "What seems to be your problem?"
+    },
+    {
+     "s": "W",
+     "t": "I have a headache and a running nose"
+    },
+    {
+     "s": "M",
+     "t": "Don't worry. Let me take your temperature. Where is the woman?"
+    }
+   ],
+   "explain": "男：你的症狀是什麼?\n女：我有頭痛跟流鼻水。\n男：不用擔心，我先幫你ᰁ體溫。\n這位女性在哪裡?\na. 她在診所\nb. 她在公車上\nc. 她在路上走路\nd. 她開車在路上",
+   "audio": "audio/b11/054.mp3"
+  },
+  {
+   "id": "b11-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Let's start the gift shop over there. M: What for? W: Tomorrow is Jacky and Cathy’s wedding anniversary. M: I almost forgot. What are they going to do?",
+   "options": {
+    "A": "They are fighting.",
+    "B": "They are choosing the present.",
+    "C": "They are auguring.",
+    "D": "They are going to someone’s wedding ceremony."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Let's start the gift shop over there."
+    },
+    {
+     "s": "M",
+     "t": "What for?"
+    },
+    {
+     "s": "W",
+     "t": "Tomorrow is Jacky and Cathy’s wedding anniversary."
+    },
+    {
+     "s": "M",
+     "t": "I almost forgot. What are they going to do?"
+    }
+   ],
+   "explain": "女：我們去這個禮品店逛逛吧。\n男：為什麼?\n女：明天是傑克與凱⻄的結婚紀念日。\n男：我差點忘了。\n他們將要做什麼?\na. 他們在爭吵\nb. 他們在選禮物\nc. 他們在爭辯\nd. 他們將要去某人的婚禮",
+   "audio": "audio/b11/055.mp3"
+  },
+  {
+   "id": "b11-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: My name is Tony Wilson. Today is my first day. W: I am Mary. Pleased to meet you. I hope you enjoy working here. Who is the woman talking to?",
+   "options": {
+    "A": "Her boss.",
+    "B": "Her boyfriend.",
+    "C": "Her new colleague.",
+    "D": "Her new supervisor."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "My name is Tony Wilson. Today is my first day."
+    },
+    {
+     "s": "W",
+     "t": "I am Mary. Pleased to meet you. I hope you enjoy working here. Who is the woman talking to?"
+    }
+   ],
+   "explain": "男：我的名字叫東尼威爾森，今天是我第一天上班。\n女：我叫瑪麗。很高興認識你。希望你會喜歡在這上班。\n這位女性正對誰說話?\na. 她的老闆\nb. 她的男友\nc. 她的新同事\nd. 她的新上司",
+   "audio": "audio/b11/056.mp3"
+  },
+  {
+   "id": "b11-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: How was your flight? M: Great. It was comfortable and the service was excellent. How does the man feel about the flight?",
+   "options": {
+    "A": "The flight attendants offended him.",
+    "B": "The flight was smooth and cozy.",
+    "C": "It faced turbulence.",
+    "D": "The flight was delayed by heavy fog."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "How was your flight?"
+    },
+    {
+     "s": "M",
+     "t": "Great. It was comfortable and the service was excellent. How does the man feel about the flight?"
+    }
+   ],
+   "explain": "女：你的班機如何?\n男：很好啊，很舒適而且服務也很好。\n這位男生覺得他的班機如何?\na. 空服員冒犯到他\nb. 班機飛得很穩且舒適\nc. 飛機遇到亂流\nd. 因濃霧班機延誤了\nturbulence n. 亂流",
+   "audio": "audio/b11/057.mp3"
+  },
+  {
+   "id": "b11-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: How much is the necklace? W: Well, the tag price is $3,000. But if you pay cash, I can give you a 5% discount. M: I think I will charge it. How is the man going to pay?",
+   "options": {
+    "A": "He will just grab it.",
+    "B": "He will use credit card to buy it.",
+    "C": "He will pay in cash.",
+    "D": "He will rob the story."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "How much is the necklace?"
+    },
+    {
+     "s": "W",
+     "t": "Well, the tag price is $3,000. But if you pay cash, I can give you a 5% discount."
+    },
+    {
+     "s": "M",
+     "t": "I think I will charge it. How is the man going to pay?"
+    }
+   ],
+   "explain": "男：這條項鍊多少錢?\n女：嗯...標籤上是3000元，但如果你付現金的話，我可以給你95折優惠。\n男：我覺得我還是用信用卡吧。\n這位男性將用什麼方式付款?\na. 他將直接搶走\nb. 他將用信用卡買項鍊\nc. 他將付現金\nd. 他將搶劫這家店\ncharge it 有記帳的概念亦指非立即付款，此為信用卡的概念",
+   "audio": "audio/b11/058.mp3"
+  },
+  {
+   "id": "b11-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: I didn't know it's so chilly outside. W: I'll go to get your sweater. What were they doing?",
+   "options": {
+    "A": "They were eating.",
+    "B": "They were watching movie.",
+    "C": "They were walking on the street.",
+    "D": "They did some exercises in the gym."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "I didn't know it's so chilly outside."
+    },
+    {
+     "s": "W",
+     "t": "I'll go to get your sweater. What were they doing?"
+    }
+   ],
+   "explain": "男：我不知道外面如此的冷。\n女：我去幫你拿毛衣。\n他們在做什麼?\na. 他們在吃東⻄\nb. 他們在看電影\nc. 他們走在街上\nd. 他們在健身房做運動",
+   "audio": "audio/b11/059.mp3"
+  },
+  {
+   "id": "b11-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Hello, this is Lisa. May I speak to Lieutenant Neilson? M: He is not here. Can I take a message? W: I will call back later. What will the woman do?",
+   "options": {
+    "A": "She won't come again.",
+    "B": "She wants to go out with him.",
+    "C": "She will come to see him.",
+    "D": "She will call him again."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Hello, this is Lisa. May I speak to Lieutenant Neilson?"
+    },
+    {
+     "s": "M",
+     "t": "He is not here. Can I take a message?"
+    },
+    {
+     "s": "W",
+     "t": "I will call back later. What will the woman do?"
+    }
+   ],
+   "explain": "女：嗨，我是莉莎，我要找尼爾森上尉。\n男：他不在。我可以幫你留言給他。\n女：我再回撥好了。\n那位女性將怎麼做?\na. 她不會再來了\nb. 她想要跟他出去\nc. 她將來見他\nd. 她將再回撥給他",
+   "audio": "audio/b11/060.mp3"
+  },
+  {
+   "id": "b11-061",
+   "n": 61,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Sergeant, it's time ________ to Captain Smith.",
+   "options": {
+    "A": "report",
+    "B": "reported",
+    "C": "reporting",
+    "D": "to report"
+   },
+   "answer": "D",
+   "explain": "中士，你該向史密斯上尉報到了。\nit's time (that) you reported to ...\n非it's time (that) you report to ... (在這種句型裡其䋿是一種和現在事䋿相反的\n假設，因為這樣講通常是指對方現在其䋿沒有這麼做)"
+  },
+  {
+   "id": "b11-062",
+   "n": 62,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "My grandparents live ______ 243 Park Road.",
+   "options": {
+    "A": "along",
+    "B": "at",
+    "C": "on",
+    "D": "over"
+   },
+   "answer": "B",
+   "explain": "我的祖父母住在243公園路上。\n住在○○○路上的介係詞用 at"
+  },
+  {
+   "id": "b11-063",
+   "n": 63,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The tape measure is used to measure _____.",
+   "options": {
+    "A": "humidity",
+    "B": "altitude",
+    "C": "atmosphere",
+    "D": "distance"
+   },
+   "answer": "D",
+   "explain": "捲尺是用來ᰁ測距離。\ntape measure n. 捲尺；humidity n. 濕度；altitude n. 高度；atmosphere n.\n大氣；distance n. 距離"
+  },
+  {
+   "id": "b11-064",
+   "n": 64,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "To attract more customers, the supermarket is giving away free ____ of makeup.",
+   "options": {
+    "A": "samples",
+    "B": "examples",
+    "C": "reports",
+    "D": "supports"
+   },
+   "answer": "A",
+   "explain": "為了吸引更多的消費者。超商將提供更多免費的化妝品樣品。\nsample n. 樣品、example n. 舉例、report n. 報導、support n. 支援"
+  },
+  {
+   "id": "b11-065",
+   "n": 65,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "I don't want those old-fashioned cameras. I want a ______ one.",
+   "options": {
+    "A": "physical",
+    "B": "logical",
+    "C": "digital",
+    "D": "gentle"
+   },
+   "answer": "C",
+   "explain": "我不想要那些傳統式的相機。我要數位式的相機。\nphysical a. 身體的、logical a. 合邏輯的、digital a. 數位的、gentle a. 溫和的"
+  },
+  {
+   "id": "b11-066",
+   "n": 66,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Major Babbit won't come in today because he is ______ sick leave.",
+   "options": {
+    "A": "in",
+    "B": "on",
+    "C": "at",
+    "D": "for"
+   },
+   "answer": "B",
+   "explain": "雷比少校今天不會來，因為他請病假\non sick leave 請病假"
+  },
+  {
+   "id": "b11-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "You have to admit that your girlfriend is very particular about what she wears and eats.",
+   "options": {
+    "A": "choosy",
+    "B": "careless",
+    "C": "special",
+    "D": "generous"
+   },
+   "answer": "A",
+   "underline": [
+    "particular"
+   ],
+   "explain": "你不得不承認你女朋友對穿著非常講究。\nchoosy 挑剔、careless 粗心、generous 慷慨"
+  },
+  {
+   "id": "b11-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "By the time we meet again, winter __________.",
+   "options": {
+    "A": "has arrived",
+    "B": "must have arrived",
+    "C": "is arriving",
+    "D": "will have arrived"
+   },
+   "answer": "D",
+   "explain": "當我們再見面的時候，冬天將已經到來。\n未來完成式是由兩個要素組成：動詞 to have 的未來簡單式 (will have) + 主要\n動詞的過去分詞。未來完成進行式涉及未來未完成的動作。當使用這個時態\n時，我們對未來會有所期望，並且反觀在未來某時間會完成的動作。大部分\n常與時間詞一起使用。"
+  },
+  {
+   "id": "b11-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "It was not your fault. I'm not going to ________ you.",
+   "options": {
+    "A": "shame",
+    "B": "blame",
+    "C": "flush",
+    "D": "blush"
+   },
+   "answer": "B",
+   "explain": "這不是你的錯。我將不會責備你。\nshame v. 使丟臉、blame v. 責備、flush v. 用水沖洗、blush v. 感到羞愧"
+  },
+  {
+   "id": "b11-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "The NCO expects his men _____ the proper uniform.",
+   "options": {
+    "A": "to wear",
+    "B": "wear",
+    "C": "wore",
+    "D": "wearing"
+   },
+   "answer": "A",
+   "explain": "士官幹部期望他們的部屬能適當的穿著制服。\nexpect someone to do something 期望某人做某事；NCO 士官、Officer 軍官"
+  },
+  {
+   "id": "b11-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Blood _____ through miles of veins and arteries by the heart.",
+   "options": {
+    "A": "pumps",
+    "B": "pumped",
+    "C": "is pumped",
+    "D": "being pumped"
+   },
+   "answer": "C",
+   "explain": "血液被心臟加壓輸送至好幾英里的動、靜脈內。\n表被動： be 動詞 + 過去分詞； 血液被心臟加壓 blood is pumped by the\nheart ..."
+  },
+  {
+   "id": "b11-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The Internet has already had a strong impact on the way people live and work.",
+   "options": {
+    "A": "effect",
+    "B": "test",
+    "C": "smell",
+    "D": "point"
+   },
+   "answer": "A",
+   "underline": [
+    "impact"
+   ],
+   "explain": "網際網路已經對人們的生活及工作造成強烈衝擊。\neffect n. 影響"
+  },
+  {
+   "id": "b11-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "If John hadn't known how to swim, he _____ when the boat sank.",
+   "options": {
+    "A": "drowned",
+    "B": "might drown",
+    "C": "had drowned",
+    "D": "might have drowned"
+   },
+   "answer": "D",
+   "explain": "假如約翰不會游泳的話，他可能會在船翻覆的時候溺水。"
+  },
+  {
+   "id": "b11-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The story should be condensed before publication.",
+   "options": {
+    "A": "confirmed",
+    "B": "connected",
+    "C": "consolidated",
+    "D": "consisted"
+   },
+   "answer": "C",
+   "underline": [
+    "condensed"
+   ],
+   "explain": "這故事將再出版前再縮短一些。\ncondense v. 濃縮、縮減；consolidate v. 合併"
+  },
+  {
+   "id": "b11-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "More and more people ________ health conscious in recent years.",
+   "options": {
+    "A": "become",
+    "B": "became",
+    "C": "have become",
+    "D": "had become"
+   },
+   "answer": "C",
+   "explain": "近幾年，許多人對健康已越來越᯿視。\n表現在完成式 have + 過去分詞"
+  },
+  {
+   "id": "b11-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "The candidate, _____ by many, decided to run.",
+   "options": {
+    "A": "support",
+    "B": "supported",
+    "C": "supporting",
+    "D": "supports"
+   },
+   "answer": "B",
+   "explain": "一位受到許多人支持的候選人決定要開始打選戰了。\nThe candidate, supported by many, ... 同位修飾，表受到許多人支持的候選\n人"
+  },
+  {
+   "id": "b11-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The fire broke out in the afternoon and was not ________ until midnight.",
+   "options": {
+    "A": "put away",
+    "B": "put across",
+    "C": "put off",
+    "D": "put out"
+   },
+   "answer": "D",
+   "explain": "火勢從下午開始延燒至半夜仍未被撲滅。\nput away 收起來、put across 放過、put off 推遲、put out 撲滅"
+  },
+  {
+   "id": "b11-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Ted's perplexity during the discussion was evident.",
+   "options": {
+    "A": "confusion",
+    "B": "perception",
+    "C": "exception",
+    "D": "consideration"
+   },
+   "answer": "A",
+   "underline": [
+    "perplexity"
+   ],
+   "explain": "再討論的過程中顯示了泰德的困惑。\nconfusion n. 疑惑、perception n. 洞察力、consideration n. 考ᰁ"
+  },
+  {
+   "id": "b11-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "We wish the bride and the groom _________.",
+   "options": {
+    "A": "very happy",
+    "B": "very happily",
+    "C": "great happy",
+    "D": "every happiness"
+   },
+   "answer": "D",
+   "explain": "我們期望新娘跟新郎可以永遠幸福。"
+  },
+  {
+   "id": "b11-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Three days after the major surgery, Tom was still too feeble to get out of bed.",
+   "options": {
+    "A": "weak",
+    "B": "eager",
+    "C": "glad",
+    "D": "healthy"
+   },
+   "answer": "A",
+   "underline": [
+    "feeble"
+   ],
+   "explain": "在手術後的第三天，湯姆仍然虛弱到無法下床。"
+  },
+  {
+   "id": "b11-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Currently, health care costs ________ about 12% of the gross domestic product.",
+   "options": {
+    "A": "scramble for",
+    "B": "search for",
+    "C": "adapt for",
+    "D": "account for"
+   },
+   "answer": "D",
+   "explain": "近期，健康保險花費佔國內生產總值的百分之12。\naccount for (在數ᰁ上)佔"
+  },
+  {
+   "id": "b11-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "A first-aid kit always _____ when you are camping.",
+   "options": {
+    "A": "comes in handy",
+    "B": "gets out of hand",
+    "C": "goes hand in hand",
+    "D": "keeps your hands off"
+   },
+   "answer": "A",
+   "explain": "急救箱必須隨手可得當你去露營的時候。\nin handy 隨手可得"
+  },
+  {
+   "id": "b11-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Much as I _________ those victims, I'm not able to help them.",
+   "options": {
+    "A": "show around",
+    "B": "sympathize with",
+    "C": "come around",
+    "D": "cheer up"
+   },
+   "answer": "B",
+   "explain": "縱使我非常同情那些受難者，我還是無法幫助他們。\nsympathize with 同情、cheer up 鼓舞"
+  },
+  {
+   "id": "b11-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The principal was appointed by the board of education.",
+   "options": {
+    "A": "assigned",
+    "B": "rejected",
+    "C": "repelled",
+    "D": "slandered"
+   },
+   "answer": "A",
+   "underline": [
+    "was appointed by"
+   ],
+   "explain": "校長是由教育委員會所指派。\nappoint、assign v. 指派；reject v. 反對；repel v. 反抗；slander v. 毀謗"
+  },
+  {
+   "id": "b11-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "You are welcome to use all the ______ in our hotel.",
+   "options": {
+    "A": "activities",
+    "B": "facilities",
+    "C": "abilities",
+    "D": "possibilities"
+   },
+   "answer": "B",
+   "explain": "你可以隨時使用我們飯店內的設施。\nfacility 設施"
+  },
+  {
+   "id": "b11-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "The small town is __________ a holiday resort.",
+   "options": {
+    "A": "known for",
+    "B": "known as",
+    "C": "know to",
+    "D": "known by"
+   },
+   "answer": "B",
+   "explain": "這個小鎮被視為度假勝地。\nknown as 被視為..."
+  },
+  {
+   "id": "b11-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Stop smoking in here, _________?",
+   "options": {
+    "A": "will you",
+    "B": "shall you",
+    "C": "do you",
+    "D": "don’t you"
+   },
+   "answer": "A",
+   "explain": "這裡禁止吸菸，可以嗎?\n附加問句：否定命令句出現，用will you結尾。"
+  },
+  {
+   "id": "b11-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Much ______ my surprise, he came back from the war safe and sound.",
+   "options": {
+    "A": "for",
+    "B": "with",
+    "C": "to",
+    "D": "by"
+   },
+   "answer": "C",
+   "explain": "太讓我驚訝了，他竟然完好無缺的從戰場回來。\nto one's surprise/astonishment 讓某人驚訝"
+  },
+  {
+   "id": "b11-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "The man who was playing the piano _____ by the audience.",
+   "options": {
+    "A": "applauded",
+    "B": "was applauded",
+    "C": "was applauding",
+    "D": "being applauded"
+   },
+   "answer": "B",
+   "explain": "這位正在彈奏鋼琴的男性獲得觀眾的掌聲。\nwas applauded be audience 受到觀眾的掌聲"
+  },
+  {
+   "id": "b11-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "We could see the Stars and Stripes flying _______ the American Embassy.",
+   "options": {
+    "A": "over",
+    "B": "between",
+    "C": "within",
+    "D": "from"
+   },
+   "answer": "A",
+   "explain": "我們可以看到星條旗飛舞在美國大使館上。\nfly over 在... 地方上面飛舞"
+  },
+  {
+   "id": "b11-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "He was ________ in heavy traffic for about an hour.",
+   "options": {
+    "A": "caught",
+    "B": "bought",
+    "C": "sought",
+    "D": "brought"
+   },
+   "answer": "A",
+   "explain": "他塞車塞了近1小時。\nwas caught 被纏住"
+  },
+  {
+   "id": "b11-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "My dad often _______ while watching TV.",
+   "options": {
+    "A": "falls asleep",
+    "B": "drops out",
+    "C": "checks in",
+    "D": "goes abroad"
+   },
+   "answer": "A",
+   "explain": "我爸爸常常邊看電視邊睡著。"
+  },
+  {
+   "id": "b11-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Bob's progress was consistent.",
+   "options": {
+    "A": "abrupt",
+    "B": "constant",
+    "C": "normal",
+    "D": "drastic"
+   },
+   "answer": "B",
+   "underline": [
+    "consistent"
+   ],
+   "explain": "包柏的進步是穩固的。\nabrupt a. 突然的；constant a. 固定的；normal a. 正常的；drastic a. 激烈的"
+  },
+  {
+   "id": "b11-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "_____ is prohibited within the school zone.",
+   "options": {
+    "A": "Speed",
+    "B": "To speed",
+    "C": "Speeding",
+    "D": "Sped"
+   },
+   "answer": "C",
+   "explain": "在校區超速是被禁止的。\nSpeeding 超速、prohibit v. 禁止、school zone 校區"
+  },
+  {
+   "id": "b11-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "At the present time, a road is being built in that part of the city.",
+   "options": {
+    "A": "is being constructed",
+    "B": "is being destroyed",
+    "C": "is being sold",
+    "D": "is being deconstructed"
+   },
+   "answer": "A",
+   "underline": [
+    "is being built"
+   ],
+   "explain": "在近期，城市某部分的道路將被建造。\nbuild 的同義字為 construct 意思為建造。"
+  },
+  {
+   "id": "b11-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "My younger brother was sleeping _______ when I entered his room.",
+   "options": {
+    "A": "like a dog",
+    "B": "like a hog",
+    "C": "like a fog",
+    "D": "like a log"
+   },
+   "answer": "D",
+   "explain": "當我進去我地的房間時，我弟弟睡得很熟。\nsleeping like a log 睡得像木頭一樣"
+  },
+  {
+   "id": "b11-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "The word “blog” is short for a biographical web log. A blog is a record of what someone does or thinks each day, which he or she puts on a web- page. The web-page usually contains his or her personal opinions, comments or experiences. What is a blog?",
+   "options": {
+    "A": "A type of recreation.",
+    "B": "A type of diary.",
+    "C": "A type of music.",
+    "D": "A type of computer."
+   },
+   "answer": "B",
+   "explain": "部落格這個字是指一種在網路上簡短的自傳式簡介。部落格在網路上記錄了\n某人每天做的事情跟想法。這網頁中通常包含了他(她)個人的想法、評論或經\n驗。\n什麼是部落格?\na. 一種娛樂\nb. 一種日記\nc. 一種音樂\nd. 一種電腦"
+  },
+  {
+   "id": "b11-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "There are three branches of medicine. Although “science medicine” is the mainstream, many people would often turn to “folk medicine” or “faith healing” for help, especially when they or their family members are terminally ill. Quite a few people believe in ______________.",
+   "options": {
+    "A": "bogus medicine",
+    "B": "preventive medicine",
+    "C": "placebo medicine",
+    "D": "alternative medicine"
+   },
+   "answer": "D",
+   "explain": "醫學治療可區分3種。雖然目前科學醫學是主流，但許多人在他們或他們的家\n人已病入膏肓的時候會尋求傳統醫學及信仰治癒的協助。\n相當多的人相信 ______\na. 偽造醫學\nb. 預防醫學\nc. 安慰醫學\nd. 其他種醫療方式"
+  },
+  {
+   "id": "b11-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "In a modern city there are hustle microbes everywhere. Almost every day we are exposed to sufficient of them to bring us down with some sort of infection. Which of the following is closest in meaning to “microbes”?",
+   "options": {
+    "A": "Bacteria",
+    "B": "Enemies",
+    "C": "Accident",
+    "D": "Hospitals"
+   },
+   "answer": "A",
+   "explain": "在現代城市中到處存在著許多微生物。我們幾乎每天暴露在它們當中足以造\n成對我們某種程度上的感染。\n下列何者是微生物的同義字?\na. 細菌\nb. 敵人\nc. 意外\nd. 醫院"
+  },
+  {
+   "id": "b11-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "A powerful undersea earthquake unleashed a tsunami, which has hit the western Solomon Islands yesterday, destroying entire villages and killing an estimated 10 people. What did the earthquake cause?",
+   "options": {
+    "A": "A tornado",
+    "B": "A lot of damage",
+    "C": "A volcanic eruption",
+    "D": "Power failure"
+   },
+   "answer": "B",
+   "explain": "昨日，一個威力巨大的海底地震造成了海嘯並且襲擊⻄部索羅門群島，徹底\n摧毀許多村莊並估計造成至少死傷10人。\n地震造成了什麼?\na. 龍捲風\nb. 許多損壞\nc. 火山爆發\nd. 電力中斷"
+  }
+ ]
+}

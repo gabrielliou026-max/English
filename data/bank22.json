@@ -1,0 +1,1893 @@
+{
+ "bank": "22",
+ "title": "第 22 回",
+ "questions": [
+  {
+   "id": "b22-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Sam arrived at the theater at one but the movie didn't begin until three. How long did he have to wait?",
+   "options": {
+    "A": "3 o'clock",
+    "B": "for no one",
+    "C": "two hours",
+    "D": "because it was late"
+   },
+   "answer": "C",
+   "explain": "解：Sam一點就到電影院但是電影要到3點才開始。他還要等多久? 答：c. 2\n個小時。",
+   "audio": "audio/b22/001.mp3"
+  },
+  {
+   "id": "b22-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Gail said, \"Remember your appointment with the doctor.\" What did Gail want me to remember?",
+   "options": {
+    "A": "to call the doctor",
+    "B": "to write to the doctor",
+    "C": "to go see the doctor",
+    "D": "to find out about the doctor"
+   },
+   "answer": "C",
+   "explain": "解：Gail說：記得你跟醫生預約的時間。Gail希望我記得什麼事? 答：c. 去看\n醫生 (1) appointment n. 預約",
+   "audio": "audio/b22/002.mp3"
+  },
+  {
+   "id": "b22-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The woman told her daughter to spread out the table cloth on the table. What was the daughter told to do with the table cloth?",
+   "options": {
+    "A": "fold it up",
+    "B": "stretch it out",
+    "C": "roll it up",
+    "D": "take it away"
+   },
+   "answer": "B",
+   "explain": "解：那個女人請他的女兒鋪設餐桌巾。女兒被告知要對餐桌巾做什麼? 答：b.\n展開鋪平它。 (1) stretch v. 伸展、展開 (2) roll v. 翻滾",
+   "audio": "audio/b22/003.mp3"
+  },
+  {
+   "id": "b22-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Mary, can you mail this right away?",
+   "options": {
+    "A": "Of course, this is the right way.",
+    "B": "I'll do it as soon as I hand this report over to John.",
+    "C": "Yes, I can make it.",
+    "D": "No, it can't melt right away."
+   },
+   "answer": "B",
+   "explain": "解：Mary，你可以立即將這個寄出嗎?\n答：我把這個報告交給約翰後馬上去寄。",
+   "audio": "audio/b22/004.mp3"
+  },
+  {
+   "id": "b22-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "They are going to Houston by jet. How will they go to Houston?",
+   "options": {
+    "A": "By MRT.",
+    "B": "By HSR.",
+    "C": "On foot.",
+    "D": "By plane."
+   },
+   "answer": "D",
+   "explain": "解：他們將搭乘噴射機去休士頓。他們將如何前往休士頓? 答：d. 搭乘飛\n機。 (1) jet n. 噴射機 (2) MRT - Mass Rapid Transit 捷運 (3) HSR - High\nSpeed Rail 高鐵",
+   "audio": "audio/b22/005.mp3"
+  },
+  {
+   "id": "b22-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How can I go if my car is in the shop?",
+   "options": {
+    "A": "Well, you can always shop for a new one at the mall.",
+    "B": "You can stop by the store.",
+    "C": "Why don't you take a cab?",
+    "D": "If that is so, you should find a mechanic."
+   },
+   "answer": "C",
+   "explain": "解：如果我的車在店裡，我怎麼去？ 答：c. 你為什麼不搭計程車。 (1) cab n.\n計程車 (2) mechanic n. 維修技師",
+   "audio": "audio/b22/006.mp3"
+  },
+  {
+   "id": "b22-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Alfonso said, \"The lights are blinking\" What did he mean?",
+   "options": {
+    "A": "They are turning on the lights.",
+    "B": "They are turning the lights on and off.",
+    "C": "They are broken.",
+    "D": "They are old lights."
+   },
+   "answer": "B",
+   "explain": "解：Alfonso說:燈在閃爍。他的意思是? 答：b. 他們正忽明忽滅。",
+   "audio": "audio/b22/007.mp3"
+  },
+  {
+   "id": "b22-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Jerry asked, \"Whose pen is this?\" What did he want to know?",
+   "options": {
+    "A": "the color of the pen",
+    "B": "what the pen cost",
+    "C": "the owner of the pen",
+    "D": "when the pen was lost"
+   },
+   "answer": "C",
+   "explain": "解：Jerry問：這是誰的筆。他想要知道什麼? 答：c. 誰擁有這支筆。 (1)\nowner n. 擁有者",
+   "audio": "audio/b22/008.mp3"
+  },
+  {
+   "id": "b22-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What is the content of that newspaper story?",
+   "options": {
+    "A": "It costs 25 cents.",
+    "B": "It's about the weather.",
+    "C": "It's printed in the United States.",
+    "D": "It's delivered every day."
+   },
+   "answer": "B",
+   "explain": "解：報紙的內容寫什麼? 答：b. 關於天氣。 (1) deliver v. 運送",
+   "audio": "audio/b22/009.mp3"
+  },
+  {
+   "id": "b22-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The hotel manager said that Jim will operate the elevator today. What will Jim do?",
+   "options": {
+    "A": "He will use the elevator.",
+    "B": "He will run the elevator.",
+    "C": "He will repair the elevator.",
+    "D": "He will study the elevator."
+   },
+   "answer": "B",
+   "explain": "解：飯店經理告訴吉姆今天將由他來操作電梯。吉姆將要做什麼? 答：b. 他\n將要操作電梯。 (1) operate (= run) v. 操作 (2) repair v. 維修",
+   "audio": "audio/b22/010.mp3"
+  },
+  {
+   "id": "b22-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The football player was hurt on impact. How did he get hurt?",
+   "options": {
+    "A": "sitting on the bench",
+    "B": "missing the play",
+    "C": "hitting the ground",
+    "D": "staying in bed"
+   },
+   "answer": "C",
+   "explain": "解：美式足球員在衝撞中受了傷。他是怎麼受傷的? 答：c. 落地(撞擊地面)。\n(1) impact n. 碰撞、衝擊",
+   "audio": "audio/b22/011.mp3"
+  },
+  {
+   "id": "b22-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The east door should be used only in case of emergency. When should we use the east door?",
+   "options": {
+    "A": "when there is no danger",
+    "B": "when the building is on fire",
+    "C": "when there is a heavy rain",
+    "D": "when the weather is cold"
+   },
+   "answer": "B",
+   "explain": "解：東側的門只能在緊急狀況下使用。什麼情況下我們必須使用東側門?\n答：b. 當該棟建築物發生火警的時候。\n(1) emergency n. 緊急狀況",
+   "audio": "audio/b22/012.mp3"
+  },
+  {
+   "id": "b22-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The student was looking at the rainbow. What was he looking at?",
+   "options": {
+    "A": "a drop of water",
+    "B": "colors in the sky",
+    "C": "a waterproof coat",
+    "D": "a stub from a ticket"
+   },
+   "answer": "B",
+   "explain": "解：學生正在看彩虹。他正在看什麼? 答：b. 天空中的色彩。 (1) a stub from\na ticket 票根",
+   "audio": "audio/b22/013.mp3"
+  },
+  {
+   "id": "b22-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How about keeping a pet cat in the house?",
+   "options": {
+    "A": "I'd better ask the postmaster about this.",
+    "B": "I didn't know you had kept a cat as a pet.",
+    "C": "Great! How many do you want to give away?",
+    "D": "Well… I don't know. I'll have to think about it."
+   },
+   "answer": "D",
+   "explain": "解：把貓咪留在家裡如何? 答：d. 額… 我不知道，我再想想吧。 (1)\npostmaster n. 郵局局長",
+   "audio": "audio/b22/014.mp3"
+  },
+  {
+   "id": "b22-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Sven saw his grandfather the day before yesterday. Who did Sven see?",
+   "options": {
+    "A": "his mother's brother.",
+    "B": "his father who is 90.",
+    "C": "his brother's father.",
+    "D": "his mother's father."
+   },
+   "answer": "D",
+   "explain": "解：Sven前天有去探望爺爺。Sven去探望誰? 答：d. 他母親的父親。",
+   "audio": "audio/b22/015.mp3"
+  },
+  {
+   "id": "b22-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "question",
+   "stem": "I heard that Tom's father had passed away. Wasn't he very young?",
+   "options": {
+    "A": "Yes, he passed by this way once a week when he was young.",
+    "B": "No, he only stayed for the Passover.",
+    "C": "Young Tom and his father went the other way.",
+    "D": "It's a pity, isn't it? He just turned fifty."
+   },
+   "answer": "D",
+   "explain": "解：我聽說Tom的父親去世了。 他不是很年輕嗎？ 答：d. 很可憐，對吧。他\n才剛滿50歲。 (1) pass away 過世",
+   "audio": "audio/b22/016.mp3"
+  },
+  {
+   "id": "b22-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The teller told Gustavo he could open an account. What could Gustavo do?",
+   "options": {
+    "A": "put some money in the bank.",
+    "B": "look at his account.",
+    "C": "take money out of his account.",
+    "D": "count the teller's money."
+   },
+   "answer": "A",
+   "explain": "解：櫃員跟Gustavo說他能開一個帳戶。請問Gustavo能做什麼? 答：a. 存一\n些錢在銀行。 (1) open an account 開立帳戶",
+   "audio": "audio/b22/017.mp3"
+  },
+  {
+   "id": "b22-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How did that bottle get broken?",
+   "options": {
+    "A": "It was empty.",
+    "B": "It was handled carefully.",
+    "C": "It fell on the floor.",
+    "D": "It fit in the case."
+   },
+   "answer": "C",
+   "explain": "解：那個瓶子是怎麼破的? 答：c. 它掉到地上了。 (1) empty a. 空的",
+   "audio": "audio/b22/018.mp3"
+  },
+  {
+   "id": "b22-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Someone walked away with our new book. What happened to the book?",
+   "options": {
+    "A": "It was printed.",
+    "B": "It was sold.",
+    "C": "It was stolen.",
+    "D": "It was signed."
+   },
+   "answer": "C",
+   "explain": "解：有人順走了我們的新書。我們的書發生了什麼事? 答：c. 它被偷了。 (1)\nprint v. 列印",
+   "audio": "audio/b22/019.mp3"
+  },
+  {
+   "id": "b22-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What do you mean you forgot to pay this month's telephone bill?",
+   "options": {
+    "A": "I was busy at the office and didn't realize that the deadline had passed.",
+    "B": "I am sorry I do not have enough money to pay Bill this month.",
+    "C": "I did call him, but he didn't return my call.",
+    "D": "Well, I guess he has forgotten all about it."
+   },
+   "answer": "A",
+   "explain": "解：你忘了付這個月的電話費是什麼意思？ 答：a. 我在辦公室很忙，沒有意\n識到截止日期已經過了。",
+   "audio": "audio/b22/020.mp3"
+  },
+  {
+   "id": "b22-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You can participate in our draw for prizes to value, of one million NT dollars if you order now.",
+   "options": {
+    "A": "What's the grand prize?",
+    "B": "Yes, I would like to join you.",
+    "C": "Well, I don't think it's worth one million.",
+    "D": "No, I don't like to draw at all."
+   },
+   "answer": "A",
+   "explain": "解：如果您現在訂購，您可以參加我們的抽獎活動，價值一百萬新台幣。\n答：a. 大獎是什麼? (1) draw for prizes 抽獎",
+   "audio": "audio/b22/021.mp3"
+  },
+  {
+   "id": "b22-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "question",
+   "stem": "If we are having thundershowers, what are we having?",
+   "options": {
+    "A": "a bath",
+    "B": "a winter day",
+    "C": "a summer day",
+    "D": "a storm"
+   },
+   "answer": "D",
+   "explain": "解：假如我們遇到雷雨，我們將面臨什麼? 答：d. 一場風暴。",
+   "audio": "audio/b22/022.mp3"
+  },
+  {
+   "id": "b22-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What are you going to use that trailer for?",
+   "options": {
+    "A": "to haul freight",
+    "B": "to drain the field",
+    "C": "to pump water",
+    "D": "to spray paint"
+   },
+   "answer": "A",
+   "explain": "解：你打算要用那個拖車做什麼? 答：a. 拖運貨物 (1) trailer n. 拖車 (2) haul\nv. 拖運 (3) freight n. 貨物 (4) drain v. 排水 (5) pump v. 抽水",
+   "audio": "audio/b22/023.mp3"
+  },
+  {
+   "id": "b22-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Rudolph spent a great deal of time in the south of France. How much time did he spend there?",
+   "options": {
+    "A": "sometime",
+    "B": "a little",
+    "C": "a lot",
+    "D": "a very little"
+   },
+   "answer": "C",
+   "explain": "解：Rudolph花了很長一段時間待在法國的南部。他花了多久時間待在那。\n答：c. 很長的時間",
+   "audio": "audio/b22/024.mp3"
+  },
+  {
+   "id": "b22-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Captain Willis bought a brand new car. What kind of car did he buy?",
+   "options": {
+    "A": "a used car",
+    "B": "a car never used before",
+    "C": "a repaired car",
+    "D": "an old car with a new engine"
+   },
+   "answer": "B",
+   "explain": "解：Willis上尉買了一輛新車。他得到什麼樣的車?\n答：b. 一輛從未使用過的車。\n(1) brand new 全新的\n(2) engine n. 引擎",
+   "audio": "audio/b22/025.mp3"
+  },
+  {
+   "id": "b22-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The jury decided that the company's actions were deliberate.",
+   "options": {
+    "A": "The company acted knowingly.",
+    "B": "The company acted impulsively.",
+    "C": "The company acted generously.",
+    "D": "The company acted impersonally."
+   },
+   "answer": "A",
+   "explain": "解：陪審團認定那家公司的行為是故意的。那家公司是刻意為之。 答：a.\nknowingly 表示故意，在知情的狀況下產生的行為。 (1) jury n. 陪審團 (2)\ndeliberate a. 深思熟慮的、故意的 (3) impulsively adv. 衝動地 (4) generously\nadv. 慷慨地",
+   "audio": "audio/b22/026.mp3"
+  },
+  {
+   "id": "b22-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Traffic is heavy in town during the rush hour.",
+   "options": {
+    "A": "There are many accidents.",
+    "B": "There are many people shopping.",
+    "C": "There are many cars on the street.",
+    "D": "There are few cars on the street."
+   },
+   "answer": "C",
+   "explain": "解：尖峰時刻的時候，鎮上容易堵車。 答：c. 那時將有很多車輛在街上。 (1)\nrush hour (交通)尖峰時刻",
+   "audio": "audio/b22/027.mp3"
+  },
+  {
+   "id": "b22-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I want you to disregard that letter.",
+   "options": {
+    "A": "pay no attention to it.",
+    "B": "Do not destroy it.",
+    "C": "Read it immediately.",
+    "D": "Answer it right now."
+   },
+   "answer": "A",
+   "explain": "解：我需要你忽略那封信。 答：a. 不用去理會那封信。 (1) disregard (= pay\nno attention to) v. 忽略 (2) destroy v. 毀壞 (3) immediately adv. 立即地",
+   "audio": "audio/b22/028.mp3"
+  },
+  {
+   "id": "b22-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "This hat fits me all right. I'll take it.",
+   "options": {
+    "A": "It is the wrong size.",
+    "B": "It is too tight.",
+    "C": "It is the right size.",
+    "D": "It is bright."
+   },
+   "answer": "C",
+   "explain": "解：這個帽子我戴得很合適。我買下它了。 答：c. 它的尺寸很合適。",
+   "audio": "audio/b22/029.mp3"
+  },
+  {
+   "id": "b22-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "In this coded message, each number represents a letter of the alphabet.",
+   "options": {
+    "A": "None of the numbers is a letter.",
+    "B": "Each number looks like a letter.",
+    "C": "The code is in alphabetical order.",
+    "D": "Every number stands for a letter."
+   },
+   "answer": "D",
+   "explain": "解：在這個加密過的訊息裡，每個數字都代表一個字母。 答：d. 每一個數字\n各代表一個字母。 (1) represent (= stand for) v. 代表、表示 (2) alphabetical\norder 按照字母順序排列",
+   "audio": "audio/b22/030.mp3"
+  },
+  {
+   "id": "b22-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I go to school because it is compulsory.",
+   "options": {
+    "A": "It is required.",
+    "B": "It is interesting.",
+    "C": "Boys and girls go together.",
+    "D": "It is free for me."
+   },
+   "answer": "A",
+   "explain": "解：我去上課因為這是義務教育。 答：a. 上學是必須的。 (1) compulsory a.\n義務的、強制的",
+   "audio": "audio/b22/031.mp3"
+  },
+  {
+   "id": "b22-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "We need your signature on this contract.",
+   "options": {
+    "A": "Please, hold it.",
+    "B": "Please, leave it at home.",
+    "C": "Please, take it.",
+    "D": "Please, sign your name."
+   },
+   "answer": "D",
+   "explain": "解：我需要你在合約上簽字。 答：d. 請簽你的名字。 (1) signature n. 簽名\n(2) sign v. 簽名",
+   "audio": "audio/b22/032.mp3"
+  },
+  {
+   "id": "b22-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The men listened to the teacher.",
+   "options": {
+    "A": "They read what he was writing.",
+    "B": "They heard what he was saying.",
+    "C": "They liked what he was making.",
+    "D": "They answered what he was asking."
+   },
+   "answer": "B",
+   "explain": "解：那群男生聽老師說話。 答：b. 他們聽他在說什麼",
+   "audio": "audio/b22/033.mp3"
+  },
+  {
+   "id": "b22-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The highways in some states are very narrow.",
+   "options": {
+    "A": "They are poor.",
+    "B": "They are long.",
+    "C": "They are not wide.",
+    "D": "They are not nice."
+   },
+   "answer": "C",
+   "explain": "解：某些洲的高速公路非常狹窄。 答：c. 它們不寬闊 (1) narrow a. 狹窄的\n(2) wide a. 寬闊的",
+   "audio": "audio/b22/034.mp3"
+  },
+  {
+   "id": "b22-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The doctor told Kim to eat more vegetables.",
+   "options": {
+    "A": "Kim should eat more beef.",
+    "B": "Kim should eat more cherries.",
+    "C": "Kim should eat more spinach.",
+    "D": "Kim should eat more pastry."
+   },
+   "answer": "C",
+   "explain": "解：醫生告訴Kim要多吃蔬菜。 答：c. Kim應該要多吃菠菜。 (1) spinach n.\n菠菜 (2) pastry n. 糕點",
+   "audio": "audio/b22/035.mp3"
+  },
+  {
+   "id": "b22-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "That street is very straight.",
+   "options": {
+    "A": "It has no curves.",
+    "B": "It is long.",
+    "C": "It is not very wide.",
+    "D": "It has many stores."
+   },
+   "answer": "A",
+   "explain": "那條街非常的筆直 答：A. 它沒有彎道。 (1) straight a. 直的 (2) curve a. 彎曲\n的",
+   "audio": "audio/b22/036.mp3"
+  },
+  {
+   "id": "b22-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "This land is for commercial use only.",
+   "options": {
+    "A": "You can build a department store on it.",
+    "B": "You can build a house on it.",
+    "C": "You can build a public school on it.",
+    "D": "You can build a church on it."
+   },
+   "answer": "A",
+   "explain": "解：這塊地只能是商業用途。 答：a. 你可以在這塊地上蓋百貨公司。 (1)\ncommercial a. 商業的 (2) department store 百貨公司 (3) public school 公立\n學校",
+   "audio": "audio/b22/037.mp3"
+  },
+  {
+   "id": "b22-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The pilot carried out his mission.",
+   "options": {
+    "A": "He accomplished his mission.",
+    "B": "He planned his mission.",
+    "C": "He continued his mission.",
+    "D": "He cancelled his mission."
+   },
+   "answer": "A",
+   "explain": "解：飛行員執行他的任務。 答：a. 他完成了它的任務。 (1) accomplish v. 完\n成 (2) continue v. 持續 (3) cancel v. 取消",
+   "audio": "audio/b22/038.mp3"
+  },
+  {
+   "id": "b22-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The doctor told his patients that he’d see them in a moment.",
+   "options": {
+    "A": "The doctor will see his patients in a short time.",
+    "B": "The doctor will see his patients in the winter.",
+    "C": "The doctor was in a hurry.",
+    "D": "The doctor was leaving on a trip."
+   },
+   "answer": "A",
+   "explain": "解：醫生告訴他的病人他馬上就能看診。 答：a. 醫生即將開始看診。",
+   "audio": "audio/b22/039.mp3"
+  },
+  {
+   "id": "b22-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "John told me that the bookstore was right around the corner.",
+   "options": {
+    "A": "It was around to the right.",
+    "B": "It was far from the corner.",
+    "C": "It was just around the corner.",
+    "D": "It was at the correct corner."
+   },
+   "answer": "C",
+   "explain": "解：約翰告訴我書店就在路口轉角附近。 答：c. 書店在轉角附近。 (1)\ncorner n. 角落、轉角",
+   "audio": "audio/b22/040.mp3"
+  },
+  {
+   "id": "b22-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The fruit on the table is delicious.",
+   "options": {
+    "A": "It is very fresh.",
+    "B": "It has been there for a month.",
+    "C": "It has a good flavor.",
+    "D": "It is not ripe."
+   },
+   "answer": "C",
+   "explain": "解：餐桌上的水果非常美味。 答：c. 它的味道非常好 (1) flavor n. (食物的)風\n味",
+   "audio": "audio/b22/041.mp3"
+  },
+  {
+   "id": "b22-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Doctor, can't you help us? M: I am sorry I can't. I don't have my instruments. Q: What does the doctor need?",
+   "options": {
+    "A": "his nurse",
+    "B": "his tools",
+    "C": "his license",
+    "D": "his medicines"
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Doctor, can't you help us?"
+    },
+    {
+     "s": "M",
+     "t": "I am sorry I can't. I don't have my instruments."
+    },
+    {
+     "s": "Q",
+     "t": "What does the doctor need?"
+    }
+   ],
+   "explain": "解：女:醫生，你沒辦法幫我們嗎? 男:抱歉我沒辦法。我手邊沒有儀器設備。\n問:請問醫生需要什麼? 答：b. 他的工具。 (1) instrument n. 儀器、工具",
+   "audio": "audio/b22/042.mp3"
+  },
+  {
+   "id": "b22-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: What is the matter, George? M: I am getting tired. Q: What did the man mean?",
+   "options": {
+    "A": "He is always tired.",
+    "B": "He is never tired.",
+    "C": "He stopped working.",
+    "D": "He will be tired soon."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "What is the matter, George?"
+    },
+    {
+     "s": "M",
+     "t": "I am getting tired."
+    },
+    {
+     "s": "Q",
+     "t": "What did the man mean?"
+    }
+   ],
+   "explain": "解：女:發生什麼事了?喬治。 男:我越來越累了。 問:請問男生的意思是? 答：\nd. 他將感到疲憊",
+   "audio": "audio/b22/043.mp3"
+  },
+  {
+   "id": "b22-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Do you agree with Phillip now? W: No, but he has my respect. Q: What is the woman saying about Phillip?",
+   "options": {
+    "A": "She thinks highly of him.",
+    "B": "He is always wrong.",
+    "C": "She hopes he will learn more.",
+    "D": "He says nothing new."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Do you agree with Phillip now?"
+    },
+    {
+     "s": "W",
+     "t": "No, but he has my respect."
+    },
+    {
+     "s": "Q",
+     "t": "What is the woman saying about Phillip?"
+    }
+   ],
+   "explain": "解：男:你同意Phillip的說法嗎? 女:不，但我仍然尊重他。 問:請問女人對\nPhillip的看法如何? 答：a. 她對他評價很高。",
+   "audio": "audio/b22/044.mp3"
+  },
+  {
+   "id": "b22-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: You'd better put that sushi in the fridge right away. M: Why? W: It goes off easily. Q: What did the woman mean?",
+   "options": {
+    "A": "It will stay in good condition.",
+    "B": "It will spoil quickly.",
+    "C": "It will be safe to eat.",
+    "D": "She will leave soon."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "You'd better put that sushi in the fridge right away."
+    },
+    {
+     "s": "M",
+     "t": "Why?"
+    },
+    {
+     "s": "W",
+     "t": "It goes off easily."
+    },
+    {
+     "s": "Q",
+     "t": "What did the woman mean?"
+    }
+   ],
+   "explain": "解：女:你最好立刻將壽司冰在冰箱裡。 男:為什麼 女:它很快會臭掉。 問:女\n生的意思是? 答：b. 它很快會變質。 (1) fridge n. 冰箱 (2) spoil (= go off) v.\n食物變質腐壞",
+   "audio": "audio/b22/045.mp3"
+  },
+  {
+   "id": "b22-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W1: Where should we meet tomorrow? W2: I think this corner would be good. M: I was going to say the post office, but now I think we'd better meet right here. Q: Where will the man and the woman probably meet?",
+   "options": {
+    "A": "on the base",
+    "B": "at the office",
+    "C": "on the corner",
+    "D": "at the post office"
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Where should we meet tomorrow?"
+    },
+    {
+     "s": "W2",
+     "t": "I think this corner would be good."
+    },
+    {
+     "s": "M",
+     "t": "I was going to say the post office, but now I think we'd better meet right here."
+    },
+    {
+     "s": "Q",
+     "t": "Where will the man and the woman probably meet?"
+    }
+   ],
+   "explain": "解：女1:我們明天約哪見面? 女2:我認為約這個路口轉角好了。 男:我正要說\n約郵局，但我覺得我們最好約這裡。 問:他們將要約哪裡碰面? 答：c. 在路口\n轉角處。",
+   "audio": "audio/b22/046.mp3"
+  },
+  {
+   "id": "b22-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: How was your leadership training session today? M: Pretty good. W: Did you learn anything new? M: Actually, we didn't receive any formal training today. We spent most of the time making new acquaintances and exchanging general views about corporate management. Q: What did the man gain from his experience today?",
+   "options": {
+    "A": "He was bored.",
+    "B": "He learned about other participants in the program.",
+    "C": "He saw some old classmates.",
+    "D": "The training program was excellent."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "How was your leadership training session today?"
+    },
+    {
+     "s": "M",
+     "t": "Pretty good."
+    },
+    {
+     "s": "W",
+     "t": "Did you learn anything new?"
+    },
+    {
+     "s": "M",
+     "t": "Actually, we didn't receive any formal training today. We spent most of the time making new acquaintances and exchanging general views about corporate management."
+    },
+    {
+     "s": "Q",
+     "t": "What did the man gain from his experience today?"
+    }
+   ],
+   "explain": "解：女:你今天的領導力培訓課程上的如何？\n男:非常棒。\n女:你有學到新的東⻄嗎?\n男:事實上我們今天還沒接受任何正式的的訓練。我們大部分時間都在結識新\n朋友，並就企業管理交換總體看法。\n問:這個男人從他今天的經歷中獲得到了什麼？\n答：b. 他了解了該課程的其他參與者。\n(1) session n. 會議、課程\n(2) formal training 正式的訓練\n(3) make new acquaintance 結交新朋友\n(4) corporate management 企業管理",
+   "audio": "audio/b22/047.mp3"
+  },
+  {
+   "id": "b22-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Did Toby knock? M: Yes. He knocked three or four times. Q: What was Toby trying to do?",
+   "options": {
+    "A": "get someone to open the door",
+    "B": "fix a car",
+    "C": "go to sleep",
+    "D": "get something put away"
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Did Toby knock?"
+    },
+    {
+     "s": "M",
+     "t": "Yes. He knocked three or four times."
+    },
+    {
+     "s": "Q",
+     "t": "What was Toby trying to do?"
+    }
+   ],
+   "explain": "解：女: Toby有敲門嗎? 男:有的，他敲了3、4次的門。 問: Toby當時試圖做什\n麼? 答：a. 找到人幫他開門。",
+   "audio": "audio/b22/048.mp3"
+  },
+  {
+   "id": "b22-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Will you repair this lorry tire for me? M: I would replace it instead of repairing it. Q: What did the man mean?",
+   "options": {
+    "A": "He would repair it, but he wouldn't replace it.",
+    "B": "He wouldn't replace or repair it.",
+    "C": "He would replace it rather than repair it.",
+    "D": "He would repair it and replace it."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Will you repair this lorry tire for me?"
+    },
+    {
+     "s": "M",
+     "t": "I would replace it instead of repairing it."
+    },
+    {
+     "s": "Q",
+     "t": "What did the man mean?"
+    }
+   ],
+   "explain": "解：女：你會幫我修理這輛卡車輪胎嗎? 男：我會換掉它而非維修。 問：這\n個男人的意思是? 答：c. 他會更換輪胎而非用維修的方式。 (1) repair v. 維修",
+   "audio": "audio/b22/049.mp3"
+  },
+  {
+   "id": "b22-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: I hope you don't fall. M: So do I. I can't swim. Q: Where are the man and woman?",
+   "options": {
+    "A": "by deep water",
+    "B": "by big rocks",
+    "C": "by high mountains",
+    "D": "by a thick forest"
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "I hope you don't fall."
+    },
+    {
+     "s": "M",
+     "t": "So do I. I can't swim."
+    },
+    {
+     "s": "Q",
+     "t": "Where are the man and woman?"
+    }
+   ],
+   "explain": "解：女:我希望你不要跌下去。 男:我也是。因為我不會游泳。 問:男人和女人\n在哪裡? 答：a. 靠近水深的地方。",
+   "audio": "audio/b22/050.mp3"
+  },
+  {
+   "id": "b22-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: May I use your phone? There's been a crash. W: My goodness! Was anyone hurt? M: Nothing serious, but one woman was complaining that she felt a little dizzy. I want to call the police. We need a tow truck as well. W: The phone is in the back; it's all yours. Q: Why does the man need to use a phone?",
+   "options": {
+    "A": "A woman is about to die.",
+    "B": "He wants to report a bump in the road.",
+    "C": "There has been an automobile accident.",
+    "D": "The woman has promised to let him use her phone."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "May I use your phone? There's been a crash."
+    },
+    {
+     "s": "W",
+     "t": "My goodness! Was anyone hurt?"
+    },
+    {
+     "s": "M",
+     "t": "Nothing serious, but one woman was complaining that she felt a little dizzy. I want to call the police. We need a tow truck as well."
+    },
+    {
+     "s": "W",
+     "t": "The phone is in the back; it's all yours."
+    },
+    {
+     "s": "Q",
+     "t": "Why does the man need to use a phone?"
+    }
+   ],
+   "explain": "解：男:可以借我你的手機嗎?那邊出車禍了。\n女:我的天啊!有人受傷嗎?\n男:不嚴重，但是一個女人抱怨說他感到頭暈。我想要報警。我們也需要一輛\n拖車。\n女:電話在後面，拿去用吧。\n問:為什麼男人需要使用手機?\n答：c. 那裡發生了車禍。\n(1) dizzy n. 頭暈\n(2) tow truck 拖車\n(3) automobile n. 汽車",
+   "audio": "audio/b22/051.mp3"
+  },
+  {
+   "id": "b22-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: How was your trip? W: I had a painful experience. Q: What kind of an experience was it?",
+   "options": {
+    "A": "She hurt her foot.",
+    "B": "an unpleasant one",
+    "C": "an easy one",
+    "D": "She had a fall."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "How was your trip?"
+    },
+    {
+     "s": "W",
+     "t": "I had a painful experience."
+    },
+    {
+     "s": "Q",
+     "t": "What kind of an experience was it?"
+    }
+   ],
+   "explain": "解：男:這趟旅程如何?\n女:我有個痛苦的經歷。\n問:那是一種怎樣的經驗？\n答：b. 不愉快的那種。\n(1) unpleasant 不愉快的",
+   "audio": "audio/b22/052.mp3"
+  },
+  {
+   "id": "b22-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: What is your city famous for? M: It's a seaport. Q: What is the city known for?",
+   "options": {
+    "A": "It's a place where soldiers are trained.",
+    "B": "It's a place where ships come and go.",
+    "C": "It's a place where people go to college.",
+    "D": "It's a place where machinery is manufactured."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "What is your city famous for?"
+    },
+    {
+     "s": "M",
+     "t": "It's a seaport."
+    },
+    {
+     "s": "Q",
+     "t": "What is the city known for?"
+    }
+   ],
+   "explain": "解：女:這座城市最出名的是什麼? 男:是它的海港。 問:這座城市以什麼聞\n名。 答：b. 這是一個船隻來來去去的地方。 (1) machinery n. 機器 (2)\nmanufacture v. 製造",
+   "audio": "audio/b22/053.mp3"
+  },
+  {
+   "id": "b22-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Did you see the new tank? W: No, but I saw the design for it. Q: What did the woman see?",
+   "options": {
+    "A": "A plan",
+    "B": "A color",
+    "C": "A soldier",
+    "D": "A mistake"
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Did you see the new tank?"
+    },
+    {
+     "s": "W",
+     "t": "No, but I saw the design for it."
+    },
+    {
+     "s": "Q",
+     "t": "What did the woman see?"
+    }
+   ],
+   "explain": "解：男:你有看到新的戰車嗎? 女:不，但我看過它們的設計圖。 問:請問女人\n看到什麼? 答：a. 一個計劃(設計圖)。",
+   "audio": "audio/b22/054.mp3"
+  },
+  {
+   "id": "b22-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Alan, did you go to the game with Angela? M: I thought I would, then I changed my mind. Q: What did Alan mean?",
+   "options": {
+    "A": "He was undecided.",
+    "B": "He is going with Angela.",
+    "C": "He decided not to go with Angela.",
+    "D": "He went to the game with Angela."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Alan, did you go to the game with Angela?"
+    },
+    {
+     "s": "M",
+     "t": "I thought I would, then I changed my mind."
+    },
+    {
+     "s": "Q",
+     "t": "What did Alan mean?"
+    }
+   ],
+   "explain": "解：女:Alan，你有跟Angela去看比賽嗎? 男:我一開始有，但我後來改變主意\n了。 問:請問Alan的意思是? 答：c. 他決定不跟Angela去看比賽。",
+   "audio": "audio/b22/055.mp3"
+  },
+  {
+   "id": "b22-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: How is your nephew doing in school? W: He is highly motivated in his studies. Q: What did the woman say about her nephew?",
+   "options": {
+    "A": "He is highly paid for his studies.",
+    "B": "He has no great interest in his studies.",
+    "C": "He wants to change courses in his school.",
+    "D": "He is very interested in his studies."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "How is your nephew doing in school?"
+    },
+    {
+     "s": "W",
+     "t": "He is highly motivated in his studies."
+    },
+    {
+     "s": "Q",
+     "t": "What did the woman say about her nephew?"
+    }
+   ],
+   "explain": "解：男：你姪子在學校表現得如何? 女：他對學業非常有興趣。 問：女人如\n何形容他的姪子? 答：d. 他對他的學業非常感興趣。 (1) nephew n. 姪子 (2)\nmotivated a. 充滿動力的",
+   "audio": "audio/b22/056.mp3"
+  },
+  {
+   "id": "b22-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: How often do you have bacon and eggs for breakfast? M: Occasionally. Q: What did the man mean?",
+   "options": {
+    "A": "He has bacon and eggs frequently.",
+    "B": "He sometimes has bacon and eggs.",
+    "C": "He doesn't eat bacon and eggs.",
+    "D": "He almost always has bacon and eggs."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "How often do you have bacon and eggs for breakfast?"
+    },
+    {
+     "s": "M",
+     "t": "Occasionally."
+    },
+    {
+     "s": "Q",
+     "t": "What did the man mean?"
+    }
+   ],
+   "explain": "解：女:你多久會把培根與雞蛋當早餐? 男:偶爾。 問:請問男生的意思是? 答：\nb. 他偶爾吃培根與雞蛋。",
+   "audio": "audio/b22/057.mp3"
+  },
+  {
+   "id": "b22-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Honey, I thought you were going to fix the sliding glass doors today. M: I tried to but I ran into some problems. W: Didn't you have the right tools? M: I did. However, when I took the fixture down, I realized I couldn't get it back up on my own. It was too heavy. Q: Why didn't the man finish his project?",
+   "options": {
+    "A": "The slide was too long.",
+    "B": "The windows were too heavy.",
+    "C": "He didn't have the right tools.",
+    "D": "Here was no one to assist him."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Honey, I thought you were going to fix the sliding glass doors today."
+    },
+    {
+     "s": "M",
+     "t": "I tried to but I ran into some problems."
+    },
+    {
+     "s": "W",
+     "t": "Didn't you have the right tools?"
+    },
+    {
+     "s": "M",
+     "t": "I did. However, when I took the fixture down, I realized I couldn't get it back up on my own. It was too heavy."
+    },
+    {
+     "s": "Q",
+     "t": "Why didn't the man finish his project?"
+    }
+   ],
+   "explain": "解：女:寶貝，我以為你今天會修理滑軌玻璃門。\n男:我有嘗試過，但我遇到一些問題。\n女:你沒有合適的工具嗎?\n男:我有。但是當我取下固定裝置時，我發現到我無法自行將其重新安裝。 它\n太重了。\n問:為什麼這位男人沒有完成她的維修工作?\n答：d. 沒有人幫助他。\n(1) fixture n. 固定裝置",
+   "audio": "audio/b22/058.mp3"
+  },
+  {
+   "id": "b22-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: What's taking Lisa so long? W: Beats me! She's already an hour late. M: You know, usually she's really punctual though… Should I try her cell phone? W: Good idea. Q: What will the man try to do next?",
+   "options": {
+    "A": "To find a parking space.",
+    "B": "To sell Lisa's mobile phone.",
+    "C": "To wait for Lisa's call.",
+    "D": "To get in touch with Lisa."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "What's taking Lisa so long?"
+    },
+    {
+     "s": "W",
+     "t": "Beats me! She's already an hour late."
+    },
+    {
+     "s": "M",
+     "t": "You know, usually she's really punctual though… Should I try her cell phone?"
+    },
+    {
+     "s": "W",
+     "t": "Good idea."
+    },
+    {
+     "s": "Q",
+     "t": "What will the man try to do next?"
+    }
+   ],
+   "explain": "解：男:為什麼Lisa那麼久還沒出現? 女:昏倒… 她已經遲到一個小時了。 男:\n你知道嗎，她之前都很準時的。我要不要打手機給她? 女:好主意。 問:這個男\n的下一步要做什麼? 答：d. 試圖聯絡Lisa。",
+   "audio": "audio/b22/059.mp3"
+  },
+  {
+   "id": "b22-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Do you work all the time? M: We have two breaks a day. Q: What is a break?",
+   "options": {
+    "A": "a mistake",
+    "B": "a problem",
+    "C": "a visitor",
+    "D": "a rest period"
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Do you work all the time?"
+    },
+    {
+     "s": "M",
+     "t": "We have two breaks a day."
+    },
+    {
+     "s": "Q",
+     "t": "What is a break?"
+    }
+   ],
+   "explain": "解：女:你都一直在工作不休息嗎? 男:我們一天有2次休息時間。 問:什麼是休\n息? 答：d. 一段休息的時間。",
+   "audio": "audio/b22/060.mp3"
+  },
+  {
+   "id": "b22-061",
+   "n": 61,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Did you recognize me in my costume?",
+   "options": {
+    "A": "admire",
+    "B": "laugh at",
+    "C": "know",
+    "D": "envy"
+   },
+   "answer": "C",
+   "underline": [
+    "recognize"
+   ],
+   "explain": "解：我穿戲服你有認出我嗎？recognize認出來，就是知道know是我嗎？\n答：c.\n(1) recognize認出，承認，確認\n(2) (in) costume(穿上)戲服，服裝\n(3) admire欣賞\n(4) envy忌妒，羨慕"
+  },
+  {
+   "id": "b22-062",
+   "n": 62,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "You should've _______a shower.",
+   "options": {
+    "A": "taken",
+    "B": "has",
+    "C": "got",
+    "D": "also"
+   },
+   "answer": "A",
+   "explain": "解：take a shower 洗澡 答：a."
+  },
+  {
+   "id": "b22-063",
+   "n": 63,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The officer put on his uniform.",
+   "options": {
+    "A": "He hung it in the rack.",
+    "B": "He sent it to the cleaners.",
+    "C": "He cleaned it with soap and water.",
+    "D": "He wore it."
+   },
+   "answer": "D",
+   "explain": "解：軍官穿上制服。put on = wear (動詞過去式wore) 答： (1) put on穿上 =\nwear (take off脫掉) (2) hung吊(原型動詞為hang)，垂下，逗留 (3) rack衣架\n(4) cleaners乾洗店"
+  },
+  {
+   "id": "b22-064",
+   "n": 64,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Instead of working out in the office, brainworkers can now \"telecommute\" from home________ physically commute to the office.",
+   "options": {
+    "A": "as well as",
+    "B": "rather than",
+    "C": "but",
+    "D": "better than"
+   },
+   "answer": "B",
+   "explain": "解：不需到辦公室工作，現在靠腦力工作的人可以在家遠端工作，不需實質\n上通車上班了。instead of代替，而非，和rather than意思一樣。 答： (1)\nbrainworker用腦力勞動的人 (2) telecommute遠端辦公 (3) physically身體上"
+  },
+  {
+   "id": "b22-065",
+   "n": 65,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "William: Can you understand Arabic well yet? Abigail: No, but I'm trying ______more.",
+   "options": {
+    "A": "of learning",
+    "B": "for learning",
+    "C": "to learn",
+    "D": "for learn"
+   },
+   "answer": "C",
+   "explain": "解：try to do something 試圖做某事 答：c."
+  },
+  {
+   "id": "b22-066",
+   "n": 66,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Stacey makes a lot of money.",
+   "options": {
+    "A": "spends",
+    "B": "earns",
+    "C": "has",
+    "D": "saves"
+   },
+   "answer": "B",
+   "underline": [
+    "makes"
+   ],
+   "explain": "解：makes a lot of money 賺錢 = earns a lot of money\n答：b."
+  },
+  {
+   "id": "b22-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Many conference attendees were late because the hotel was located farther than anyone __________.",
+   "options": {
+    "A": "anticipated",
+    "B": "have anticipated",
+    "C": "was anticipated",
+    "D": "had anticipated"
+   },
+   "answer": "A",
+   "explain": "解：很多參加會議的人遲到，因為飯店的地點比他們想的遠多了。這是陳述\n過去的事件，所以答案選「預期」過去式anticipated。 答：a. (1) conference\n會議 (2) attendee參加者 (3) farther更遠 (4) anticipate預期 (名詞anticipation)"
+  },
+  {
+   "id": "b22-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The marching band will assemble in hallway. They will_______ .",
+   "options": {
+    "A": "gather in front of headquarters",
+    "B": "sleep longer",
+    "C": "eat in groups",
+    "D": "leave separately"
+   },
+   "answer": "A",
+   "explain": "解：軍樂隊會在門廳會合，意思是他們會在總部前面集合gather。 答：a. (1)\nmarching band軍樂隊 (2) assemble集合，匯集=gather (3) hallway門廳，走\n廊 (4) headquarters總部"
+  },
+  {
+   "id": "b22-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The variety of insurance benefits ____ very broad under this policy.",
+   "options": {
+    "A": "are",
+    "B": "is",
+    "C": "be",
+    "D": "has been"
+   },
+   "answer": "B",
+   "explain": "解：這張保單保險給付的種類多樣。 the variety of + 名詞時，因為主詞仍是\nthe variety多樣化，所以動詞要選單數，且因陳述一件事實，使用現在式即\n可。 答： (1) variety多樣化，種類，變化 (2) insurance benefits保險金，保\n險給付 (3) broad廣泛 (4) policy政策，保險單"
+  },
+  {
+   "id": "b22-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Mr. Lopes has ______ learned to send emails and to copy diskettes.",
+   "options": {
+    "A": "yet",
+    "B": "soon",
+    "C": "ever",
+    "D": "already"
+   },
+   "answer": "D",
+   "explain": "解：羅培茲先生已經(already)學會了發送電子郵件和拷貝磁碟。 答：d. (1)\ndiskette(電腦)磁碟"
+  },
+  {
+   "id": "b22-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "It is ______to seek advice from an insurance broker about the many different policies available from insurance companies.",
+   "options": {
+    "A": "advisable",
+    "B": "advised",
+    "C": "advice",
+    "D": "advising"
+   },
+   "answer": "A",
+   "explain": "解：請保險經紀人針對各家保險公司推出的不同保單給建議是較妥當的。選\nadvisable來表達這樣的作法是明智、適當的。 答：a. (1) advisable可取的，\n適當的，明智的(後面+to+動詞) (2) advised被建議的(後面接of和名詞或that…\n帶出一子句) (3) seek尋求 (4) broker仲介 (5) available可得的，可用的"
+  },
+  {
+   "id": "b22-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "That aluminum rod cannot be bent. It is ________.",
+   "options": {
+    "A": "rigid",
+    "B": "artificial",
+    "C": "soft",
+    "D": "dirty"
+   },
+   "answer": "A",
+   "explain": "解：鋁製竿子無法折彎，它是硬的can not be bent = rigid。 答： (1)\naluminum rod鋁製竿(棍子) (2) bent (原型動詞bend)彎曲 (3) rigid僵硬的，不\n能彎曲的 (=stiff, inflexible) (4) artificial人造的"
+  },
+  {
+   "id": "b22-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The professor told the class to hand in their business assignments.",
+   "options": {
+    "A": "prepare",
+    "B": "submit",
+    "C": "put away",
+    "D": "hold"
+   },
+   "answer": "B",
+   "underline": [
+    "hand in"
+   ],
+   "explain": "解：hand in = submit 繳交\n答：b.\n(1) assignment n. 作業"
+  },
+  {
+   "id": "b22-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "After having _____ the matter, we discovered some confusion in the numbering of two different orders, which were collected for dispatch to Canada.",
+   "options": {
+    "A": "looked up",
+    "B": "looked into",
+    "C": "looked over",
+    "D": "looked for"
+   },
+   "answer": "B",
+   "explain": "解：在調查(look into是經過仔細查看的意思)完這件事後，我們發現收了要發\n送加拿大的不同的兩件訂單的編號搞混了。 答：b. (1) look up查詢，仰視，\n抬頭看 (2) look into調查(=investigate)，追究 (3) look over快速查看，檢查\n(4) look for尋找 (5) confusion困惑 (6) dispatch發送，派遣，快遞"
+  },
+  {
+   "id": "b22-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "When insurance is taken out, a proposal form is completed, which gives details of ______, for how long and the nature of the risk.",
+   "options": {
+    "A": "what it is insured",
+    "B": "what is insured",
+    "C": "that it is insured",
+    "D": "which is insured"
+   },
+   "answer": "B",
+   "explain": "解：當投保的時候，就是投保單完成的時候，裡面會詳列投保內容，保險期\n間和風險的性質。what is insured是泛指出投保的內容，以what+被動式來涵\n蓋。\n答：\n(1) proposal form投保單\n(2) details細節\n(3) nature of the risk風險性質"
+  },
+  {
+   "id": "b22-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "________ pants need to be cleaned.",
+   "options": {
+    "A": "This",
+    "B": "These",
+    "C": "Any",
+    "D": "Such"
+   },
+   "answer": "B",
+   "explain": "解：這褲子要洗了。褲子是複數名詞，this是單數，these這些才符合名詞。\n答： (1) pants褲子"
+  },
+  {
+   "id": "b22-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Was the submarine captain ________ by the bright underwater lights?",
+   "options": {
+    "A": "confusing",
+    "B": "confuse",
+    "C": "confused",
+    "D": "to confuse"
+   },
+   "answer": "C",
+   "explain": "解：潛水艇船長對水底下發出的亮光感到困惑嗎？be confused by被動式，\n被…困惑。 答：c. (1) submarine captain潛水艇船長 (2) confuse困惑"
+  },
+  {
+   "id": "b22-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Edward: How long has Mr. Erickson studied Russian? Thomas: He _____ for one month.",
+   "options": {
+    "A": "studies",
+    "B": "is studying will study",
+    "C": "will study",
+    "D": "has been studying"
+   },
+   "answer": "D",
+   "explain": "解：表示一段時間，用現在完成式。He has been studying for one month. 表\n示他已經學了一個月，而且還持續學習中。 答：d."
+  },
+  {
+   "id": "b22-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "In the future, ________ to improve your writing?",
+   "options": {
+    "A": "will you trying",
+    "B": "have you try",
+    "C": "will you try",
+    "D": "are you trying"
+   },
+   "answer": "C",
+   "explain": "解：在未來，你會嘗試提升你的寫作能力嗎？future是未來，需選擇未來式\nwill+原型動詞try。 答：c. (1) improve提升，改善，改進"
+  },
+  {
+   "id": "b22-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "_____ the figures had been checked twice, the supervisor found a mistake.",
+   "options": {
+    "A": "Unless",
+    "B": "However",
+    "C": "Since",
+    "D": "Even though"
+   },
+   "answer": "D",
+   "explain": "解：儘管數字已經檢查了兩遍，主管還是找到一個錯。 答：d. (1) figure數字\n(=number)，人物(=character) (2) supervisor監督者，主管"
+  },
+  {
+   "id": "b22-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "When you are being introduced to a person, the correct expression to use is \"______\"",
+   "options": {
+    "A": "Goodbye. See you later.",
+    "B": "Have a good day.",
+    "C": "How do you do?",
+    "D": "So long. Take it easy."
+   },
+   "answer": "C",
+   "explain": "解：當人家介紹你時，正確的回答方式是說「你好嗎？」How do you do?\n答： (1) correct expression 正確的表達法"
+  },
+  {
+   "id": "b22-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Some machines are operated by engines which develop their power from steam.",
+   "options": {
+    "A": "coal",
+    "B": "water vapor",
+    "C": "gasoline",
+    "D": "kerosene"
+   },
+   "answer": "B",
+   "underline": [
+    "steam"
+   ],
+   "explain": "解：某些機器是靠水蒸氣的力量啟動的引擎來運轉的。\n答：b.\n(1) develop發展，研發，開發\n(2) steam蒸氣\n(3) coal媒礦\n(4) water vapor水蒸氣\n(5) gasoline石油\n(6) kerosene媒油"
+  },
+  {
+   "id": "b22-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Those flowers are fake. They aren't ______ .",
+   "options": {
+    "A": "large",
+    "B": "natural",
+    "C": "pretty",
+    "D": "common"
+   },
+   "answer": "B",
+   "explain": "解：那些花是假的。他們不是天然的。 答：b."
+  },
+  {
+   "id": "b22-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The principal was appointed by the board of education.",
+   "options": {
+    "A": "named",
+    "B": "replaced",
+    "C": "educated",
+    "D": "instructed"
+   },
+   "answer": "A",
+   "underline": [
+    "appointed"
+   ],
+   "explain": "解：校長由教育委員會指派。\n答：a.\n(1) principal校長\n(2) be appointed被任命，被委派\n(3) board of education教育委員(董事)會\n(4) replace代替，更換\n(5) instruct指導"
+  },
+  {
+   "id": "b22-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The soldier told his superior, \"You can count on me\"",
+   "options": {
+    "A": "count for me",
+    "B": "count my money",
+    "C": "depend on me",
+    "D": "tell my age"
+   },
+   "answer": "C",
+   "underline": [
+    "count on"
+   ],
+   "explain": "解：士兵跟長官說你可以指望我count on me，意思就是c)你可以倚靠我\ndepend on me。\n答：c.\n(1) superior長官\n(2) count on….信任，依靠，相信"
+  },
+  {
+   "id": "b22-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "What's the matter _______ your notebook?",
+   "options": {
+    "A": "of",
+    "B": "with",
+    "C": "to",
+    "D": "by"
+   },
+   "answer": "B",
+   "explain": "解：你的筆電怎麼了？用with介系詞接有問題的東⻄。 答： (1) What's the\nmatter with… 怎麼了？怎麼回事？ (2) notebook筆記本，筆記型電腦(laptop)"
+  },
+  {
+   "id": "b22-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The pavement radiates heat.",
+   "options": {
+    "A": "gives off",
+    "B": "stores up",
+    "C": "absorbs",
+    "D": "contains"
+   },
+   "answer": "A",
+   "underline": [
+    "radiates"
+   ],
+   "explain": "解：人行道散發熱氣radiate = give off。\n答：a.\n(1) pavement走道，人行道\n(2) radiate散發，放射\n(3) give off發出\n(4) store up積存\n(5) absorb吸收\n(6) contain包含"
+  },
+  {
+   "id": "b22-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "George: Can you tell me how to find the laboratory? Elaine: Yes, _________.",
+   "options": {
+    "A": "just outside step the store and turn to your left",
+    "B": "step outside the store and just left to your turn",
+    "C": "just to your left turn and step outside the store",
+    "D": "just step outside the store and turn to your left"
+   },
+   "answer": "D",
+   "explain": "解：喬治問道：請問你知道實驗室怎麼走嗎？伊蓮回答：我知道，就走出商\n店外面後左轉。just step outside the store and turn to your left轉左邊 答：d.\n(1) laboratory實驗室 (2) step步行，跨步"
+  },
+  {
+   "id": "b22-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The driver violated the _______.",
+   "options": {
+    "A": "steep curve",
+    "B": "car parts",
+    "C": "fuel line",
+    "D": "safety rules"
+   },
+   "answer": "D",
+   "explain": "解：司機違反安全守則。主詞是開車的人，會違反的受詞跟交通安全有關，\n所以選safety rules。 答：d. (1) violate違反 (2) steep curve陡曲線 (3) car\nparts車子零件 (4) fuel line油管 (5) safety rules安全守則"
+  },
+  {
+   "id": "b22-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "When considering if an applicant is suitable for a job, we will compare his or her previous experience and professional training with the _______of the job.",
+   "options": {
+    "A": "requests",
+    "B": "reforms",
+    "C": "restrictions",
+    "D": "requirements"
+   },
+   "answer": "D",
+   "explain": "解：當要考慮求職者是否適合這職缺時，我們會拿他/她過去的經驗、專業訓\n練和這工作的要求條件做比較。\n答：\n(1) applicant求職者\n(2) suitable適合的\n(3) previous先前的\n(4) professional專業的，職業的\n(5) request請求\n(6) reform改革\n(7) restriction限制\n(8) requirement要求，條件"
+  },
+  {
+   "id": "b22-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The scissors on the table are _________.",
+   "options": {
+    "A": "us",
+    "B": "them",
+    "C": "ours",
+    "D": "their"
+   },
+   "answer": "C",
+   "explain": "解：桌上的剪刀是他們的。選項中只有ours是正確的所有格代名詞。 答：c.\n(1) mine, yours, his/hers, ours, yours, theirs 所有格代名詞—我的-，你的-，\n他/她的-， 我們的-，你們的-，他們的-東⻄"
+  },
+  {
+   "id": "b22-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "We consumed _______ of fruit and snacks after dinner.",
+   "options": {
+    "A": "any",
+    "B": "many",
+    "C": "lots",
+    "D": "some"
+   },
+   "answer": "C",
+   "explain": "解：我們晚餐後吃了好多水果和點心。 答：c. (1) consume吃喝(尤指大量\n地)，消耗 (2) snack點心，零食"
+  },
+  {
+   "id": "b22-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The Bank of England ______in 1694 by a group of wealthy merchants and landowners for the purpose of raising a loan for King William III.",
+   "options": {
+    "A": "was founded",
+    "B": "was found",
+    "C": "found",
+    "D": "has been founded"
+   },
+   "answer": "A",
+   "explain": "解：英國銀行是在1694年由一群富商和地主為了借貸給威廉國王三世而成立\n的。英國銀行是被建立的，所以選擇過去被動式was founded。\n答：a.\n(1) found建立，成立\n(2) wealthy有錢的\n(3) merchant商人\n(4) landowner地主\n(5) raise a loan借貸"
+  },
+  {
+   "id": "b22-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The 200-page, fully-illustrated _____ contains full details of our complete range of products.",
+   "options": {
+    "A": "leaflet",
+    "B": "brochure",
+    "C": "catalogue",
+    "D": "booklet"
+   },
+   "answer": "C",
+   "explain": "解：兩百頁附圖的目錄詳列我們完整的一系列產品。一般公司會將產品印成\n目錄並附加圖片，因此選c) catalogue比較正確。\n答：c.\n(1) fully-illustrated圖解\n(2) leaflet傳單(單張印刷品)\n(3) brochure宣傳小冊子(比較簡單的出版品，通常採用相面列印，常被折疊成\n兩、三折或更多折)\n(4) catalogue產品目錄\n(5) booklet小冊子(pamphlet)\n(6) range一系列，一排，範圍，射程"
+  },
+  {
+   "id": "b22-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Television has been around in the Untied States for half a century, and it is still a controversial topic, which ______strong and contradictory opinions.",
+   "options": {
+    "A": "rises",
+    "B": "arouses",
+    "C": "arises",
+    "D": "rose"
+   },
+   "answer": "B",
+   "explain": "解：電視都在美國半個世紀了，它到現在還是一個爭議的主題，引發(arouse)\n強烈、對立的意見。\n答：b.\n(1) controversial爭論的\n(2) rise (過去式rose)上升，升高\n(3) arouse引起，激發，喚起\n(4) arise出現\n(5) contradictory矛盾的，對立的"
+  },
+  {
+   "id": "b22-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Mrs. Anderson didn't want to leave her tractor inside the barn, so she put it ___the garage.",
+   "options": {
+    "A": "on",
+    "B": "in",
+    "C": "to",
+    "D": "by"
+   },
+   "answer": "B",
+   "explain": "解：安德森太太不想把拖拉機留置在穀倉裡，所以她放置車庫裡(in the\ngarage)。\n答：b."
+  },
+  {
+   "id": "b22-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Billy said, \"Hold your horses.\" The party at the other end ______.",
+   "options": {
+    "A": "waited a minute",
+    "B": "took out their party hats",
+    "C": "grabbed the horses",
+    "D": "rode on their horses"
+   },
+   "answer": "A",
+   "explain": "解：比利說「等等」，他的同夥人要「等一下」。hold the horses這生活片語\n意思是waited a minute，等一等的同義詞。 答：a. (1) hold your horses等一\n等，別著急 (2) party派對，政黨，當事人，一夥人 (3) grab抓取，趕 e.g. The\nthief grabbed the purse and ran away with it. 這賊猛地一把抓住錢包逃跑\n了。 e.g. When an opportunity comes, you just grab"
+  },
+  {
+   "id": "b22-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Typically used for cordage and twine, sisal is an ideal material for rugs. It's also easy to paint. Its fibers soak up oil-based paint, and the weave creates an edge that prevents bleeding. Striped patterns are the easiest to paint onto sisal. Once your design is laid out, apply paint liberally. Your painted rug will be ready for use in about 24 hours. According to the article, what type of pattern is easy to paint on a sisal rug?",
+   "options": {
+    "A": "Striped patterns.",
+    "B": "Circular patterns.",
+    "C": "Square patterns.",
+    "D": "It was not mentioned."
+   },
+   "answer": "A",
+   "explain": "單字片語 (1) typically典型地 (2) cordage繩索 (3) twine麻線纏繞 (4) sisal瓊麻\n(5) rug地毯，一般指小的(大的地毯是carpet) (6) fiber纖維 (7) soak up吸掉\n(8) weave編織 (9) bleeding滲色 (10) striped patterns有條紋的圖案 (11) laid\nout展示 (12) liberally大量地，大方地 段落解析 瓊麻通常用來做繩索和麻線，\n也是做地毯的最佳材料。它也很容易上漆。它的纖維會吸收油性漆，而且利\n用編織圍出的邊可防滲色。條紋是瓊麻最簡單油漆上去的圖案。只要設計好\n了，就可以大量上漆。油漆好的地毯大概24小時內就可以拿來使用了。 解：\n文中什麼圖案是容易畫在瓊麻製的地毯上？答案選條紋 - striped patterns。\n答：a. (1) circular圓的 (2) square方的"
+  },
+  {
+   "id": "b22-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Typically used for cordage and twine, sisal is an ideal material for rugs. It's also easy to paint. Its fibers soak up oil-based paint, and the weave creates an edge that prevents bleeding. Striped patterns are the easiest to paint onto sisal. Once your design is laid out, apply paint liberally. Your painted rug will be ready for use in about 24 hours. .What is special about the weave of a sisal rug?",
+   "options": {
+    "A": "It can prevent paint from running.",
+    "B": "It needs medical treatment.",
+    "C": "It prevents wear and tear.",
+    "D": "It is easy to design."
+   },
+   "answer": "A",
+   "explain": "單字片語 (1) typically典型地 (2) cordage繩索 (3) twine麻線纏繞 (4) sisal瓊麻\n(5) rug地毯，一般指小的(大的地毯是carpet) (6) fiber纖維 (7) soak up吸掉\n(8) weave編織 (9) bleeding滲色 (10) striped patterns有條紋的圖案 (11) laid\nout展示 (12) liberally大量地，大方地 段落解析 瓊麻通常用來做繩索和麻線，\n也是做地毯的最佳材料。它也很容易上漆。它的纖維會吸收油性漆，而且利\n用編織圍出的邊可防滲色。條紋是瓊麻最簡單油漆上去的圖案。只要設計好\n了，就可以大量上漆。油漆好的地毯大概24小時內就可以拿來使用了。 解：\n瓊麻地毯的編法有什麼特別的地方？答案是它不會滲出bleeding，也就是預防\n漆跑掉running 的意思。 答：a. (1) medical treatment醫療 (2) wear and tear\n磨損 - the damage that happens to an object in ordinary use during a period"
+  },
+  {
+   "id": "b22-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Typically used for cordage and twine, sisal is an ideal material for rugs. It's also easy to paint. Its fibers soak up oil-based paint, and the weave creates an edge that prevents bleeding. Striped patterns are the easiest to paint onto sisal. Once your design is laid out, apply paint liberally. Your painted rug will be ready for use in about 24 hours. What is the speaker talking about?",
+   "options": {
+    "A": "How to make a rug.",
+    "B": "How to paint a rug.",
+    "C": "How to wash a rug.",
+    "D": "How to design a rug."
+   },
+   "answer": "B",
+   "explain": "單字片語 (1) typically典型地 (2) cordage繩索 (3) twine麻線纏繞 (4) sisal瓊麻\n(5) rug地毯，一般指小的(大的地毯是carpet) (6) fiber纖維 (7) soak up吸掉\n(8) weave編織 (9) bleeding滲色 (10) striped patterns有條紋的圖案 (11) laid\nout展示 (12) liberally大量地，大方地 段落解析 瓊麻通常用來做繩索和麻線，\n也是做地毯的最佳材料。它也很容易上漆。它的纖維會吸收油性漆，而且利\n用編織圍出的邊可防滲色。條紋是瓊麻最簡單油漆上去的圖案。只要設計好\n了，就可以大量上漆。油漆好的地毯大概24小時內就可以拿來使用了。 解：\n這篇短文主要是描述 a)答案如何做地毯。答：a."
+  }
+ ]
+}

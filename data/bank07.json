@@ -1,0 +1,1660 @@
+{
+ "bank": "07",
+ "title": "第 07 回",
+ "questions": [
+  {
+   "id": "b07-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why do you need those coins?",
+   "options": {
+    "A": "Because it's a hot topic.",
+    "B": "Because I want to make some phone calls.",
+    "C": "Because they are mine.",
+    "D": "Because I want your opinion."
+   },
+   "answer": "B",
+   "audio": "audio/b07/001.mp3"
+  },
+  {
+   "id": "b07-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Does it annoy you when people smoke in your presence?",
+   "options": {
+    "A": "No, I've never smoked in my life.",
+    "B": "Yes, I'm a heavy smoker.",
+    "C": "No, I won't do it again.",
+    "D": "Yes, I hate it when people do so."
+   },
+   "answer": "D",
+   "audio": "audio/b07/002.mp3"
+  },
+  {
+   "id": "b07-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What do you usually use to hit nails into wood?",
+   "options": {
+    "A": "A hammer.",
+    "B": "A screwdriver.",
+    "C": "A rake.",
+    "D": "A saw."
+   },
+   "answer": "A",
+   "audio": "audio/b07/003.mp3"
+  },
+  {
+   "id": "b07-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How can you stand the heat in summer?",
+   "options": {
+    "A": "I sit down whenever I can.",
+    "B": "I often skip breakfast.",
+    "C": "I like spring best.",
+    "D": "I'm used to it."
+   },
+   "answer": "D",
+   "audio": "audio/b07/004.mp3"
+  },
+  {
+   "id": "b07-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What do you call a person whose job is to make things from wood?",
+   "options": {
+    "A": "An actor.",
+    "B": "A blogger.",
+    "C": "A carpenter.",
+    "D": "A designer."
+   },
+   "answer": "C",
+   "audio": "audio/b07/005.mp3"
+  },
+  {
+   "id": "b07-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Have you ever been on TV?",
+   "options": {
+    "A": "No, I don't watch much TV.",
+    "B": "Yes, I'm getting down now.",
+    "C": "No, I'm not rich enough.",
+    "D": "Yes, I've appeared several times on a talk show."
+   },
+   "answer": "D",
+   "audio": "audio/b07/006.mp3"
+  },
+  {
+   "id": "b07-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How long have your parents been married?",
+   "options": {
+    "A": "They come to visit once in a while.",
+    "B": "For three decades.",
+    "C": "They are going to celebrate their wedding anniversary.",
+    "D": "Three times."
+   },
+   "answer": "B",
+   "audio": "audio/b07/007.mp3"
+  },
+  {
+   "id": "b07-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Have you ever worked for a charity?",
+   "options": {
+    "A": "No, I've never worked for profit.",
+    "B": "Yes, I've worked for the Red Cross since 2008.",
+    "C": "No, my charity isn't all about money.",
+    "D": "Yes, I think charity should begin at home."
+   },
+   "answer": "B",
+   "audio": "audio/b07/008.mp3"
+  },
+  {
+   "id": "b07-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you afraid of Friday the 13th?",
+   "options": {
+    "A": "No, I'm not superstitious.",
+    "B": "Yes, I'm afraid of heights.",
+    "C": "No, I don't eat meat on Fridays.",
+    "D": "Yes, I have plans for the weekend."
+   },
+   "answer": "A",
+   "audio": "audio/b07/009.mp3"
+  },
+  {
+   "id": "b07-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Has your daughter reached legal age?",
+   "options": {
+    "A": "No, she is not very confident.",
+    "B": "Yes, she is already 21 years old.",
+    "C": "No, she is not familiar with legal matters.",
+    "D": "Yes, she is very friendly."
+   },
+   "answer": "B",
+   "audio": "audio/b07/010.mp3"
+  },
+  {
+   "id": "b07-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How often do you check your Facebook account?",
+   "options": {
+    "A": "I create an account every two months.",
+    "B": "There's still some money in my bank account.",
+    "C": "I have to check with the accountant.",
+    "D": "Almost every day."
+   },
+   "answer": "D",
+   "audio": "audio/b07/011.mp3"
+  },
+  {
+   "id": "b07-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you read books based on recommendations?",
+   "options": {
+    "A": "Yes, I need people to recommend me.",
+    "B": "No, I write books based on my own experience.",
+    "C": "Yes, I enjoy reading biographies.",
+    "D": "No, I choose books to read on my own."
+   },
+   "answer": "D",
+   "audio": "audio/b07/012.mp3"
+  },
+  {
+   "id": "b07-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are those people your in-laws?",
+   "options": {
+    "A": "Yes, they're my law office colleagues.",
+    "B": "No, they're not interested in legal matters.",
+    "C": "Yes, they're my wife's brothers and sister.",
+    "D": "No, they're not lonely at all."
+   },
+   "answer": "C",
+   "audio": "audio/b07/013.mp3"
+  },
+  {
+   "id": "b07-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are expensive things always good?",
+   "options": {
+    "A": "It depends.",
+    "B": "It's a matter of time.",
+    "C": "It works.",
+    "D": "It's a matter of principle."
+   },
+   "answer": "A",
+   "audio": "audio/b07/014.mp3"
+  },
+  {
+   "id": "b07-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is Tom a well-behaved child?",
+   "options": {
+    "A": "Yes, he believes everything he hears.",
+    "B": "No, he is not naughty at all.",
+    "C": "Yes, he is very obedient.",
+    "D": "No, he is not young any longer."
+   },
+   "answer": "C",
+   "audio": "audio/b07/015.mp3"
+  },
+  {
+   "id": "b07-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What should you use to cut cloth?",
+   "options": {
+    "A": "A pair of scissors.",
+    "B": "A pair of gloves.",
+    "C": "A pair of shorts.",
+    "D": "A pair of pincers."
+   },
+   "answer": "A",
+   "audio": "audio/b07/016.mp3"
+  },
+  {
+   "id": "b07-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What sports did you play on the beach?",
+   "options": {
+    "A": "Picnicking.",
+    "B": "Volleyball.",
+    "C": "Hockey.",
+    "D": "Music."
+   },
+   "answer": "B",
+   "audio": "audio/b07/017.mp3"
+  },
+  {
+   "id": "b07-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you smell something burning?",
+   "options": {
+    "A": "No, I don't smoke.",
+    "B": "Yes, it smells nice.",
+    "C": "Oh, no! I forgot to turn off the gas stove!",
+    "D": "Sorry, I didn't mean to hurt you."
+   },
+   "answer": "C",
+   "audio": "audio/b07/018.mp3"
+  },
+  {
+   "id": "b07-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Have you ever read any manga?",
+   "options": {
+    "A": "Yes, I'm really into Japanese comic books.",
+    "B": "No, I've never been to Japan.",
+    "C": "Yes, I'm familiar with Japanese tea ceremony.",
+    "D": "No, I've never read any Japanese newspapers."
+   },
+   "answer": "A",
+   "audio": "audio/b07/019.mp3"
+  },
+  {
+   "id": "b07-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where can I buy some garden tools?",
+   "options": {
+    "A": "At a pharmacy.",
+    "B": "At a grocery store.",
+    "C": "At a motel.",
+    "D": "At a hardware store."
+   },
+   "answer": "D",
+   "audio": "audio/b07/020.mp3"
+  },
+  {
+   "id": "b07-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Can I sublet the apartment to someone else?",
+   "options": {
+    "A": "Yes, you can rent the apartment.",
+    "B": "No, I won't let you go away.",
+    "C": "Yes, you can decorate it.",
+    "D": "No, didn't you read the lease?"
+   },
+   "answer": "D",
+   "audio": "audio/b07/021.mp3"
+  },
+  {
+   "id": "b07-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is Lyon a big city in France?",
+   "options": {
+    "A": "Yes, it's the third largest city in France.",
+    "B": "No, I've never been there.",
+    "C": "Yes, it's a small town.",
+    "D": "No, I prefer Paris to Lyon."
+   },
+   "answer": "A",
+   "audio": "audio/b07/022.mp3"
+  },
+  {
+   "id": "b07-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Which of the following military units is responsible for building fortifications?",
+   "options": {
+    "A": "An engineer battalion.",
+    "B": "A signal battalion.",
+    "C": "An artillery battalion.",
+    "D": "A medical battalion."
+   },
+   "answer": "A",
+   "audio": "audio/b07/023.mp3"
+  },
+  {
+   "id": "b07-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Does the party have a dress code?",
+   "options": {
+    "A": "No, the party isn't open to everyone.",
+    "B": "Yes, formal dress is required.",
+    "C": "No, it's not that cold tonight.",
+    "D": "Yes, the party begins at 7 p.m."
+   },
+   "answer": "B",
+   "audio": "audio/b07/024.mp3"
+  },
+  {
+   "id": "b07-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What's your favorite pastime?",
+   "options": {
+    "A": "Spring is my favorite season.",
+    "B": "Playing online games.",
+    "C": "Buying lottery tickets has become a national pastime.",
+    "D": "October is my favorite month."
+   },
+   "answer": "B",
+   "audio": "audio/b07/025.mp3"
+  },
+  {
+   "id": "b07-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Your handwriting is illegible.",
+   "options": {
+    "A": "Your handwriting is clear enough.",
+    "B": "Your handwriting is easy to imitate.",
+    "C": "Your handwriting is one of a kind.",
+    "D": "Your handwriting is very difficult to read."
+   },
+   "answer": "D",
+   "audio": "audio/b07/026.mp3"
+  },
+  {
+   "id": "b07-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The hurricane's momentum is increasing.",
+   "options": {
+    "A": "The hurricane is picking up speed.",
+    "B": "The hurricane has caused serious damage.",
+    "C": "The hurricane's direction is unpredictable.",
+    "D": "The hurricane has run its course."
+   },
+   "answer": "A",
+   "audio": "audio/b07/027.mp3"
+  },
+  {
+   "id": "b07-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I felt like a fish out of water at the formal dinner.",
+   "options": {
+    "A": "I felt honored to be able to attend the formal dinner.",
+    "B": "I had a good time at the formal dinner.",
+    "C": "I felt uncomfortable at the formal dinner.",
+    "D": "I ate my fill at the formal dinner."
+   },
+   "answer": "C",
+   "audio": "audio/b07/028.mp3"
+  },
+  {
+   "id": "b07-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "A lot of people came to cheer on the host team.",
+   "options": {
+    "A": "A lot of people supported the host team.",
+    "B": "A lot of people hated the host team.",
+    "C": "A lot of people took pictures of the host team.",
+    "D": "A lot of people sympathized with the host team."
+   },
+   "answer": "A",
+   "audio": "audio/b07/029.mp3"
+  },
+  {
+   "id": "b07-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "What he will do next is anyone's guess.",
+   "options": {
+    "A": "Everyone is guessing what he will do next.",
+    "B": "No one knows what he will do next.",
+    "C": "He will invite more guests next time.",
+    "D": "He will invite fewer guests next time."
+   },
+   "answer": "B",
+   "audio": "audio/b07/030.mp3"
+  },
+  {
+   "id": "b07-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Kevin became an orphan at the age of 5.",
+   "options": {
+    "A": "He lost both parents at the age of 5.",
+    "B": "He attended elementary school at the age of 5.",
+    "C": "He was a prodigy at the age of 5.",
+    "D": "He escaped from an orphanage at the age of 5."
+   },
+   "answer": "A",
+   "audio": "audio/b07/031.mp3"
+  },
+  {
+   "id": "b07-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Don't drive under the influence.",
+   "options": {
+    "A": "Don't drive when the weather is bad.",
+    "B": "Don't drive when traffic is heavy.",
+    "C": "Don't drive when you are in a bad mood.",
+    "D": "Don't drive when you are drunk."
+   },
+   "answer": "D",
+   "audio": "audio/b07/032.mp3"
+  },
+  {
+   "id": "b07-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The shopping mall is a one-stop store.",
+   "options": {
+    "A": "They have almost everything you need for sale.",
+    "B": "They have many bus stops in the shopping mall.",
+    "C": "The shopping mall is closed for one day.",
+    "D": "The shopping mall is reopening in one or two days."
+   },
+   "answer": "A",
+   "audio": "audio/b07/033.mp3"
+  },
+  {
+   "id": "b07-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mary is wavering between going to graduate school and getting a job.",
+   "options": {
+    "A": "Mary wants to get a job after she graduates.",
+    "B": "Mary wants to get a job before she gets married.",
+    "C": "Mary can't decide whether to go to graduate school or get a job.",
+    "D": "Mary can't go to graduate school because she has a job."
+   },
+   "answer": "C",
+   "audio": "audio/b07/034.mp3"
+  },
+  {
+   "id": "b07-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mr. Lewis is an asset to our company.",
+   "options": {
+    "A": "He is a foolish person in our company.",
+    "B": "He is a senior accountant in our company.",
+    "C": "He is an auditor in our company.",
+    "D": "He is a valuable person in our company."
+   },
+   "answer": "D",
+   "audio": "audio/b07/035.mp3"
+  },
+  {
+   "id": "b07-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mary is hosting a news program on TV.",
+   "options": {
+    "A": "She is an anchorwoman.",
+    "B": "She is a computer engineer.",
+    "C": "She is an optimist.",
+    "D": "She is a new acquaintance."
+   },
+   "answer": "A",
+   "audio": "audio/b07/036.mp3"
+  },
+  {
+   "id": "b07-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "That restaurant has gone out of business.",
+   "options": {
+    "A": "That restaurant has a lot of local patrons.",
+    "B": "That restaurant has closed down.",
+    "C": "That restaurant is expanding their business.",
+    "D": "That restaurant is not far from here."
+   },
+   "answer": "B",
+   "audio": "audio/b07/037.mp3"
+  },
+  {
+   "id": "b07-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Let's divide the steak between us.",
+   "options": {
+    "A": "Let's order a steak for each of us.",
+    "B": "Let's split the bill between us.",
+    "C": "Let's go to a steak house instead.",
+    "D": "Let's share the steak."
+   },
+   "answer": "D",
+   "audio": "audio/b07/038.mp3"
+  },
+  {
+   "id": "b07-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "We're planning to build more barracks.",
+   "options": {
+    "A": "We're planning to build more power plants.",
+    "B": "We're planning to build more bridges.",
+    "C": "We're planning to build more houses for our soldiers.",
+    "D": "We're planning to build more hotels."
+   },
+   "answer": "C",
+   "audio": "audio/b07/039.mp3"
+  },
+  {
+   "id": "b07-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I report directly to Captain Taylor.",
+   "options": {
+    "A": "Captain Taylor is my immediate superior.",
+    "B": "Captain Taylor is a war correspondent.",
+    "C": "Captain Taylor is my subordinate.",
+    "D": "Captain Taylor is a good companion."
+   },
+   "answer": "A",
+   "audio": "audio/b07/040.mp3"
+  },
+  {
+   "id": "b07-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Margaret is deep into Chinese calligraphy.",
+   "options": {
+    "A": "She is very interested in Chinese geography.",
+    "B": "She is very interested in Chinese characters.",
+    "C": "She is very interested in Chinese history.",
+    "D": "She is very interested in Chinese literature."
+   },
+   "answer": "B",
+   "audio": "audio/b07/041.mp3"
+  },
+  {
+   "id": "b07-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "They are waiting at the boarding gate.",
+   "options": {
+    "A": "They are waiting on a few guests.",
+    "B": "They are waiting for the signal.",
+    "C": "They are about to get on the plane.",
+    "D": "They are about to enter the zoo."
+   },
+   "answer": "C",
+   "audio": "audio/b07/042.mp3"
+  },
+  {
+   "id": "b07-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "That man is a homeless person.",
+   "options": {
+    "A": "He has no fixed residence.",
+    "B": "He is a very valuable person.",
+    "C": "He has a lot of money to burn.",
+    "D": "He is a reliable person."
+   },
+   "answer": "A",
+   "audio": "audio/b07/043.mp3"
+  },
+  {
+   "id": "b07-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "They did not reach the camp until suppertime.",
+   "options": {
+    "A": "They did not reach the camp on time.",
+    "B": "They arrived at the camp in the evening.",
+    "C": "They did not set out yet.",
+    "D": "They arrived at the camp the next morning."
+   },
+   "answer": "B",
+   "audio": "audio/b07/044.mp3"
+  },
+  {
+   "id": "b07-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Give me a hot dog, and hold the mustard, please.",
+   "options": {
+    "A": "I don't want a hot dog.",
+    "B": "I use a MasterCard when shopping around.",
+    "C": "I don't want the mustard.",
+    "D": "I like to keep dogs as pets."
+   },
+   "answer": "C",
+   "audio": "audio/b07/045.mp3"
+  },
+  {
+   "id": "b07-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Those soldiers are in need of more drills.",
+   "options": {
+    "A": "They need better military equipment.",
+    "B": "They need more encouragement.",
+    "C": "They need better health care.",
+    "D": "They need more military training."
+   },
+   "answer": "D",
+   "audio": "audio/b07/046.mp3"
+  },
+  {
+   "id": "b07-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "A lot of men find Nancy irresistible.",
+   "options": {
+    "A": "A lot of men think Nancy is very capable.",
+    "B": "A lot of men think Nancy is very snobbish.",
+    "C": "A lot of men think Nancy is very timid.",
+    "D": "A lot of men think Nancy is very attractive."
+   },
+   "answer": "D",
+   "audio": "audio/b07/047.mp3"
+  },
+  {
+   "id": "b07-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The headache I had last night was not imaginary.",
+   "options": {
+    "A": "The headache I had last night has come back.",
+    "B": "The headache I had last night has gone away.",
+    "C": "The headache I had last night was not serious enough.",
+    "D": "The headache I had last night was real."
+   },
+   "answer": "D",
+   "audio": "audio/b07/048.mp3"
+  },
+  {
+   "id": "b07-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Michael set his alarm for five o'clock.",
+   "options": {
+    "A": "He got off work at five o'clock.",
+    "B": "He needed to get up at five o'clock.",
+    "C": "He went to bed at five o'clock.",
+    "D": "He was a career soldier."
+   },
+   "answer": "B",
+   "audio": "audio/b07/049.mp3"
+  },
+  {
+   "id": "b07-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The novel was written by an obscure author.",
+   "options": {
+    "A": "The author of the novel was a genius.",
+    "B": "The author of the novel was not famous.",
+    "C": "The author of the novel won an award.",
+    "D": "The author of the novel won international acclaim."
+   },
+   "answer": "B",
+   "audio": "audio/b07/050.mp3"
+  },
+  {
+   "id": "b07-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M:You look worried. Is something on your mind? W:My sister and I had a fight yesterday. I said something that may have hurt her feelings. Q:What happened between the woman and her sister?",
+   "options": {
+    "A": "They were hurt in an accident.",
+    "B": "They could not find their way home.",
+    "C": "They were robbed at the bank.",
+    "D": "They had an argument"
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "You look worried. Is something on your mind?"
+    },
+    {
+     "s": "W",
+     "t": "My sister and I had a fight yesterday. I said something that may have hurt her feelings."
+    },
+    {
+     "s": "Q",
+     "t": "What happened between the woman and her sister?"
+    }
+   ],
+   "audio": "audio/b07/051.mp3"
+  },
+  {
+   "id": "b07-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W:Why do a lot of people wear blue jeans? M:They last longer, I think. Q:What does the man mean?",
+   "options": {
+    "A": "Blue jeans are less expensive.",
+    "B": "Blue jeans are more durable.",
+    "C": "Blue jeans are less showy.",
+    "D": "Blue jeans are more fashionable."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Why do a lot of people wear blue jeans?"
+    },
+    {
+     "s": "M",
+     "t": "They last longer, I think."
+    },
+    {
+     "s": "Q",
+     "t": "What does the man mean?"
+    }
+   ],
+   "audio": "audio/b07/052.mp3"
+  },
+  {
+   "id": "b07-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W:What does your father do? M:He used to be a bus driver, but now he raises cows for milk. Q:How does the man's father make a living now?",
+   "options": {
+    "A": "As a bus driver.",
+    "B": "As a dairy farmer.",
+    "C": "As a taxi driver.",
+    "D": "As a vegetable farmer."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "What does your father do?"
+    },
+    {
+     "s": "M",
+     "t": "He used to be a bus driver, but now he raises cows for milk."
+    },
+    {
+     "s": "Q",
+     "t": "How does the man's father make a living now?"
+    }
+   ],
+   "audio": "audio/b07/053.mp3"
+  },
+  {
+   "id": "b07-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M:Let's take a break and have some coffee. W:I wish I could. M:What keeps you so busy? W:I need to get everything done for the meeting in the afternoon. Q: Why is the woman so busy?",
+   "options": {
+    "A": "She is making some coffee.",
+    "B": "She is taking a break.",
+    "C": "She is making preparations for a meeting.",
+    "D": "She is meeting some clients."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Let's take a break and have some coffee."
+    },
+    {
+     "s": "W",
+     "t": "I wish I could."
+    },
+    {
+     "s": "M",
+     "t": "What keeps you so busy?"
+    },
+    {
+     "s": "W",
+     "t": "I need to get everything done for the meeting in the afternoon."
+    },
+    {
+     "s": "Q",
+     "t": "Why is the woman so busy?"
+    }
+   ],
+   "audio": "audio/b07/054.mp3"
+  },
+  {
+   "id": "b07-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M:I'm so hungry; I can't wait for the lecture to end. W:Neither can I. I'm bored to tears. Q:How does the woman feel about the lecture?",
+   "options": {
+    "A": "It is tedious.",
+    "B": "It makes them angry.",
+    "C": "It is very interesting.",
+    "D": "It makes the woman feel like crying."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "I'm so hungry; I can't wait for the lecture to end."
+    },
+    {
+     "s": "W",
+     "t": "Neither can I. I'm bored to tears."
+    },
+    {
+     "s": "Q",
+     "t": "How does the woman feel about the lecture?"
+    }
+   ],
+   "audio": "audio/b07/055.mp3"
+  },
+  {
+   "id": "b07-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W:My brother wants to buy stocks now. What should I tell him to do? M:Tell him to hold his horses. Stocks will be cheaper in a few weeks. Q:What does the man mean?",
+   "options": {
+    "A": "It's not the right time to buy stocks now.",
+    "B": "Stocks are already very cheap now.",
+    "C": "It's none of his business.",
+    "D": "Stock prices may rise in a few weeks."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "My brother wants to buy stocks now. What should I tell him to do?"
+    },
+    {
+     "s": "M",
+     "t": "Tell him to hold his horses. Stocks will be cheaper in a few weeks."
+    },
+    {
+     "s": "Q",
+     "t": "What does the man mean?"
+    }
+   ],
+   "audio": "audio/b07/056.mp3"
+  },
+  {
+   "id": "b07-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W:What seems to be the problem, sir? M: Well, I ordered a fish burger, but you gave me the chicken burger. Q:Where is the man?",
+   "options": {
+    "A": "At a fish market.",
+    "B": "At a fast food restaurant.",
+    "C": "At a chicken farm.",
+    "D": "At a barbershop."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "What seems to be the problem, sir?"
+    },
+    {
+     "s": "M",
+     "t": "Well, I ordered a fish burger, but you gave me the chicken burger."
+    },
+    {
+     "s": "Q",
+     "t": "Where is the man?"
+    }
+   ],
+   "audio": "audio/b07/057.mp3"
+  },
+  {
+   "id": "b07-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M:Two hundred dollars is too expensive for me. W:I'll give you a 5% discount if you pay cash. M:OK. Q:How much will the man have to pay if he pays cash?",
+   "options": {
+    "A": "190 dollars.",
+    "B": "180 dollars",
+    "C": "170 dollars.",
+    "D": "160 dollars."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Two hundred dollars is too expensive for me."
+    },
+    {
+     "s": "W",
+     "t": "I'll give you a 5% discount if you pay cash."
+    },
+    {
+     "s": "M",
+     "t": "OK."
+    },
+    {
+     "s": "Q",
+     "t": "How much will the man have to pay if he pays cash?"
+    }
+   ],
+   "audio": "audio/b07/058.mp3"
+  },
+  {
+   "id": "b07-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Wow, you look so cool on that thing! M: Want a ride? W: Sure. M: Hop on! Here's a helmet. Q: What is the man most likely riding?",
+   "options": {
+    "A": "A horse.",
+    "B": "A camel.",
+    "C": "A motorcycle.",
+    "D": "A unicycle."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Wow, you look so cool on that thing!"
+    },
+    {
+     "s": "M",
+     "t": "Want a ride?"
+    },
+    {
+     "s": "W",
+     "t": "Sure."
+    },
+    {
+     "s": "M",
+     "t": "Hop on! Here's a helmet."
+    },
+    {
+     "s": "Q",
+     "t": "What is the man most likely riding?"
+    }
+   ],
+   "audio": "audio/b07/059.mp3"
+  },
+  {
+   "id": "b07-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: What do we need to make the cake? W: I've got some eggs and flour, but we also need sugar. Can you pick up some on your way home? Q: Where is the man likely to go before getting home?",
+   "options": {
+    "A": "To a barber shop.",
+    "B": "To a beauty shop.",
+    "C": "To a grocery store.",
+    "D": "To a bike store."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "What do we need to make the cake?"
+    },
+    {
+     "s": "W",
+     "t": "I've got some eggs and flour, but we also need sugar. Can you pick up some on your way home?"
+    },
+    {
+     "s": "Q",
+     "t": "Where is the man likely to go before getting home?"
+    }
+   ],
+   "audio": "audio/b07/060.mp3"
+  },
+  {
+   "id": "b07-061",
+   "n": 61,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "We______eat out on weekends because we enjoy cooking at home.",
+   "options": {
+    "A": "rarely",
+    "B": "usually",
+    "C": "often",
+    "D": "always"
+   },
+   "answer": "A",
+   "explain": "選a. rarely(很少地;幾乎不) 因為後面句子告訴我們說話者很享受煮飯樂趣; 其\n他選項都表肯定意思"
+  },
+  {
+   "id": "b07-062",
+   "n": 62,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "We need to conduct a market ______ as soon as possible.",
+   "options": {
+    "A": "survey",
+    "B": "budget",
+    "C": "profit",
+    "D": "value"
+   },
+   "answer": "A",
+   "explain": "conduct (v.) 表”進行”/”實施”的意思; a survey (n.) 為”調查”之意"
+  },
+  {
+   "id": "b07-063",
+   "n": 63,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "______will the effects of the sandstorm last?",
+   "options": {
+    "A": "How far",
+    "B": "How soon",
+    "C": "How long",
+    "D": "How often"
+   },
+   "answer": "C",
+   "explain": "last (v.)表持續的動作, 選 How long? (多久時間)"
+  },
+  {
+   "id": "b07-064",
+   "n": 64,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "There were five bridesmaids, four of______I recognized as the bride's classmates.",
+   "options": {
+    "A": "them",
+    "B": "which",
+    "C": "whom",
+    "D": "that"
+   },
+   "answer": "C",
+   "explain": "a. them (選them時前面應該有連接詞, 後面要有動詞)\nb. which 不用在指人\nc. 當recognized的受格用, 標準答案\nd. that 前面不接逗號"
+  },
+  {
+   "id": "b07-065",
+   "n": 65,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "You must admit the cheesecake is pleasant______your taste buds.",
+   "options": {
+    "A": "with",
+    "B": "for",
+    "C": "on",
+    "D": "to"
+   },
+   "answer": "D",
+   "explain": "be.v. pleasant to + n. (令人愉快的)"
+  },
+  {
+   "id": "b07-066",
+   "n": 66,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Water_____is a major problem in many areas of the world.",
+   "options": {
+    "A": "accuracy",
+    "B": "frequency",
+    "C": "deficiency",
+    "D": "mercy"
+   },
+   "answer": "C",
+   "explain": "c. deficiency (=not having enough 缺乏, 不足)"
+  },
+  {
+   "id": "b07-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "______she may have just turned 40, Ruby still looks young and beautiful.",
+   "options": {
+    "A": "Once",
+    "B": "If",
+    "C": "Although",
+    "D": "Because"
+   },
+   "answer": "C",
+   "explain": "選C Although; 因前後句子有相反之意"
+  },
+  {
+   "id": "b07-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "There is a demilitarized ______between North Korea and South Korea.",
+   "options": {
+    "A": "route",
+    "B": "zone",
+    "C": "ripple",
+    "D": "zipper"
+   },
+   "answer": "B",
+   "explain": "a demilitarized zone 非軍事區; 停火區 (zone這裡表區域的意思, 為專有名詞)"
+  },
+  {
+   "id": "b07-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "A general is______to a colonel in rank.",
+   "options": {
+    "A": "higher",
+    "B": "lower",
+    "C": "superior",
+    "D": "inferior"
+   },
+   "answer": "C",
+   "explain": "be.v. higher (lower) than …(higher or lower需接than; 比較級用法)\nBe.v. superior or inferior 後接to"
+  },
+  {
+   "id": "b07-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The traffic gradually ______to a halt because there was a roadblock ahead.",
+   "options": {
+    "A": "separated",
+    "B": "twisted",
+    "C": "found",
+    "D": "ground"
+   },
+   "answer": "D",
+   "explain": "grind to a halt = stop gradually 慢慢停下來;逐漸陷入停頓 (grind三態動詞變化\n為 grind-ground-ground)"
+  },
+  {
+   "id": "b07-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Even though the economy has shown some signs of recovery, most experts______ pessimistic.",
+   "options": {
+    "A": "continue",
+    "B": "remain",
+    "C": "concern",
+    "D": "repeat"
+   },
+   "answer": "B",
+   "explain": "remain (v.) 停留，留下；保持不變，仍然是(狀態)"
+  },
+  {
+   "id": "b07-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "The traffic problems are caused by many vehicles double parked ______the city streets.",
+   "options": {
+    "A": "around",
+    "B": "about",
+    "C": "across",
+    "D": "along"
+   },
+   "answer": "D",
+   "explain": "along (preposition) 沿著，順著，循著"
+  },
+  {
+   "id": "b07-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Since it was a national holiday, I______in bed until noon.",
+   "options": {
+    "A": "stay",
+    "B": "stayed",
+    "C": "have stayed",
+    "D": "had stayed"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "b07-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Most of our factory workers are hired on a full-time______.",
+   "options": {
+    "A": "base",
+    "B": "basis",
+    "C": "fashion",
+    "D": "function"
+   },
+   "answer": "B",
+   "explain": "b. on a full-time basis 以…為基礎; 以…為根據"
+  },
+  {
+   "id": "b07-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Take some more money with you _______you need to buy a few other things.",
+   "options": {
+    "A": "in fact",
+    "B": "in order",
+    "C": "in short",
+    "D": "in case"
+   },
+   "answer": "D",
+   "explain": "d. in case 以防"
+  },
+  {
+   "id": "b07-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Patients in the ICU need ______24 hours a day.",
+   "options": {
+    "A": "monitor",
+    "B": "monitoring",
+    "C": "to monitor",
+    "D": "monitored"
+   },
+   "answer": "B",
+   "explain": "need + Ving"
+  },
+  {
+   "id": "b07-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "It seemed to take______for our bags to arrive on the baggage carousel.",
+   "options": {
+    "A": "whatever",
+    "B": "whenever",
+    "C": "however",
+    "D": "forever"
+   },
+   "answer": "D",
+   "explain": "a,b,c 選項後不接介係詞; 因此選D forever"
+  },
+  {
+   "id": "b07-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Look, this shirt ______me like a glove!",
+   "options": {
+    "A": "fills",
+    "B": "fits",
+    "C": "figures",
+    "D": "fixes"
+   },
+   "answer": "B",
+   "explain": "fit(s) 人 like a glove 合身"
+  },
+  {
+   "id": "b07-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Are you able to distinguish______the twin sisters?",
+   "options": {
+    "A": "between",
+    "B": "from",
+    "C": "on",
+    "D": "with"
+   },
+   "answer": "A",
+   "explain": "a. distinguish between…在兩者之間做出區別, 需用介係詞between"
+  },
+  {
+   "id": "b07-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "You must be______if you think you can get away with it.",
+   "options": {
+    "A": "kidding",
+    "B": "dropping",
+    "C": "nodding",
+    "D": "peeping"
+   },
+   "answer": "A",
+   "explain": "You must be kidding if…(你一定是開玩笑你可以規避這件事!)"
+  },
+  {
+   "id": "b07-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Before I got married, I didn't ______having to do the cooking myself.",
+   "options": {
+    "A": "anticipate",
+    "B": "expect",
+    "C": "participate",
+    "D": "inspect"
+   },
+   "answer": "A",
+   "explain": "anticipate後接名詞或動名詞; 其他選項 expect + to; participate +in;\ninspect(v.)”檢查””審視” 與句意不符"
+  },
+  {
+   "id": "b07-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "The lecture ______to us by the professor for the last five classes.",
+   "options": {
+    "A": "was taught",
+    "B": "has taught",
+    "C": "was being taught",
+    "D": "has been taught"
+   },
+   "answer": "D",
+   "explain": "has been taught 表現在完成被動態 課被這個professor教; 持續五堂課用完成\n示"
+  },
+  {
+   "id": "b07-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "I could______believe my ears when Helen said she was in love with me.",
+   "options": {
+    "A": "exactly",
+    "B": "briefly",
+    "C": "likely",
+    "D": "hardly"
+   },
+   "answer": "D",
+   "explain": "hardly 幾乎不"
+  },
+  {
+   "id": "b07-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "The topic is too sensitive. I wish you_______it.",
+   "options": {
+    "A": "change",
+    "B": "to change",
+    "C": "have changed",
+    "D": "had changed"
+   },
+   "answer": "D",
+   "explain": "(a)（與過去時連用，對已經存在的情況表示遺憾）但願，希望\n例子: I wish (that) I was/were a bit taller.我個子再高一點就好了。\n(b)（與過去完成時連用，對過去某事表示悔恨）例子: I wish (that) I hadn't\neaten so much. 我真希望自己沒吃那麼多。"
+  },
+  {
+   "id": "b07-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "In a few years, our current weapons system will give way to a more _____one.",
+   "options": {
+    "A": "sophisticated",
+    "B": "physical",
+    "C": "temporary",
+    "D": "regular"
+   },
+   "answer": "A",
+   "explain": "a. 標準答案\nb.c.d.不符合句意"
+  },
+  {
+   "id": "b07-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "Check the______date before you buy any food products or beverages.",
+   "options": {
+    "A": "expiration",
+    "B": "information",
+    "C": "limitation",
+    "D": "suggestion"
+   },
+   "answer": "A",
+   "explain": "expiration date 有效日期"
+  },
+  {
+   "id": "b07-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "_______the existing law, it is illegal to discriminate against women at work.",
+   "options": {
+    "A": "Above",
+    "B": "Along",
+    "C": "Under",
+    "D": "Until"
+   },
+   "answer": "C",
+   "explain": "under the law 根據法律規定; 介係詞要用 “under”"
+  },
+  {
+   "id": "b07-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "The government armies were ________by the enemy.",
+   "options": {
+    "A": "slipped down",
+    "B": "stepped down",
+    "C": "pinned down",
+    "D": "calmed down"
+   },
+   "answer": "C",
+   "explain": "were pinned down 表 “使（某人）動彈不得；困住（某人）”"
+  },
+  {
+   "id": "b07-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "______rapidly the disease is spreading across the country!",
+   "options": {
+    "A": "Such",
+    "B": "Far",
+    "C": "How",
+    "D": "What"
+   },
+   "answer": "C",
+   "explain": "C. How 最為適當; 選項AD後面需接名詞; B. Far 不當句首"
+  },
+  {
+   "id": "b07-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "If there______a power failure, we would have finished on time.",
+   "options": {
+    "A": "has not",
+    "B": "had not",
+    "C": "has not been",
+    "D": "had not been"
+   },
+   "answer": "D",
+   "explain": "選D. had not been; 因是與過去事實相反, 用過去完成式"
+  },
+  {
+   "id": "b07-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "Sheep's milk is richer than______goat's or cow's milk.",
+   "options": {
+    "A": "both",
+    "B": "either",
+    "C": "neither",
+    "D": "nor"
+   },
+   "answer": "B",
+   "explain": "a. both…and…\nb. either…or…(正確答案)\nc. neither…nor…\nd. nor當開頭須倒裝"
+  },
+  {
+   "id": "b07-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "grammar",
+   "stem": "My grandparents make it a rule ______to bed before 10 o'clock.",
+   "options": {
+    "A": "to go",
+    "B": "going",
+    "C": "and go",
+    "D": "gone"
+   },
+   "answer": "A",
+   "explain": "make it a rule to +V. (原型動詞) 按規矩；按照習慣，遵循常規"
+  },
+  {
+   "id": "b07-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "This is my last ____because I am going to graduate from college in a few weeks.",
+   "options": {
+    "A": "ceremony",
+    "B": "business",
+    "C": "theory",
+    "D": "semester"
+   },
+   "answer": "D",
+   "explain": "d. 標準答案\na,b,c 不符合句意"
+  },
+  {
+   "id": "b07-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "A lot of local people took shelter in the cave during the air______.",
+   "options": {
+    "A": "conditioning",
+    "B": "raid",
+    "C": "brake",
+    "D": "show"
+   },
+   "answer": "B",
+   "explain": "an air raid 表”空襲”; an air raid shelter (防空洞)"
+  },
+  {
+   "id": "b07-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "vocab",
+   "stem": "A lot of customers rushed out of the supermarket as soon as the fire alarm________.",
+   "options": {
+    "A": "came off",
+    "B": "came out",
+    "C": "went off",
+    "D": "went out"
+   },
+   "answer": "C",
+   "explain": "The alarm should go off automatically as soon as smoke is detected.警報器\n一旦測出有煙就會自動鳴響。其他選項:\na. came off (come off) 取得預期的效果；成功\nb. came out (come out) 發行;出版;出來\nd. went out (go out) 出門參加社交活動; 熄滅"
+  },
+  {
+   "id": "b07-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Humans have turned to nature for medicine since ancient times. The earth's oceans may be the best source. Though at least 26 drugs that come from marine organisms are currently on the market or in development, a lot of biochemists are trying to boost the number. Which of the following is closest in meaning to the word ''boost''?",
+   "options": {
+    "A": "increase",
+    "B": "decrease",
+    "C": "count",
+    "D": "discount"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "b07-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Over the past few years, social networking has developed into a craze. Millions of people around the world use social networking sites on a daily basis. But what exactly is social networking? Joining a social networking site is a lot like going to a new school. On your first day of school, you don't know anyone. You make a friend or two after your first classes. Then, you join a few groups, and suddenly you have a lot of friends. Which of the following is a social networking site?",
+   "options": {
+    "A": "Facebook",
+    "B": "The Red Cross",
+    "C": "Burger King",
+    "D": "The United Nations"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "b07-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Ebola is a viral disease of which the initial symptoms can include a sudden fever, intense fatigue, muscle pain and a sore throat, according to the World Health Organization (WHO). And that is just the beginning. Subsequent stages are vomiting, diarrhea and - in some cases - both internal and external bleeding. According to the passage, which is an initial symptom of the Ebola disease?",
+   "options": {
+    "A": "Extreme tiredness.",
+    "B": "Kidney failure.",
+    "C": "Vomiting.",
+    "D": "Internal bleeding."
+   },
+   "answer": "A"
+  },
+  {
+   "id": "b07-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "98. Couch surfing is a remarkable way to travel, and travelers of all budgets can benefit from it. The term ''couch surfing'' simply refers to staying with hosts while you travel. You can find free accommodations ranging from simple couches to spare bedrooms. Not only can you go everywhere for sightseeing but you can also make a lot of new friends. The best part of couch surfing, however, is that it can dramatically lower your traveling expenses. According to the passage, couch surfing is especially suitable for people .",
+   "options": {
+    "A": "traveling alone",
+    "B": "with low budgets",
+    "C": "traveling with friends",
+    "D": "with safety concerns"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "b07-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Myanmar is in a good position to make big gains in Asia's fast-growing markets. But the country may have a long way to go. After 50 years of military rule, it is one of Asia's poorest countries. Roads, bridges and railways are in urgent need of development before it can attract foreign investment. Based on the passage, what does Myanmar need most?",
+   "options": {
+    "A": "Natural resources.",
+    "B": "Infrastructure.",
+    "C": "Democracy.",
+    "D": "Free trade."
+   },
+   "answer": "B"
+  }
+ ]
+}

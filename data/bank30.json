@@ -1,0 +1,1768 @@
+{
+ "bank": "30",
+ "title": "第 30 回",
+ "questions": [
+  {
+   "id": "b30-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is there a barbershop near here?",
+   "options": {
+    "A": "No, I don’t need to have a haircut.",
+    "B": "Yes, there’s one around the corner.",
+    "C": "No, the bar is a long distance away.",
+    "D": "Yes, you can shop until you drop."
+   },
+   "answer": "B",
+   "explain": "單字解析: barbershop理髮店 Barbershop is a style of singing where a small\ngroup of people, usually men, sing in close harmony and without any\nmusical instruments accompanying them. 依照句意選 b: 有，轉角處就有一\n個。",
+   "audio": "audio/b30/001.mp3"
+  },
+  {
+   "id": "b30-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is there a lot of choice in that restaurant?",
+   "options": {
+    "A": "Of course, it is an all-you-can-eat restaurant.",
+    "B": "No, it was a very good decision.",
+    "C": "Of course, it is open around the clock.",
+    "D": "No, it has changed hands recently."
+   },
+   "answer": "A",
+   "explain": "單字解析: choice 選擇 ; restaurant 餐廳 依照句意選 a : 當然，這是個自助餐\n廳。choice 選擇 If there is a choice of things, there are several of them and\nyou can choose the one you want. Ex: At lunchtime, there's a choice\nbetween the buffet or the set menu.restaurant 餐廳 A restauran",
+   "audio": "audio/b30/002.mp3"
+  },
+  {
+   "id": "b30-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Which of the following is a martial art?",
+   "options": {
+    "A": "Karate.",
+    "B": "Sculpture.",
+    "C": "Music.",
+    "D": "Graffiti."
+   },
+   "answer": "A",
+   "explain": "單字解析: martial art 武術A martial art is one of the methods of fighting, often\nwithout weapons, that come from the Far East, for example kung fu, karate,\nor judo. 依照句意選 a: 空手道。",
+   "audio": "audio/b30/003.mp3"
+  },
+  {
+   "id": "b30-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you a risk-taking person?",
+   "options": {
+    "A": "No, I never take advantage of other people.",
+    "B": "Yes, I enjoy taking photos.",
+    "C": "No, I don’t want to take chances.",
+    "D": "Yes, I am a very conservative person."
+   },
+   "answer": "C",
+   "explain": "單字解析: risk-taking 冒險的 Risk-taking means taking actions which might\nhave unpleasant or undesirable results. 依照句意選 c:不，我不想冒險。",
+   "audio": "audio/b30/004.mp3"
+  },
+  {
+   "id": "b30-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why are there roadblocks all the way?",
+   "options": {
+    "A": "Traffic is very heavy this morning.",
+    "B": "The bad weather is causing the congestion.",
+    "C": "You can use the GPS on your phone.",
+    "D": "The police may be trying to catch criminals."
+   },
+   "answer": "D",
+   "explain": "單字解析: roadblock 路障 When the police or the army put a roadblock\nacross a road, they stop all the traffic going through, for example because\nthey are looking for a criminal. Ex: The city police set up roadblocks to check\npassing vehicles. 依照句意選 d: 警察可能是想抓捕罪",
+   "audio": "audio/b30/005.mp3"
+  },
+  {
+   "id": "b30-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How do you protect your head when riding a motorcycle?",
+   "options": {
+    "A": "I wear a hoodie.",
+    "B": "I never exceed the speed limit.",
+    "C": "I wear a helmet.",
+    "D": "I never drink and drive."
+   },
+   "answer": "C",
+   "explain": "單字解析: motorcycle 機車 A motorcycle is a vehicle with two wheels and an\nengine. 依照句意選 c:我戴安全帽。",
+   "audio": "audio/b30/006.mp3"
+  },
+  {
+   "id": "b30-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you have any regrets?",
+   "options": {
+    "A": "Absolutely. Who doesn’t?",
+    "B": "Not really. I live alone.",
+    "C": "Yes, I have a few relatives.",
+    "D": "No, I don’t have time to relax."
+   },
+   "answer": "A",
+   "explain": "單字解析: regret 後悔,依照句意選 a: 當然，誰不呢？。 regret 後悔 If you\nregret something that you have done, you wish that you had not done it. Ex:\nEllis seemed to be regretting that he had asked the question.",
+   "audio": "audio/b30/007.mp3"
+  },
+  {
+   "id": "b30-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What type of car do you want to rent?",
+   "options": {
+    "A": "Here’s my international driver’s license.",
+    "B": "I’d like to take a taxi.",
+    "C": "Here’s my credit card.",
+    "D": "I’d like to rent a sedan."
+   },
+   "answer": "D",
+   "explain": "單字解析: type 類型 ; rent 租 依照句意選 d : 我想租一輛轎車。 type 類型 A\ntype of something is a group of those things that have particular features in\ncommon. Ex: There are various types of the disease. rent 租 If you rent\nsomething, you regularly pay its owner a sum of m",
+   "audio": "audio/b30/008.mp3"
+  },
+  {
+   "id": "b30-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are there any age limits for applicants?",
+   "options": {
+    "A": "Yes, we only employ workers under 30.",
+    "B": "No, there is no discrimination against races.",
+    "C": "Yes, we employ workers on a full-time basis.",
+    "D": "No, there are no vacancies for applicants now."
+   },
+   "answer": "A",
+   "explain": "單字解析: limit 限制 A limit is the greatest amount, extent, or degree of\nsomething that is possible. Ex: Firefighters are being stretched to the limit as\nfire sweeps through the state.",
+   "audio": "audio/b30/009.mp3"
+  },
+  {
+   "id": "b30-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Does this car have satellite navigation?",
+   "options": {
+    "A": "No, there’s no mileage limit.",
+    "B": "Yes, it is very energy-efficient.",
+    "C": "No, there’s no extra charge.",
+    "D": "Yes, it is equipped with GPS."
+   },
+   "answer": "D",
+   "explain": "單字解析: satellite navigation衛星導航 依照句意選 c:有，他有配備GPS。\nsatellite navigation衛星導航 Navigation using data received from satellites.",
+   "audio": "audio/b30/010.mp3"
+  },
+  {
+   "id": "b30-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What toppings do you have on your pizzas?",
+   "options": {
+    "A": "You can have your pizza delivered to your door.",
+    "B": "You can get what you order within 30 minutes.",
+    "C": "You name it and we have it.",
+    "D": "You buy one and get one free."
+   },
+   "answer": "C",
+   "explain": "單字解析: topping 配料 依照句意選 c:你說名字我們有。 topping 配料 A\ntopping is food, such as cream or cheese that is poured or put on top of\nother food in order to decorate it or add to its flavor.",
+   "audio": "audio/b30/011.mp3"
+  },
+  {
+   "id": "b30-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Can I get there by walking?",
+   "options": {
+    "A": "Yes, walking is less harmful than running.",
+    "B": "No, it’s not within walking distance.",
+    "C": "Yes, walking is too difficult.",
+    "D": "No, you should not walk too fast."
+   },
+   "answer": "B",
+   "explain": "句意解析: 我可以步行到達那裡嗎？不，它不在步行範圍內。依照句意選 b",
+   "audio": "audio/b30/012.mp3"
+  },
+  {
+   "id": "b30-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Can you stand on your head?",
+   "options": {
+    "A": "No, I’m afraid of heights.",
+    "B": "Yes, I can stand the heat.",
+    "C": "No, I’ve never done that.",
+    "D": "Yes, I can stand the joke."
+   },
+   "answer": "C",
+   "explain": "片語解析: stand on your head 倒立 依照句意選 c: 不，我沒有嘗試過。",
+   "audio": "audio/b30/013.mp3"
+  },
+  {
+   "id": "b30-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Can you drive a little faster?",
+   "options": {
+    "A": "No, I don’t have a driver’s license.",
+    "B": "Yes, I’ll give you a ride there.",
+    "C": "No, it would be against the law.",
+    "D": "Yes, it’s a brand-new car."
+   },
+   "answer": "C",
+   "explain": "句意解析:你可以開快一點嗎？不，這樣會違法。依照句意選 c",
+   "audio": "audio/b30/014.mp3"
+  },
+  {
+   "id": "b30-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Could I speak to Mr. Kim, please?",
+   "options": {
+    "A": "Hold on, I’ll put you right through.",
+    "B": "Of course, I can help you instead.",
+    "C": "Yes, I’d like to take a message for him.",
+    "D": "Yes, Mr. Kim is out of the country."
+   },
+   "answer": "A",
+   "explain": "句意解析: 我可以和金先生通話嗎？稍等，我幫你轉接。依照句意選 a",
+   "audio": "audio/b30/015.mp3"
+  },
+  {
+   "id": "b30-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What are your symptoms?",
+   "options": {
+    "A": "I use the Android system.",
+    "B": "I enjoy watching the Simpsons series.",
+    "C": "I have a sore throat and a runny nose.",
+    "D": "I like to live a simple life."
+   },
+   "answer": "C",
+   "explain": "單字解析: symptom 症狀 A symptom of an illness is something wrong with\nyour body or mind that is a sign of the illness. Ex: One of the most common\nsymptoms of schizophrenia is hearing imaginary voices. 依照句意選 c: 我喉\n嚨痛、流鼻水。",
+   "audio": "audio/b30/016.mp3"
+  },
+  {
+   "id": "b30-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Which floor is the gymnasium on?",
+   "options": {
+    "A": "It is open to members only.",
+    "B": "You can take the elevator there.",
+    "C": "It is actually in the basement.",
+    "D": "You have to take a shower first."
+   },
+   "answer": "C",
+   "explain": "單字解析: floor 樓層 ; gymnasium 體育館 依照句意選 c: 它實際上在地下室。\nfloor 樓層The floor of a room is the part of it that you walk on. Ex: We\npainted the wooden floor with a white stain. gymnasium 體育館 A\ngymnasium is the same as a gym.",
+   "audio": "audio/b30/017.mp3"
+  },
+  {
+   "id": "b30-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Isn’t your father a zoologist?",
+   "options": {
+    "A": "No, he is going to the zoo tomorrow.",
+    "B": "Yes, he knows a lot about animals.",
+    "C": "No, he is not a psychologist.",
+    "D": "Yes, he knows a lot about plants."
+   },
+   "answer": "B",
+   "explain": "單字解析: zoologist動物學家 依照句意選 b: 是的，他對動物了解很多。",
+   "audio": "audio/b30/018.mp3"
+  },
+  {
+   "id": "b30-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is that house haunted?",
+   "options": {
+    "A": "I’m not sure, but many people believe so.",
+    "B": "Yes, it needs to be renovated.",
+    "C": "My friend is the owner of it.",
+    "D": "No, it is going to be torn down."
+   },
+   "answer": "A",
+   "explain": "句意解析: 那房子鬧鬼了嗎？我不確定，但很多人都這麼認為。依照句意選 a",
+   "audio": "audio/b30/019.mp3"
+  },
+  {
+   "id": "b30-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why didn’t you eat the bread?",
+   "options": {
+    "A": "It was stale.",
+    "B": "It was yummy.",
+    "C": "It was on sale.",
+    "D": "It was fresh from the oven."
+   },
+   "answer": "A",
+   "explain": "句意解析: 你為什麼不吃麵包？它是壞掉、不新鮮的。依照句意選 a",
+   "audio": "audio/b30/020.mp3"
+  },
+  {
+   "id": "b30-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do I need to pay extra for delivery?",
+   "options": {
+    "A": "Yes, she’s willing to go the extra mile.",
+    "B": "No, it is included in the price.",
+    "C": "Yes, you need to pay a deposit.",
+    "D": "No, it is a duty-free shop."
+   },
+   "answer": "B",
+   "explain": "片語解析: pay extra for delivery額外支付運費 依照句意選 b: 不用，它包含在\n價格中。",
+   "audio": "audio/b30/021.mp3"
+  },
+  {
+   "id": "b30-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What kind of movie is usually full of blood and gore?",
+   "options": {
+    "A": "A romance.",
+    "B": "An animation.",
+    "C": "A comedy.",
+    "D": "A horror movie."
+   },
+   "answer": "D",
+   "explain": "片語解析: blood and gore血腥 依照句意選 d: 恐怖電影。",
+   "audio": "audio/b30/022.mp3"
+  },
+  {
+   "id": "b30-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why did you drop out of the game?",
+   "options": {
+    "A": "I downloaded the game from the App Store.",
+    "B": "The game will start at dawn.",
+    "C": "I sprained my ankle a few days ago.",
+    "D": "The game was invented a thousand years ago."
+   },
+   "answer": "C",
+   "explain": "片語解析: drop out of 退出 依照句意選 c: 幾天前我扭傷了腳踝。",
+   "audio": "audio/b30/023.mp3"
+  },
+  {
+   "id": "b30-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Who should you seek help from if you have malnutrition?",
+   "options": {
+    "A": "A shrink.",
+    "B": "A dietician.",
+    "C": "A surgeon.",
+    "D": "A magician."
+   },
+   "answer": "B",
+   "explain": "單字解析: malnutrition營養不良 If someone is suffering from malnutrition,\nthey are physically weak and extremely thin because they have not eaten\nenough food. Ex: Infections are more likely in those suffering from\nmalnutrition. 依照句意選 b: 營養師。",
+   "audio": "audio/b30/024.mp3"
+  },
+  {
+   "id": "b30-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where should I put some waste paper?",
+   "options": {
+    "A": "In the fridge.",
+    "B": "In the kitchen sink.",
+    "C": "In the cupboard.",
+    "D": "In the trash can."
+   },
+   "answer": "D",
+   "explain": "單字解析: waste paper 廢紙 paper discarded after use 依照句意選 d: 在垃圾\n桶裡。",
+   "audio": "audio/b30/025.mp3"
+  },
+  {
+   "id": "b30-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you have beer or wine at your place?",
+   "options": {
+    "A": "No, I’ve quit drinking.",
+    "B": "Yes, let’s go somewhere to celebrate.",
+    "C": "No, I don’t have a wine cellar.",
+    "D": "Yes, let’s call it a day."
+   },
+   "answer": "A",
+   "explain": "句意解析: 你家有啤酒或葡萄酒嗎？沒有，我已經戒酒了。依照句意選 a",
+   "audio": "audio/b30/026.mp3"
+  },
+  {
+   "id": "b30-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where are you from?",
+   "options": {
+    "A": "I was born in Hong Kong but grew up in L.A.",
+    "B": "I just came back from a vacation.",
+    "C": "I’m going to visit a friend.",
+    "D": "I graduated from there only last month."
+   },
+   "answer": "A",
+   "explain": "句意解析:你來自哪裡？我生在香港，在洛杉磯長大。依照句意選 a",
+   "audio": "audio/b30/027.mp3"
+  },
+  {
+   "id": "b30-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How have you been?",
+   "options": {
+    "A": "I’ve been there a few times.",
+    "B": "Same old, same old.",
+    "C": "I have no idea.",
+    "D": "It’s up to you."
+   },
+   "answer": "B",
+   "explain": "句意解析:最近如何? 老樣子，老樣子。依照句意選 b",
+   "audio": "audio/b30/028.mp3"
+  },
+  {
+   "id": "b30-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "We ate at a fancy restaurant.",
+   "options": {
+    "A": "We ate at a fast food restaurant.",
+    "B": "We ate at an expensive restaurant.",
+    "C": "We ate at a local restaurant.",
+    "D": "We ate at an intimate restaurant."
+   },
+   "answer": "B",
+   "explain": "單字解析: fancy 昂貴的 If you describe something as fancy, you mean that it\nis special, unusual, or elaborate, for example because it has a lot of\ndecoration. Ex: It was packaged in a fancy plastic case with attractive\ngraphics. 句意解析: 我們在一家昂貴的餐廳吃飯。b答案句意相似。",
+   "audio": "audio/b30/029.mp3"
+  },
+  {
+   "id": "b30-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Most of the audience were rolling in the aisles.",
+   "options": {
+    "A": "Most of the audience were in tears.",
+    "B": "Most of the audience were fast asleep.",
+    "C": "Most of the audience were laughing wildly.",
+    "D": "Most of the audience were protesting."
+   },
+   "answer": "C",
+   "explain": "單字解析: audience 觀眾 The audience at a play, concert, film, or public\nmeeting is the group of people watching or listening to it. Ex: The entire\naudience broke into loud applause. 片語解析: roll in the aisles樂不可支，笑\n得東倒⻄歪 句意解析: 大部分觀眾都在狂笑。c答案句意相似。",
+   "audio": "audio/b30/030.mp3"
+  },
+  {
+   "id": "b30-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I was tossing and turning last night.",
+   "options": {
+    "A": "I did not sleep well last night.",
+    "B": "I went to bed early last night.",
+    "C": "I had a nightmare last night.",
+    "D": "I was sleepwalking last night."
+   },
+   "answer": "A",
+   "explain": "片語解析: toss and turn 翻來覆去 If you toss and turn, you keep moving\naround in bed and cannot sleep properly, for example because you are ill or\nworried. Ex: You feel as if you've been tossing and turning all night, and\nwake up feeling worn out. 句意解析: 我昨晚輾轉反側。a答案句意相似。",
+   "audio": "audio/b30/031.mp3"
+  },
+  {
+   "id": "b30-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "We should dispose of the chemicals properly.",
+   "options": {
+    "A": "We should store the chemicals properly.",
+    "B": "We should make use of the chemicals properly.",
+    "C": "We should examine the chemicals properly.",
+    "D": "We should get rid of the chemicals properly."
+   },
+   "answer": "D",
+   "explain": "單字解析: dispose 處置 to deal with or settle ; chemicals化學品 the\ncommercial production and sale of chemical products 句意解析: 我們應該妥\n善處理這些化學品。d答案句意相似。",
+   "audio": "audio/b30/032.mp3"
+  },
+  {
+   "id": "b30-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The evidence leaves no room for doubt.",
+   "options": {
+    "A": "The evidence is unbelievable.",
+    "B": "The evidence needs to be verified.",
+    "C": "The evidence is undeniable.",
+    "D": "The evidence needs to be strengthened."
+   },
+   "answer": "C",
+   "explain": "單字解析: evidence 證據 Evidence is anything that you see, experience,\nread, or is told that causes you to believe that something is true or has really\nhappened. Ex: To date there is no evidence to support this theory. 片語解析:\nleave no room for doubt不容置疑 句意解析: 證據不容置疑。c答案句意相\n似。",
+   "audio": "audio/b30/033.mp3"
+  },
+  {
+   "id": "b30-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The project has been given the green light.",
+   "options": {
+    "A": "The project has been going smoothly.",
+    "B": "The project has been rejected.",
+    "C": "The project has been going by fits and starts.",
+    "D": "The project has been officially approved."
+   },
+   "answer": "D",
+   "explain": "片語解析: be given the green light獲得批准 句意解析: 該項目已獲得批准。d\n答案句意相似。",
+   "audio": "audio/b30/034.mp3"
+  },
+  {
+   "id": "b30-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I often buy things on impulse.",
+   "options": {
+    "A": "I often buy things in bulk.",
+    "B": "I often buy things with a credit card.",
+    "C": "I often buy things online.",
+    "D": "I often buy things without forethought."
+   },
+   "answer": "D",
+   "explain": "單字解析: impulse衝動 An impulse is a sudden desire to do something. Ex:\nHe still couldn't understand the impulse that had made him confide in\nCassandra. 句意解析: 我經常沒有深思熟慮後就買東⻄。d答案句意相似。",
+   "audio": "audio/b30/035.mp3"
+  },
+  {
+   "id": "b30-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You have not realized your full potential.",
+   "options": {
+    "A": "You have not achieved as much as you can.",
+    "B": "You have not understood your position.",
+    "C": "You have not received proper training.",
+    "D": "You have not explained in detail."
+   },
+   "answer": "A",
+   "explain": "單字解析: potential潛力 If you say that someone or something has potential,\nyou mean that they have the necessary abilities or qualities to become\nsuccessful or useful in the future. Ex: The school strives to help each pupil\nto achieve their full potential. 句意解析: 你還沒有充分發揮自己的潛力。a答\n案句意相似。",
+   "audio": "audio/b30/036.mp3"
+  },
+  {
+   "id": "b30-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Time is on your side.",
+   "options": {
+    "A": "Your time is running out.",
+    "B": "You’ve got plenty of time.",
+    "C": "Your time is used up.",
+    "D": "You’ve wasted a lot of time."
+   },
+   "answer": "B",
+   "explain": "句意解析:你有充裕的時間。b答案句意相似。",
+   "audio": "audio/b30/037.mp3"
+  },
+  {
+   "id": "b30-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "A mother’s love knows no bounds.",
+   "options": {
+    "A": "A mother’s love cannot be replaced.",
+    "B": "A mother’s love is very unique.",
+    "C": "A mother’s love cannot be measured.",
+    "D": "A mother’s love is very difficult to explain."
+   },
+   "answer": "C",
+   "explain": "句意解析: 母愛無邊無際。c答案句意相似。",
+   "audio": "audio/b30/038.mp3"
+  },
+  {
+   "id": "b30-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Your friend’s name rings a bell.",
+   "options": {
+    "A": "Your friend’s name sounds very familiar.",
+    "B": "Your friend’s name is hard to remember.",
+    "C": "Your friend’s name sounds very strange.",
+    "D": "Your friend’s name is hard to pronounce."
+   },
+   "answer": "A",
+   "explain": "片語解析: ring a bell聽起來耳熟 to sound familiar; recall to the mind\nsomething previously experienced 句意解析: 你朋友的名字聽起來很熟悉。a\n答案句意相似。",
+   "audio": "audio/b30/039.mp3"
+  },
+  {
+   "id": "b30-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "This college’s facilities rival those of Harvard.",
+   "options": {
+    "A": "This college’s facilities are as good as Harvard’s.",
+    "B": "This college’s facilities are superior to Harvard’s.",
+    "C": "This college’s facilities are donations from Harvard.",
+    "D": "This college’s facilities are inferior to Harvard’s."
+   },
+   "answer": "A",
+   "explain": "單字解析: facility 設施 Facilities are buildings, pieces of equipment, or\nservices that are provided for a particular purpose. Ex: The problem lies in\ngetting patients to a medical facility as soon as possible. ; rival 與…相比 If\nyou say that one thing rivals another, you mean that they are both of the\nsame standard or quality. Ex: Many essential oils have antimicrobial\nproperties to rival those of conventional antibiotics. 句意解析: 這所學院的設\n施可與哈佛相媲美。a答案句意相似。",
+   "audio": "audio/b30/040.mp3"
+  },
+  {
+   "id": "b30-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I was in the dark about the plan.",
+   "options": {
+    "A": "I made the plan secretly.",
+    "B": "I knew nothing about the plan.",
+    "C": "I made the plan public.",
+    "D": "I knew everything about the plan."
+   },
+   "answer": "B",
+   "explain": "片語解析: in the dark不了解，不知道 If you are in the dark about something,\nyou do not know anything about it. Ex: The investigators admit that they are\ncompletely in the dark about the killing. 句意解析: 我對這個計劃一無所知。b\n答案句意相似。",
+   "audio": "audio/b30/041.mp3"
+  },
+  {
+   "id": "b30-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Our business is back on track now.",
+   "options": {
+    "A": "Our business is very weak at the moment.",
+    "B": "Our business is booming at the moment.",
+    "C": "Our business is in the red again.",
+    "D": "Our business is functioning normally again."
+   },
+   "answer": "D",
+   "explain": "片語解析: back on track回到正軌 句意解析: 我們的業務現在已重回正軌。d\n答案句意相似。",
+   "audio": "audio/b30/042.mp3"
+  },
+  {
+   "id": "b30-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "There were heavy casualties on both sides.",
+   "options": {
+    "A": "There were a lot of soldiers on both sides.",
+    "B": "There were a lot of deaths and injuries on both sides.",
+    "C": "There were a lot of weapons on both sides.",
+    "D": "There were a lot of serious mistakes on both sides."
+   },
+   "answer": "B",
+   "explain": "單字解析: casualty傷亡 A casualty is a person who is injured or killed in a\nwar or in an accident. Ex: Troops fired on demonstrators near the Royal\nPalace causing many casualties. 句意解析: 雙方傷亡慘重。b答案句意相\n似。",
+   "audio": "audio/b30/043.mp3"
+  },
+  {
+   "id": "b30-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The little boy is a pest.",
+   "options": {
+    "A": "The little boy is very cute.",
+    "B": "The little boy is very annoying.",
+    "C": "The little boy is very smart.",
+    "D": "The little boy is very quiet."
+   },
+   "answer": "B",
+   "explain": "單字解析: pest討厭的人；（尤指孩子）討厭鬼 You can describe someone,\nespecially a child, as a pest if they keep bothering you. Ex: He climbed on\nthe table, pulled my hair, and was generally a pest. 句意解析: 小男孩是個討\n厭鬼。b答案句意相似。",
+   "audio": "audio/b30/044.mp3"
+  },
+  {
+   "id": "b30-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Your child is in good hands.",
+   "options": {
+    "A": "Your child will have a bright future.",
+    "B": "Your child is very skillful at making things.",
+    "C": "Your child will be well taken care of.",
+    "D": "Your child is very intelligent."
+   },
+   "answer": "C",
+   "explain": "句意解析: 你的孩子會被照顧得很好。a答案句意相似。",
+   "audio": "audio/b30/045.mp3"
+  },
+  {
+   "id": "b30-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mike was soaked through when he came back.",
+   "options": {
+    "A": "Mike was very angry when he came back.",
+    "B": "Mike was completely wet when he came back.",
+    "C": "Mike was very happy when he came back.",
+    "D": "Mike was completely drunk when he came back."
+   },
+   "answer": "B",
+   "explain": "單字解析: soak浸濕 If you soak something or leave it to soak, you put it into\na liquid and leave it there. Ex: He turned off the water and left the dishes to\nsoak. 句意解析: 麥克回來時渾身濕透。b答案句意相似。",
+   "audio": "audio/b30/046.mp3"
+  },
+  {
+   "id": "b30-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You have to pay in advance.",
+   "options": {
+    "A": "You have to pay on time.",
+    "B": "You have to pay beforehand.",
+    "C": "You have to pay in cash.",
+    "D": "You have to pay regularly."
+   },
+   "answer": "B",
+   "explain": "句意解析: 您必須提前付款。b答案句意相似。",
+   "audio": "audio/b30/047.mp3"
+  },
+  {
+   "id": "b30-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You have to size up the situation first.",
+   "options": {
+    "A": "You have to control the situation first.",
+    "B": "You have to face the situation first.",
+    "C": "You have to handle the situation first.",
+    "D": "You have to assess the situation first."
+   },
+   "answer": "D",
+   "explain": "片語解析: size up評估 If you size up a person or situation, you carefully look\nat the person or think about the situation, so that you can decide how to act.\nEx: Some U.S. manufacturers have been sizing up the U.K. as a possible\nmarket for their clothes. 句意解析: 你必須先評估情況。d答案句意相似。",
+   "audio": "audio/b30/048.mp3"
+  },
+  {
+   "id": "b30-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I have to submit a book report.",
+   "options": {
+    "A": "I have to go over a book report.",
+    "B": "I have to revise a book report.",
+    "C": "I have to hand in a book report.",
+    "D": "I have to draft a book report."
+   },
+   "answer": "C",
+   "explain": "單字解析: submit提交 If you submit a proposal, report, or request to\nsomeone, you formally send it to them so that they can consider it or decide\nabout it. Ex: They submitted their reports to the Chancellor yesterday. 句意\n解析: 我必須提交讀書報告。c答案句意相似。",
+   "audio": "audio/b30/049.mp3"
+  },
+  {
+   "id": "b30-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "When I turned back, she had vanished.",
+   "options": {
+    "A": "When I turned back, she was gone.",
+    "B": "When I turned back, she had fallen asleep.",
+    "C": "When I turned back, she was standing beside me.",
+    "D": "When I turned back, she had remained there."
+   },
+   "answer": "A",
+   "explain": "單字解析: vanish消失 If someone or something vanishes, they disappear\nsuddenly or in a way that cannot be explained. Ex: He just vanished and\nwas never seen again. 句意解析: 當我回頭時，她已經消失了。a答案句意相\n似。",
+   "audio": "audio/b30/050.mp3"
+  },
+  {
+   "id": "b30-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "It takes guts to start a business now.",
+   "options": {
+    "A": "It takes courage to start a business now.",
+    "B": "It takes luck to start a business now.",
+    "C": "It takes time to start a business now.",
+    "D": "It takes wisdom to start a business now."
+   },
+   "answer": "A",
+   "explain": "單字解析: gut 勇氣 Guts are the will and courage to do something which is\ndifficult or unpleasant, or which might have unpleasant results. Ex: It takes\nmore guts than I've usually got to go and see him. 句意解析: 現在創業需要\n勇氣。a答案句意相似。",
+   "audio": "audio/b30/051.mp3"
+  },
+  {
+   "id": "b30-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Let’s clap our hands for her.",
+   "options": {
+    "A": "Let’s pray for her.",
+    "B": "Let’s give her a big hug.",
+    "C": "Let’s shake hands with her.",
+    "D": "Let’s give her a round of applause."
+   },
+   "answer": "D",
+   "explain": "句意解析: 讓我們為她鼓掌。d答案句意相似。",
+   "audio": "audio/b30/052.mp3"
+  },
+  {
+   "id": "b30-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Let’s wrap up the meeting.",
+   "options": {
+    "A": "Let’s start the meeting.",
+    "B": "Let’s postpone the meeting.",
+    "C": "Let’s finish the meeting.",
+    "D": "Let’s extend the meeting."
+   },
+   "answer": "C",
+   "explain": "片語解析: wrap up the meeting結束會議 句意解析: 讓我們結束會議。c答案\n句意相似。",
+   "audio": "audio/b30/053.mp3"
+  },
+  {
+   "id": "b30-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Lydia has a heart of gold.",
+   "options": {
+    "A": "Lydia is very fond of gold.",
+    "B": "Lydia is a very kind person.",
+    "C": "Lydia’s favorite color is gold.",
+    "D": "Lydia’s favorite pet is a goldfish."
+   },
+   "answer": "B",
+   "explain": "片語解析: have a heart of gold心地非常善良 句意解析: 莉迪亞有一顆慈悲的\n心。b答案句意相似。",
+   "audio": "audio/b30/054.mp3"
+  },
+  {
+   "id": "b30-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I was taken aback by his remarks.",
+   "options": {
+    "A": "I was very surprised by his remarks.",
+    "B": "I felt offended by his remarks.",
+    "C": "I was very confused by his remarks.",
+    "D": "I felt encouraged by his remarks."
+   },
+   "answer": "A",
+   "explain": "單字解析: remark 話語 If you make a remark about something, you say\nsomething about it. Ex: He made some remarks about the President for\nwhich he had to apologize. 片語解析: take aback大吃一驚 句意解析: 我被他\n的話嚇了一跳。a答案句意相似。",
+   "audio": "audio/b30/055.mp3"
+  },
+  {
+   "id": "b30-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "What they have offered is pie in the sky.",
+   "options": {
+    "A": "What they have offered is not enough.",
+    "B": "What they have offered is a temporary solution.",
+    "C": "What they have offered is not likely to happen.",
+    "D": "What they have offered is a sincere apology."
+   },
+   "answer": "C",
+   "explain": "片語解析: pie in the sky 幻想 句意解析: 他們提供的東⻄不太可能發生。c答\n案句意相似。",
+   "audio": "audio/b30/056.mp3"
+  },
+  {
+   "id": "b30-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: There’s no wi-fi at this place. M: What? I can’t go without the internet for a day. W: I actually think it would be good for you to take a break from your phone. Q: What does the man mean?",
+   "options": {
+    "A": "He can’t stand it when he’s unable to go online.",
+    "B": "He forgot to bring his computer along.",
+    "C": "He is going to another place with wi-fi.",
+    "D": "He wants to use the woman’s phone."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "There’s no wi-fi at this place."
+    },
+    {
+     "s": "M",
+     "t": "What? I can’t go without the internet for a day."
+    },
+    {
+     "s": "W",
+     "t": "I actually think it would be good for you to take a break from your phone."
+    },
+    {
+     "s": "Q",
+     "t": "What does the man mean?"
+    }
+   ],
+   "explain": "句意解析: W: 這個地方沒有Wi-Fi。M: 什麼？我不能沒有網路一天。W: 實際\n上，我認為讓您休息一下對您的手機有好處。Q: 男人是什麼意思？依照句意\n選a當他無法上網時，他無法忍受。",
+   "audio": "audio/b30/057.mp3"
+  },
+  {
+   "id": "b30-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Jimmy keeps asking me to take him to see a movie. M: What would he like to watch? W: Well, he’s only interested in movies about outer space and aliens. Q: Which of the following does Jimmy like to watch?",
+   "options": {
+    "A": "Dramas.",
+    "B": "Sci-fi movies.",
+    "C": "Action movies.",
+    "D": "Detective movies."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Jimmy keeps asking me to take him to see a movie."
+    },
+    {
+     "s": "M",
+     "t": "What would he like to watch?"
+    },
+    {
+     "s": "W",
+     "t": "Well, he’s only interested in movies about outer space and aliens."
+    },
+    {
+     "s": "Q",
+     "t": "Which of the following does Jimmy like to watch?"
+    }
+   ],
+   "explain": "單字解析: outer space 外太空 Outer space is the area outside the earth's\natmosphere where the other planets and stars are situated. ; alien 外星人 In\nscience fiction, an alien is a creature from outer space. 句意解析: W:傑米一\n直要我帶他去看電影。 M:",
+   "audio": "audio/b30/058.mp3"
+  },
+  {
+   "id": "b30-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: I think you need to get your car examined. W: Why? Is there anything wrong? M: It’s making a strange noise. Q: What does the man say about the woman’s car?",
+   "options": {
+    "A": "It needs to be replaced with a new one.",
+    "B": "It is making unusual sounds.",
+    "C": "It has almost run out of gas.",
+    "D": "It is emitting black smoke."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "I think you need to get your car examined."
+    },
+    {
+     "s": "W",
+     "t": "Why? Is there anything wrong?"
+    },
+    {
+     "s": "M",
+     "t": "It’s making a strange noise."
+    },
+    {
+     "s": "Q",
+     "t": "What does the man say about the woman’s car?"
+    }
+   ],
+   "explain": "單字解析: examine 檢查 A particular type of suit is a piece of clothing that\nyou wear for a particular activity. button鈕扣 Buttons are small hard objects\nsewn on to shirts, coats, or oth",
+   "audio": "audio/b30/059.mp3"
+  },
+  {
+   "id": "b30-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Hey, what’s that smell? M: I’m cooking some beef stew. W: Whoa! I’m dying for a taste! Q: What does the woman tell the man?",
+   "options": {
+    "A": "She is too sick to eat anything.",
+    "B": "She wants to help the man with the cooking.",
+    "C": "She is going to have her hair dyed.",
+    "D": "She wants to try the food very much."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Hey, what’s that smell?"
+    },
+    {
+     "s": "M",
+     "t": "I’m cooking some beef stew."
+    },
+    {
+     "s": "W",
+     "t": "Whoa! I’m dying for a taste!"
+    },
+    {
+     "s": "Q",
+     "t": "What does the woman tell the man?"
+    }
+   ],
+   "explain": "單字解析: beef stew燉牛肉 句意解析: W:嘿，是甚麼味道?M:我在煮燉牛肉。\nW:哇，我渴望品嚐！ Q:女人跟男人說什麼？依照句意選d他很想嘗嘗看那個\n食物。",
+   "audio": "audio/b30/060.mp3"
+  },
+  {
+   "id": "b30-061",
+   "n": 61,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: If you find a good opportunity, you should take it. W: I know, but I’m always hesitating. M: I can understand. I have a similar problem. Q: Which of the following is true?",
+   "options": {
+    "A": "The woman has trouble making decisions.",
+    "B": "The man has no trouble making decisions.",
+    "C": "The woman never gets good opportunities.",
+    "D": "The man has some financial problems."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "If you find a good opportunity, you should take it."
+    },
+    {
+     "s": "W",
+     "t": "I know, but I’m always hesitating."
+    },
+    {
+     "s": "M",
+     "t": "I can understand. I have a similar problem."
+    },
+    {
+     "s": "Q",
+     "t": "Which of the following is true?"
+    }
+   ],
+   "explain": "單字解析: opportunity 機會 An opportunity is a situation in which it is\npossible for you to do something that you want to do.; hesitate 猶豫 If you\nhesitate, you do not speak or act for a short time, usually because you are\nuncertain",
+   "audio": "audio/b30/061.mp3"
+  },
+  {
+   "id": "b30-062",
+   "n": 62,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Hi Jenny, can I ask a favor? W: Sure, what’s up? M: I’m really having trouble making ends meet this month. I was wondering if… W: No problem. How much do you need? Q: What is the man trying to do?",
+   "options": {
+    "A": "Borrow money from the woman.",
+    "B": "Ask the woman out on a date.",
+    "C": "Do the woman a favor.",
+    "D": "Treat the woman to a meal."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Hi Jenny, can I ask a favor?"
+    },
+    {
+     "s": "W",
+     "t": "Sure, what’s up?"
+    },
+    {
+     "s": "M",
+     "t": "I’m really having trouble making ends meet this month. I was wondering if…"
+    },
+    {
+     "s": "W",
+     "t": "No problem. How much do you need?"
+    },
+    {
+     "s": "Q",
+     "t": "What is the man trying to do?"
+    }
+   ],
+   "explain": "片語解析: ask a favor 請求幫忙 ; make ends meet this month本月入不敷出\n句意解析: M:嗨，珍妮，可以請你幫個忙嗎？W:當然，怎麼了?M: 這個月我真\n的很難維持生計。我想知道是否…?W:沒問題，你需要多少?Q: 男人想做什\n麼？依照句意選a向女人借錢。",
+   "audio": "audio/b30/062.mp3"
+  },
+  {
+   "id": "b30-063",
+   "n": 63,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Do you keep a pet? W: I do. M: What is it? W: A bunny. Q: What is the woman’s pet?",
+   "options": {
+    "A": "A cat.",
+    "B": "A dog.",
+    "C": "A rabbit.",
+    "D": "A pig."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Do you keep a pet?"
+    },
+    {
+     "s": "W",
+     "t": "I do."
+    },
+    {
+     "s": "M",
+     "t": "What is it?"
+    },
+    {
+     "s": "W",
+     "t": "A bunny."
+    },
+    {
+     "s": "Q",
+     "t": "What is the woman’s pet?"
+    }
+   ],
+   "explain": "單字解析: bunny 兔子 A bunny or a bunny rabbit is a child's word for a\nrabbit. 句意解析: M: 你養寵物嗎？ W:我有。M:是甚麼動物? W:是兔子。Q:女\n人養的寵物是甚麼？依照句意選c兔子。",
+   "audio": "audio/b30/063.mp3"
+  },
+  {
+   "id": "b30-064",
+   "n": 64,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: I thought you were going to wear the grey suit. M: Originally I was, but there is a button missing from it. W: Well, I think your blue suit will look good on you, too. Q: What does the man say to the woman?",
+   "options": {
+    "A": "He doesn’t have a blue suit.",
+    "B": "The grey suit is a bit dirty.",
+    "C": "He first planned to wear the grey suit.",
+    "D": "The blue suit doesn’t fit any more."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "I thought you were going to wear the grey suit."
+    },
+    {
+     "s": "M",
+     "t": "Originally I was, but there is a button missing from it."
+    },
+    {
+     "s": "W",
+     "t": "Well, I think your blue suit will look good on you, too."
+    },
+    {
+     "s": "Q",
+     "t": "What does the man say to the woman?"
+    }
+   ],
+   "explain": "單字解析: suit 套裝 ; button鈕扣 句意解析: W: 我以為你會穿灰色⻄裝。M: 最\n初我是，但它缺少一個按鈕。W: 嗯，我覺得你的藍色⻄裝也很適合你。 Q:\n男人對女人說什麼？依照句意選c他一開始打算穿灰色⻄裝。",
+   "audio": "audio/b30/064.mp3"
+  },
+  {
+   "id": "b30-065",
+   "n": 65,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W:What line of business are you in? M: Oh, I run a sports shop. It’s a business that caters to surfers and other ocean sports fans. W: Interesting. Do you make any products? M: No, I just sell them. Q: What does the man do?",
+   "options": {
+    "A": "He is a caterer.",
+    "B": "He is a surfing fan.",
+    "C": "He sells ocean sports products.",
+    "D": "He makes ocean sports products."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "What line of business are you in?"
+    },
+    {
+     "s": "M",
+     "t": "Oh, I run a sports shop. It’s a business that caters to surfers and other ocean sports fans."
+    },
+    {
+     "s": "W",
+     "t": "Interesting. Do you make any products?"
+    },
+    {
+     "s": "M",
+     "t": "No, I just sell them."
+    },
+    {
+     "s": "Q",
+     "t": "What does the man do?"
+    }
+   ],
+   "explain": "單字解析: caterer 餐飲服務業 Caterers are people or companies that provide\nfood and drink for a place such as an office or for special occasions such as\nweddings and parties. Ex: The caterers were already laying out the tables\nfor lunch. ;",
+   "audio": "audio/b30/065.mp3"
+  },
+  {
+   "id": "b30-066",
+   "n": 66,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: I heard your company is hiring. W: Yes. We’re looking for an IT manager. M: I think I might apply. W: But you don’t meet the requirements. You need to have at least five years’ experience. Q: What does the woman tell the man?",
+   "options": {
+    "A": "He didn’t send his resume in on time.",
+    "B": "He is required to sign a contract.",
+    "C": "He doesn’t have a degree in IT.",
+    "D": "He is not qualified for the job."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "I heard your company is hiring."
+    },
+    {
+     "s": "W",
+     "t": "Yes. We’re looking for an IT manager."
+    },
+    {
+     "s": "M",
+     "t": "I think I might apply."
+    },
+    {
+     "s": "W",
+     "t": "But you don’t meet the requirements. You need to have at least five years’ experience."
+    },
+    {
+     "s": "Q",
+     "t": "What does the woman tell the man?"
+    }
+   ],
+   "explain": "單字解析: hire 聘請 If you hire someone, you employ them or pay them to do\na particular job for you. Ex: Sixteen of the contestants have hired lawyers\nand are suing the organizers.",
+   "audio": "audio/b30/066.mp3"
+  },
+  {
+   "id": "b30-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Using dental _______ helps remove bacteria, plaque, and food bits from between your teeth.",
+   "options": {
+    "A": "favor",
+    "B": "flavor",
+    "C": "fuss",
+    "D": "floss"
+   },
+   "answer": "D",
+   "explain": "句意: 使用牙線有助於清除牙齒之間的細菌、牙菌斑和食物殘渣。依照句意選\nd 單字解析: a. favor偏愛b. flavor味道c. fuss大驚小怪d. floss牙線"
+  },
+  {
+   "id": "b30-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Most of the business around here use _______ panels to generate electricity.",
+   "options": {
+    "A": "solar",
+    "B": "aggressive",
+    "C": "lunar",
+    "D": "academic"
+   },
+   "answer": "A",
+   "explain": "句意: 這裡的大部分企業都使用太陽能電池板發電。依照句意選 a 單字解析:\na. solar太陽的b. aggressive挑釁的c. lunar 月亮的d. academic學術的"
+  },
+  {
+   "id": "b30-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Leave the _______ in your hair for about two minutes and then rinse it off with water.",
+   "options": {
+    "A": "shampoo",
+    "B": "avenue",
+    "C": "bamboo",
+    "D": "revenue"
+   },
+   "answer": "A",
+   "explain": "句意: 將洗髮精留在頭髮中約兩分鐘，然後用水沖洗乾淨。依照句意選 a 單字\n解析: a. shampoo 洗髮精b. avenue大街 c. bamboo 竹子 d. revenue收入"
+  },
+  {
+   "id": "b30-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Much to my _______, the doctor said the tumor on my neck was benign.",
+   "options": {
+    "A": "relief",
+    "B": "disappointment",
+    "C": "belief",
+    "D": "appointment"
+   },
+   "answer": "A",
+   "explain": "句意: 令我欣慰的是，醫生說我脖子上的腫瘤是良性的。依照句意選 a 單字解\n析: a. relief 欣慰b. disappointment失望c. belief信仰 d. appointment預約"
+  },
+  {
+   "id": "b30-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The gift certificate would be _______ without the department store’s official stamp.",
+   "options": {
+    "A": "invalid",
+    "B": "inactive",
+    "C": "unable",
+    "D": "undone"
+   },
+   "answer": "A",
+   "explain": "句意: 如果沒有百貨公司的官方印章，禮券將無效。依照句意選 a 單字解析:\na. invalid無效的b. inactive不活躍c. unable 無法d. undone撤銷"
+  },
+  {
+   "id": "b30-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Like a lot of people in the world, my boss _______ success with wealth.",
+   "options": {
+    "A": "deletes",
+    "B": "denies",
+    "C": "equates",
+    "D": "enlists"
+   },
+   "answer": "C",
+   "explain": "句意: 和世界上很多人一樣，我的老闆把成功等同於財富。依照句意選 c 單字\n解析: a. deletes 刪除b. denies 否認c. equates等同於d. enlists入伍"
+  },
+  {
+   "id": "b30-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "In addition to causing climate change, global warming is affecting the _______ of coral reefs.",
+   "options": {
+    "A": "cardiology",
+    "B": "ecology",
+    "C": "apology",
+    "D": "technology"
+   },
+   "answer": "B",
+   "explain": "句意: 除了引起氣候變化，全球變暖正在影響珊瑚的生態。依照句意選 b 單字\n解析: a. cardiology心臟病學b. ecology生態c. apology道歉d. technology技術"
+  },
+  {
+   "id": "b30-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "As everybody knows, rocks and metals are _______ objects.",
+   "options": {
+    "A": "inanimate",
+    "B": "animate",
+    "C": "indirect",
+    "D": "direct"
+   },
+   "answer": "A",
+   "explain": "句意: 眾所周知，岩石和金屬是無生命的物體。依照句意選 a 單字解析: a.\ninanimate 無生命的b. animate有生命的c. indirect 間接 d. direct 直接"
+  },
+  {
+   "id": "b30-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "A hardback copy of the novel costs $29.99, postage _______.",
+   "options": {
+    "A": "exclude",
+    "B": "excluding",
+    "C": "exclusive",
+    "D": "excluded"
+   },
+   "answer": "D",
+   "explain": "句意: 這本小說的精裝本售價 29.99 美元，不包括郵費。依照句意選 d 文法解\n析:. Exclude放於句尾使用 excluded樣式，表排除在外。"
+  },
+  {
+   "id": "b30-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "General Hawks said that the special forces had received the most _______ military training.",
+   "options": {
+    "A": "torrential",
+    "B": "apparent",
+    "C": "conditional",
+    "D": "rigorous"
+   },
+   "answer": "D",
+   "explain": "句意: 霍克斯將軍說，特種部隊接受了最嚴格的軍事訓練。依照句意選 d 單字\n解析: a. torrential滂沱的b. apparent明顯的 c. conditional有條件的 d. rigorous\n嚴格的"
+  },
+  {
+   "id": "b30-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Pregnant women taking drugs may give birth to _______ babies.",
+   "options": {
+    "A": "informed",
+    "B": "conformed",
+    "C": "deformed",
+    "D": "reformed"
+   },
+   "answer": "C",
+   "explain": "句意: 孕婦服用藥物可能會生出畸形嬰兒。依照句意選 c 單字解析: a.\ninformed見多識廣的b. conformed 符合c. deformed變形的d. reformed改過自\n新的"
+  },
+  {
+   "id": "b30-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "You have to apologize to her, _______?",
+   "options": {
+    "A": "do you",
+    "B": "have you",
+    "C": "don’t you",
+    "D": "haven’t you"
+   },
+   "answer": "C",
+   "explain": "句意: 你必須向她道歉，不是嗎？依照句意選 c"
+  },
+  {
+   "id": "b30-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "An atom is _______ of electrons, neutrons, and protons.",
+   "options": {
+    "A": "insisted",
+    "B": "consisted",
+    "C": "imposed",
+    "D": "composed"
+   },
+   "answer": "D",
+   "explain": "句意: 原子由電子、中子和質子組成。依照句意選 d 單字解析: a. insisted 堅\n持b. consisted包括 c. imposed強加 d. composed 組成"
+  },
+  {
+   "id": "b30-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "During the lockdown, many of my friends did nothing but _______.",
+   "options": {
+    "A": "ate and slept",
+    "B": "eat and sleep",
+    "C": "eating and sleeping",
+    "D": "to eat and sleep"
+   },
+   "answer": "B",
+   "explain": "句意: 封城期間，我的很多朋友除了吃飯睡覺什麼都不做。依照句意選 b 文法\n解析: do nothing but + verb"
+  },
+  {
+   "id": "b30-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "There is no doubt _______ Donald Trump will stage a comeback in the next presidential election.",
+   "options": {
+    "A": "whether",
+    "B": "that",
+    "C": "when",
+    "D": "then"
+   },
+   "answer": "B",
+   "explain": "句意: 毫無疑問，唐納德特朗普將在下一任總統中捲土重來。依照句意選 b 文\n法解析: There is no doubt that毫無疑問"
+  },
+  {
+   "id": "b30-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Due to circumstances _______ our control, we had to call off the event.",
+   "options": {
+    "A": "beyond",
+    "B": "at",
+    "C": "under",
+    "D": "within"
+   },
+   "answer": "A",
+   "explain": "句意: 由於我們無法控制的情況，我們不得不取消該活動。依照句意選 a 文法\n解析: beyond one’s control難以控制; 無法控制"
+  },
+  {
+   "id": "b30-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The DVD will _______ when you press the button.",
+   "options": {
+    "A": "eject",
+    "B": "object",
+    "C": "inject",
+    "D": "reject"
+   },
+   "answer": "A",
+   "explain": "句意: 當您按下按鈕時，DVD 將彈出。依照句意選 a 單字解析: a. eject 噴射\nb. object 目的c. inject 注入d. reject 拒絕"
+  },
+  {
+   "id": "b30-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Indonesia comprises over seventeen thousands islands, _______ many are uninhabited.",
+   "options": {
+    "A": "which",
+    "B": "of which",
+    "C": "that",
+    "D": "of that"
+   },
+   "answer": "B",
+   "explain": "句意: 印度尼⻄亞由一萬七千多個島嶼組成，其中許多島嶼無人居住。依照句\n意選 b 文法解析: “many are uninhabited” 這句話是補語，補充說明印度尼⻄\n亞一萬七千多個島嶼的額外資訊，of which當連接詞，代稱seventeen\nthousands islands"
+  },
+  {
+   "id": "b30-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Put the bananas at the top of the shopping bag so you don’t _______ them.",
+   "options": {
+    "A": "sprint",
+    "B": "sprinkle",
+    "C": "squash",
+    "D": "snap"
+   },
+   "answer": "C",
+   "explain": "句意: 把香蕉放在購物袋的頂部，這樣你就不會壓扁它們。依照句意選 c 單字\n解析: a. sprint 短跑b. sprinkle 撒c. squash 壓扁 d. snap 折斷"
+  },
+  {
+   "id": "b30-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The _______ of the Olympic Games is made up of five interlocking rings.",
+   "options": {
+    "A": "competition",
+    "B": "baton",
+    "C": "symbol",
+    "D": "pattern"
+   },
+   "answer": "C",
+   "explain": "句意: 奧林匹克運動會的標誌由五個環環相扣組成。依照句意選 c 單字解析:\na. competition競賽 b. baton指揮棒c. symbol象徵d. pattern 圖案"
+  },
+  {
+   "id": "b30-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Police wearing riot _______ were trying to disperse the protesting crowd.",
+   "options": {
+    "A": "gear",
+    "B": "gadget",
+    "C": "genre",
+    "D": "gauge"
+   },
+   "answer": "A",
+   "explain": "句意: 身著防暴裝備的警察試圖驅散抗議人群。依照句意選 a 單字解析: a.\ngear 裝備 b. gadget小工具 c. genre 類型 d. gauge 測量"
+  },
+  {
+   "id": "b30-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "That boy has sticky fingers, to say the _______.",
+   "options": {
+    "A": "less",
+    "B": "least",
+    "C": "little",
+    "D": "last"
+   },
+   "answer": "B",
+   "explain": "句意: 至少可以說，那個男孩喜歡順手牽羊。依照句意選 b 文法解析: to say\nthe least至少可以說"
+  },
+  {
+   "id": "b30-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "_______ wearing masks, social distancing is also important in preventing the disease.",
+   "options": {
+    "A": "Far from",
+    "B": "Due to",
+    "C": "Apart from",
+    "D": "Prior to"
+   },
+   "answer": "C",
+   "explain": "句意: 除了戴口罩，社交距離對於預防這種疾病也很重要。依照句意選 c 片語\n解析: a. Far from遠不b. Due to由於 c. Apart from除了 d. Prior to之前"
+  },
+  {
+   "id": "b30-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Next Sunday is my parents’ silver wedding, which means they _______ for 25 years.",
+   "options": {
+    "A": "are married",
+    "B": "were married",
+    "C": "has been married",
+    "D": "will have been married"
+   },
+   "answer": "D",
+   "explain": "句意: 下週日是我父母的銀婚，這意味著他們將結婚25年。依照句意選 d 文法\n解析: Next Sunday 尚未發生故用未來式，完成式+for 一段時間"
+  },
+  {
+   "id": "b30-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The governor admitted having an extramarital _______ without the knowledge of his wife.",
+   "options": {
+    "A": "matter",
+    "B": "event",
+    "C": "stuff",
+    "D": "affair"
+   },
+   "answer": "D",
+   "explain": "句意: 州長承認在妻子不知情的情況下有婚外情。依照句意選 d 單字解析: a.\nmatter事情b. event 事件c. stuff 東⻄ d. affair 事務"
+  },
+  {
+   "id": "b30-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "One more effort, _______ you’ll succeed.",
+   "options": {
+    "A": "and",
+    "B": "or",
+    "C": "but",
+    "D": "for"
+   },
+   "answer": "A",
+   "explain": "句意: 再努力一點，你就會成功。依照句意選 a 文法解析:用 and 連接兩個句\n子"
+  },
+  {
+   "id": "b30-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "According to the social workers, the child seemed _______.",
+   "options": {
+    "A": "to be abused",
+    "B": "to have abused",
+    "C": "to be abusing",
+    "D": "to have been abused"
+   },
+   "answer": "D",
+   "explain": "句意: 據社工稱，這名兒童似乎受到了虐待。依照句意選 d 文法解析: 選被動\n式beV + pp"
+  },
+  {
+   "id": "b30-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Most of the local people still rely on _______ rather than tourism for their livelihood.",
+   "options": {
+    "A": "inflation",
+    "B": "agriculture",
+    "C": "reflection",
+    "D": "leisure"
+   },
+   "answer": "B",
+   "explain": "句意: 大多數當地人仍然以農業而非旅遊業為生。依照句意選 b 單字解析: a.\ninflation通貨膨脹b. agriculture 農業c. reflection 反射 d. leisure 閒暇"
+  },
+  {
+   "id": "b30-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I have seen dogs bite people, but have you ever seen a dog _______ by a woman?",
+   "options": {
+    "A": "bite",
+    "B": "biting",
+    "C": "bit",
+    "D": "bitten"
+   },
+   "answer": "D",
+   "explain": "句意: 我見過狗咬人，但你見過被女人咬過的狗嗎？依照句意選 d 文法解析:\n選被動式beV + pp"
+  },
+  {
+   "id": "b30-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Those who have _______ nationality cannot hold any official posts in this country.",
+   "options": {
+    "A": "dual",
+    "B": "usual",
+    "C": "casual",
+    "D": "mutual"
+   },
+   "answer": "A",
+   "explain": "句意: 具有雙重國籍的人不能在該國擔任任何官方職務。依照句意選 a 單字解\n析: a. dual 雙b. usual 通常c. casual 隨意的d. mutual 相互的"
+  },
+  {
+   "id": "b30-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "On the day of the restaurant’s opening, all nonalcoholic drinks were _______.",
+   "options": {
+    "A": "in the house",
+    "B": "on the house",
+    "C": "for the house",
+    "D": "by the house"
+   },
+   "answer": "B",
+   "explain": "句意: 餐廳開業當天，所有非酒精飲料都免費提供。依照句意選 b 文法解析:\non the house 免費提供的"
+  },
+  {
+   "id": "b30-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Of the 100,000 known species of fungi, which include all mushrooms, about 80 species are able to produce light. They do this through a process known as bioluminescence. For a long time, it was not known exactly how bioluminescence occurred. Recently, it was discovered that most organisms that can produce light do so with two special chemicals. These chemicals mix with oxygen and produce “cold light.” What causes bioluminescence?",
+   "options": {
+    "A": "Cold temperatures.",
+    "B": "Light from the sun.",
+    "C": "A mix of chemicals.",
+    "D": "Small organisms."
+   },
+   "answer": "C",
+   "explain": "解析: Recently, it was discovered that most organisms that can produce light\ndo so with two special chemicals. These chemicals mix with oxygen and\nproduce “cold light.” 最近，人們發現大多數可以產生光的生物都使用兩種特\n殊的化學物質。這些化學物質與氧氣混合併產生“冷光”。題目: 是什麼導致生\n物發光？依據上下文 答案選c混合化學品。 單字解析: fungi真菌 ;\nbioluminescence生物發光 ; organism 氧氣"
+  },
+  {
+   "id": "b30-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "When you think of Egypt, sand, pyramids, and camels likely come to mind. However, there is a lot more to see in this large country. One stunning place you should check out is the Bahariya Oasis. This fertile area stands in stark contrast to the desert that surrounds it on all sides. Not only is it an interesting geographical location, but it contains a lot of history as well. Several decades ago, a tomb system was found, and it contains more than 10,000 mummies. How would the Bahariya Oasis most likely be described?",
+   "options": {
+    "A": "Dry and arid.",
+    "B": "Lush and green.",
+    "C": "Cold and snowy.",
+    "D": "Warm and sandy."
+   },
+   "answer": "B",
+   "explain": "解析:…. the Bahariya Oasis. This fertile area stands in stark contrast to the\ndesert that surrounds it on all sides. 巴哈里亞綠洲。這片肥沃的地區與四周\n環繞的沙漠形成鮮明對比。題目: 巴哈里亞綠洲最有可能如何描述？依據上下\n文 答案選b鬱鬱蔥蔥和綠色。 單字解析: pyramid 金字塔 ; camel 駱駝"
+  },
+  {
+   "id": "b30-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Hollywood is known as the center for the biggest American blockbuster movies. But how did this place come to be? It might be hard to imagine that Hollywood was founded as a small farming community. This was back in the mid-1800s, but by the early 1900s, filmmakers began to flock in. They came out west to avoid being sued by the famous inventor Thomas Edison in New Jersey. He owned many patents used in film-making. What kind of place did Hollywood use to be?",
+   "options": {
+    "A": "A place for gold miners.",
+    "B": "A community for farmers.",
+    "C": "A center for moviemaking.",
+    "D": "A city for inventors."
+   },
+   "answer": "B",
+   "explain": "解析: …. Hollywood was founded as a small farming community. 好萊塢最初\n是一個小型農業社區。題目: 好萊塢曾經是一個什麼樣的地方？依據上下文 答\n案選b一個農⺠社區。 單字解析: sue起訴 ; patent 專利"
+  }
+ ]
+}

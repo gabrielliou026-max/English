@@ -22,5 +22,221 @@
   "count": 100,
   "listening": 60,
   "reading": 40
+ },
+ {
+  "bank": "04",
+  "title": "第 04 回",
+  "file": "data/bank04.json",
+  "count": 100,
+  "listening": 60,
+  "reading": 40
+ },
+ {
+  "bank": "05",
+  "title": "第 05 回",
+  "file": "data/bank05.json",
+  "count": 100,
+  "listening": 66,
+  "reading": 34
+ },
+ {
+  "bank": "06",
+  "title": "第 06 回",
+  "file": "data/bank06.json",
+  "count": 100,
+  "listening": 60,
+  "reading": 40
+ },
+ {
+  "bank": "07",
+  "title": "第 07 回",
+  "file": "data/bank07.json",
+  "count": 100,
+  "listening": 60,
+  "reading": 40
+ },
+ {
+  "bank": "08",
+  "title": "第 08 回",
+  "file": "data/bank08.json",
+  "count": 100,
+  "listening": 60,
+  "reading": 40
+ },
+ {
+  "bank": "09",
+  "title": "第 09 回",
+  "file": "data/bank09.json",
+  "count": 100,
+  "listening": 66,
+  "reading": 34
+ },
+ {
+  "bank": "10",
+  "title": "第 10 回",
+  "file": "data/bank10.json",
+  "count": 100,
+  "listening": 60,
+  "reading": 40
+ },
+ {
+  "bank": "11",
+  "title": "第 11 回",
+  "file": "data/bank11.json",
+  "count": 100,
+  "listening": 60,
+  "reading": 40
+ },
+ {
+  "bank": "12",
+  "title": "第 12 回",
+  "file": "data/bank12.json",
+  "count": 100,
+  "listening": 66,
+  "reading": 34
+ },
+ {
+  "bank": "13",
+  "title": "第 13 回",
+  "file": "data/bank13.json",
+  "count": 100,
+  "listening": 60,
+  "reading": 40
+ },
+ {
+  "bank": "14",
+  "title": "第 14 回",
+  "file": "data/bank14.json",
+  "count": 100,
+  "listening": 66,
+  "reading": 34
+ },
+ {
+  "bank": "15",
+  "title": "第 15 回",
+  "file": "data/bank15.json",
+  "count": 100,
+  "listening": 66,
+  "reading": 34
+ },
+ {
+  "bank": "16",
+  "title": "第 16 回",
+  "file": "data/bank16.json",
+  "count": 100,
+  "listening": 66,
+  "reading": 34
+ },
+ {
+  "bank": "17",
+  "title": "第 17 回",
+  "file": "data/bank17.json",
+  "count": 100,
+  "listening": 66,
+  "reading": 34
+ },
+ {
+  "bank": "18",
+  "title": "第 18 回",
+  "file": "data/bank18.json",
+  "count": 100,
+  "listening": 60,
+  "reading": 40
+ },
+ {
+  "bank": "19",
+  "title": "第 19 回",
+  "file": "data/bank19.json",
+  "count": 100,
+  "listening": 60,
+  "reading": 40
+ },
+ {
+  "bank": "20",
+  "title": "第 20 回",
+  "file": "data/bank20.json",
+  "count": 100,
+  "listening": 60,
+  "reading": 40
+ },
+ {
+  "bank": "21",
+  "title": "第 21 回",
+  "file": "data/bank21.json",
+  "count": 100,
+  "listening": 60,
+  "reading": 40
+ },
+ {
+  "bank": "22",
+  "title": "第 22 回",
+  "file": "data/bank22.json",
+  "count": 100,
+  "listening": 60,
+  "reading": 40
+ },
+ {
+  "bank": "23",
+  "title": "第 23 回",
+  "file": "data/bank23.json",
+  "count": 100,
+  "listening": 66,
+  "reading": 34
+ },
+ {
+  "bank": "24",
+  "title": "第 24 回",
+  "file": "data/bank24.json",
+  "count": 99,
+  "listening": 66,
+  "reading": 33
+ },
+ {
+  "bank": "25",
+  "title": "第 25 回",
+  "file": "data/bank25.json",
+  "count": 100,
+  "listening": 66,
+  "reading": 34
+ },
+ {
+  "bank": "26",
+  "title": "第 26 回",
+  "file": "data/bank26.json",
+  "count": 100,
+  "listening": 66,
+  "reading": 34
+ },
+ {
+  "bank": "27",
+  "title": "第 27 回",
+  "file": "data/bank27.json",
+  "count": 100,
+  "listening": 66,
+  "reading": 34
+ },
+ {
+  "bank": "28",
+  "title": "第 28 回",
+  "file": "data/bank28.json",
+  "count": 100,
+  "listening": 60,
+  "reading": 40
+ },
+ {
+  "bank": "29",
+  "title": "第 29 回",
+  "file": "data/bank29.json",
+  "count": 100,
+  "listening": 66,
+  "reading": 34
+ },
+ {
+  "bank": "30",
+  "title": "第 30 回",
+  "file": "data/bank30.json",
+  "count": 100,
+  "listening": 66,
+  "reading": 34
  }
 ]

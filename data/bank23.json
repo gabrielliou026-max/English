@@ -1,0 +1,1876 @@
+{
+ "bank": "23",
+ "title": "第 23 回",
+ "questions": [
+  {
+   "id": "b23-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you the sole owner of the business?",
+   "options": {
+    "A": "Yes, we do have a branch in Seoul.",
+    "B": "No, I don't need investment from others.",
+    "C": "Yes, we are open around the clock.",
+    "D": "No, I have a partner."
+   },
+   "answer": "D",
+   "explain": "sole = only adj. branch n. 分行 investment n. 投資 around the clock: ph. at\nall times. Existing or occurring without interruption or end. Eg. work around\nthe clock 日以繼夜的工作",
+   "audio": "audio/b23/001.mp3"
+  },
+  {
+   "id": "b23-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you ready to order?",
+   "options": {
+    "A": "Of course. I'm ready to obey your orders.",
+    "B": "Not quite. We need a little more time.",
+    "C": "No problem. Your order will be delivered soon.",
+    "D": "Forget it. We are still friends."
+   },
+   "answer": "B",
+   "explain": "order v. 點餐 ready to order 預備好訂餐 order n. 命令 obey your orders 遵守\n你的命令",
+   "audio": "audio/b23/002.mp3"
+  },
+  {
+   "id": "b23-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Did you get a college diploma?",
+   "options": {
+    "A": "No, I went to graduate school instead.",
+    "B": "I did, and I graduated with honors.",
+    "C": "No, I worked my way through college.",
+    "D": "I have no idea. I haven’t seen him."
+   },
+   "answer": "B",
+   "explain": "diploma: n. a document given by a college or university to show that you\nhave passed a particular exam or finished your studies. Eg. a college\ndiploma 大學學位 graduate school: n. the levels of university study after\ncompleting four years of study at a college or university, or the part of a\nuniversity where you can study at this level 研究所 work one’s way through\ncollege/school: To work a full-or part-time job in order to pay for one’s tuition.\n邊掙錢邊求學、半工半讀",
+   "audio": "audio/b23/003.mp3"
+  },
+  {
+   "id": "b23-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How often do you go to the gym?",
+   "options": {
+    "A": "I work with him all the time.",
+    "B": "I go there to make more friends.",
+    "C": "I am responsible for recruiting new members.",
+    "D": "I go there three times a week."
+   },
+   "answer": "D",
+   "explain": "gym n. 健身房 recruit: v. to persuade someone to work for a company or\nbecome a new member of an organization, especially the army.",
+   "audio": "audio/b23/004.mp3"
+  },
+  {
+   "id": "b23-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Which of the following is used to make clothes smooth?",
+   "options": {
+    "A": "An iron.",
+    "B": "A sewing machine.",
+    "C": "An eraser.",
+    "D": "A washing machine."
+   },
+   "answer": "A",
+   "explain": "an iron 熨斗 a sewing machine 縫紉機 an eraser 橡皮擦",
+   "audio": "audio/b23/005.mp3"
+  },
+  {
+   "id": "b23-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Was the traffic very heavy this morning?",
+   "options": {
+    "A": "Yes, it took me longer than usual to get to work.",
+    "B": "No, it did not rain this morning.",
+    "C": "Yes, it was only a ten-minute drive from home.",
+    "D": "No, it was actually a light breakfast."
+   },
+   "answer": "A",
+   "explain": "Was the traffic very heavy this morning? 今早交通很嚴重嗎? a light\nbreakfast 輕食早餐",
+   "audio": "audio/b23/006.mp3"
+  },
+  {
+   "id": "b23-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What have you been up to lately?",
+   "options": {
+    "A": "I usually get up late on weekends.",
+    "B": "I need to catch up on some sleep.",
+    "C": "I've been working on a new project.",
+    "D": "I'm afraid I'm running a bit late."
+   },
+   "answer": "C",
+   "explain": "What have you been up to lately? 你最近如何? I need to catch up on some\nsleep. 我需要補眠",
+   "audio": "audio/b23/007.mp3"
+  },
+  {
+   "id": "b23-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What is your marital status?",
+   "options": {
+    "A": "I have a steady job.",
+    "B": "I'm still single.",
+    "C": "I run a grocery store.",
+    "D": "I'm independent of my parents."
+   },
+   "answer": "B",
+   "explain": "marital status 婚姻狀況 steady job/work: work that is likely to continue for a\nlong time and for which you will be paid regularly I’m still single. 我仍單身\nI’m independent of my parents. 我獨立，不靠父母",
+   "audio": "audio/b23/008.mp3"
+  },
+  {
+   "id": "b23-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Whose job is to repair pipe leaks?",
+   "options": {
+    "A": "A mechanic's.",
+    "B": "A chef's.",
+    "C": "A secretary's.",
+    "D": "A plumber's."
+   },
+   "answer": "D",
+   "explain": "pipe: n. 水管 leaks: n. 漏水 a mechanic: n. someone whose job is repairing\nthe engines of vehicles and other machines 技師、機工 a chef = a cook a\nplumber: n. a person whose job is to supply and connect or repair water\npipes, baths, toilets, etc. 水管工人",
+   "audio": "audio/b23/009.mp3"
+  },
+  {
+   "id": "b23-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What's the best compliment you ever received?",
+   "options": {
+    "A": "A friend of mine said I was a genius.",
+    "B": "A neighbor of mine said I sang out of tune.",
+    "C": "A colleague of mine said I was a gossip.",
+    "D": "A teacher of mine said I deserved punishment."
+   },
+   "answer": "A",
+   "explain": "compliment: n. a remark that expresses approval, admiration, or respect a\ngenius: n. a smart person 天才 a gossip: n. also gossipmonger, someone\nwho enjoys talking about other people and their private lives out of tune: ph.\nsinging or playing notes that are at the wrong pitch. I sang out of tune. 我唱\n走音/走調",
+   "audio": "audio/b23/010.mp3"
+  },
+  {
+   "id": "b23-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where should you go if you'd like to get a perm?",
+   "options": {
+    "A": "To a hair salon.",
+    "B": "To a dental clinic.",
+    "C": "To a night market.",
+    "D": "To a gas station."
+   },
+   "answer": "A",
+   "explain": "perm: v. a chemical process that makes your hair curly, or a hairstyle that is\ncreatedd in this way get a perm = have a perm 燙髮 A hair salon 髮廊 a\ndental clinic 牙醫診所",
+   "audio": "audio/b23/011.mp3"
+  },
+  {
+   "id": "b23-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Can I use plastic in that restaurant?",
+   "options": {
+    "A": "Yes, they have many dishes to choose from.",
+    "B": "No, they only offer takeout.",
+    "C": "Yes, they accept all major credit cards.",
+    "D": "No, they don't have a food delivery service."
+   },
+   "answer": "C",
+   "explain": "use plastic = pay by credit card offer takeout 提供外帶 delivery service 外送\n服務",
+   "audio": "audio/b23/012.mp3"
+  },
+  {
+   "id": "b23-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you from around here?",
+   "options": {
+    "A": "Yes, I came from abroad.",
+    "B": "No, I'm just a visitor.",
+    "C": "Yes, I graduated from this college.",
+    "D": "No, I'm just hoping for the best."
+   },
+   "answer": "B",
+   "explain": "你是這附近的人嗎? 答案b:不,我只是一位訪客",
+   "audio": "audio/b23/013.mp3"
+  },
+  {
+   "id": "b23-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you work on weekends?",
+   "options": {
+    "A": "No, I don't have any plans yet.",
+    "B": "Yes, I hang out with my friends.",
+    "C": "No, I just work Monday through Friday.",
+    "D": "Yes, I just relax at home."
+   },
+   "answer": "C",
+   "explain": "on weekends = usually or often between Friday evening and Sunday night,\nor on Saturdays and Sundays hang out: v. to spend a lot of time in a place\nor with someone",
+   "audio": "audio/b23/014.mp3"
+  },
+  {
+   "id": "b23-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you have any siblings?",
+   "options": {
+    "A": "No, I'm an only child.",
+    "B": "Yes, I've stored dozens of dumplings in the fridge.",
+    "C": "No, I'm a single parent.",
+    "D": "Yes, I've enjoyed camping since my childhood."
+   },
+   "answer": "A",
+   "explain": "sibling: n. a brother or sister dumbling: n. 水餃 fridge = refrigerator n.",
+   "audio": "audio/b23/015.mp3"
+  },
+  {
+   "id": "b23-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Can you give me a hand?",
+   "options": {
+    "A": "Sure thing, just a sec.",
+    "B": "Yeah, I am very busy now.",
+    "C": "No way! I won’t applaud.",
+    "D": "Nope, I am to blame."
+   },
+   "answer": "A",
+   "explain": "give me a hand = help me a sec. = a second applaud: v. to show enjoyment\nor approval of something such as a performance or speech by clapping the\nhands repeatedly to make a noise I’m to blame. 我是該怪罪的人",
+   "audio": "audio/b23/016.mp3"
+  },
+  {
+   "id": "b23-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why did you decide to move?",
+   "options": {
+    "A": "I had to hand it in on time.",
+    "B": "I got along with my neighbors very well.",
+    "C": "I had to give my back a rest.",
+    "D": "I got promoted and had to relocate."
+   },
+   "answer": "D",
+   "explain": "promote: v. 1. To encourage people to like, buy, use, do, or support\nsomething Eg. Advertising companies are always having to think up new\nways to promote products. 2. to raise someone to a higher or more\nimportant position or rank Eg. If I’m not promoted within the next two years,\nI’m going to change jobs. relocate: v. to (cause a person or a company)\nmove to a new place eg. My company relocated me to Paris. I got promoted\nand had to relocate. 我升遷了，必須調去別單位",
+   "audio": "audio/b23/017.mp3"
+  },
+  {
+   "id": "b23-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Would you like to get a tattoo?",
+   "options": {
+    "A": "No, I never use taboo words.",
+    "B": "Yes, I'd like to reserve a table for two.",
+    "C": "No, I hate to have permanent ink on my skin.",
+    "D": "Yes, I'd like to visit the zoo."
+   },
+   "answer": "C",
+   "explain": "tattoo: n. 刺青 permanent = forever adj.",
+   "audio": "audio/b23/018.mp3"
+  },
+  {
+   "id": "b23-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Did you manage to find your car keys?",
+   "options": {
+    "A": "No, I need to have my car maintained.",
+    "B": "Yes, I found a job at a car company.",
+    "C": "No, I'm still looking for them.",
+    "D": "Yes, I got a fine because of speeding."
+   },
+   "answer": "C",
+   "explain": "have my car maintained: have it V-ed 請人維護車子 a fine n. = an amount of\nmoney that has to be paid as a punishment for not obeying a rule or law. 罰\n款 speed (verb)/ speeding: 超速",
+   "audio": "audio/b23/019.mp3"
+  },
+  {
+   "id": "b23-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How's it going, Jack?",
+   "options": {
+    "A": "I can't complain.",
+    "B": "It's going down there.",
+    "C": "I don’t know where.",
+    "D": "It's going to be hot."
+   },
+   "answer": "A",
+   "explain": "How's it going, Jack? 近來如何? 正確答案是 a I can’t complain. 我不能抱怨",
+   "audio": "audio/b23/020.mp3"
+  },
+  {
+   "id": "b23-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What do you like to do for fun at home?",
+   "options": {
+    "A": "I like to go scuba-diving.",
+    "B": "I do the laundry in the morning.",
+    "C": "I love watching Netflix.",
+    "D": "I go grocery shopping once a week."
+   },
+   "answer": "C",
+   "explain": "scuba-diving: n. the sport of swimming underwater with speical breathing\nequipment 水肺潛水 do the laundry 洗衣服 grocery shopping 雜貨店買東⻄",
+   "audio": "audio/b23/021.mp3"
+  },
+  {
+   "id": "b23-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you have to travel a lot for your work?",
+   "options": {
+    "A": "No, I prefer to take public transportation.",
+    "B": "Yes, sometimes I even have to go overseas.",
+    "C": "No, I only work on a part-time basis.",
+    "D": "Yes, sometimes I have to work night shifts."
+   },
+   "answer": "B",
+   "explain": "public transportation 大眾交通工具 go overseas 出國去 shifts: n. a group of\nworkers who do a job for a period of time during the day or night, or the\nperiod of time itself 輪班職工、輪班 eg. work night shifts 值夜班 Are you on\nthe night shift or the day shift? = Do you work during the night period or the\nday period?",
+   "audio": "audio/b23/022.mp3"
+  },
+  {
+   "id": "b23-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What do you need in order to practice medicine?",
+   "options": {
+    "A": "A doctor's license.",
+    "B": "A driver's license.",
+    "C": "A driver's license.",
+    "D": "A lawyer's license."
+   },
+   "answer": "A",
+   "explain": "practice medicine: 執業行醫 A chef = a cook n.",
+   "audio": "audio/b23/023.mp3"
+  },
+  {
+   "id": "b23-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Have you ever broken the law?",
+   "options": {
+    "A": "Yes, I broke a vase like that before.",
+    "B": "No, I've always been a good citizen.",
+    "C": "Yes, I broke my leg in an accident.",
+    "D": "No, I've never broken anyone's heart."
+   },
+   "answer": "B",
+   "explain": "break the law 違法 break a vase 打破瓶子 break my leg 打斷腳 break\nanyone's heart 心破脆",
+   "audio": "audio/b23/024.mp3"
+  },
+  {
+   "id": "b23-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "question",
+   "stem": "When was the last time you went to the movies?",
+   "options": {
+    "A": "I can't remember. It was ages ago.",
+    "B": "It was an action movie.",
+    "C": "I went with my girlfriend.",
+    "D": "It was a box office success."
+   },
+   "answer": "A",
+   "explain": "a box office success: ph. A measure of how popular and financially\nsuccessful a film or actor is. 賣座、受歡迎程度",
+   "audio": "audio/b23/025.mp3"
+  },
+  {
+   "id": "b23-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "They planned to go down the aisle in June.",
+   "options": {
+    "A": "They planned to get divorced in June.",
+    "B": "They planned to go on vacation in June.",
+    "C": "They planned to get married in June.",
+    "D": "They planned to go on strike in June."
+   },
+   "answer": "C",
+   "explain": "go down the aisle = walk down the aisle = get married ph. get divorced ph.\n離婚 go on strike ph. 罷工",
+   "audio": "audio/b23/026.mp3"
+  },
+  {
+   "id": "b23-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The discussion is not leading anywhere.",
+   "options": {
+    "A": "The discussion won't produce any useful results.",
+    "B": "The discussion is drawing to an end.",
+    "C": "The discussion will produce some useful results.",
+    "D": "The discussion is still going on."
+   },
+   "answer": "A",
+   "explain": "The discussion is not leading anywhere. 這討論不會引到任何結論",
+   "audio": "audio/b23/027.mp3"
+  },
+  {
+   "id": "b23-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Tom is a carbon copy of his father.",
+   "options": {
+    "A": "Tom likes to imitate his father.",
+    "B": "Tom looks like his father very much.",
+    "C": "Tom likes to joke about his father.",
+    "D": "Tom looks after his father without complaining."
+   },
+   "answer": "B",
+   "explain": "carbon copy: n. a person or thing that is very similar or exactly like another\nperson or thing 翻版、複寫本 Tom is a carbon copy of his father. 湯姆是他父\n親外表的翻版 look like 看起來像…(誰) look after ab/sth = take care of sb 照\n顧 imitate: v. to behave i",
+   "audio": "audio/b23/028.mp3"
+  },
+  {
+   "id": "b23-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You look a bit down today.",
+   "options": {
+    "A": "You look very confident today.",
+    "B": "You look very impressive today.",
+    "C": "You look a little tired today.",
+    "D": "You look a little depressed today."
+   },
+   "answer": "D",
+   "explain": "A bit down: 有一些低落 confident 有自信 depressed 情緒低落",
+   "audio": "audio/b23/029.mp3"
+  },
+  {
+   "id": "b23-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The book you want is out of stock now.",
+   "options": {
+    "A": "The book you want is out on loan now.",
+    "B": "The book you want is not available now.",
+    "C": "The book you want is out of print now.",
+    "D": "The book you want is not popular now."
+   },
+   "answer": "B",
+   "explain": "out of stock 無庫存 out on loan 出借 out of print 已絕版",
+   "audio": "audio/b23/030.mp3"
+  },
+  {
+   "id": "b23-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You may read this novel at your leisure.",
+   "options": {
+    "A": "You may read this novel at your peril.",
+    "B": "You may read this novel when you are bored.",
+    "C": "You may read this novel at your place.",
+    "D": "You may read this novel when you are free."
+   },
+   "answer": "D",
+   "explain": "leisure: n. the time when you are not working or doing other duties at your\nleisure 在你空閒的時間 peril: n. great danger, or something that is very\ndangerous eg. I never felt my life is in peril.",
+   "audio": "audio/b23/031.mp3"
+  },
+  {
+   "id": "b23-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The performance was a real letdown.",
+   "options": {
+    "A": "The performance was not as good as expected.",
+    "B": "The performance was called off.",
+    "C": "The performance was as good as expected.",
+    "D": "The performance was put off."
+   },
+   "answer": "A",
+   "explain": "letdown: n. a disappointment be called off: cancel be put off: delay",
+   "audio": "audio/b23/032.mp3"
+  },
+  {
+   "id": "b23-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Michael got the lion's share of the profit.",
+   "options": {
+    "A": "Michael was willing to share the profit.",
+    "B": "Michael got the smallest part of the profit.",
+    "C": "Michael was reluctant to share the profit.",
+    "D": "Michael got the largest part of the profit."
+   },
+   "answer": "D",
+   "explain": "the lion’s share: the largest part or most of something Eg. Reputable\ncharities spend the lion’s share of donations on aid and a tiny fraction on\nadministration.",
+   "audio": "audio/b23/033.mp3"
+  },
+  {
+   "id": "b23-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Amy's design style is one of a kind.",
+   "options": {
+    "A": "Amy's design style is very plain.",
+    "B": "Amy's design style is very elegant.",
+    "C": "Amy's design style is very casual.",
+    "D": "Amy's design style is very unusual."
+   },
+   "answer": "D",
+   "explain": "be one of a kind: ph. to be very unusal and special Eg. Amy's design style is\none of a kind. 愛美的設計風格很獨特 elegant: adj. graceful and attractive in\nappearance or behavior 優雅的 plain: adj. not decorted in any way 樸素的",
+   "audio": "audio/b23/034.mp3"
+  },
+  {
+   "id": "b23-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "James rented a scooter to get around the city.",
+   "options": {
+    "A": "James rented a small motorcycle to get around the city.",
+    "B": "James rented a bicycle to get around the city.",
+    "C": "James rented a small car to get around the city.",
+    "D": "James rented a limo to get around the city."
+   },
+   "answer": "A",
+   "explain": "rent v. 租賃 a scooter = a motorcycle a limo = a limousine n. a large,\nexpensive car, often driven by a chauffeur",
+   "audio": "audio/b23/035.mp3"
+  },
+  {
+   "id": "b23-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I spent all morning mowing the lawn.",
+   "options": {
+    "A": "I spent all morning cutting the grass.",
+    "B": "I spent all morning polishing the glass.",
+    "C": "I spent all morning mopping the floor.",
+    "D": "I spent all morning cleaning the bathroom."
+   },
+   "answer": "A",
+   "explain": "mow: v. to cut plants, such as grass or wheat, that have long, thin stems and\ngrow close together. lawn n. 草坪 mow the lawn 割草 polish: v. to rub\nsomething using a piece of cloth or brush to clean it and make it shine.\npolishing the glass 擦亮玻璃",
+   "audio": "audio/b23/036.mp3"
+  },
+  {
+   "id": "b23-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I'll drop her a line to say thanks.",
+   "options": {
+    "A": "I'll go to her place in person to say thanks.",
+    "B": "I'll wait until she comes to say thanks.",
+    "C": "I'll write her a short letter to say thanks.",
+    "D": "I'll give her a gift to say thanks."
+   },
+   "answer": "C",
+   "explain": "drop her a line 寫訊息給她",
+   "audio": "audio/b23/037.mp3"
+  },
+  {
+   "id": "b23-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Our prices are open to negotiation.",
+   "options": {
+    "A": "Our prices are subject to change.",
+    "B": "Our prices are relatively low.",
+    "C": "Our prices are able to be discussed.",
+    "D": "Our prices are very competitive."
+   },
+   "answer": "C",
+   "explain": "negotiation: n. the process of discussing something with someone in order\nto reach an agreement with them, or the discussions themselves 談判、洽談\nEg. The agreement was reached after a series of difficult negotiations.\nsubject to change: p",
+   "audio": "audio/b23/038.mp3"
+  },
+  {
+   "id": "b23-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "My uncle is a legislator.",
+   "options": {
+    "A": "My uncle is a lawmaker.",
+    "B": "My uncle is a translator.",
+    "C": "My uncle is an actor.",
+    "D": "My uncle is an educator."
+   },
+   "answer": "A",
+   "explain": "legislator 立法委員 lawmaker 立法的人 translator 翻譯的人",
+   "audio": "audio/b23/039.mp3"
+  },
+  {
+   "id": "b23-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I'll let you off this time.",
+   "options": {
+    "A": "I won't reward you this time.",
+    "B": "I won't punish you this time.",
+    "C": "I won't help you this time.",
+    "D": "I won't remind you this time."
+   },
+   "answer": "B",
+   "explain": "I’ll let you off this time. 這次我不處罰你 reward: v. 獎賞",
+   "audio": "audio/b23/040.mp3"
+  },
+  {
+   "id": "b23-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mr. Smith had a long career in journalism.",
+   "options": {
+    "A": "Mr. Smith worked for newspapers for a long time.",
+    "B": "Mr. Smith worked for government for a long time.",
+    "C": "Mr. Smith worked for charity for a long time.",
+    "D": "Mr. Smith worked for religion for a long time."
+   },
+   "answer": "A",
+   "explain": "journalism: n. the work of collecting, writing and publishing news stories and\narticles in newspapers and magazines or broadcasting them on the radio\nand television. 新聞業",
+   "audio": "audio/b23/041.mp3"
+  },
+  {
+   "id": "b23-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You could hear a pin drop in here.",
+   "options": {
+    "A": "It is very quiet in here.",
+    "B": "It is very cold in here.",
+    "C": "It is very noisy in here.",
+    "D": "It is very hot in here."
+   },
+   "answer": "A",
+   "explain": "hear a pin drop 聽到針下來的聲音，比喻安靜",
+   "audio": "audio/b23/042.mp3"
+  },
+  {
+   "id": "b23-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I often take a stroll before dinner.",
+   "options": {
+    "A": "I often take a nap before dinner.",
+    "B": "I often take a bath before dinner.",
+    "C": "I often take a walk before dinner.",
+    "D": "I often take a shower before dinner."
+   },
+   "answer": "C",
+   "explain": "stroll: n.v. to walk in a slow, relaxed manner, especially for pleasure 散步\ntake a nap 打盹、小睡",
+   "audio": "audio/b23/043.mp3"
+  },
+  {
+   "id": "b23-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Cindy has a keen eye for bargains.",
+   "options": {
+    "A": "Cindy has very good eyesight.",
+    "B": "Cindy is very good at noticing cheap things.",
+    "C": "Cindy has very good taste.",
+    "D": "Cindy is very good at bargaining with sellers."
+   },
+   "answer": "B",
+   "explain": "keen: adj. very interested, eager, or wanting to do something very much 渴\n望的 a keen eye for something: ph. an ability to notice and recognize\nsomething bargain: n. v. something on sale at a lower price than its true\nvalue",
+   "audio": "audio/b23/044.mp3"
+  },
+  {
+   "id": "b23-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The factory uses cheap labor to produce goods.",
+   "options": {
+    "A": "The factory uses child workers to produce goods.",
+    "B": "The factory uses low-waged workers to produce goods.",
+    "C": "The factory uses migrant workers to produce goods.",
+    "D": "The factory uses skilled workers to produce goods."
+   },
+   "answer": "B",
+   "explain": "labor: n. practical work, especially when it involves hard physical effort 體力\n勞動 manual labor = hard work using the hands migrant: adj. n. travelling to\na different country or place, often in order to find work 遷移 的 migrant\nworkers 流動工人",
+   "audio": "audio/b23/045.mp3"
+  },
+  {
+   "id": "b23-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "My friend said he didn't want to go under the knife.",
+   "options": {
+    "A": "My friend said he didn't carry a sharp weapon.",
+    "B": "My friend said he didn't want to go into the kitchen.",
+    "C": "My friend said he didn't want to have a medical operation.",
+    "D": "My friend said he didn't attempt to kill others."
+   },
+   "answer": "C",
+   "explain": "go under the knife: ph. to have a medical operation 醫學開刀",
+   "audio": "audio/b23/046.mp3"
+  },
+  {
+   "id": "b23-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "They are going to knock down the old building.",
+   "options": {
+    "A": "They are going to demolish the old building.",
+    "B": "They are going to renovate the old building.",
+    "C": "They are going to abandon the old building.",
+    "D": "They are going to sell the old building."
+   },
+   "answer": "A",
+   "explain": "knock down = demolish demolish: v. to completely destroy a building,\nespecially in order to use the land for something else renovate: v. to repair\nand improve something, especially a building",
+   "audio": "audio/b23/047.mp3"
+  },
+  {
+   "id": "b23-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I hope those people will be brought to justice.",
+   "options": {
+    "A": "I hope those people will plead guilty.",
+    "B": "I hope those people will be released.",
+    "C": "I hope those people will admit defeat.",
+    "D": "I hope those people will be caught and punished."
+   },
+   "answer": "D",
+   "explain": "justice n. 正義 plead: v. to make an urgent, emotional statement or request\nfor something 懇求 plead guilty 請求有罪 release: v. to give freedom or free\nmovement to someone or something 釋放 defeat: n. v. the fact of losing\nagainst someone",
+   "audio": "audio/b23/048.mp3"
+  },
+  {
+   "id": "b23-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You need to think outside the box.",
+   "options": {
+    "A": "You need to think in a normal way.",
+    "B": "You need to think logically.",
+    "C": "You need to think in an unconventional way.",
+    "D": "You need to think carefully."
+   },
+   "answer": "C",
+   "explain": "think outside the box: ph. to think imaginatively using new ideas instead of\ntraditional or expected ideas logically adv. 邏輯的 unconventional: adj. not\nconventional 非傳統 conventional: adj. traditional and ordinary",
+   "audio": "audio/b23/049.mp3"
+  },
+  {
+   "id": "b23-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I didn't know your home is so cozy.",
+   "options": {
+    "A": "I didn't know your home is so comfortable.",
+    "B": "I didn't know your home is so tidy.",
+    "C": "I didn't know your home is so spacious.",
+    "D": "I didn't know your home is so messy."
+   },
+   "answer": "A",
+   "explain": "cozy = comfortable adj. tidy = neat, orderly adj. spacious = roomy, ample\nadj. messy = untidy",
+   "audio": "audio/b23/050.mp3"
+  },
+  {
+   "id": "b23-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Here are your plane tickets and hotel information, Mr. Davis. M: Thanks, Maria. You're always so well organized. W: That's why you need me. Q: Who is the woman?",
+   "options": {
+    "A": "A flight attendant.",
+    "B": "An airline pilot.",
+    "C": "The man's wife.",
+    "D": "The man's secretary."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Here are your plane tickets and hotel information, Mr. Davis."
+    },
+    {
+     "s": "M",
+     "t": "Thanks, Maria. You're always so well organized."
+    },
+    {
+     "s": "W",
+     "t": "That's why you need me."
+    },
+    {
+     "s": "Q",
+     "t": "Who is the woman?"
+    }
+   ],
+   "explain": "pilot 飛行員",
+   "audio": "audio/b23/051.mp3"
+  },
+  {
+   "id": "b23-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: I’m going to the convenience store. Do you need anything? M: I think I’ll have a sandwich. W: OK. What kind of sandwich would you like? M: Preferable something vegetarian. I’m trying to cut down on meat. Q: What do we know about the man?",
+   "options": {
+    "A": "He’s not feeling hungry at the moment.",
+    "B": "He is broke now.",
+    "C": "He would like to have a pizza.",
+    "D": "He has made some changes to his diet."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "I’m going to the convenience store. Do you need anything?"
+    },
+    {
+     "s": "M",
+     "t": "I think I’ll have a sandwich."
+    },
+    {
+     "s": "W",
+     "t": "OK. What kind of sandwich would you like?"
+    },
+    {
+     "s": "M",
+     "t": "Preferable something vegetarian. I’m trying to cut down on meat."
+    },
+    {
+     "s": "Q",
+     "t": "What do we know about the man?"
+    }
+   ],
+   "explain": "Preferable 更適合的 cut down 減少",
+   "audio": "audio/b23/052.mp3"
+  },
+  {
+   "id": "b23-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: I thought you're going to pick up your sister at the airport. W: Sorry. I forgot to tell you. Amy changed her plans. She decided to take the train. M: Why doesn't she drive instead? It's more convenient. Q: Where will the woman most likely pick up her",
+   "options": {
+    "A": "At the airport.",
+    "B": "At the bus station.",
+    "C": "At the train station.",
+    "D": "She doesn’t have to pick her sister up."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "I thought you're going to pick up your sister at the airport."
+    },
+    {
+     "s": "W",
+     "t": "Sorry. I forgot to tell you. Amy changed her plans. She decided to take the train."
+    },
+    {
+     "s": "M",
+     "t": "Why doesn't she drive instead? It's more convenient."
+    },
+    {
+     "s": "Q",
+     "t": "Where will the woman most likely pick up her"
+    }
+   ],
+   "explain": "pick up 接送",
+   "audio": "audio/b23/053.mp3"
+  },
+  {
+   "id": "b23-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Gasoline and electricity prices have gone up! W: Yes. They're taking a bigger and bigger bite out of our budget. M: I guess it's no use complaining. Q: What are the speakers talking about?",
+   "options": {
+    "A": "How to save money.",
+    "B": "The increasing cost of food.",
+    "C": "How to control their budget.",
+    "D": "The increasing cost of utilities."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Gasoline and electricity prices have gone up!"
+    },
+    {
+     "s": "W",
+     "t": "Yes. They're taking a bigger and bigger bite out of our budget."
+    },
+    {
+     "s": "M",
+     "t": "I guess it's no use complaining."
+    },
+    {
+     "s": "Q",
+     "t": "What are the speakers talking about?"
+    }
+   ],
+   "explain": "utility/utilities: n. a service that is used by the public, such as an electricity or\ngas supply or train service utility bills 水電煤氣帳單 gasoline 汽油 electricity\n電 budget 預算",
+   "audio": "audio/b23/054.mp3"
+  },
+  {
+   "id": "b23-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Could you trim the bushes and weed the roses for me? M: Sure, Mrs. Miller. I'll plant some vegetables for you, too. W: Thanks a lot. Q: What does the man do?",
+   "options": {
+    "A": "He is a vegetable seller.",
+    "B": "He is a florist.",
+    "C": "He is a gardener.",
+    "D": "He is a scientist."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Could you trim the bushes and weed the roses for me?"
+    },
+    {
+     "s": "M",
+     "t": "Sure, Mrs. Miller. I'll plant some vegetables for you, too."
+    },
+    {
+     "s": "W",
+     "t": "Thanks a lot."
+    },
+    {
+     "s": "Q",
+     "t": "What does the man do?"
+    }
+   ],
+   "explain": "trim: v. to make something tidier or more level by cutting a small amount off\nit 修剪 bushes: n. 草叢 weed: v. n. to remove wild plants from a place where\nthey are not wanted 除雜草 florist: n. 花店人員",
+   "audio": "audio/b23/055.mp3"
+  },
+  {
+   "id": "b23-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: You're home much earlier than I thought you'd be. W: Dad. After our dinner, I told Nick I had to go home because I wasn't feeling well. M: Did you really feel sick? W: Just sick of him. I was bored to tears. Q: Which of the following is true?",
+   "options": {
+    "A": "The woman pretended to be sick after the dinner.",
+    "B": "Nick was very bored during their date.",
+    "C": "The woman got home later than her dad expected.",
+    "D": "Nick got food poisoning at the restaurant."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "You're home much earlier than I thought you'd be."
+    },
+    {
+     "s": "W",
+     "t": "Dad. After our dinner, I told Nick I had to go home because I wasn't feeling well."
+    },
+    {
+     "s": "M",
+     "t": "Did you really feel sick?"
+    },
+    {
+     "s": "W",
+     "t": "Just sick of him. I was bored to tears."
+    },
+    {
+     "s": "Q",
+     "t": "Which of the following is true?"
+    }
+   ],
+   "explain": "be sick of someone: 對某人感到厭煩 be bored to tears: ph. extremely bored\nto the point of frustration or irritation無聊到讓我想哭 Food poisoning 食物中\n毒",
+   "audio": "audio/b23/056.mp3"
+  },
+  {
+   "id": "b23-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: I want to move the sofa over there. W: What's wrong with where it is now? It looks fine to me. M: It's too far from the TV. I want the big chair next to the table, too. Q: What are the speakers trying to do?",
+   "options": {
+    "A": "Watch TV.",
+    "B": "Eat dinner.",
+    "C": "Have coffee.",
+    "D": "Rearrange furniture."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "I want to move the sofa over there."
+    },
+    {
+     "s": "W",
+     "t": "What's wrong with where it is now? It looks fine to me."
+    },
+    {
+     "s": "M",
+     "t": "It's too far from the TV. I want the big chair next to the table, too."
+    },
+    {
+     "s": "Q",
+     "t": "What are the speakers trying to do?"
+    }
+   ],
+   "explain": "Rearrange (v.) 重新整理，重新布置",
+   "audio": "audio/b23/057.mp3"
+  },
+  {
+   "id": "b23-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: What's wrong? Can we talk? W: Actually, I'd like some privacy now. M: Got it. Q: What does the woman mean?",
+   "options": {
+    "A": "She wants to have a talk with the man.",
+    "B": "She wants to be left alone.",
+    "C": "She doesn't want to invade the man's privacy.",
+    "D": "She doesn't know what she did wrong."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "What's wrong? Can we talk?"
+    },
+    {
+     "s": "W",
+     "t": "Actually, I'd like some privacy now."
+    },
+    {
+     "s": "M",
+     "t": "Got it."
+    },
+    {
+     "s": "Q",
+     "t": "What does the woman mean?"
+    }
+   ],
+   "explain": "privacy n. 隱私",
+   "audio": "audio/b23/058.mp3"
+  },
+  {
+   "id": "b23-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: This reading lamp isn't very bright. My eyes are starting to hurt. W: I think it's time to change the bulb to one of those new ones. They're brighter, last longer, and don't use as much energy. M: Good idea. I'll pick up a few after dinner. Q: Where wi",
+   "options": {
+    "A": "To a bookstore.",
+    "B": "To a shopping mall.",
+    "C": "To a barbershop.",
+    "D": "To a dry cleaner’s"
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "This reading lamp isn't very bright. My eyes are starting to hurt."
+    },
+    {
+     "s": "W",
+     "t": "I think it's time to change the bulb to one of those new ones. They're brighter, last longer, and don't use as much energy."
+    },
+    {
+     "s": "M",
+     "t": "Good idea. I'll pick up a few after dinner."
+    },
+    {
+     "s": "Q",
+     "t": "Where wi"
+    }
+   ],
+   "explain": "bulb (n.) 燈泡 pick up 獲得",
+   "audio": "audio/b23/059.mp3"
+  },
+  {
+   "id": "b23-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Thanks for holding the door for me. I'm in a hurry. M: What floor? W: The fifth. I have a dentist's appointment in five minutes. Q: Where are the speakers?",
+   "options": {
+    "A": "In an elevator.",
+    "B": "In a department store.",
+    "C": "In an art museum.",
+    "D": "In a taxi."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Thanks for holding the door for me. I'm in a hurry."
+    },
+    {
+     "s": "M",
+     "t": "What floor?"
+    },
+    {
+     "s": "W",
+     "t": "The fifth. I have a dentist's appointment in five minutes."
+    },
+    {
+     "s": "Q",
+     "t": "Where are the speakers?"
+    }
+   ],
+   "explain": "elevator 電梯 dentist 牙醫",
+   "audio": "audio/b23/060.mp3"
+  },
+  {
+   "id": "b23-061",
+   "n": 61,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: You've fastened your seat belt and adjusted the mirrors, Nancy. What should you do next? W: Start the engine and check for traffic. M: Good! You'll be able to take your road test soon. Q: What is the man doing?",
+   "options": {
+    "A": "Repairing the woman's car.",
+    "B": "Teaching the woman how to drive.",
+    "C": "Running a marathon.",
+    "D": "Taking the woman to a party."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "You've fastened your seat belt and adjusted the mirrors, Nancy. What should you do next?"
+    },
+    {
+     "s": "W",
+     "t": "Start the engine and check for traffic."
+    },
+    {
+     "s": "M",
+     "t": "Good! You'll be able to take your road test soon."
+    },
+    {
+     "s": "Q",
+     "t": "What is the man doing?"
+    }
+   ],
+   "explain": "fasten the seat belt 繫安全帶 adjust the mirrors 調整鏡子",
+   "audio": "audio/b23/061.mp3"
+  },
+  {
+   "id": "b23-062",
+   "n": 62,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Have you packed the food yet? M: Yes, everything is in the basket. And I also prepared a big blanket for us to sit on. W: Don't forget to take some bug spray with us. Q: What are the speakers going to do?",
+   "options": {
+    "A": "Prepare a big dinner.",
+    "B": "Play basketball.",
+    "C": "Do the laundry.",
+    "D": "Have a picnic."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Have you packed the food yet?"
+    },
+    {
+     "s": "M",
+     "t": "Yes, everything is in the basket. And I also prepared a big blanket for us to sit on."
+    },
+    {
+     "s": "W",
+     "t": "Don't forget to take some bug spray with us."
+    },
+    {
+     "s": "Q",
+     "t": "What are the speakers going to do?"
+    }
+   ],
+   "explain": "pack the food 打包食物 bug spray 殺蟲劑",
+   "audio": "audio/b23/062.mp3"
+  },
+  {
+   "id": "b23-063",
+   "n": 63,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: What are we going to do about Chocolate? He's been peeing all over the house and keeps throwing up, too. M: The vet said he's simply getting old. All we can do is wait for him to die or put him to sleep. W: It's a difficult choice. Q: What are the speakers talking about?",
+   "options": {
+    "A": "What kind of pet they want to raise.",
+    "B": "Whether to take their pet to the vet.",
+    "C": "Why some pets live longer than others.",
+    "D": "Whether to end their pet’s life or not."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "What are we going to do about Chocolate? He's been peeing all over the house and keeps throwing up, too."
+    },
+    {
+     "s": "M",
+     "t": "The vet said he's simply getting old. All we can do is wait for him to die or put him to sleep."
+    },
+    {
+     "s": "W",
+     "t": "It's a difficult choice."
+    },
+    {
+     "s": "Q",
+     "t": "What are the speakers talking about?"
+    }
+   ],
+   "explain": "vet (n.) 獸醫 Pee (n.) 小便",
+   "audio": "audio/b23/063.mp3"
+  },
+  {
+   "id": "b23-064",
+   "n": 64,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Your mother just called. She sounded pretty upset. M: Why? I promised I would bring her present over on her birthday. W: But her birthday was last week! M: Oh, no! Q: What does the man find out?",
+   "options": {
+    "A": "He forgot about his mother's birthday.",
+    "B": "His mother didn't like his present.",
+    "C": "He sent his present to someone else.",
+    "D": "His mother missed his birthday."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Your mother just called. She sounded pretty upset."
+    },
+    {
+     "s": "M",
+     "t": "Why? I promised I would bring her present over on her birthday."
+    },
+    {
+     "s": "W",
+     "t": "But her birthday was last week!"
+    },
+    {
+     "s": "M",
+     "t": "Oh, no!"
+    },
+    {
+     "s": "Q",
+     "t": "What does the man find out?"
+    }
+   ],
+   "explain": "upset 落寞",
+   "audio": "audio/b23/064.mp3"
+  },
+  {
+   "id": "b23-065",
+   "n": 65,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: There aren't any seats available. M: It's a holiday. Everyone is out to have a good time. W: The ride is bumpy. They should have fixed the roads! M: Hang on to the strap over your head. Q: Where are the speakers?",
+   "options": {
+    "A": "On a bus.",
+    "B": "In a taxi.",
+    "C": "On a train.",
+    "D": "In a boat."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "There aren't any seats available."
+    },
+    {
+     "s": "M",
+     "t": "It's a holiday. Everyone is out to have a good time."
+    },
+    {
+     "s": "W",
+     "t": "The ride is bumpy. They should have fixed the roads!"
+    },
+    {
+     "s": "M",
+     "t": "Hang on to the strap over your head."
+    },
+    {
+     "s": "Q",
+     "t": "Where are the speakers?"
+    }
+   ],
+   "explain": "bumpy(adj.) 崎嶇不平的，顛簸的 Strap(n.) (車輛上的)拉手吊帶",
+   "audio": "audio/b23/065.mp3"
+  },
+  {
+   "id": "b23-066",
+   "n": 66,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: I'm going to quit my job. W: What? I thought you were happy working there. M: I was, but the work has become too much recently. Q: Why is the man going to quit his job?",
+   "options": {
+    "A": "Because his pay is not good enough.",
+    "B": "Because he quarreled with his boss.",
+    "C": "Because his workload has become heavier.",
+    "D": "Because he does not get along with his colleagues."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "I'm going to quit my job."
+    },
+    {
+     "s": "W",
+     "t": "What? I thought you were happy working there."
+    },
+    {
+     "s": "M",
+     "t": "I was, but the work has become too much recently."
+    },
+    {
+     "s": "Q",
+     "t": "Why is the man going to quit his job?"
+    }
+   ],
+   "explain": "workload 工作負荷 colleague = coworker",
+   "audio": "audio/b23/066.mp3"
+  },
+  {
+   "id": "b23-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "It is suggested that people should avoid eating _______ food during an epidemic.",
+   "options": {
+    "A": "ripe",
+    "B": "tasty",
+    "C": "raw",
+    "D": "toxic"
+   },
+   "answer": "C",
+   "explain": "raw(adj.)生的，未煮熟的Epidemic(n.) 流行病"
+  },
+  {
+   "id": "b23-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "_______ I'm concerned, two thousand dollars is a large sum of money.",
+   "options": {
+    "A": "As long as",
+    "B": "As far as",
+    "C": "As good as",
+    "D": "As well as"
+   },
+   "answer": "A",
+   "explain": "As far as I'm concerned 對我來說，就我而言"
+  },
+  {
+   "id": "b23-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "One of the most _______ landmarks in the world is the Eiffel Tower in Paris.",
+   "options": {
+    "A": "hectic",
+    "B": "civic",
+    "C": "iconic",
+    "D": "toxic"
+   },
+   "answer": "C",
+   "explain": "iconic(adj.) 代表性的 Hectic(adj.) 興奮的；忙亂的"
+  },
+  {
+   "id": "b23-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "As the saying goes, \"God never shuts one door _______ opening another.\"",
+   "options": {
+    "A": "and",
+    "B": "without",
+    "C": "so",
+    "D": "as"
+   },
+   "answer": "B",
+   "explain": "俗話說: 上帝不會只關了門，而沒有打開另一扇窗(天無絕人之路)"
+  },
+  {
+   "id": "b23-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "We will continue _______ our branches overseas in order to become a multinational corporation.",
+   "options": {
+    "A": "surrounding",
+    "B": "expanding",
+    "C": "overlooking",
+    "D": "inspiring"
+   },
+   "answer": "B",
+   "explain": "為了使它成為跨國公司，將繼續圍繞在我們的海外分公司"
+  },
+  {
+   "id": "b23-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The political dissident suspected that his phone calls were being _______.",
+   "options": {
+    "A": "abused",
+    "B": "confused",
+    "C": "monitored",
+    "D": "altered"
+   },
+   "answer": "C",
+   "explain": "dissident(n.) 持不同意見的 Monitor(v.) 監控，監聽"
+  },
+  {
+   "id": "b23-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "With so few trained doctors, paramedics are brought in to _______ the gap.",
+   "options": {
+    "A": "plug",
+    "B": "pray",
+    "C": "pluck",
+    "D": "prey"
+   },
+   "answer": "A",
+   "explain": "paramedic(n.) 醫務護理人員 Plug(v.) 填補"
+  },
+  {
+   "id": "b23-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The _______ is a sea animal with eight arms or tentacles.",
+   "options": {
+    "A": "whale",
+    "B": "octopus",
+    "C": "shark",
+    "D": "lobster"
+   },
+   "answer": "B",
+   "explain": "tentacle(n.) 觸手 Octopus(n.) 章魚"
+  },
+  {
+   "id": "b23-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "A few small countries in the world, like Singapore, have risen from _______ to prosperity.",
+   "options": {
+    "A": "authority",
+    "B": "security",
+    "C": "celebrity",
+    "D": "obscurity"
+   },
+   "answer": "D",
+   "explain": "obscurity (n.) 黯淡 Prosperity(n.) 繁榮"
+  },
+  {
+   "id": "b23-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "A Dog's Purpose is a novel written from the _______ of a dog.",
+   "options": {
+    "A": "perspective",
+    "B": "initiative",
+    "C": "prediction",
+    "D": "indication"
+   },
+   "answer": "A",
+   "explain": "perspective(n.) 觀點，視角"
+  },
+  {
+   "id": "b23-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "If you are a college student in your second year, you are a _______.",
+   "options": {
+    "A": "junior",
+    "B": "senior",
+    "C": "freshman",
+    "D": "sophomore"
+   },
+   "answer": "D",
+   "explain": "sophomore(n.) 二年級學生"
+  },
+  {
+   "id": "b23-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "As a medical _______, a gastroscope is used to examine the stomach.",
+   "options": {
+    "A": "monument",
+    "B": "ailment",
+    "C": "compartment",
+    "D": "instrument"
+   },
+   "answer": "D",
+   "explain": "gastroscope(n.) 胃鏡"
+  },
+  {
+   "id": "b23-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "COVID-19 is a contagious disease spreading _______, and it can be fatal when people are infected.",
+   "options": {
+    "A": "worldwide",
+    "B": "meanwhile",
+    "C": "elsewhere",
+    "D": "otherwise"
+   },
+   "answer": "A",
+   "explain": "contagious(adj.) 接觸傳染性的 Worldwide(adj.) 遍及全球的"
+  },
+  {
+   "id": "b23-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The man was detained for _______ of the work of the police.",
+   "options": {
+    "A": "construction",
+    "B": "instruction",
+    "C": "obstruction",
+    "D": "reproduction"
+   },
+   "answer": "C",
+   "explain": "detain(v.) 耽誤 Obstruction(n.) 阻礙"
+  },
+  {
+   "id": "b23-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Gal Gadot, who _______ Wonder Woman in three movies, is one of the hottest actresses in Hollywood.",
+   "options": {
+    "A": "play",
+    "B": "played",
+    "C": "playing",
+    "D": "to play"
+   },
+   "answer": "B",
+   "explain": "蓋爾．加朵在三部電影中扮演神力女超人，是好萊塢最紅的女明星之一"
+  },
+  {
+   "id": "b23-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Your business partner is Japanese, _______ I know from his accent.",
+   "options": {
+    "A": "which",
+    "B": "that",
+    "C": "who",
+    "D": "whom"
+   },
+   "answer": "A",
+   "explain": "我從他的口音分辨出來，你的商業夥伴是日本人"
+  },
+  {
+   "id": "b23-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "When a landlord and a renter reach an agreement, they sign a contract called a _______.",
+   "options": {
+    "A": "fee",
+    "B": "lease",
+    "C": "charge",
+    "D": "permit"
+   },
+   "answer": "B",
+   "explain": "lease(n.) 租約"
+  },
+  {
+   "id": "b23-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "According to the TV news, a British surgeon was charged _______ the serial killings.",
+   "options": {
+    "A": "by",
+    "B": "for",
+    "C": "with",
+    "D": "on"
+   },
+   "answer": "C",
+   "explain": "surgeon(n.) 外科醫生 Serial(adj.) 連續的，一系列的"
+  },
+  {
+   "id": "b23-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "_______ the film was adapted from one of Shakespeare's plays, it was only loosely based on it.",
+   "options": {
+    "A": "Because",
+    "B": "Unless",
+    "C": "While",
+    "D": "Rather than"
+   },
+   "answer": "C",
+   "explain": "儘管這部片改編自莎士比亞的一部戲劇，但只是概略的建立在那之上"
+  },
+  {
+   "id": "b23-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Make sure _______ you get a haircut before you go to the job interview.",
+   "options": {
+    "A": "when",
+    "B": "that",
+    "C": "where",
+    "D": "how"
+   },
+   "answer": "B",
+   "explain": "在你去工作面試前，確定你剪了頭髮"
+  },
+  {
+   "id": "b23-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "_______ to popular belief, gorillas are basically shy, gentle creatures.",
+   "options": {
+    "A": "Contrary",
+    "B": "Prior",
+    "C": "Allergic",
+    "D": "Inferior"
+   },
+   "answer": "A",
+   "explain": "與大家所知的不同，大猩猩基本上是害羞且溫馴的生物 Contrary(adv.) 相反\n地 Gorilla(n.) 大猩猩"
+  },
+  {
+   "id": "b23-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "It's about time Ted _______ those books to the library. They are two weeks overdue.",
+   "options": {
+    "A": "return",
+    "B": "returns",
+    "C": "returned",
+    "D": "returning"
+   },
+   "answer": "C",
+   "explain": "overdue(adj.) 過期的"
+  },
+  {
+   "id": "b23-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Jeff _______ a few coins into the slot of the vending machine to get a can of soda.",
+   "options": {
+    "A": "consumed",
+    "B": "inserted",
+    "C": "confined",
+    "D": "intended"
+   },
+   "answer": "B",
+   "explain": "intend(v.) 想要，打算"
+  },
+  {
+   "id": "b23-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Biodegradable utensils are made from plant-based plastics, which don't need to be _______.",
+   "options": {
+    "A": "recycled",
+    "B": "repeated",
+    "C": "recharged",
+    "D": "refunded"
+   },
+   "answer": "A",
+   "explain": "Biodegradable(adj.) 生物可分解的 Utensil(n.) 器具"
+  },
+  {
+   "id": "b23-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Talking on the phone while driving may pose a hazard to everyone on the road, _______ pedestrians.",
+   "options": {
+    "A": "regarding",
+    "B": "including",
+    "C": "disregarding",
+    "D": "excluding"
+   },
+   "answer": "B",
+   "explain": "pedestrian(n.) 行人 hazard(n.) 危險"
+  },
+  {
+   "id": "b23-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "_______ occurred to me that my little sister was afraid of heights.",
+   "options": {
+    "A": "It",
+    "B": "That",
+    "C": "When",
+    "D": "What"
+   },
+   "answer": "A",
+   "explain": "我突然想起我的小妹會懼高"
+  },
+  {
+   "id": "b23-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Lidia used _______ calls to communicate with her relatives that live abroad.",
+   "options": {
+    "A": "vocal",
+    "B": "remote",
+    "C": "video",
+    "D": "rare"
+   },
+   "answer": "C",
+   "explain": "莉莉亞用視訊電話來跟住在國外的親戚連絡"
+  },
+  {
+   "id": "b23-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Jenny thinks her legs are ugly, so a miniskirt is the _______ thing she'd wear.",
+   "options": {
+    "A": "final",
+    "B": "ultimate",
+    "C": "last",
+    "D": "eventual"
+   },
+   "answer": "C",
+   "explain": "珍妮覺得他的腿很醜，所以迷你裙是她穿衣的最後一個選項"
+  },
+  {
+   "id": "b23-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "It's already 11:50. Let's discuss the matter over lunch, _______?",
+   "options": {
+    "A": "shall we",
+    "B": "will you",
+    "C": "can we",
+    "D": "may you"
+   },
+   "answer": "A",
+   "explain": "已經11:50了，我們在午餐時來討論這件事，可以嗎?"
+  },
+  {
+   "id": "b23-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "New words are constantly being _______ to refer to new phenomena.",
+   "options": {
+    "A": "coined",
+    "B": "invested",
+    "C": "connected",
+    "D": "informed"
+   },
+   "answer": "A",
+   "explain": "coin(v.) 創造，杜撰(新詞彙) constantly (adv.) 不斷地，時常地 Phenomena\n(n.) 現象"
+  },
+  {
+   "id": "b23-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The marketing department was asked to _______ a new sales strategy.",
+   "options": {
+    "A": "conform",
+    "B": "breed",
+    "C": "condense",
+    "D": "brainstorm"
+   },
+   "answer": "D",
+   "explain": "brainstorm(n.) 集思廣益，共同研討 Condense(v.) 壓縮，濃縮"
+  },
+  {
+   "id": "b23-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "The term hip-hop usually refers to music, but it is so much more than that. Hip-hop is a cultural movement that can be traced back to the Bronx, New York City, in the early 1970s. It served as a way for certain underrepresented groups, like African Americans and Hispanic Americans, to express themselves through a uniquely modern art form. Hip-hop culture is based on four forms of expression: deejaying, rapping, graffiti, and break dancing. All of these aspects of hip-hop have become art forms by themselves. What does \"underrepresented groups\" refer to?",
+   "options": {
+    "A": "Ethnic minorities.",
+    "B": "Unemployed people.",
+    "C": "The elderly.",
+    "D": "Street people."
+   },
+   "answer": "A",
+   "explain": "underrepresented groups 代表不足的群體 Ethnic minorities. 少數⺠族"
+  },
+  {
+   "id": "b23-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "The robot Sophia is probably the most well-known robot with a human face in the world. Created by Hanson Robotics, based in Hong Kong, Sophia gained the attention of the world when she was made an honorary citizen of Saudi Arabia in 2017. Now, as people all over the world struggle during the COVID-19 pandemic, Sophia's creator David Hanson hopes to market his invention to people dealing with the stress of social isolation. What does the last sentence of the passage imply?",
+   "options": {
+    "A": "The robot Sophia is more affordable now.",
+    "B": "The robot Sophia is capable of learning new things.",
+    "C": "The robot Sophia can help in the hospital.",
+    "D": "The robot Sophia can keep people company."
+   },
+   "answer": "D",
+   "explain": "Sophia's creator David Hanson hopes to market his invention to people\ndealing with the stress of social isolation.蘇菲亞的創造者大衛漢森希望他的\n發明透過市場能對人們處理社會孤立壓力."
+  },
+  {
+   "id": "b23-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Have you ever heard of the Ikea effect? No, it's not about buying more than you planned to when you shop at Ikea. The Ikea effect refers to the idea that consumers place a higher value on products that they help build or create. If you had a desk from Ikea that you had to assemble over a number of hours, then you would probably appreciate it more than one which was fully assembled and delivered to your door. This concept goes back to a time before Ikea was around. Which of the following items would be an example in describing the Ikea effect?",
+   "options": {
+    "A": "A pair of sneakers you saved up to buy.",
+    "B": "A wooden bench you built by assembling it.",
+    "C": "A large sofa that you ordered online.",
+    "D": "A watch that was handed down from a parent."
+   },
+   "answer": "B",
+   "explain": "If you had a desk from Ikea that you had to assemble over a number of\nhours… 如果你從IKEA買入一張桌子，你必須自行組合幾個小時"
+  }
+ ]
+}

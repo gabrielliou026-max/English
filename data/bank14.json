@@ -1,0 +1,1740 @@
+{
+ "bank": "14",
+ "title": "第 14 回",
+ "questions": [
+  {
+   "id": "b14-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What time is the talk show on tonight?",
+   "options": {
+    "A": "I don’t like to watch any talk shows.",
+    "B": "The magician will do some tricks.",
+    "C": "I’ll be very busy tonight.",
+    "D": "it starts at 7:30."
+   },
+   "answer": "D",
+   "explain": "句意: 今晚的脫口秀幾點開始? 答案: d (它會在7:30開始)",
+   "audio": "audio/b14/001.mp3"
+  },
+  {
+   "id": "b14-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why are you so dress-up?",
+   "options": {
+    "A": "I need more dressing for the salad.",
+    "B": "I just picked out a dress form my closet.",
+    "C": "I don’t need to dress so formally.",
+    "D": "I’m going out on a date."
+   },
+   "answer": "D",
+   "explain": "(1) dress-up: wear nice or formal clothes. You usually do this for a special\noccasion. e.g. I dressed up for my party. (2) casual: the opposite of formal\ne.g. Your look is very casual! Cute!",
+   "audio": "audio/b14/002.mp3"
+  },
+  {
+   "id": "b14-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is that all-you-can-eat restaurant?",
+   "options": {
+    "A": "No, it’s not an expensive restaurant.",
+    "B": "Yes, it’s the best hotel in town.",
+    "C": "No, it’s not a fast food restaurant.",
+    "D": "Yes, you may eat as much food as you like there."
+   },
+   "answer": "D",
+   "explain": "(1) all-you-can-eat restaurant / buffet It’s different from a buffet. At an all you\ncan eat restaurant, the food is served to you by a waiter. At a buffet, you\nserve yourself.",
+   "audio": "audio/b14/003.mp3"
+  },
+  {
+   "id": "b14-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is Mr. Newman very busy as a CEO?",
+   "options": {
+    "A": "Yes, he is a businessman.",
+    "B": "No, being a CEO isn’t easy at all.",
+    "C": "Yes, because he doubles as the CFO.",
+    "D": "No, he gets tired easily."
+   },
+   "answer": "C",
+   "explain": "句意: 請問紐曼先生作為一位執行長是否非常忙碌? 答案: c (是的，因為他同\n時也擔任首席財務長) CEO (Chief Executive Officer)執行長 CFO (Chief\nFinance Officer)首席財務長",
+   "audio": "audio/b14/004.mp3"
+  },
+  {
+   "id": "b14-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Which should you use to drive a nail or something?",
+   "options": {
+    "A": "A can opener.",
+    "B": "A needle.",
+    "C": "A solar panel.",
+    "D": "A hammer."
+   },
+   "answer": "D",
+   "explain": "(1) a can opener 開罐器 (2) solar panel 太陽能板 (3) hammer 鐵鎚",
+   "audio": "audio/b14/005.mp3"
+  },
+  {
+   "id": "b14-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why do you keep looking at your watch?",
+   "options": {
+    "A": "It is made in Switzerland.",
+    "B": "I wear a different watch every day.",
+    "C": "It is a gift from my friend.",
+    "D": "I’m afraid I’m running late."
+   },
+   "answer": "D",
+   "explain": "句意: 為什麼你一直在看你的手錶呢? 答案: d (我怕我可能快遲到了) running\nlate 快遲到了",
+   "audio": "audio/b14/006.mp3"
+  },
+  {
+   "id": "b14-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Were you a heavy smoker?",
+   "options": {
+    "A": "Yes, I’m going snorkeling.",
+    "B": "No, I didn’t get a heavy cold.",
+    "C": "Yes, I used to smoke two packs a day.",
+    "D": "No, I’m not interested playing snooker."
+   },
+   "answer": "C",
+   "explain": "(1) snorkeling: swimming along the surface of the water and looking down at\nthe oceanic activity below you using a snorkeling mask with a breathing\ntube. e.g. I went snorkeling at the beach. (2) play snooker: a game played\nwith cues on a billiard table",
+   "audio": "audio/b14/007.mp3"
+  },
+  {
+   "id": "b14-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why do you want to choose a double major?",
+   "options": {
+    "A": "I always order a double whiskey.",
+    "B": "Because I’m very hungry.",
+    "C": "I want to acquire more knowledge.",
+    "D": "Because I’m too tire"
+   },
+   "answer": "C",
+   "explain": "句意: 你為什麼要選擇雙主修呢? 答案: c (我想得到更多的知識) double major\n雙主修 acquire 獲得",
+   "audio": "audio/b14/008.mp3"
+  },
+  {
+   "id": "b14-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What do you call a person that flies a plane?",
+   "options": {
+    "A": "A flight attendant",
+    "B": "A pilot",
+    "C": "A chief purser",
+    "D": "A mechanic"
+   },
+   "answer": "B",
+   "explain": "(1) flight attendant: someone who serves passengers on an aircraft\n(2) steward / stewardess: a person who serves passengers on a ship or\naircraft\n(3) cabin crew: in an aircraft, the people whose job it is to take care of the\npassengers\n(4) captain: a person in charge of a ship or aircraft",
+   "audio": "audio/b14/009.mp3"
+  },
+  {
+   "id": "b14-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is your brother an athlete?",
+   "options": {
+    "A": "No, he isn’t an artist.",
+    "B": "Yes, he’s good at many sports.",
+    "C": "No, he isn’t easy to persuade.",
+    "D": "Yes, he’s my youngest brother."
+   },
+   "answer": "B",
+   "explain": "(1) athlete: a person who is very good at sports or physical exercise,\nespecially one who competes in organized events e.g. He became a\nprofessional athlete at the age of 16.",
+   "audio": "audio/b14/010.mp3"
+  },
+  {
+   "id": "b14-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What can I see an eye dog do?",
+   "options": {
+    "A": "Guide the blind.",
+    "B": "Protect sheep and goats.",
+    "C": "Help with rescue work.",
+    "D": "Fight against crime."
+   },
+   "answer": "A",
+   "explain": "句意: 導盲犬能做什麼?\n答案: a 引導盲人",
+   "audio": "audio/b14/011.mp3"
+  },
+  {
+   "id": "b14-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where did you go hiking yesterday?",
+   "options": {
+    "A": "I was hiding in my closet.",
+    "B": "In the woods.",
+    "C": "I didn’t go biking yesterday.",
+    "D": "In the lake."
+   },
+   "answer": "B",
+   "explain": "(1) hiking: going for a long and intense walk, usually in the wilderness or\nmountains (2) hitch-hiking: to get a free car ride from a complete stranger (3)\nwoods: an area of land covered with a thick growth of trees e.g. Last\nSaturday I went for a walk i",
+   "audio": "audio/b14/012.mp3"
+  },
+  {
+   "id": "b14-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Does your girlfriend like spicy food?",
+   "options": {
+    "A": "No, my girlfriend isn’t Stacy.",
+    "B": "Yes, my girlfriend eats like a bird.",
+    "C": "No, she likes plain food.",
+    "D": "Yes, she is like me in many ways."
+   },
+   "answer": "C",
+   "explain": "(1) plain food: not decorated in any way; with nothing added e.g. The food is\npretty plain (= prepared simply and without strong flavors), but there’s lots of\nit.",
+   "audio": "audio/b14/013.mp3"
+  },
+  {
+   "id": "b14-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How do you make a living in Tokyo?",
+   "options": {
+    "A": "I’m not living there now.",
+    "B": "I used to do some jogging in the evening.",
+    "C": "I made a lot of Japanese friends there.",
+    "D": "I worked as a DJ."
+   },
+   "answer": "D",
+   "explain": "句意: 請問你是如何在東京謀生? 答案: d (我的工作是一位DJ) make a living\n以…為生，謀生活",
+   "audio": "audio/b14/014.mp3"
+  },
+  {
+   "id": "b14-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Will I get change back on a bus?",
+   "options": {
+    "A": "Yes, you can change seats on the bus.",
+    "B": "No, they won’t give change back.",
+    "C": "Yes, you need some change to ride a bus.",
+    "D": "No, they won’t change their routes."
+   },
+   "answer": "B",
+   "explain": "(1) change (noun): money in the form of coins (硬幣)rather than notes (紙鈔)",
+   "audio": "audio/b14/015.mp3"
+  },
+  {
+   "id": "b14-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you like literature, Amy?",
+   "options": {
+    "A": "Yes, I enjoy reading novels.",
+    "B": "No, I never draw pictures.",
+    "C": "Yes, the temperature here is pleasant.",
+    "D": "No, their culture is not the same as ours."
+   },
+   "answer": "A",
+   "explain": "句意: 艾咪, 你喜歡文學作品嗎?\n答案:a (是呀，我喜歡看小說)\nliterature 文學，文獻",
+   "audio": "audio/b14/016.mp3"
+  },
+  {
+   "id": "b14-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How do you cool yourself down on a hot day?",
+   "options": {
+    "A": "I usually wear an overcoat.",
+    "B": "I usually take a hot bath for about 30 minutes.",
+    "C": "I usually do 50 sit-ups a day.",
+    "D": "I usually take a cold shower."
+   },
+   "answer": "D",
+   "explain": "(1) overcoat: a long thick coat worn in cold weather (2) jacket: a coat with\nzippers on them (3) jumper: a piece of clothing you pull over your head",
+   "audio": "audio/b14/017.mp3"
+  },
+  {
+   "id": "b14-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you have any bag to check in?",
+   "options": {
+    "A": "No, it’s a package deal.",
+    "B": "Yes, one suitcase.",
+    "C": "No, please pay in cash.",
+    "D": "Yes, a cabbage."
+   },
+   "answer": "B",
+   "explain": "句意: 你有任何的行李需要登記呢?\n答案: b (有的，一個行李箱)\ncheck in 登記，報到",
+   "audio": "audio/b14/018.mp3"
+  },
+  {
+   "id": "b14-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Does the price include the breakfast?",
+   "options": {
+    "A": "No, the price is not reasonable.",
+    "B": "Yes, the price is acceptable.",
+    "C": "No, the breakfast charge is 10 Euros per person.",
+    "D": "Yes, the breakfast is terrible there."
+   },
+   "answer": "C",
+   "explain": "句意: 這個價錢有包含早餐嗎? 答案: c 沒有。早餐費用每人10歐元另計。",
+   "audio": "audio/b14/019.mp3"
+  },
+  {
+   "id": "b14-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How about we eat out tonight?",
+   "options": {
+    "A": "I didn’t know you can cook so well.",
+    "B": "No, I never skip any meals.",
+    "C": "I’d rather eat at home.",
+    "D": "Sure, I’ll make a pizza for dinner."
+   },
+   "answer": "C",
+   "explain": "(1) skip: to not do or not have something that you usually do or that you\nshould do e.g. Having too much junk food and skipping meals are my\nterrible eating habits. e.g. If you skip meals, you often eat more and put on\nweight. (2) eat out: eat at a resta",
+   "audio": "audio/b14/020.mp3"
+  },
+  {
+   "id": "b14-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Is your boyfriend an enlisted man?",
+   "options": {
+    "A": "No, he is not a selfish man.",
+    "B": "Yes, he is a reliable man.",
+    "C": "No, he did not go to graduate school.",
+    "D": "Yes, he joined the army in 2010."
+   },
+   "answer": "D",
+   "explain": "句意: 妳的男友是士兵嗎? 答案: d (是的，他2010年已入伍)",
+   "audio": "audio/b14/021.mp3"
+  },
+  {
+   "id": "b14-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do I need to transfer in Hong Kong?",
+   "options": {
+    "A": "Yes, Hong Kong is a great place for shopping.",
+    "B": "No. it’s a direct flight.",
+    "C": "Yes, transportation is very convenient there.",
+    "D": "No, Hong Kong isn’t a British colony now."
+   },
+   "answer": "B",
+   "explain": "句意: 請問我需要在香港轉機嗎? 答案: b (不用，這是直達班機)",
+   "audio": "audio/b14/022.mp3"
+  },
+  {
+   "id": "b14-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you a full-time worker?",
+   "options": {
+    "A": "Yes, I work a nine-to-five job.",
+    "B": "No, I don’t spend a lot of time left.",
+    "C": "Yes, I’ve spent a lot of time working on it.",
+    "D": "No, I haven’t wasted any time."
+   },
+   "answer": "A",
+   "explain": "(1) full-time / part-time - He’s looking for a full-time job. (2) freelancer:\nworking for several different organizations, and paid according to the hours\nyou work (3) daily routine: the things you do every day, e.g., get dressed, eat\nbreakfast, brush yo",
+   "audio": "audio/b14/023.mp3"
+  },
+  {
+   "id": "b14-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Which of the following is vegetable?",
+   "options": {
+    "A": "Broccoli.",
+    "B": "Melon.",
+    "C": "Coconut.",
+    "D": "Lemon."
+   },
+   "answer": "A",
+   "explain": "句意: 下列哪個選項是蔬菜? 答案: a (花椰菜) Melon. 哈密瓜 Coconut. 椰子\nLemon. 檸檬",
+   "audio": "audio/b14/024.mp3"
+  },
+  {
+   "id": "b14-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What if the sunlight is very strong?",
+   "options": {
+    "A": "You should use some sunscreen.",
+    "B": "You should use some mosquito Repellent",
+    "C": "You should wear some perfume.",
+    "D": "You should wear some makeup."
+   },
+   "answer": "A",
+   "explain": "(1) sunscreen: I always put on sunscreen every time I’m out in the summer\nsun. (2) mosquito repellent: a substance that deters mosquitoes from\napproaching or settling. (3) makeup: colored substances used on your face\nto improve or change your appearance",
+   "audio": "audio/b14/025.mp3"
+  },
+  {
+   "id": "b14-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Have you watched the movie “Saving Private Ryan”?",
+   "options": {
+    "A": "Yes, I’ve watched it on HBO.",
+    "B": "No, I’m not a movie director.",
+    "C": "Yes, watching that movie is a waste of time.",
+    "D": "No, watching movies is not my favorite pastime."
+   },
+   "answer": "A",
+   "explain": "(1) pastime: something you do in free time just to pass some time e.g. My\nfavorite pastime is playing games.",
+   "audio": "audio/b14/026.mp3"
+  },
+  {
+   "id": "b14-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "question",
+   "stem": "I’m from Jamaica. What’s about you?",
+   "options": {
+    "A": "I’ve never been there.",
+    "B": "I’m from South Africa.",
+    "C": "I work as a tour guide.",
+    "D": "I’ve decided to go there, too."
+   },
+   "answer": "B",
+   "explain": "句意: 我來自牙買加. 你呢? 答案: b (我來自南非)",
+   "audio": "audio/b14/027.mp3"
+  },
+  {
+   "id": "b14-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Did I do anything wrong, officer?",
+   "options": {
+    "A": "Yes, you are a good citizen.",
+    "B": "Yes, I didn’t understand what you meant.",
+    "C": "You are not allowed to park here.",
+    "D": "No, I didn’t do it on purpose."
+   },
+   "answer": "C",
+   "explain": "句意: 請問我哪裡做錯了嗎，長官? 答案: c (這裡不允許你停車) anything\nwrong 任何問題，任何不對勁",
+   "audio": "audio/b14/028.mp3"
+  },
+  {
+   "id": "b14-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Christine’s new hair-do looks very cute.",
+   "options": {
+    "A": "Her new pet looks very cute.",
+    "B": "Her new hairstyle looks very cute.",
+    "C": "Her new boyfriend looks very cute.",
+    "D": "Her new hat looks very cute."
+   },
+   "answer": "B",
+   "explain": "The word “hair-do” means “the style in which a person, especially a woman,\nhas their hair cut and arranged, especially if it is unusual or done for a\nparticular occasion (尤指女性的)髮型，髮式(尤指別出心裁的或爲某一特殊場\n合而做的髮型)",
+   "audio": "audio/b14/029.mp3"
+  },
+  {
+   "id": "b14-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "My computer crashed last night.",
+   "options": {
+    "A": "My computer was stolen last night.",
+    "B": "My computer was being repaired last night.",
+    "C": "My computer worked normally last night.",
+    "D": "My computer broke down last night."
+   },
+   "answer": "D",
+   "explain": "Computing - a sudden failure of a machine or system, especially of a\ncomputer or computer system. e.g. Users might lose important data if a\nhardware problem causes a crash. Vehicle accident - an accident in which a\nvehical hits something. e.g. A car/plane crash e.g. It’s not clear what caused\nthe fatal crash. Synonym: crash, broke down",
+   "audio": "audio/b14/030.mp3"
+  },
+  {
+   "id": "b14-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I like the Scotch on the rocks.",
+   "options": {
+    "A": "I want a roll of Scotch tape.",
+    "B": "I want a whiskey with ice cubes.",
+    "C": "I want to know more about Scottish customs.",
+    "D": "I want to join a Scottish band."
+   },
+   "answer": "B",
+   "explain": "In the bar, the term “rocks” refers to ice. When someone orders a “scotch on\nthe rocks”, they are asking for a straight pour of the house scotch served\nover ice. 蘇格蘭威士忌 加 冰塊\nScotch means a type of whisky (= a strong alcoholic drink) made in Scotland\n蘇格蘭威士忌",
+   "audio": "audio/b14/031.mp3"
+  },
+  {
+   "id": "b14-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The Jury still cannot reach the verdict.",
+   "options": {
+    "A": "They are still unable to make a decision.",
+    "B": "They are still waiting for their bus.",
+    "C": "They have reached a unanimous decision.",
+    "D": "They have found some new evidence."
+   },
+   "answer": "A",
+   "explain": "The word “jury” means “a group of people who have been chosen to listen to\nall the facts in a trial in a law court and to decide if a person is guilty or not\nguilty, or if a claim has been proved”. 陪審團 e.g. members of the jury 陪審\n團成員 e.g. The jury has/have been unable to return a verdict (= reach a\ndecision). 陪審團未能作出裁決。",
+   "audio": "audio/b14/032.mp3"
+  },
+  {
+   "id": "b14-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Traffic is a nightmare at peak times.",
+   "options": {
+    "A": "Traffic is very heavy at peak times.",
+    "B": "Traffic flow is smooth at peak times.",
+    "C": "Traffic is very light at peak times.",
+    "D": "Traffic flow is monitored at peak times."
+   },
+   "answer": "A",
+   "explain": "1. Nightmare:\n(1) A dream that is very frightening or unpleasant.\ne.g. She has a recurring nightmare about the accident.\n(2) an experience that is very frightening and unpleasant, or very difficult to\ndeal with\ne.g. The trip turned into a nightmare when they both got sick.\n2. Peak time - the time when the greatest number of people are doing\nsomething",
+   "audio": "audio/b14/033.mp3"
+  },
+  {
+   "id": "b14-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Overweight baggage is subject to additional fees.",
+   "options": {
+    "A": "Being overweight may cause health problems.",
+    "B": "You may need to eat less to control your weight.",
+    "C": "Being overweight is subject to discrimination.",
+    "D": "You may need to pay extra for excess baggage."
+   },
+   "answer": "D",
+   "explain": "be subject to something: to have or experience a particular thing, especially\nsomething unpleasant 有；遭受，承受 e.g. Cars are subject to a high\ndomestic tax. 買汽車要繳很高的國內稅。 e.g. In recent years, she has been\nsubject to attacks of depression. 近年來，她一直飽受憂鬱症的折磨。",
+   "audio": "audio/b14/034.mp3"
+  },
+  {
+   "id": "b14-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You may bargain at the night market.",
+   "options": {
+    "A": "You may eat a variety of foods at a night market.",
+    "B": "You may see a lot of people at a night market.",
+    "C": "You may have a great time at a night market.",
+    "D": "You may haggle over prices at a night market."
+   },
+   "answer": "D",
+   "explain": "The word “bargain” means “to try to make someone agree to give you\nsomething that is better for you, such as a better price or better working\nconditions”. 討價還價(如價格、工資或工作條件等) e.g. In general, people do\nnot bargain in stores in America. (一般而言，美國的商店是不二價的。)",
+   "audio": "audio/b14/035.mp3"
+  },
+  {
+   "id": "b14-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I’m afraid they may sue you.",
+   "options": {
+    "A": "They may want to hurt you.",
+    "B": "They may want to leave you.",
+    "C": "They may take legal action against you.",
+    "D": "They may see through you."
+   },
+   "answer": "C",
+   "explain": "Sue, a verb, means to make a claim against a person or an organization in\ncourt about something that they have said or done to harm you. e.g. They\nthreatened to sue if the work was not completed.",
+   "audio": "audio/b14/036.mp3"
+  },
+  {
+   "id": "b14-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Stop beating around the bush.",
+   "options": {
+    "A": "Tell me what you want to say directly.",
+    "B": "Stop bullying the young boy.",
+    "C": "Get off at the next stop.",
+    "D": "Don’t make any noise like that."
+   },
+   "answer": "A",
+   "explain": "“Beat around the bush” means “to avoid talking about what is important”.\ne.g. Don’t beat around the bush - get to the point! 可不可以不要拐彎抹角\n啊？講᯿點!",
+   "audio": "audio/b14/037.mp3"
+  },
+  {
+   "id": "b14-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Don’t hog the bathrooms.",
+   "options": {
+    "A": "Don’t use the bathroom for too long.",
+    "B": "Don’t mess up the bathroom.",
+    "C": "Don’t enter the bathroom.",
+    "D": "Don’t leave the bathroom."
+   },
+   "answer": "A",
+   "explain": "Hog when used as a verb, means to use or keep most of something yourself\nand stop others from using or having it. e.g. To hog the bathroom (= to\nspend a long time in it so that others cannot use it).",
+   "audio": "audio/b14/038.mp3"
+  },
+  {
+   "id": "b14-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Tom is a party animal.",
+   "options": {
+    "A": "He hates to go to any parties.",
+    "B": "He is a leader of a political party.",
+    "C": "He enjoy going to a lot of parties.",
+    "D": "He is a rude and vulgar person."
+   },
+   "answer": "C",
+   "explain": "“party animal”means“someone who enjoys parties and party activities very\nmuch and goes to as many as possible”熱衷於社交聚會的人 e.g. Tom's a\nreal party animal - he likes to dance all night. 湯姆很熱衷於參加聚會 - 他喜\n歡整夜跳舞。",
+   "audio": "audio/b14/039.mp3"
+  },
+  {
+   "id": "b14-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Global warming seems to be worsening.",
+   "options": {
+    "A": "Global warming seems to be going from bad to worse.",
+    "B": "Global warming seems to be getting less serious.",
+    "C": "Global warming seems to be brought under control.",
+    "D": "Global warming seems to be made light of."
+   },
+   "answer": "A",
+   "explain": "Worsen, a verb, means to become or make something worse than it was\nbefore.",
+   "audio": "audio/b14/040.mp3"
+  },
+  {
+   "id": "b14-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You need to make a reservation at that restaurant.",
+   "options": {
+    "A": "You need to arrive at the restaurant on time.",
+    "B": "You need to pay cash at the restaurant.",
+    "C": "You need to book a table at the restaurant.",
+    "D": "You need to wait your turn at the restaurant."
+   },
+   "answer": "C",
+   "explain": "“Make a reservation” means to book a table at a restaurant in advance.\nSynonym: make a reservation = book a table",
+   "audio": "audio/b14/041.mp3"
+  },
+  {
+   "id": "b14-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Keep the receipt in case you want to refund.",
+   "options": {
+    "A": "Keep the receipt in case you want your money back.",
+    "B": "Keep the receipt in case you want to exchange goods.",
+    "C": "Keep the receipt in case you need to file a tax return.",
+    "D": "Keep the receipt in case you need our after-sale service."
+   },
+   "answer": "A",
+   "explain": "Keep the receipt 保留收據 In case + 子句: in case 是連接詞片語，用來描述\n「我們要預先做好某些準備，以防萬一」。 常用結構為「in case + 子句」。\ne.g. Take an umbrella with you in case it rains! 帶把雨傘以防下雨！ e.g. We\nhave to look after the children in case they disappear. 我們得照看著孩子\n們，以免他們不見了。 in case of: in case of 是介係詞片語，用來描述「如果\n/ 當事情發生時我們該做些什麼」，意思和 in case 差不多。 因為 of 是介係\n詞，後面通常加名詞或代名詞，常用結構為「 in case of + 名詞 / 代名詞」。\ne.g. In case of emergency, call the police. 如果發生緊急事件，打給警察。\nRefund (v.): to give someone a refund 退還；退（款）；償付 e.g. When I\nwent on business to Peru, the office refunded my expenses. 我到秘魯出差，\n費用由事務所報銷。 (n.) an amount of money that is given back to you,\nespecially because you are not happy with a product or service that you\nhave bought （尤指因為對購買的産品或服務不滿意而追回的）退款，返還\n款，償還金額 e.g. I took the radio back to the shop and asked\nfor/demanded/got/was given a refund. 我把收音機拿回商店，讓他們退款／\n堅決要求店方退款／得到了退款／他們給我辦理了退款。",
+   "audio": "audio/b14/042.mp3"
+  },
+  {
+   "id": "b14-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mr. Johson wired some money to his daughter’s bank account.",
+   "options": {
+    "A": "He withdrew some money from his daughter’s bank account.",
+    "B": "He sent some money to his daughter’s bank account.",
+    "C": "He opened a new bank account for his daughter.",
+    "D": "He found some money in his daughter’s bank account had been stolen."
+   },
+   "answer": "B",
+   "explain": "Wire: 1. Bank - wire means to send money from one bank to another using\nan electronic system 2. Wire something up - to join things together using\nwire e.g. The components have to be wired together in a certain way.",
+   "audio": "audio/b14/043.mp3"
+  },
+  {
+   "id": "b14-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Your plan and hers are identical.",
+   "options": {
+    "A": "Your plan and hers are workable.",
+    "B": "Your plan and hers are exactly the same.",
+    "C": "Your plan and hers are impractical.",
+    "D": "Your plan and hers are completely different."
+   },
+   "answer": "B",
+   "explain": "be identical (adj.) means “exactly the same, or very similar” 完全相同的；極\n為相似的 (你的計劃跟她的計畫很相似) e.g. The two rooms were virtually\nidentical. 這兩個房間幾乎一模一樣。",
+   "audio": "audio/b14/044.mp3"
+  },
+  {
+   "id": "b14-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "To tell you the truth, I’m broke.",
+   "options": {
+    "A": "To tell you the truth, I have no other choice.",
+    "B": "To tell you the truth, I have no hope.",
+    "C": "To tell you the truth, I have no good luck.",
+    "D": "To tell you the truth, I have no money."
+   },
+   "answer": "D",
+   "explain": "Broke means having no money.",
+   "audio": "audio/b14/045.mp3"
+  },
+  {
+   "id": "b14-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Sue has never tried caviar before.",
+   "options": {
+    "A": "Sue has never heard of caviar before.",
+    "B": "Sue has never seen caviar before.",
+    "C": "Sue has never bought caviar before.",
+    "D": "Sue has never eaten caviar before."
+   },
+   "answer": "D",
+   "explain": "Caviar 魚子醬 “Sue has never tried caviar before” means she has never\neaten the food before.",
+   "audio": "audio/b14/046.mp3"
+  },
+  {
+   "id": "b14-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "My mother is a vegan.",
+   "options": {
+    "A": "My mother is a strict vegetarian.",
+    "B": "My mother has a wagon.",
+    "C": "My mother likes bacon very much.",
+    "D": "My mother lives in Oregon."
+   },
+   "answer": "A",
+   "explain": "Vegan is a person who does not eat any animal products such as meat, milk\nor eggs or use animal products such as leather or wool.",
+   "audio": "audio/b14/047.mp3"
+  },
+  {
+   "id": "b14-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The check gave me bounced.",
+   "options": {
+    "A": "It was a bad check.",
+    "B": "It was a blank check.",
+    "C": "It was a traveler’s check.",
+    "D": "It was a cashier’s check."
+   },
+   "answer": "A",
+   "explain": "A bounced check is a slang that cannot be processed because the account\nholder has nonsufficient funds available for use. Banks return, or “bounce”\nthese checks, also known as rubber checks. Passing bad checks can be\nillegal, and the crime can range from a misdemeanor to a felony.",
+   "audio": "audio/b14/048.mp3"
+  },
+  {
+   "id": "b14-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "They’re conducting opinion surveys.",
+   "options": {
+    "A": "They are reflecting public opinion.",
+    "B": "They are ignoring public opinion.",
+    "C": "They are interpreting public opinion.",
+    "D": "They are measuring public opinion."
+   },
+   "answer": "A",
+   "explain": "Opinion survey means to ask people about their opinions toward certain\nissues in order to get information about the general opinion.",
+   "audio": "audio/b14/049.mp3"
+  },
+  {
+   "id": "b14-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The Yankees and the Red Sox have been rivals for decades.",
+   "options": {
+    "A": "The Yankees and the Red Sox have been allies for decades.",
+    "B": "The Yankees and the Red Sox have been opponents for decades.",
+    "C": "The Red Sox defense is superior to Yankees’.",
+    "D": "The Red Sox defense is inferior to Yankees’."
+   },
+   "answer": "B",
+   "explain": "A rival (n.): a person, group, etc. competing with others for the same thing or\nin the same area 競爭對手；敵手 e.g. He beat his closest/nearest rival by 20\nmarks. 他以領先20分的成績打敗了和他水平最接近的對手。 An opponent\n(n.): a person who someone is competing against in a sports event (體育比\n賽中的)對手 A decade (n.): a period of ten years, especially a period such as\n2010 to 2019 十年；年代",
+   "audio": "audio/b14/050.mp3"
+  },
+  {
+   "id": "b14-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I’m really starving now.",
+   "options": {
+    "A": "I’m very thirsty.",
+    "B": "I’m very hungry.",
+    "C": "I’m very frightened now.",
+    "D": "I’m very tired now."
+   },
+   "answer": "B",
+   "explain": "Starve, a verb, means to suffer to die because you do not have enough food\nto eat. “I’m starving” means “I’m really hungry”.",
+   "audio": "audio/b14/051.mp3"
+  },
+  {
+   "id": "b14-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I’ve got to hit the road.",
+   "options": {
+    "A": "I must give it a try.",
+    "B": "I must get some sleep now.",
+    "C": "I must pass a road test.",
+    "D": "I must leave now."
+   },
+   "answer": "D",
+   "explain": "“hit the road” means “to leave a place or begin a journey” 離開，出發 e.g.\nAre you ready to hit the road? → 你準備好動身了嗎？ e.g. We should hit the\nroad in about ten minutes. → 我們應該在大約十分鐘後上路。 另外，「上\n路」也可以用 get going 這個片語來表達。 e.g. Let’s get going so we won’t\nmiss the train. 我們上路吧，免得趕不上火車。",
+   "audio": "audio/b14/052.mp3"
+  },
+  {
+   "id": "b14-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "We are not yet ready to order.",
+   "options": {
+    "A": "We need to put things in order.",
+    "B": "We are about to cross the border.",
+    "C": "We need a few more minutes to decide.",
+    "D": "We are ready to carry out your order."
+   },
+   "answer": "C",
+   "explain": "“Yet” means “still; until the present time” 還，尚；迄今 I haven't spoken to\nher yet. 我還沒和她談過。 He hasn't finished yet. 他還沒完成。 “Are you\nready?” “Not yet - wait a minute.” 「你準備好了嗎？」「還沒有─稍等。」\nThe word “order” means to ask for something to be made, supplied, or\ndelivered, especially in a restaurant or shop (尤指在飯店或商店)點(飯菜)，\n訂購，訂製，訂貨 e.g. I ordered some pasta and a mixed salad. 我點了義大\n利麵條和一份什錦沙拉。",
+   "audio": "audio/b14/053.mp3"
+  },
+  {
+   "id": "b14-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The baby threw up upon me.",
+   "options": {
+    "A": "The baby smiled at me.",
+    "B": "The baby vomited on me.",
+    "C": "The baby kept looking at me.",
+    "D": "The baby pissed on me."
+   },
+   "answer": "B",
+   "explain": "Throw something up means to vomit food. e.g. The baby’s thrown up her\ndinner. Synonym: threw up, vomit",
+   "audio": "audio/b14/054.mp3"
+  },
+  {
+   "id": "b14-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Don’t bite off more than you can chew.",
+   "options": {
+    "A": "Don’t give up so easily.",
+    "B": "Don’t look back when your goal is set.",
+    "C": "Don’t take on more responsibility than you can handle.",
+    "D": "Don’t spend more money than you can afford"
+   },
+   "answer": "C",
+   "explain": "Bite off more than you can chew. : to try to do something that is too difficult\nfor you這句話直譯是「別咬超過你能嚼的東⻄」，意思就是「如果嚼不下，\n就別咬那麼多」，通常勸人要衡ᰁ自己的能力，不要隨便答應幫助別人，承\n擔力所不及的事；不自ᰁ力，以免到頭來累壞自己。這句諺語也可用在勸人\n不要ᰀ心太大，嘗試自己不可能掌握或達成的事物，例如有一些人不顧自身\n的財務狀況，貸款買豪宅名車、餐餐山珍海味，這時別忘了，don’t bite off\nmore than you can chew，哪一天自己無法負擔奢華的生活，連債主都找上\n門，那就糟了！ e.g. Listen Mark, you have a lot of responsibilities already.\nAre you sure you can manage football and your studies and your job? Be\ncareful you don’t bite off more than you can chew. 馬克，聽著，你已經有許\n多事情要做的。現在你要參加學校的美式足球隊，你還要學習，再加上打\n工，你肯定能安排好那麼多事嗎？你得小心，不要不自ᰁ力。",
+   "audio": "audio/b14/055.mp3"
+  },
+  {
+   "id": "b14-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Let’s go Dutch on the meal.",
+   "options": {
+    "A": "Let’s each pay for our own meal.",
+    "B": "Let’s go somewhere else to have lunch.",
+    "C": "Let’s enjoy the meal to the fullest.",
+    "D": "Let’s go to a Dutch restaurant."
+   },
+   "answer": "A",
+   "explain": "to agree to share the cost of something, especially a meal 分攤費用，各付各\n的帳（尤指餐費）",
+   "audio": "audio/b14/056.mp3"
+  },
+  {
+   "id": "b14-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: What color are you going to paint the baby’s room? M: It’s still too early to say. It all depends on whether we’re having a boy or a girl. Q: What color is the man going to paint the baby’s room?",
+   "options": {
+    "A": "Blue.",
+    "B": "Pink.",
+    "C": "Yellow.",
+    "D": "Not decide yet."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "What color are you going to paint the baby’s room?"
+    },
+    {
+     "s": "M",
+     "t": "It’s still too early to say. It all depends on whether we’re having a boy or a girl."
+    },
+    {
+     "s": "Q",
+     "t": "What color is the man going to paint the baby’s room?"
+    }
+   ],
+   "explain": "W: 你有預計要將嬰兒房粉刷成什麼麼顏色嗎?\nM: 現在說還太早。要看我們生男孩還是女孩。\nQ: 這位男人要將嬰兒房分刷成什麼顏色?\n答：d，尚未決定。",
+   "audio": "audio/b14/057.mp3"
+  },
+  {
+   "id": "b14-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: I’d like a lamb chop. M: How would you like your lamb chop? W: Well done, please. Q: Where is the woman?",
+   "options": {
+    "A": "At a lamp shop.",
+    "B": "At a pawn shop.",
+    "C": "At a library.",
+    "D": "At a restaurant."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "I’d like a lamb chop."
+    },
+    {
+     "s": "M",
+     "t": "How would you like your lamb chop?"
+    },
+    {
+     "s": "W",
+     "t": "Well done, please."
+    },
+    {
+     "s": "Q",
+     "t": "Where is the woman?"
+    }
+   ],
+   "explain": "W: 我要點一份羊排。 M: 您的羊排要幾分熟? W: 全熟。 Q: 這位女人在哪?\n答: d，餐廳。 (1) lamb 羊肉",
+   "audio": "audio/b14/058.mp3"
+  },
+  {
+   "id": "b14-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: It’s nice to meet you again, Mr. Lucas. M: Same here, how’s your husband? W: He is fine, but he is retired from the army. Q: Which is the following is true?",
+   "options": {
+    "A": "They are meeting the first time.",
+    "B": "They are husband and wife.",
+    "C": "They have met before.",
+    "D": "They are good soldiers."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "It’s nice to meet you again, Mr. Lucas."
+    },
+    {
+     "s": "M",
+     "t": "Same here, how’s your husband?"
+    },
+    {
+     "s": "W",
+     "t": "He is fine, but he is retired from the army."
+    },
+    {
+     "s": "Q",
+     "t": "Which is the following is true?"
+    }
+   ],
+   "explain": "W: 很高興遇見你，路卡斯先生。 M: 我也是。你丈夫過得如何? W: 他過得很\n好。但他已退伍。 Q: 以下何者正確? 答：c，他們曾經見過面曾經見過面。\n(1) soldier n. 士兵",
+   "audio": "audio/b14/059.mp3"
+  },
+  {
+   "id": "b14-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: What do you think of my new dress? M: It looks very good on you, Jenny. W: Thanks. Q: What does the man mean?",
+   "options": {
+    "A": "The woman looks great in the dress.",
+    "B": "The dress was a good buy.",
+    "C": "The woman deserves the gift.",
+    "D": "The dress looks ordinary."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "What do you think of my new dress?"
+    },
+    {
+     "s": "M",
+     "t": "It looks very good on you, Jenny."
+    },
+    {
+     "s": "W",
+     "t": "Thanks."
+    },
+    {
+     "s": "Q",
+     "t": "What does the man mean?"
+    }
+   ],
+   "explain": "W: 你覺得我新的裙子如何? M: 非常適合你，珍妮。 W: 謝謝。 Q: 這位男人\n的意思是? 答：a，裙子非常適合這位女人。 (1) ordinary adj. 普通的",
+   "audio": "audio/b14/060.mp3"
+  },
+  {
+   "id": "b14-061",
+   "n": 61,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Thanks so much for your help. M: Don’t mention it. What are friends for? Q: What does the man mean?",
+   "options": {
+    "A": "The woman is his girlfriend.",
+    "B": "Friends should help each other.",
+    "C": "The woman is being rude.",
+    "D": "There are friends and friends."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Thanks so much for your help."
+    },
+    {
+     "s": "M",
+     "t": "Don’t mention it. What are friends for?"
+    },
+    {
+     "s": "Q",
+     "t": "What does the man mean?"
+    }
+   ],
+   "explain": "W: 太感謝您的協助。 M: 不客氣。不然如何稱得上朋友。 Q: 請問男人的意思\n是? 答：b，朋友應該幫助彼此",
+   "audio": "audio/b14/061.mp3"
+  },
+  {
+   "id": "b14-062",
+   "n": 62,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Hi, Nancy. Graduation is only a few days away. Have you rented your cap and gown? W: Of course, my mom and dad have been taking pictures of me wearing them all week. Have you rent yours as well? M: I’m going to. Q: What’s going to happen?",
+   "options": {
+    "A": "They’re going to graduate.",
+    "B": "They’re going to get married.",
+    "C": "They’re going to make a tour.",
+    "D": "They’re going to have a party."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Hi, Nancy. Graduation is only a few days away. Have you rented your cap and gown?"
+    },
+    {
+     "s": "W",
+     "t": "Of course, my mom and dad have been taking pictures of me wearing them all week. Have you rent yours as well?"
+    },
+    {
+     "s": "M",
+     "t": "I’m going to."
+    },
+    {
+     "s": "Q",
+     "t": "What’s going to happen?"
+    }
+   ],
+   "explain": "M: 嗨!南⻄。離畢業典禮只剩幾天了。你租了學位帽與學位服了嗎?\nW: 當然租了。我媽與我爸這一週一直拍我穿學位服的照片。那你租了嗎?\nM: 我將要去租了。\nQ: 將會發生什麼事?\n答：a，他們即將畢業。\n(1) gown n. 學位服\n(2) graduation n. 畢業典禮\n(3) taking picture 拍照片\n(4) tour n. 導覽",
+   "audio": "audio/b14/062.mp3"
+  },
+  {
+   "id": "b14-063",
+   "n": 63,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: What does your brother do? W: You mean James, oh, he works as an intelligence officer at the air force. Q: Where does the woman’s brother work?",
+   "options": {
+    "A": "In CIA.",
+    "B": "In the police department.",
+    "C": "In FBI.",
+    "D": "In the military."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "What does your brother do?"
+    },
+    {
+     "s": "W",
+     "t": "You mean James, oh, he works as an intelligence officer at the air force."
+    },
+    {
+     "s": "Q",
+     "t": "Where does the woman’s brother work?"
+    }
+   ],
+   "explain": "M: 你哥哥從事什麼工作?\nW: 你說詹姆士喔，他在空軍擔任情報官的工作。\nQ: 請問女人的哥哥在哪工作?\n答：d，在軍方。",
+   "audio": "audio/b14/063.mp3"
+  },
+  {
+   "id": "b14-064",
+   "n": 64,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Susan didn’t make the splash when she dove into the water. W: A perfect entry, she’s been practicing since she was six. Q: Which of the following is Susan good at?",
+   "options": {
+    "A": "Swimming.",
+    "B": "Diving.",
+    "C": "Surfing.",
+    "D": "Water ballet."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Susan didn’t make the splash when she dove into the water."
+    },
+    {
+     "s": "W",
+     "t": "A perfect entry, she’s been practicing since she was six."
+    },
+    {
+     "s": "Q",
+     "t": "Which of the following is Susan good at?"
+    }
+   ],
+   "explain": "M: 蘇珊在跳水的過程中沒有濺起水花。 W: 完美入水。她自從6歲起就開始練\n習跳水。 Q: 以下哪一個是蘇珊的強項? 答：b，跳水 (1) splash n. 水花 (2)\ndiving n. 跳水、潛水 (3) surfing n. 衝浪 (4) water ballet 水上芭蕾",
+   "audio": "audio/b14/064.mp3"
+  },
+  {
+   "id": "b14-065",
+   "n": 65,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Would you like to come to my house warming party? W: I’d love to. Can I bring my friend along? M: Sure, he is welcome. W: But that friend is the woman, Q: What’s the man going to celebrate?",
+   "options": {
+    "A": "His promotion.",
+    "B": "His moving into a new house.",
+    "C": "His wedding anniversary.",
+    "D": "His success in the housing market."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Would you like to come to my house warming party?"
+    },
+    {
+     "s": "W",
+     "t": "I’d love to. Can I bring my friend along?"
+    },
+    {
+     "s": "M",
+     "t": "Sure, he is welcome."
+    },
+    {
+     "s": "W",
+     "t": "But that friend is the woman,"
+    },
+    {
+     "s": "Q",
+     "t": "What’s the man going to celebrate?"
+    }
+   ],
+   "explain": "M: 你想來參加我的喬遷派對嗎?\nW: 我想去。我可以帶我的朋友一起去嗎？\nM: 當然可以，我也歡迎他。\nW: 但我的朋友是女的唷。\nQ: 這個男人即將慶祝什麼?\n答：b，他剛搬入新家。\n(1) house warming party 慶祝喬遷之喜的派對\n(2) wedding anniversary 結婚周年紀念\n(3) celebrate v. 慶祝",
+   "audio": "audio/b14/065.mp3"
+  },
+  {
+   "id": "b14-066",
+   "n": 66,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Wow, you look totally different. What have you done? W: I lost 20 pounds in three weeks. M: Are you free tonight? Q: What has happened to the woman?",
+   "options": {
+    "A": "She has been working hard for three weeks.",
+    "B": "She has lost some money.",
+    "C": "She has changed her job recently.",
+    "D": "She has lost some weight."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Wow, you look totally different. What have you done?"
+    },
+    {
+     "s": "W",
+     "t": "I lost 20 pounds in three weeks."
+    },
+    {
+     "s": "M",
+     "t": "Are you free tonight?"
+    },
+    {
+     "s": "Q",
+     "t": "What has happened to the woman?"
+    }
+   ],
+   "explain": "M: 哇，你看起來很不一樣唷。你做了什麼? W: 我在3週內瘦了20磅。 M: 你\n今晚有空嗎? Q: 請問女人發生了什麼事? 答：d，她瘦了。",
+   "audio": "audio/b14/066.mp3"
+  },
+  {
+   "id": "b14-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I got into the habit of keeping a ________ when I went to high school.",
+   "options": {
+    "A": "diary",
+    "B": "dairy",
+    "C": "daily",
+    "D": "diet"
+   },
+   "answer": "A",
+   "explain": "句意: 我上高中時養成了養日記的習慣。 Keep a diary 寫日記 例句: It is a\ngood habit to keep a diary every day. 每天寫日記是一種好習慣。"
+  },
+  {
+   "id": "b14-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "You need vegetables like _______ and tuna to make this salad.",
+   "options": {
+    "A": "pork",
+    "B": "lettuce",
+    "C": "toast",
+    "D": "soap"
+   },
+   "answer": "B",
+   "explain": "你需要蔬菜像 _____ 和鮪魚來做沙拉 空格要選蔬菜類 Lettuce: a plant with\nlarge, green leaves, eaten uncooked in salads生菜；萵苣"
+  },
+  {
+   "id": "b14-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "_______ Peter or you on night duty three days ago?",
+   "options": {
+    "A": "Is",
+    "B": "Are",
+    "C": "Was",
+    "D": "Were"
+   },
+   "answer": "C",
+   "explain": "句意: 三天前是彼得或您上夜班？ Duty: (n.) one of the periods of time that a\nworking day is divided into during which someone works On duty: 當值, 上班\nSorry, I can't come with. I am on duty tonight, worst luck."
+  },
+  {
+   "id": "b14-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "As _______, I got up 6:30 on the morning.",
+   "options": {
+    "A": "usual",
+    "B": "casual",
+    "C": "usually",
+    "D": "casually"
+   },
+   "answer": "A",
+   "explain": "as usual像往常一樣 Usual: adj. normal通常的；慣常的 casual: adj. informal\n休閒的; not interested 漫不經心的; temporary臨時的 casually: adv. usually:\nadv."
+  },
+  {
+   "id": "b14-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Your headaches ________ easily be relieved by taking aspirin on a regular basis.",
+   "options": {
+    "A": "have",
+    "B": "ought",
+    "C": "may",
+    "D": "need"
+   },
+   "answer": "C",
+   "explain": "句意:定期服用阿司匹林可以輕鬆緩解頭痛。 May: used to express possibility\n(表示可能性）可能，也許 Relieve: (v.) to make an unpleasant feeling, such\nas pain or worry, less strong There must be some way you can relieve the\npain. Take +medicine 服藥"
+  },
+  {
+   "id": "b14-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "You may pay with a credit card _______ you want to pay in cash.",
+   "options": {
+    "A": "unless",
+    "B": "until",
+    "C": "when",
+    "D": "while"
+   },
+   "answer": "A",
+   "explain": "句意: 您可以用信用卡付款，除非您想用現金付款。"
+  },
+  {
+   "id": "b14-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The customs officer caught a woman using a ________ passport.",
+   "options": {
+    "A": "fake",
+    "B": "genuine",
+    "C": "formal",
+    "D": "general"
+   },
+   "answer": "A",
+   "explain": "解析: catch +someone+ doing something 感官動詞後面加上現在分詞的話，\n強調的是「動作的當下、連續性」 例句：The teacher caught John sleeping\nin class. （老師抓到 John 上課睡覺。） 因為後面接的是現在分詞\nsleeping，表示這邊著᯿在「當下正在睡覺」。 句意: 海關官員抓獲了一名婦\n女使用假護照。 Fake: (adj.) not real, but made to look or seem real假的，偽\n造的 He was charged with possessing a fake passport."
+  },
+  {
+   "id": "b14-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "If it _______ tomorrow morning, the picnic will be called off.",
+   "options": {
+    "A": "rain",
+    "B": "rains",
+    "C": "rained",
+    "D": "would rain"
+   },
+   "answer": "B",
+   "explain": "如果明天早上下雨，ᰀ餐將會取消 明天早上尚未發生，屬於可能會發生的事\n實 If 子句 用現在式，主要子句用未來式。 (1) Call off: to decide that a\nplanned event, especially a sports event, will not happen, or to end an\nactivity because it is no longer useful or possible取消，停止 e.g. Tomorrow's\nmatch has been called off because of the icy weather."
+  },
+  {
+   "id": "b14-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Although hardly heard of years ago, the small town is becoming known ________ a holiday resort.",
+   "options": {
+    "A": "by",
+    "B": "to",
+    "C": "for",
+    "D": "as"
+   },
+   "answer": "D",
+   "explain": "句意:儘管幾年前鮮有聽說，但這個小鎮已成為度假勝地。 Known as sth: If\nsomeone or something is known as a particular name, that person or thing is\ncalled by that name. 被稱作…的；以…聞名的 Bill Gates is known as a\nsuccessful entrepreneur. Resort (n.) a place where many people go for rest,\nsport, or another stated purpose 渡假勝地；旅遊勝地 The resort is easily\naccessible by road, rail and air."
+  },
+  {
+   "id": "b14-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "They are funny-looking couple. The husband is very short ________ the wife is very tall.",
+   "options": {
+    "A": "where",
+    "B": "whether",
+    "C": "while",
+    "D": "when"
+   },
+   "answer": "C",
+   "explain": "他們是對長得很有趣的夫妻。先生很矮但太太很高 While = but"
+  },
+  {
+   "id": "b14-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The drill sergeant is very kind. He is not strict ________.",
+   "options": {
+    "A": "at hand",
+    "B": "at all",
+    "C": "in hand",
+    "D": "in all"
+   },
+   "answer": "B",
+   "explain": "這位教育班長很好。他一點也不嚴格。 Not at all = 一點也不"
+  },
+  {
+   "id": "b14-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "________ that your son is still so young, he has a lot of potential.",
+   "options": {
+    "A": "Give",
+    "B": "Giving",
+    "C": "To give",
+    "D": "Given"
+   },
+   "answer": "D",
+   "explain": "解析: 「given that + S + V」意指「考慮到…；有鑒於…」 句意: 鑑於您的兒\n子還這麼年輕，他有很大的潛力。 例句: Given that Chinese New Year is\ncoming, here are some great gift ideas. 有鑑於農曆新年即將到來，這裡有些\n送禮的好點子。 Potential: (noun) someone's or something's ability to\ndevelop, achieve, or succeed 潛力，潛能 You have the potential to reach\nthe top of your profession."
+  },
+  {
+   "id": "b14-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "My older brother was _______ military service because of some health problems.",
+   "options": {
+    "A": "diagnosed with",
+    "B": "derived from",
+    "C": "equipped with",
+    "D": "exempted from"
+   },
+   "answer": "D",
+   "explain": "句意:由於某些健康問題，我哥哥被豁免服兵役。 exempt (v.) to excuse\nsomeone or something from a duty, payment, etc.免除 Good students are\nexempted from attending study hall."
+  },
+  {
+   "id": "b14-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I won’t give you any hints. _______ if you can solve the riddle",
+   "options": {
+    "A": "See",
+    "B": "Seeing",
+    "C": "Seen",
+    "D": "To see"
+   },
+   "answer": "A",
+   "explain": "我不會給你任何暗示。看你是否會解開謎語 See if you can solve the riddle.\n此為祈使句，if 是連接詞 = whether Riddle: a type of question that describes\nsomething in a difficult and confusing way and has a clever or funny answer,\noften asked as a game 謎；謎語"
+  },
+  {
+   "id": "b14-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "________ the rookie player hit a home run surprised all the other team members.",
+   "options": {
+    "A": "That",
+    "B": "What",
+    "C": "Then",
+    "D": "When"
+   },
+   "answer": "A",
+   "explain": "這個菜鳥選手打了全壘打令所有其他隊友都很驚訝 用that 引導名詞子句( That\nthe rookie player hit a home run) 做為整句的主詞"
+  },
+  {
+   "id": "b14-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Beyoncé’s latest album is _______ better than her previous ones.",
+   "options": {
+    "A": "a few",
+    "B": "a kind",
+    "C": "a way",
+    "D": "a lot"
+   },
+   "answer": "D",
+   "explain": "詳 Beyonce最新的專輯比她前一張專輯好很多 形容詞比較級前面可用副詞\n(如: much, a lot, a little, even)來修飾 (1) album: a collection of several pieces\nof music, made available as a single item on a CD, the internet, etc.（CD或\n唱片上的）音樂專輯 (2) previous: adj. happening or existing before\nsomething or someone else 以前的，先前的 (3) Training is provided, so no\nprevious experience is required for the job."
+  },
+  {
+   "id": "b14-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "________ definition, work is what you have to do and play is what you enjoy doing.",
+   "options": {
+    "A": "By",
+    "B": "On",
+    "C": "For",
+    "D": "With"
+   },
+   "answer": "A",
+   "explain": "by definition: because of its own features根據定義；從本質上來說"
+  },
+  {
+   "id": "b14-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "As a soldier, I know it is my responsibility to _______ my country.",
+   "options": {
+    "A": "defend",
+    "B": "award",
+    "C": "polish",
+    "D": "offer"
+   },
+   "answer": "A",
+   "explain": "做為軍人我知道我的責任是保護我的國家 (1) responsibility: n. something that\nit is your job or duty to deal with職責；責任 She takes her responsibilities as\na nurse very seriously. (2) defend: v. to protect someone or something\nagainst attack or criticism; to speak in favour of someone or something 保\n護，防衛；為…辯護 They are fighting to defend their beliefs/interests/rights.\n(3) award: v. to give money or a prize following an official decision給予，授\n予 The university has awarded her a $500 travel grant. (4) polish: v. to rub\nsomething using a piece of cloth or brush to clean it and make it shine 擦，\n擦亮，磨光 Polish your shoes regularly to protect the leather."
+  },
+  {
+   "id": "b14-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "A _______ event was held in order to raise money for the earthquake victims.",
+   "options": {
+    "A": "reality",
+    "B": "logic",
+    "C": "charity",
+    "D": "tragic"
+   },
+   "answer": "C",
+   "explain": "舉辦一場 _____ 活動為了要募款給地震受災的人 (1) charity: n. 慈善[U]；施\n捨善舉[U]; 慈善機構 (2) They did a charity performance on the first night, to\nraise money for AIDS research. (3) reality: n.現實；實際情況 (4) logic: n. 邏\n輯 (5) tragic: adj.悲劇的 (6) victim: someone or something that has been\nhurt, damaged, or killed or has suffered, either because of the actions of\nsomeone or something else, or because of illness or chance受害者；罹難\n者；犧牲者；犧牲品"
+  },
+  {
+   "id": "b14-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Rock climbing is very dangerous. You can’t talk me _______ it.",
+   "options": {
+    "A": "for",
+    "B": "on",
+    "C": "at",
+    "D": "into"
+   },
+   "answer": "D",
+   "explain": "攀岩是很危險的。你不能說服我去做 (1) talk sb into sth: to persuade\nsomeone to do something說服（某人）做 e.g. He's against the idea, but I\nthink I can talk him into it."
+  },
+  {
+   "id": "b14-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Some of the soldiers _______ themselves as civilians.",
+   "options": {
+    "A": "inspired",
+    "B": "pretended",
+    "C": "disguised",
+    "D": "matched"
+   },
+   "answer": "C",
+   "explain": "句意:一些士兵偽裝成平⺠。 Disguise (v.) to give a new appearance to a\nperson or thing, especially in order to hide its true form 將…偽裝起來 He\ndisguised himself by wearing a false beard."
+  },
+  {
+   "id": "b14-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "If you eat food that has gone _______, you may get food poisoning.",
+   "options": {
+    "A": "bad",
+    "B": "badly",
+    "C": "mad",
+    "D": "madly"
+   },
+   "answer": "A",
+   "explain": "若你吃到已經腐壞的食物,你可能會食物中毒 (1) go bad: 變酸；開始腐壞 (2)\nMilk goes bad quickly if it is not refrigerated. (3) Poison: n. a substance that\ncan make people or animals ill or kill them if they eat or drink it 毒；毒藥，毒\n物; v. 下毒;使（水、空氣等）受污染 He said that someone had poisoned his\ncoffee."
+  },
+  {
+   "id": "b14-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Those who support Mr. Johnson are people coming from all _______ of life.",
+   "options": {
+    "A": "levels",
+    "B": "corners",
+    "C": "sides",
+    "D": "walks"
+   },
+   "answer": "D",
+   "explain": "那些幫助Johnson先生的人是來自各行各業的人 all walks of life=各行各業的\n人: When people talk about walk(s) of life, they are referring to different\ntypes of jobs and different levels of society."
+  },
+  {
+   "id": "b14-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "_______ the price war began, the telephones at our travel agency have been ringing off the hooks.",
+   "options": {
+    "A": "When",
+    "B": "Since",
+    "C": "Before",
+    "D": "After"
+   },
+   "answer": "B",
+   "explain": "解析: Since是用來表達時間，也就是「自從…」的意思。ring off the hooks電\n話鈴聲不斷 句意:自價格戰開始以來，我們旅行社的電話一直在忙碌。 Off the\nhook 解脫了(逃脫、擺脫原本應負的義務、責任) Hell yeah! There is\nsupposed to be a business trip to the south, but typhoon's coming so I'm off\nthe hook! Yeh~~~ Thanks lord! 電話響個不停(意指非常忙碌) Man, I'm\nhaving a really hectic day in my office and my phone literally rings off the\nhook!"
+  },
+  {
+   "id": "b14-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "________ a jet fighter on an aircraft carrier requires precision flying.",
+   "options": {
+    "A": "Landing",
+    "B": "Loading",
+    "C": "Lifting",
+    "D": "Lighting"
+   },
+   "answer": "A",
+   "explain": "句意:將噴氣式戰鬥機降落在航空母艦上需要精確的飛行。 Precision (n.) the\nquality of being exact 精準 Precision bombing was used to destroy enemy\nairbases and armaments factories."
+  },
+  {
+   "id": "b14-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Let me check my ________ to see if I’m free on that day.",
+   "options": {
+    "A": "symbol",
+    "B": "signal",
+    "C": "schedule",
+    "D": "structure"
+   },
+   "answer": "C",
+   "explain": "句意:讓我查看我的日程安排，看看那天是否有空。 Schedule (n.) a list of\nplanned activities or things to be done showing the times or dates when they\nare intended to happen or be done 計劃表；日程表；進度表 Everything\nwent according to schedule"
+  },
+  {
+   "id": "b14-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "A lot of people prefer brisk walking to jogging because they believe the _______ may eventually harm their knees.",
+   "options": {
+    "A": "later",
+    "B": "latter",
+    "C": "least",
+    "D": "last"
+   },
+   "answer": "B",
+   "explain": "很多人較喜歡快步走勝過於慢跑，因為他們相信後者可能最後會傷害他們的\n膝蓋 (1) brisk: adj. quick, energetic, and active輕快的 (2) the latter: the\nsecond of two people, things, or groups previously mentioned (提及的兩者中\n的)後者 e.g. Here are Tom and David; the latter is my brother. (3) later: adj.\nadv. at a time in the future or after the time you have mentioned晚些時候；\n過些時間 e.g. He'll be back later. e.g. You can always change your password\nat a later date."
+  },
+  {
+   "id": "b14-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Technology is not bad, but we must know how to use it ________.",
+   "options": {
+    "A": "sensitively",
+    "B": "sensibly",
+    "C": "physically",
+    "D": "painfully"
+   },
+   "answer": "B",
+   "explain": "句意:科技是還不錯，但是我們必須知道明智地使用它。\nSensibly (adv.)in a sensible or practical way 明智合理地；切合實際地\nShe wasn't very sensibly dressed for hiking."
+  },
+  {
+   "id": "b14-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The plot of the movie is nothing special, but its sound _________ are impressive.",
+   "options": {
+    "A": "forces",
+    "B": "volumes",
+    "C": "effects",
+    "D": "waves"
+   },
+   "answer": "C",
+   "explain": "這部電影的情節不特別但是它的音效令人印象深刻 (1) Sound effect: in a\nradio or television programme or a film, one of the sounds other than speech\nor music that are added to make it seem more exciting or real 音響效果 (2)\nForce力ᰁ; volume音ᰁ; wave波浪 (3) Impressive: If an object or\nachievement is impressive, you admire or respect it, usually because it is\nspecial, important, or very large.予人深刻印象的 (4) The general is an\nimpressive man."
+  },
+  {
+   "id": "b14-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Can you arrange the goods ________ before Christmas?",
+   "options": {
+    "A": "to deliver",
+    "B": "delivering",
+    "C": "to be delivered",
+    "D": "being delivered"
+   },
+   "answer": "C",
+   "explain": "句意:您可以安排聖誕節前出貨嗎？ Deliver (v.) to take goods, letters,\nparcels, etc. to people's houses or places of work 運送 The furniture store is\ndelivering our new bed on Thursday."
+  },
+  {
+   "id": "b14-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Wheat is ________ into flour before it can be made bread or noodles.",
+   "options": {
+    "A": "ground",
+    "B": "grounded",
+    "C": "found",
+    "D": "founded"
+   },
+   "answer": "A",
+   "explain": "句意:在將小麥製成麵包或麵條之前，先將其磨成麵粉。\ngrind: (v.) ground / ground pp. pt.\nto make something into small pieces or a powder by pressing between hard\nsurfaces\n碾碎，磨碎，把…磨成粉\nThey grind the grain into flour."
+  },
+  {
+   "id": "b14-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Who I’ll marry or when I’ll get married _________ no business of yours.",
+   "options": {
+    "A": "do",
+    "B": "does",
+    "C": "are",
+    "D": "is"
+   },
+   "answer": "D",
+   "explain": "我嫁給誰或我何時結婚這不關你的事 It’s no business of yours = It’s none of\nyour business = It’s not your business"
+  },
+  {
+   "id": "b14-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "We are all familiar with such a phenomenon. It is an economic process in which prices increase while money becomes less valuable. What could be bought only several years ago with one dollar now costs well over two dollars. Based on the passage, what is such a phenomenon?",
+   "options": {
+    "A": "Adaptation",
+    "B": "Capitalization",
+    "C": "Gravitation",
+    "D": "Inflation"
+   },
+   "answer": "D",
+   "explain": "句意:我們都熟悉這種現象。這是一個經濟過程，價格上漲，而金錢的價值下\n降。幾年前可以用1美元買到的東⻄現在要花費超過2美元。根據這段話，這\n是什麼現象？\nInflation: (n.) an increase in prices over time, causing a reduction in the\nvalue of money 通貨膨脹\nThe agency's budget has not kept pace with inflation and the staff has been\ncut.\nPhenomenon: (n.) something that exists and can be seen, felt, tasted, etc.,\nespecially something unusual or interesting現象\nThere's evidence to suggest that child abuse is not just a recent\nphenomenon."
+  },
+  {
+   "id": "b14-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Shaking hands is a polite gesture indicating friendship and acceptance. At one time, however, encountering a stranger aroused suspicion and fear. To prevent each other from suddenly attacking, strangers joined their right hands as a pledge of peace, thus expressing that neither party was about to use a weapon. Which of the following is closest in meaning to the word “pledge”?",
+   "options": {
+    "A": "preview",
+    "B": "preparation",
+    "C": "promise",
+    "D": "project"
+   },
+   "answer": "C",
+   "explain": "句意:握手是一種禮貌的手勢，表示友誼和接受。然而，一次，遇到一個陌生\n人引起了懷疑和恐懼。為了防止對方突然發動進攻，陌生人互牽右手，以表\n示和平的誓言，因此表示雙方都不會使用武器。下列哪項在含義上最接近“承\n諾”一詞？\nAcceptance (n.) general agreement that something is satisfactory or right, or\nthat someone should be included in a group認可；接納\nOur aim is to provide a place where disturbed young people can find\nacceptance and understanding.\nPledge (n.) a serious or formal promise, especially one to give money or to\nbe a friend, or something that you give as a sign that you will keep a\npromise 諾言；保證\nAll the candidates have made pledges not to raise taxes if they are elected.\nIndicate (v.) to show, point, or make clear in another way 標示；表明；顯示\nOur survey indicates that one in four children is bullied at school.\nEncounter (v.) to meet someone unexpectedly偶然碰到\nOn their way home they encountered a woman selling flowers.\nArouse (v.) to cause someone to have a particular feeling 引起；喚起；激起\nIt's a subject that has aroused a lot of interest."
+  }
+ ]
+}

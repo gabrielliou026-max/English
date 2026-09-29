@@ -1,0 +1,1789 @@
+{
+ "bank": "19",
+ "title": "第 19 回",
+ "questions": [
+  {
+   "id": "b19-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "They wanted to know the test grades. Q: What did they want to know?",
+   "options": {
+    "A": "the results of the examination",
+    "B": "if they passed the examination",
+    "C": "if they failed the examination",
+    "D": "the levels included in the examination"
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "They wanted to know the test grades."
+    },
+    {
+     "s": "Q",
+     "t": "What did they want to know?"
+    }
+   ],
+   "explain": "解析:他們想知道考試成績。問：他們想知道什麼？依據句意 答案選a (考試結\n果)",
+   "audio": "audio/b19/001.mp3"
+  },
+  {
+   "id": "b19-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Would you please have her call me back as soon as she gets in?",
+   "options": {
+    "A": "OK, I will see to it myself.",
+    "B": "Sorry, I’m not supposed to call her while I am on duty.",
+    "C": "Sure. You can call her anytime you like.",
+    "D": "Well I’m not sure if I should call her."
+   },
+   "answer": "A",
+   "explain": "解析: 句意:請你讓她一進來就給我回電話好嗎？\na) 好的，我會親自處理。\nb) 對不起，我不應該在我值班的時候給她打電話。\nc) 當然。 你可以隨時給她打電話。\nd) 好吧，我不確定我是否應該給她打電話。\n依據句意 答案 選a",
+   "audio": "audio/b19/002.mp3"
+  },
+  {
+   "id": "b19-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Can you really type 65 words per minute?",
+   "options": {
+    "A": "Yes, there are many ways to overcome it.",
+    "B": "Yes, sometimes even 70.",
+    "C": "No, there are actually only fifty.",
+    "D": "No, thank you. She is not my type."
+   },
+   "answer": "B",
+   "explain": "解析:句意:你真的能每分鐘輸入 65個字嗎？依據句意 答案選b(是的，有時甚\n至是 70。)",
+   "audio": "audio/b19/003.mp3"
+  },
+  {
+   "id": "b19-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Bill goes to bed at midnight every night. But last night he went to bed at 8 o'clock. What time does Bill usually go to bed?",
+   "options": {
+    "A": "at 8 o'clock",
+    "B": "at 9 o'clock",
+    "C": "at 2400",
+    "D": "one hour after 9 o’clock"
+   },
+   "answer": "C",
+   "explain": "解析:句意比爾每天晚上半夜睡覺。 但昨晚他8點就上床睡覺了。 比爾通常幾\n點睡覺？依據句意 答案選c",
+   "audio": "audio/b19/004.mp3"
+  },
+  {
+   "id": "b19-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Helen has a long weekend in which to celebrate Labor Day. Q: What is a long weekend?",
+   "options": {
+    "A": "a very tiresome weekend",
+    "B": "a very busy weekend",
+    "C": "a weekend that he has been waiting for",
+    "D": "a weekend having more than two days"
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Helen has a long weekend in which to celebrate Labor Day."
+    },
+    {
+     "s": "Q",
+     "t": "What is a long weekend?"
+    }
+   ],
+   "explain": "解析:海倫有一個長周末來慶祝勞動節。問：什麼是長周末？依據句意 答案選\nd (超過兩天的周末)",
+   "audio": "audio/b19/005.mp3"
+  },
+  {
+   "id": "b19-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Jim went to town yesterday to buy a pair of shoes. Q: Where did he go?",
+   "options": {
+    "A": "Yesterday",
+    "B": "to town",
+    "C": "to buy shoes",
+    "D": "Jim went there"
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Jim went to town yesterday to buy a pair of shoes."
+    },
+    {
+     "s": "Q",
+     "t": "Where did he go?"
+    }
+   ],
+   "explain": "解析:句意吉姆昨天去鎮上買了一雙鞋。問：他去哪兒了？依據句意 答案選b",
+   "audio": "audio/b19/006.mp3"
+  },
+  {
+   "id": "b19-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Can you call back later? I'm terribly busy right now.",
+   "options": {
+    "A": "But I have a very urgent message for you.",
+    "B": "No, I'm not that busy.",
+    "C": "It really isn't that terrible; don't worry about it.",
+    "D": "Probably take me twenty minutes to get ready."
+   },
+   "answer": "A",
+   "explain": "解析:句意:可以稍後再打嗎？ 我現在非常忙。依據句意 答案選a (但是我有一\n個非常緊急的消息要給你。)",
+   "audio": "audio/b19/007.mp3"
+  },
+  {
+   "id": "b19-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The officer said, \"Come here.\" What should the soldier do?",
+   "options": {
+    "A": "stand at attention",
+    "B": "move toward the officer",
+    "C": "move to the rear",
+    "D": "salute the officer"
+   },
+   "answer": "B",
+   "explain": "解析: 句意:軍官說：“過來。” 軍人應該怎麼做？ 依據句意 答案選 b (走向軍\n官)",
+   "audio": "audio/b19/008.mp3"
+  },
+  {
+   "id": "b19-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "question",
+   "stem": "George said the room was stuffy. Q: What was he saying about the room?",
+   "options": {
+    "A": "It was too small.",
+    "B": "It had too much furniture.",
+    "C": "The room was empty.",
+    "D": "The air was not fresh."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "George said the room was stuffy."
+    },
+    {
+     "s": "Q",
+     "t": "What was he saying about the room?"
+    }
+   ],
+   "explain": "解析:喬治說房間很悶。問：他說了房間什麼？依據句意 答案選d(空氣不新\n鮮。)",
+   "audio": "audio/b19/009.mp3"
+  },
+  {
+   "id": "b19-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Jack asked the student, \"When did you arrive\" Jack wants to know ______",
+   "options": {
+    "A": "when he started",
+    "B": "when he came",
+    "C": "when he left",
+    "D": "why he was here"
+   },
+   "answer": "B",
+   "explain": "解析: 句意傑克問學生：“你什麼時候到的？” 傑克想知道____? 依據句意 答案\n選b (他來的時候)",
+   "audio": "audio/b19/010.mp3"
+  },
+  {
+   "id": "b19-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "There are empty seats at the rear of the theater. Q: Where are the empty seats?",
+   "options": {
+    "A": "in the back",
+    "B": "in the middle",
+    "C": "at the side",
+    "D": "in the front"
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "There are empty seats at the rear of the theater."
+    },
+    {
+     "s": "Q",
+     "t": "Where are the empty seats?"
+    }
+   ],
+   "explain": "解析: 劇院後面有空座位。Q：空位在哪裡？依據句意 答案選a (在後面)",
+   "audio": "audio/b19/011.mp3"
+  },
+  {
+   "id": "b19-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The new bank is on the other side of town. Q: Where is it?",
+   "options": {
+    "A": "in the center of town",
+    "B": "across town",
+    "C": "south of town",
+    "D": "in another town"
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "The new bank is on the other side of town."
+    },
+    {
+     "s": "Q",
+     "t": "Where is it?"
+    }
+   ],
+   "explain": "解析:句意新銀行在鎮的另一邊。問：它在哪裡？依據句意 答案選b",
+   "audio": "audio/b19/012.mp3"
+  },
+  {
+   "id": "b19-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Will you be at the company banquet on Saturday?",
+   "options": {
+    "A": "No, the doors are locked. Everyone must have gone home.",
+    "B": "There were a few people missing, but most were there.",
+    "C": "Sure, my wife and I are looking forward to it.",
+    "D": "Couldn't you cancel it? We'd like to see you there."
+   },
+   "answer": "C",
+   "explain": "解析:句意:週六的公司宴會你會去嗎？依據句意 答案選c(當然，我和我的妻子\n都很期待。)",
+   "audio": "audio/b19/013.mp3"
+  },
+  {
+   "id": "b19-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "question",
+   "stem": "His engine cut out when he was at eight thousand feet. What happened to his engine?",
+   "options": {
+    "A": "It stalled.",
+    "B": "It dropped on the ground.",
+    "C": "It made a loud sound.",
+    "D": "It started after being off a while."
+   },
+   "answer": "A",
+   "explain": "解析: 句意:當他在八千英尺的高度時，他的引擎熄火了。 他的引擎怎麼了？\na. 它停滯了。b.它掉在地上。c.它發出了響亮的聲音。d. 休息一段時間後就開\n始了。依據句意 答案 選a",
+   "audio": "audio/b19/014.mp3"
+  },
+  {
+   "id": "b19-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Joe's teacher told him to be alert. Q: What did Joe have to do?",
+   "options": {
+    "A": "tell everyone",
+    "B": "eat slowly",
+    "C": "pay attention",
+    "D": "run to the basement"
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Joe's teacher told him to be alert."
+    },
+    {
+     "s": "Q",
+     "t": "What did Joe have to do?"
+    }
+   ],
+   "explain": "解析:句意喬的老師告訴他要保持警惕。問：喬必須做什麼？依據句意 答案選\nc (專心注意)",
+   "audio": "audio/b19/015.mp3"
+  },
+  {
+   "id": "b19-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "question",
+   "stem": "He was given an order to report to the office. What was he given?",
+   "options": {
+    "A": "an argument",
+    "B": "a command",
+    "C": "a form",
+    "D": "a report"
+   },
+   "answer": "B",
+   "explain": "解析: 句意:他接到了向辦公室報告的命令。 他得到了什麼？ 依據句意 答案\n選b (命令)",
+   "audio": "audio/b19/016.mp3"
+  },
+  {
+   "id": "b19-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Where is the basement of the building?",
+   "options": {
+    "A": "beneath the ground floor",
+    "B": "on the main floor",
+    "C": "between the first and second floors",
+    "D": "on the roof"
+   },
+   "answer": "A",
+   "explain": "解析: 句意大樓的地下室在哪裡？依據句意 答案選a (在一樓之下)",
+   "audio": "audio/b19/017.mp3"
+  },
+  {
+   "id": "b19-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Your suit is nice; you really look sharp.",
+   "options": {
+    "A": "I haven't gotten it back from the tailor's yet.",
+    "B": "Thank you. It was a gift from my girlfriend.",
+    "C": "I'll be careful not to cut anyone.",
+    "D": "I couldn't afford it; it was too expensive."
+   },
+   "answer": "B",
+   "explain": "解析:句意:你的⻄裝很好看； 你看起來真有型。講一個人看起來很 sharp, 或\n衣著很 sharp, 是說很好看, 很有型的意思。依據句意 答案選b(謝謝你。 這是\n我女朋友送給我的禮物。) Sharp 其他特殊的意思如下: 1. 在時間的後面接\nsharp, 是表示 ”......點整” 的意思 比如: We have to be there at 10:00 A.M.\nsharp. 2. sharp 在指一個人的時候, 是說此人觀察力很強, 或反應很快, 很聰明\n例如: Kay is really",
+   "audio": "audio/b19/018.mp3"
+  },
+  {
+   "id": "b19-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Jay bought a portable typewriter. Q: What type did he get?",
+   "options": {
+    "A": "one easy to carry",
+    "B": "a large one",
+    "C": "one for the office",
+    "D": "an old brand"
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Jay bought a portable typewriter."
+    },
+    {
+     "s": "Q",
+     "t": "What type did he get?"
+    }
+   ],
+   "explain": "解析:傑買了一台便攜式打字機。問：他得到的是什麼類型的？依據句意 答案\n選a (一個便於攜帶)",
+   "audio": "audio/b19/019.mp3"
+  },
+  {
+   "id": "b19-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Mr. Smith said, \"Look at this column in the newspaper.\" What does he want you to look at?",
+   "options": {
+    "A": "the advertising page",
+    "B": "vertical section of print",
+    "C": "a mistake on a page",
+    "D": "the headline"
+   },
+   "answer": "B",
+   "explain": "解析: 句意: 史密斯先生說：“看看報紙上的這個專欄。” 他想讓你看什麼？ 依\n據句意 答案選b (印製品的垂直部分)",
+   "audio": "audio/b19/020.mp3"
+  },
+  {
+   "id": "b19-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The book has many chapters. What is a chapter?",
+   "options": {
+    "A": "a lot of books",
+    "B": "a part of a book",
+    "C": "too many pages",
+    "D": "a type of book"
+   },
+   "answer": "B",
+   "explain": "解析: 句意: 這本書有很多章節。 什麼是章節？依據句意 答案 選b (一本書的\n一部分)",
+   "audio": "audio/b19/021.mp3"
+  },
+  {
+   "id": "b19-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "It looks like the rain is going to continue through the weekend.",
+   "options": {
+    "A": "Don't worry, I'll lend you my notebook.",
+    "B": "I just knew it would last for a few days.",
+    "C": "Then we can camp out in the countryside for a few days.",
+    "D": "That means I won't get the ticket for this weekend train, right?"
+   },
+   "answer": "B",
+   "explain": "解析: 句意:看起來雨將持續到週末。最接近句意為答案b (我只知道它會持續\n幾天。) 'it looks like' to describe something that might be in the future.",
+   "audio": "audio/b19/022.mp3"
+  },
+  {
+   "id": "b19-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "question",
+   "stem": "An object normally has a high value when it's____ ?",
+   "options": {
+    "A": "quality is good",
+    "B": "weight is high",
+    "C": "length is great",
+    "D": "color is correct"
+   },
+   "answer": "A",
+   "explain": "解析: 句意一個東⻄通常在 ____ 時具有很高的價值. 依據句意 答案選a ( 品質\n很好)",
+   "audio": "audio/b19/023.mp3"
+  },
+  {
+   "id": "b19-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The customer said \"Thanks again for the extra cup of coffee.\" The manager said, \"Don't mention it.\" What did the manager mean?",
+   "options": {
+    "A": "“Do not complain.”",
+    "B": "“You are welcome.”",
+    "C": "“What did you say?”",
+    "D": "“Keep quiet.”"
+   },
+   "answer": "B",
+   "explain": "解析:顧客說：“再次感謝多出的一杯咖啡。” 經理說：“不用謝。。” 經理是什\n麼意思？依據句意 答案選b (不客氣) Don’t mention it. 不必客氣；不用謝。",
+   "audio": "audio/b19/024.mp3"
+  },
+  {
+   "id": "b19-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Mark directs an international organization. Who belongs to Mark's organization?",
+   "options": {
+    "A": "only his own relatives",
+    "B": "citizens of different countries",
+    "C": "stateless people",
+    "D": "country"
+   },
+   "answer": "B",
+   "explain": "解析:馬克領導一個國際組織。 誰屬於馬克的組織？依據句意 答案選b (不同\n國家的公⺠)",
+   "audio": "audio/b19/025.mp3"
+  },
+  {
+   "id": "b19-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What do you want me to do with the invoice once I receive it?",
+   "options": {
+    "A": "There are five of us. Please make sure there is enough food.",
+    "B": "Fax a copy over to Mr. Liu before you do anything else.",
+    "C": "Do exactly as she says. It's easier that way.",
+    "D": "Smile and say that you're sorry."
+   },
+   "answer": "B",
+   "explain": "解析:句意:收到發票後，您希望我如何處理？依據句意 答案 選b(在你做任何\n其他事情之前，先把副本傳真給劉先生。)",
+   "audio": "audio/b19/026.mp3"
+  },
+  {
+   "id": "b19-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "question",
+   "stem": "John writes home daily. How often does he write?",
+   "options": {
+    "A": "once a month",
+    "B": "seven times a month",
+    "C": "once a week",
+    "D": "seven times a week"
+   },
+   "answer": "D",
+   "explain": "解析:約翰每天寫信回家。 他多久寫一次？依據句意 答案選d(一周七次)",
+   "audio": "audio/b19/027.mp3"
+  },
+  {
+   "id": "b19-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "question",
+   "stem": "While driving down the road, John heard a noise in the back of the car. Q: When did he hear the noise?",
+   "options": {
+    "A": "in the back of the car",
+    "B": "while getting in his car",
+    "C": "after he stopped his car",
+    "D": "while driving"
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "While driving down the road, John heard a noise in the back of the car."
+    },
+    {
+     "s": "Q",
+     "t": "When did he hear the noise?"
+    }
+   ],
+   "explain": "解析:行駛在路上時，約翰聽到車後傳來一聲響動。問：他什麼時候聽到聲音\n的？依據句意 答案選d",
+   "audio": "audio/b19/028.mp3"
+  },
+  {
+   "id": "b19-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Bill's just beginning to catch on. What is Bill just beginning to do?",
+   "options": {
+    "A": "get sick",
+    "B": "play games",
+    "C": "understand",
+    "D": "perform"
+   },
+   "answer": "C",
+   "explain": "解析:句意:比爾才剛剛開始理解。 比爾剛剛開始做什麼？最接近句意為答案c",
+   "audio": "audio/b19/029.mp3"
+  },
+  {
+   "id": "b19-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The tree will obstruct the view. What will the tree do?",
+   "options": {
+    "A": "open the view",
+    "B": "improve the view",
+    "C": "keep the view",
+    "D": "block the view"
+   },
+   "answer": "D",
+   "explain": "解析: 句意:樹會擋住視線。 樹會做什麼？最接近句意為答案d Block: 擋",
+   "audio": "audio/b19/030.mp3"
+  },
+  {
+   "id": "b19-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Can you believe the weather we've been having?",
+   "options": {
+    "A": "That was a fantastic meeting, wasn't it?",
+    "B": "No, I never believe what the weatherman says.",
+    "C": "I haven't been feeling well either.",
+    "D": "I hope it will stop raining soon."
+   },
+   "answer": "D",
+   "explain": "解析: 句意:你能相信我們的天氣嗎？(看看現在這什麼鬼天氣！) a)那場會議真\n棒不是嗎？ b)我從來就不相信氣象預報講的話 c)我也感覺不是很舒服 d)希望\n雨很快會停 依據句意 答案 選d",
+   "audio": "audio/b19/031.mp3"
+  },
+  {
+   "id": "b19-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "This is a harmless animal.",
+   "options": {
+    "A": "The animal is dangerous.",
+    "B": "It may hurt you.",
+    "C": "It won’t hurt you.",
+    "D": "The animal is afraid."
+   },
+   "answer": "C",
+   "explain": "解析:句意這是一種無害的動物。依據句意答案選c(它不會傷害你。)",
+   "audio": "audio/b19/032.mp3"
+  },
+  {
+   "id": "b19-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The traffic is heavy today.",
+   "options": {
+    "A": "The street is narrow.",
+    "B": "There are many cars on the street.",
+    "C": "The number of people is small today.",
+    "D": "There are few cars on the street."
+   },
+   "answer": "B",
+   "explain": "解析:句意今天的交通很擁擠。依據句意 答案選b (街上有很多車。) heavy的\n基本意思是「᯿的」,通常指某物體很᯿,引申可指人在精神上感覺沉᯿,即「沉\n᯿的,沉悶的,憂鬱的」,也可指天氣「陰沉的」。引申還有「力ᰁ、數ᰁ或程度\n異常大的」「繁᯿的」「笨᯿的,笨拙的」「嚴厲的,無情的」「難消化的」等\n意思。Time hangs heavy on one's hands. 時間過得又慢又無聊，度日如年。",
+   "audio": "audio/b19/033.mp3"
+  },
+  {
+   "id": "b19-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "We had to stand up in the bus on the trip to town.",
+   "options": {
+    "A": "The bus was on the wrong street.",
+    "B": "We had to wait for the bus to town.",
+    "C": "We had to stand at the bus stop.",
+    "D": "All seats on the bus were taken."
+   },
+   "answer": "D",
+   "explain": "解析:句意:在去鎮上的公車上，我們在都得站著。最接近句意為答案d (巴士上\n的所有座位都有人坐了。)",
+   "audio": "audio/b19/034.mp3"
+  },
+  {
+   "id": "b19-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "He picked up the shipment at the depot.",
+   "options": {
+    "A": "He looked at the shipment.",
+    "B": "He went and got it at the depot.",
+    "C": "He approved the shipment.",
+    "D": "He left the shipment at the depot."
+   },
+   "answer": "B",
+   "explain": "解析:句意:他在倉庫取貨。最接近句意為答案b Depot:倉庫。",
+   "audio": "audio/b19/035.mp3"
+  },
+  {
+   "id": "b19-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The mechanic could not find out what was wrong with my car.",
+   "options": {
+    "A": "He didn't check the car.",
+    "B": "He checked the wrong car.",
+    "C": "He didn't locate the trouble.",
+    "D": "He found the car trouble."
+   },
+   "answer": "C",
+   "explain": "解析: 句意機械師找不到我的車出了什麼問題。依據句意 答案選c (他沒有找\n到問題所在。)",
+   "audio": "audio/b19/036.mp3"
+  },
+  {
+   "id": "b19-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I ran into Mr. Noland yesterday in a bookstore.",
+   "options": {
+    "A": "I avoided Mr. Nolan yesterday.",
+    "B": "I met Mr. Nolan yesterday.",
+    "C": "I did not see Mr. Nolan yesterday.",
+    "D": "My car hit Mr. Nolan's car yesterday."
+   },
+   "answer": "B",
+   "explain": "解析: 句意:昨天我在一家書店遇到了諾蘭先生。依據句意 答案選 b",
+   "audio": "audio/b19/037.mp3"
+  },
+  {
+   "id": "b19-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Davis takes part in all kinds of activities.",
+   "options": {
+    "A": "He practices only certain types of activities.",
+    "B": "He participates in many types of activities.",
+    "C": "He enjoys keeping away from activities.",
+    "D": "He dislikes various kinds of activities."
+   },
+   "answer": "B",
+   "explain": "解析:take part in=participate 參加; all kinds =many types各種; keep away\nfrom 遠離. 依據句意 答案選 b",
+   "audio": "audio/b19/038.mp3"
+  },
+  {
+   "id": "b19-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Let me get my coat, Robert.",
+   "options": {
+    "A": "Robert doesn’t want to get his coat.",
+    "B": "Robert, please get my coat.",
+    "C": "Allow me to get my coat.",
+    "D": "Don’t get my coat."
+   },
+   "answer": "C",
+   "explain": "解析: 句意:讓我拿外套，羅伯特。最接近句意為答案c (請允許我拿我的外\n套。)",
+   "audio": "audio/b19/039.mp3"
+  },
+  {
+   "id": "b19-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mike spread out the maps.",
+   "options": {
+    "A": "He opened the maps.",
+    "B": "He folded the maps.",
+    "C": "He marked the maps.",
+    "D": "He copied the maps."
+   },
+   "answer": "A",
+   "explain": "解析: 句意:邁克攤開地圖。最接近句意為答案a (他打開地圖。) Fold :折疊;\nmark : 標記",
+   "audio": "audio/b19/040.mp3"
+  },
+  {
+   "id": "b19-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The president could not come to give his speech today, so Mr. Hill is here to represent him.",
+   "options": {
+    "A": "Hill is angry at the president.",
+    "B": "Hill will give the president's speech for him.",
+    "C": "Hill won't be able to meet the president.",
+    "D": "Hill is waiting for the president."
+   },
+   "answer": "B",
+   "explain": "解析:句意總統今天不能來發表演說，所以希爾先生在這裡代表他。依據句意\n答案選b (希爾將代替總統發表演說)。",
+   "audio": "audio/b19/041.mp3"
+  },
+  {
+   "id": "b19-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The heat wave caused trouble for William.",
+   "options": {
+    "A": "The tidal wave was very high.",
+    "B": "The weather was very hot.",
+    "C": "The thermometer was not accurate.",
+    "D": "He was swimming in deep water."
+   },
+   "answer": "B",
+   "explain": "解析:句意熱浪給威廉帶來了麻煩。 a) 潮汐非常高。 b) 天氣很熱。 c) 溫度計\n不准確。 d) 他在深水中游泳。 依據句意 答案選b",
+   "audio": "audio/b19/042.mp3"
+  },
+  {
+   "id": "b19-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I'm a student. The instructor teaches me.",
+   "options": {
+    "A": "I am teaching the student.",
+    "B": "I am taught by the instructor.",
+    "C": "I teach the instructor.",
+    "D": "I am not taught by the instructor."
+   },
+   "answer": "B",
+   "explain": "解析: 句意我是一名學生。 講師教我。依據句意 答案選b (我是老師教的。)",
+   "audio": "audio/b19/043.mp3"
+  },
+  {
+   "id": "b19-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Francis asked Allen if he turned off the light. Allen said, \"Not yet, but I'm going to.\"",
+   "options": {
+    "A": "Allen turned the light on.",
+    "B": "Allen turned off the light.",
+    "C": "He doesn't want to turn it off.",
+    "D": "He's planning to turn it off."
+   },
+   "answer": "D",
+   "explain": "解析: 句意弗朗⻄斯問艾倫是否關了燈。艾倫說：“還沒有，但我要去。” 依據\n句意 答案選d (他打算關掉它。) turn on: 打開 turn off: 關掉",
+   "audio": "audio/b19/044.mp3"
+  },
+  {
+   "id": "b19-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I get up every morning at 7.",
+   "options": {
+    "A": "I eat at 7:00.",
+    "B": "I stay up until 7:00.",
+    "C": "I don't stay in bed after 7:00.",
+    "D": "My roommate wakes me at 7:15."
+   },
+   "answer": "C",
+   "explain": "解析: 句意:我每天早上七點起床。依據句意 答案選 c (7:00以後我不賴床。)",
+   "audio": "audio/b19/045.mp3"
+  },
+  {
+   "id": "b19-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Those weapons are destructive.",
+   "options": {
+    "A": "They can cause a lot of damage.",
+    "B": "They’re the most modern available.",
+    "C": "They're completely useless now.",
+    "D": "They can be carried easily."
+   },
+   "answer": "A",
+   "explain": "解析: 句意: 那些武器是毀滅性的。 a 它們會造成很多損害。b. 它們是最現代\n的。. c.他們現在完全沒用了。d. 它們可以輕鬆攜帶。 依據句意 答案選 a",
+   "audio": "audio/b19/046.mp3"
+  },
+  {
+   "id": "b19-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Yesterday it drizzled all day.",
+   "options": {
+    "A": "Sleet fell during the storm.",
+    "B": "It snowed all day.",
+    "C": "Heavy rains fell all day.",
+    "D": "There was light rain."
+   },
+   "answer": "D",
+   "explain": "解析:句意昨天下了一整天的毛毛雨。。依據句意答案選d (有小雨。)",
+   "audio": "audio/b19/047.mp3"
+  },
+  {
+   "id": "b19-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Bill will go to the doctor if he feels worse tomorrow.",
+   "options": {
+    "A": "Bill might go to the doctor.",
+    "B": "Bill went to the doctor.",
+    "C": "Bill won’t go to the doctor.",
+    "D": "Bill will feel worse tomorrow."
+   },
+   "answer": "A",
+   "explain": "解析: 句意:如果比爾明天感覺更糟，他會去看醫生。後面if條件句使用現在簡\n單式，結果句使用未來簡單式，表示「即將發生的事」表示單一事件。 依據\n句意 答案選a (比爾可能會去看醫生。)",
+   "audio": "audio/b19/048.mp3"
+  },
+  {
+   "id": "b19-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Joan picked out a dress.",
+   "options": {
+    "A": "She ironed it.",
+    "B": "She chose it.",
+    "C": "She made it.",
+    "D": "She wore it."
+   },
+   "answer": "B",
+   "explain": "解析: 句意瓊挑選了一件衣服。最接近句意為答案b Iron: 熨燙",
+   "audio": "audio/b19/049.mp3"
+  },
+  {
+   "id": "b19-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Some of our forests have been destroyed.",
+   "options": {
+    "A": "They have been replanted.",
+    "B": "They have been protected.",
+    "C": "They have been ruined.",
+    "D": "They have been neglected."
+   },
+   "answer": "C",
+   "explain": "解析:句意我們的一些森林被毀壞了。依據句意 答案選c Destroy=ruin 毀壞",
+   "audio": "audio/b19/050.mp3"
+  },
+  {
+   "id": "b19-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Harry rejected my offer.",
+   "options": {
+    "A": "He didn't receive my offer.",
+    "B": "He didn't read my offer.",
+    "C": "He refused my offer.",
+    "D": "He accepted my offer."
+   },
+   "answer": "C",
+   "explain": "解析: 句意:哈利拒絕了我的提議。reject=refuse 拒絕 依據句意 答案選c",
+   "audio": "audio/b19/051.mp3"
+  },
+  {
+   "id": "b19-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Sgt. Brown said, \"May I leave for town at quarter past 8?\" The instructor said, \"Yes.\"",
+   "options": {
+    "A": "Sgt. Brown left for town by eight.",
+    "B": "Sgt. Brown can leave at eight fifteen.",
+    "C": "The instructor let him go before eight.",
+    "D": "Sgt. Brown doesn't want to leave before eight."
+   },
+   "answer": "B",
+   "explain": "解析: 句意:士官布朗說：“我可以在八點一刻去鎮上嗎？” 教官說：“可以。” 依\n據句意 答案選b (士官布朗可以在八點十五分離開。)\n*在英語中我們常常會聽到外國人用 past / to 來形容時間，我們以1到30分鐘\n當第一個分界點，這裡我們用 past，例如，時間為8點20分時，我們說：\ntwenty past eight. 再來，31到59分鐘則為第二個分界，這時候我們會用 to，\n差幾分到下一個鐘點，例如，如果時間為8點50分，因為剩下10分鐘就要九點\n了，所以要說：ten to nine.\n*quart",
+   "audio": "audio/b19/052.mp3"
+  },
+  {
+   "id": "b19-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Adam prefers a red car.",
+   "options": {
+    "A": "Adam has won a red car.",
+    "B": "Adam likes to race in his red car.",
+    "C": "Adam always talks about this red car.",
+    "D": "Adam would rather have a red car."
+   },
+   "answer": "D",
+   "explain": "解析: 句意:亞當喜歡紅色汽車。依據句意 答案選d (亞當較喜歡紅色的車。)",
+   "audio": "audio/b19/053.mp3"
+  },
+  {
+   "id": "b19-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Excuse me, ma'am. How many pieces of carry-on luggage are allowed? W: Two. M: I see. And what is the weight limit? W: Altogether, your luggage cannot exceed 50 kilos. If it does, you'll have to pay a fine. M: Oh! I guess I'll have to pay the fine then. Q: Why does the man have to pay a fine?",
+   "options": {
+    "A": "His luggage is too heavy.",
+    "B": "He has more than two pieces of luggage.",
+    "C": "There is a tax on all carry-on luggage.",
+    "D": "His carry-on luggage is oversized."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Excuse me, ma'am. How many pieces of carry-on luggage are allowed?"
+    },
+    {
+     "s": "W",
+     "t": "Two."
+    },
+    {
+     "s": "M",
+     "t": "I see. And what is the weight limit?"
+    },
+    {
+     "s": "W",
+     "t": "Altogether, your luggage cannot exceed 50 kilos. If it does, you'll have to pay a fine."
+    },
+    {
+     "s": "M",
+     "t": "Oh! I guess I'll have to pay the fine then."
+    },
+    {
+     "s": "Q",
+     "t": "Why does the man have to pay a fine?"
+    }
+   ],
+   "explain": "解析: W：您的行李總᯿ᰁ不能超過 50 公斤。 如果是這樣，你必須支付罰\n款。\nM：哦！ 我想那我就得交罰款了。為什麼男士要交罰款？依據句意 答案選a\n(他的行李太᯿了。)",
+   "audio": "audio/b19/054.mp3"
+  },
+  {
+   "id": "b19-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: \"You'd better make a reservation if you're going by train.\" M: \"Why?\" W: \"So you'll be sure of a place on the train.\" Q: What did the woman mean?",
+   "options": {
+    "A": "\"You will definitely have a seat.\"",
+    "B": "\"You will always be able to eat in the dining car.\"",
+    "C": "\"You will be able to see many places on the trip.\"",
+    "D": "\"You should get your ticket on the train.\""
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "\"You'd better make a reservation if you're going by train.\""
+    },
+    {
+     "s": "M",
+     "t": "\"Why?\""
+    },
+    {
+     "s": "W",
+     "t": "\"So you'll be sure of a place on the train.\""
+    },
+    {
+     "s": "Q",
+     "t": "What did the woman mean?"
+    }
+   ],
+   "explain": "解析:W：“如果你坐火車去，你最好預約。” M：“為什麼？” W：“所以你肯定\n在火車上有位置坐。” 問：那女人是什麼意思？ 依據句意 答案選a (你肯定會\n有座位。)",
+   "audio": "audio/b19/055.mp3"
+  },
+  {
+   "id": "b19-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: \"Why are these cars stopped here?\" W: \"Because the cafeteria near the Main Gate is crowded at noon.\" Q: What did the woman say?",
+   "options": {
+    "A": "The cafeteria isn’t far from the main gate.",
+    "B": "The cafeteria is closed at twelve.",
+    "C": "There are many people there at noon.",
+    "D": "There are many people there all the time."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "\"Why are these cars stopped here?\""
+    },
+    {
+     "s": "W",
+     "t": "\"Because the cafeteria near the Main Gate is crowded at noon.\""
+    },
+    {
+     "s": "Q",
+     "t": "What did the woman say?"
+    }
+   ],
+   "explain": "解析:M：“這些車怎麼停在這裡？” W：“因為正門附近的自助餐廳中午很擁\n擠。” 問：女人說什麼？依據句意 答案選c (那裡中午有很多人。)",
+   "audio": "audio/b19/056.mp3"
+  },
+  {
+   "id": "b19-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: \"I think it has started to rain.\" W: \"It has. You shouldn’t go out without a raincoat.\" Q: What did the woman tell the man?",
+   "options": {
+    "A": "He could go out in the rain.",
+    "B": "He must go out in the rain.",
+    "C": "He ought not to go out without a raincoat.",
+    "D": "He ought to go out without a raincoat."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "\"I think it has started to rain.\""
+    },
+    {
+     "s": "W",
+     "t": "\"It has. You shouldn’t go out without a raincoat.\""
+    },
+    {
+     "s": "Q",
+     "t": "What did the woman tell the man?"
+    }
+   ],
+   "explain": "解析 M：“我想已經開始下雨了。” W：“有。 你不應該不穿雨衣出門。” 問：\n女人跟男人說了什麼？ 依據句意 答案選c (他不應該不穿雨衣出門。)",
+   "audio": "audio/b19/057.mp3"
+  },
+  {
+   "id": "b19-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: When are you going to see your friend? M: Well, I will visit him when I arrive in New York. Q: What did the man say about his friend?",
+   "options": {
+    "A": "He will give his friend a ring.",
+    "B": "He will call on his friend.",
+    "C": "He will call for his friend.",
+    "D": "He will telephone his friend."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "When are you going to see your friend?"
+    },
+    {
+     "s": "M",
+     "t": "Well, I will visit him when I arrive in New York."
+    },
+    {
+     "s": "Q",
+     "t": "What did the man say about his friend?"
+    }
+   ],
+   "explain": "解析:W：你什麼時候去看你的朋友？ M：嗯，我到紐約後會去看他。 問：那\n人說了什麼關於他的朋友？依據句意 答案選b (他會去拜訪他的朋友。) Call\non=visit",
+   "audio": "audio/b19/058.mp3"
+  },
+  {
+   "id": "b19-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Excuse me, is this seat taken? W: Someone was sitting here a minute ago. M: I guess I'll have to find another seat. W: Wait! I remember he took his coat with him when he left. Q: What does the woman imply?",
+   "options": {
+    "A": "The man may sit anywhere he likes.",
+    "B": "The seat is available.",
+    "C": "It is cold outside.",
+    "D": "The movie is not good enough."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Excuse me, is this seat taken?"
+    },
+    {
+     "s": "W",
+     "t": "Someone was sitting here a minute ago."
+    },
+    {
+     "s": "M",
+     "t": "I guess I'll have to find another seat."
+    },
+    {
+     "s": "W",
+     "t": "Wait! I remember he took his coat with him when he left."
+    },
+    {
+     "s": "Q",
+     "t": "What does the woman imply?"
+    }
+   ],
+   "explain": "解析:M：請問，這個位子有人坐嗎？ W: 一分鐘前有人坐在這裡。 M：我想\n我得另找個位子了。 W：等等！ 我記得他離開時帶著他的外套。 問：女人是\n什麼意思？ 依據句意 答案選b (座位可用。)",
+   "audio": "audio/b19/059.mp3"
+  },
+  {
+   "id": "b19-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Hello, is this the clerk at the taxi company? M: Yes, I am the clerk. W: Can you send a car to the Aster Hotel? M: Right away, Madam. Q: What did the clerk say?",
+   "options": {
+    "A": "The clerk could not send a car.",
+    "B": "The clerk would send one immediately.",
+    "C": "The clerk did not understand the address.",
+    "D": "The clerk didn’t know when to send it."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Hello, is this the clerk at the taxi company?"
+    },
+    {
+     "s": "M",
+     "t": "Yes, I am the clerk."
+    },
+    {
+     "s": "W",
+     "t": "Can you send a car to the Aster Hotel?"
+    },
+    {
+     "s": "M",
+     "t": "Right away, Madam."
+    },
+    {
+     "s": "Q",
+     "t": "What did the clerk say?"
+    }
+   ],
+   "explain": "解析:W：你好，請問是出租車公司的職員嗎？ M：是的，我是。 W：你能派\n車去Aster Hotel嗎？ M：馬上，女士。 問：店員怎麼說？ 依據句意 答案選b\n(店員馬上派車來。) Immediately=right away",
+   "audio": "audio/b19/060.mp3"
+  },
+  {
+   "id": "b19-061",
+   "n": 61,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Why don't you wait until she _____?",
+   "options": {
+    "A": "come",
+    "B": "comes",
+    "C": "came",
+    "D": "coming"
+   },
+   "answer": "B",
+   "explain": "解析: 句意:你為什麼不等到她來 until 在這句中當連接詞後面接子句"
+  },
+  {
+   "id": "b19-062",
+   "n": 62,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "He bought a __________ of toothpaste, but he didn’t buy any soap.",
+   "options": {
+    "A": "bottle",
+    "B": "packet",
+    "C": "tube",
+    "D": "pipe"
+   },
+   "answer": "C",
+   "explain": "解析:他買了__________的牙膏，但他沒有買肥皂。依據句意 答案選c (管) ᰁ\n詞"
+  },
+  {
+   "id": "b19-063",
+   "n": 63,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "A broken tooth _______ be taken care immediately.",
+   "options": {
+    "A": "don't",
+    "B": "has",
+    "C": "didn’t should",
+    "D": "should"
+   },
+   "answer": "D",
+   "explain": "解析: 斷牙 _______ 立即護理。依據句構,要選should, 故答案為d"
+  },
+  {
+   "id": "b19-064",
+   "n": 64,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Everyone was happy ______ complimentary tickets to the yacht show.",
+   "options": {
+    "A": "received",
+    "B": "to receive",
+    "C": "have received",
+    "D": "were received"
+   },
+   "answer": "B",
+   "explain": "解析: 句意:每個人都很高興收到遊艇展的免費門票。Complimentary ticket 免\n費的票; yacht n. 遊艇"
+  },
+  {
+   "id": "b19-065",
+   "n": 65,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Researchers predicted that government finance will remain _____ during the period of the nation-wide pandemic.",
+   "options": {
+    "A": "stable",
+    "B": "authoritative",
+    "C": "summarized",
+    "D": "examined"
+   },
+   "answer": "A",
+   "explain": "解析: 句意: 研究人員預測在全國大流行時期政府財政將保持穩定。"
+  },
+  {
+   "id": "b19-066",
+   "n": 66,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Did he _____ the invitation to the wedding reception?",
+   "options": {
+    "A": "accepting",
+    "B": "accept",
+    "C": "accepted",
+    "D": "accepts"
+   },
+   "answer": "B",
+   "explain": "解析: 助動詞後用原形動詞; accept: v.接受; invitation: n.邀請; reception宴會"
+  },
+  {
+   "id": "b19-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I need to go to the dentist, my tooth has a _______.",
+   "options": {
+    "A": "checkup",
+    "B": "cavity",
+    "C": "shine",
+    "D": "brush"
+   },
+   "answer": "B",
+   "explain": "解析: 我需要去看牙醫我蛀牙了 dentist 牙醫; cavity: a hole in a tooth（牙齒上\n的）齲洞，蛀牙洞"
+  },
+  {
+   "id": "b19-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The great deciduous forest in New England presents a display of colorful fall foliage, which is unequaled ______ in the world.",
+   "options": {
+    "A": "Nowhere",
+    "B": "wherever",
+    "C": "anywhere",
+    "D": "where"
+   },
+   "answer": "C",
+   "explain": "解析: 句意:新英格蘭大落葉林呈現出五彩斑斕的秋葉景象，這是世界上任何地\n方都無與倫比的。deciduous forest ph. 落葉林；unequaled無與倫比的；無\n雙的；不等同的"
+  },
+  {
+   "id": "b19-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "He ________ a walk in the meadow.",
+   "options": {
+    "A": "take",
+    "B": "did",
+    "C": "made",
+    "D": "took"
+   },
+   "answer": "D",
+   "explain": "解析: take a walk 散步; meadow n. 草地"
+  },
+  {
+   "id": "b19-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "An energetic, motivated regional manager with experience in supervising staff and dealing with the public is needed for a nation-wide chain of stores _________ the masses.",
+   "options": {
+    "A": "catering for",
+    "B": "catered with",
+    "C": "cater",
+    "D": "to cater with"
+   },
+   "answer": "A",
+   "explain": "解析: 句意: 一位精力充沛、積極進取的區域經理，具有監督員工和與公眾打\n交道經驗，才能在全國連鎖的商店為大眾服務。cater for: 為...提供所需"
+  },
+  {
+   "id": "b19-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Enrique sure _______ the presentation.",
+   "options": {
+    "A": "messing up",
+    "B": "mess up",
+    "C": "to mess",
+    "D": "messed up"
+   },
+   "answer": "D",
+   "explain": "解析:因為Enrique第三人稱單數 故答案選d"
+  },
+  {
+   "id": "b19-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Sebastian _____very fascinating stories.",
+   "options": {
+    "A": "tells",
+    "B": "tell",
+    "C": "says",
+    "D": "telling"
+   },
+   "answer": "A",
+   "explain": "解析: Sebastian 是人名; tell stories 說故事; fascinating: 迷人的；極有趣的；\n極好的"
+  },
+  {
+   "id": "b19-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Parents have a great _______ to their children.",
+   "options": {
+    "A": "responsibility",
+    "B": "responsible",
+    "C": "responsive",
+    "D": "responsing"
+   },
+   "answer": "A",
+   "explain": "解析:父母對他們的孩子有很大的______。依據句構,要選名詞,故答案為a (責\n任)"
+  },
+  {
+   "id": "b19-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The Center of Computer Technology is holding a “hands-on” exhibit, ____ for people to experience computer science at work and at home.",
+   "options": {
+    "A": "design",
+    "B": "to design",
+    "C": "designing",
+    "D": "designed"
+   },
+   "answer": "D",
+   "explain": "解析: 句意: 計算機技術中心正在舉辦一個“動手”展覽，此種展覽是被設計來讓\n人們在工作和家庭中體驗計算機科學。 The Center of Computer Technology\nis holding a “hands-on” exhibit, (which is) designed for people to experience\ncomputer science at work and at home. 展覽是被設計給人去體驗所以是被動\n選過去分詞，若改寫成關係子句，which & is 可被省略"
+  },
+  {
+   "id": "b19-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Mr. Brown got tired of ______ to so many gripes.",
+   "options": {
+    "A": "to listen",
+    "B": "listen",
+    "C": "listening",
+    "D": "listened"
+   },
+   "answer": "C",
+   "explain": "解析: of 為 介係詞 後面接名詞或動名詞。Get tired of 厭倦; gripe n. 牢騷"
+  },
+  {
+   "id": "b19-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "We _____ from Stuart that the holistic fair was excellent.",
+   "options": {
+    "A": "to hear",
+    "B": "hears",
+    "C": "heard",
+    "D": "hearing"
+   },
+   "answer": "C",
+   "explain": "解析: hear, heard, heard ; holistic adj.全面的; 整體性的 fair露天遊樂場,集\n市，廟會"
+  },
+  {
+   "id": "b19-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "“Can you understand German yet?” “No, but I’m trying _______.”",
+   "options": {
+    "A": "learning",
+    "B": "for learning",
+    "C": "to learn",
+    "D": "it learn"
+   },
+   "answer": "C",
+   "explain": "解析: try to do something: try 後面接不定詞"
+  },
+  {
+   "id": "b19-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Please _____ all the windows, it's very stuffy in this room.",
+   "options": {
+    "A": "opening",
+    "B": "opens",
+    "C": "open",
+    "D": "opened"
+   },
+   "answer": "C",
+   "explain": "解析: 請把窗戶都打開, 這間房間很悶 stuffy: adj. without air（房間或建築物）\n悶的，通風不順暢的"
+  },
+  {
+   "id": "b19-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "He was very interested in ______ Portuguese.",
+   "options": {
+    "A": "to learn",
+    "B": "learning",
+    "C": "the learning",
+    "D": "have learned"
+   },
+   "answer": "B",
+   "explain": "解析: 句意:他對學習葡萄牙語很感興趣。 be interested in +N / Ving ; 介係詞\n後面接名詞或動名詞"
+  },
+  {
+   "id": "b19-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "He punched the heavy bag so hard it _____ his knuckles wide open.",
+   "options": {
+    "A": "had split",
+    "B": "split",
+    "C": "splits",
+    "D": "will split"
+   },
+   "answer": "B",
+   "explain": "解析: 句意:他用力猛擊沉᯿的袋子，以至於他的指關節都裂開了 Split, split,\nsplit (pt. pp.) v. 裂開; knuckle: 指（根）關節"
+  },
+  {
+   "id": "b19-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "That car costs $400.00. I think it's a good deal at that price.",
+   "options": {
+    "A": "a big car",
+    "B": "very attractive",
+    "C": "a bargain",
+    "D": "very expensive"
+   },
+   "answer": "C",
+   "underline": [
+    "a good deal"
+   ],
+   "explain": "解析: a good deal: a bargain 划算的交易; attractive: 有吸引力的"
+  },
+  {
+   "id": "b19-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "______too much sodium is known to contribute to hypertension, which is a factor in half the deaths in the United States each year.",
+   "options": {
+    "A": "Consume",
+    "B": "Consuming",
+    "C": "Consumption",
+    "D": "Consumed"
+   },
+   "answer": "B",
+   "explain": "解析: 名詞可當主詞，動詞須改為動名詞所以選 b 句意: 眾所周知，攝入過多\n的鈉會導致高血壓，美國每年有一半的死亡人數是因這因素造成"
+  },
+  {
+   "id": "b19-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I have been stirring the curry ________ two hours.",
+   "options": {
+    "A": "ago",
+    "B": "for",
+    "C": "already",
+    "D": "since"
+   },
+   "answer": "B",
+   "explain": "解析: :因為I have been stirring時態是現在完成進行式 故答案選b For 表示一\n段時間、距離,用來表達時間跟距離時，都帶有持續維持的意義。"
+  },
+  {
+   "id": "b19-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The small workshop rooms are equipped with a lectern, an overhead projector, and a video recorder____ a charge of $300 per day.",
+   "options": {
+    "A": "with",
+    "B": "on",
+    "C": "for",
+    "D": "at"
+   },
+   "answer": "D",
+   "explain": "解析: 句意:小工作室房間配有講台、投影儀和錄影機，每天收費 300 美元。\nat a charge: “at” used to show a price, rate, level, age, speed etc"
+  },
+  {
+   "id": "b19-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "All students may drive motor vehicles on campus; _____, parking is by permit only.",
+   "options": {
+    "A": "herein",
+    "B": "while",
+    "C": "thus",
+    "D": "however"
+   },
+   "answer": "D",
+   "explain": "解析: 句意:所有學生都可以在校園內騎摩托車； 然而，停車是要得到 允許才\n可以。herein adv. 於此; 在這方面; while可當連接詞(然而)連接子句; thus 因\n此，從而; however 轉折詞，然而。因為兩個句子中間是分號而且空格後面有\n逗號，用however 而非while。"
+  },
+  {
+   "id": "b19-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The electricity company is not liable for damage caused by natural disasters _______ its control.",
+   "options": {
+    "A": "beyond",
+    "B": "above",
+    "C": "outside",
+    "D": "around"
+   },
+   "answer": "A",
+   "explain": "解析: 句意:電力公司對它無法控制因自然災害造成的損害不承擔責任。 liable\nfor : 負有法律責任的，有義務的beyond one’s control : 不受某人控制"
+  },
+  {
+   "id": "b19-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I am going _____ some shaving foam.",
+   "options": {
+    "A": "buying",
+    "B": "bought",
+    "C": "to buy",
+    "D": "buys"
+   },
+   "answer": "C",
+   "explain": "解析: be going to + V (原形動詞)"
+  },
+  {
+   "id": "b19-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "They _____ the dishes out of the dishwasher.",
+   "options": {
+    "A": "have taken",
+    "B": "has taken",
+    "C": "been taken",
+    "D": "taken"
+   },
+   "answer": "A",
+   "explain": "解析: take a walk 散步; meadow n. 草地"
+  },
+  {
+   "id": "b19-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I ________; it depends on whether or not I can get a room at the hotel.",
+   "options": {
+    "A": "am staying",
+    "B": "may stay",
+    "C": "have stayed",
+    "D": "will stay"
+   },
+   "answer": "B",
+   "explain": "解析: 句意: 我可能會留下來；這取決於我能否在酒店找到房間。may 表示可\n能但不確定"
+  },
+  {
+   "id": "b19-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Housing reservations are made ____ a first come, first serve basis in the sequence in which completed application forms are received.",
+   "options": {
+    "A": "on",
+    "B": "with",
+    "C": "for",
+    "D": "above"
+   },
+   "answer": "A",
+   "explain": "解析: 句意:房屋預訂採用先到先得的原則，按照收到填寫好的申請表的順序。\non the basis of... 基於…原則；sequence順序"
+  },
+  {
+   "id": "b19-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I am sorry, but I didn’t have _______ time to prepare sandwiches for the picnic.",
+   "options": {
+    "A": "any",
+    "B": "many",
+    "C": "a few",
+    "D": "no"
+   },
+   "answer": "A",
+   "explain": "解析: 抱歉，我沒有 _______ 時間為ᰀ餐準備三明治。依據句意 答案選a Any\n數ᰁ詞，用來表示名詞數ᰁ多寡, 可置於可數與不可數名詞,適用否定句型和疑\n問句型"
+  },
+  {
+   "id": "b19-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The ______ regarding whether Cape Cod looks like a flexed arm or a fishhook, has never been settled.",
+   "options": {
+    "A": "dispute",
+    "B": "disputing",
+    "C": "disputable",
+    "D": "disputant"
+   },
+   "answer": "A",
+   "explain": "解析: 句意:關於科德角看起來像彎曲的手臂還是魚鉤的爭論一直沒有解決。\ndispute: n. an argument 爭論；爭執; settle: 解決（問題等）；結束（爭端，\n糾紛等）"
+  },
+  {
+   "id": "b19-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I _______ to smoke Cuban cigars but finally quit.",
+   "options": {
+    "A": "will",
+    "B": "used",
+    "C": "am used",
+    "D": "was used"
+   },
+   "answer": "B",
+   "explain": "解析: 我以前常抽古巴雪茄但最後我戒了(不再抽古巴雪茄了) used to: 表示過\n去經常發生的行為或狀態 1. 人 + used to + V 以前(常常、習慣)… She used\nto love dancing, but she doesn't do it any more. 2. 人 + be used to + V-ing 現\n在習慣… The old woman is used to taking a nap after lunch."
+  },
+  {
+   "id": "b19-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "He _____ the exhibition a long time ago.",
+   "options": {
+    "A": "left",
+    "B": "leave",
+    "C": "leaving",
+    "D": "has left"
+   },
+   "answer": "A",
+   "explain": "解析: a long time ago 很久以前 要用過去式. leave 的過去式是 left"
+  },
+  {
+   "id": "b19-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "________ there has been strong competition, the new company has made great profits.",
+   "options": {
+    "A": "Instead",
+    "B": "Nonetheless",
+    "C": "Because",
+    "D": "Although"
+   },
+   "answer": "D",
+   "explain": "解析: 句意:雖然競爭激烈，但新公司已經取得了巨大的利潤。profit n.利潤"
+  },
+  {
+   "id": "b19-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "My roommate is _____ a commercial plane now.",
+   "options": {
+    "A": "flew",
+    "B": "fly",
+    "C": "flown",
+    "D": "flying"
+   },
+   "answer": "D",
+   "explain": "解析: 句意:我室友現在開⺠航飛機 現在式 be+ Ving"
+  },
+  {
+   "id": "b19-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "The government study said that businesses should implement widespread use of mathematical formulas to scramble electronic data and _____ the theft of computer data, wireless communications, and other electronic information.",
+   "options": {
+    "A": "curbing",
+    "B": "to curb",
+    "C": "the curb of",
+    "D": "curbed with"
+   },
+   "answer": "B",
+   "explain": "解析: and 為對等連接詞，前後連接相同的詞性& 文法結構。and 前面是不定\n詞文法結構 to scramble electronic data，所以選不定詞結構 to curb the theft\nof computer data\n句意: 政府研究稱企業應廣泛實施使用數學公式來打亂電子數據並遏制\n竊取計算機數據、無線通信和其他電子信息。\nnoun and noun: Cakes and cookies are delicious.\nAdj. and adj.: The old man is kind"
+  },
+  {
+   "id": "b19-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Mainland China is one of our strongest economic competitors. It must be faced without any illusions. As a member of the Mainland Affairs Committee in the Legislature, it is my goal to let Beijing clearly understand Taiwan's role in the Asian region and our strong commitment to withholding the sovereignty of the Republic of China. To accomplish this, I believe that forging strong diplomatic alliances is more important than building military might. Which type of legislation would the speaker most likely veto?",
+   "options": {
+    "A": "A bill to spend more on diplomacy.",
+    "B": "A bill to develop ballistic missiles.",
+    "C": "A bill to promote Taiwan's image throughout Asia.",
+    "D": "A bill to increase the overseas propaganda budget."
+   },
+   "answer": "B",
+   "explain": "解析: 最有可能否決哪種立法？ legislation n. 法律，法規；veto v. 反對; 否決;\nballistic missiles彈道飛彈。To accomplish this, I believe that forging strong\ndiplomatic alliances is more important than building military might. 句意: 要\n做到這一點，我相信強化外交聯盟比建立軍事力ᰁ更᯿要。從這句可知說話\n者的立場。\ndiplomatic alliances: 外交聯盟；military might:武裝力ᰁ"
+  },
+  {
+   "id": "b19-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Mainland China is one of our strongest economic competitors. It must be faced without any illusions. As a member of the Mainland Affairs Committee in the Legislature, it is my goal to let Beijing clearly understand Taiwan's role in the Asian region and our strong commitment to withholding the sovereignty of the Republic of China. To accomplish this, I believe that forging strong diplomatic alliances is more important than building military might. Who is the speaker?",
+   "options": {
+    "A": "Legislator.",
+    "B": "An army general.",
+    "C": "A diplomat.",
+    "D": "The president."
+   },
+   "answer": "A",
+   "explain": "解析: 從As a member of the Mainland Affairs Committee in the Legislature\n可得知說話者是 legislator(立法委員)；legislature 立法機關"
+  },
+  {
+   "id": "b19-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Mainland China is one of our strongest economic competitors. It must be faced without any illusions. As a member of the Mainland Affairs Committee in the Legislature, it is my goal to let Beijing clearly understand Taiwan's role in the Asian region and our strong commitment to withholding the sovereignty of the Republic of China. To accomplish this, I believe that forging strong diplomatic alliances is more important than building military might. What was not mentioned?",
+   "options": {
+    "A": "Mainland China is an economic competitor of Taiwan.",
+    "B": "More efforts should be spent on arms than on diplomacy.",
+    "C": "Mainland China must be faced without illusions.",
+    "D": "The R.O.C. is committed to withholding its sovereignty."
+   },
+   "answer": "B",
+   "explain": "解析: To accomplish this, I believe that forging strong diplomatic alliances is\nmore important than building military might. 句意: 要做到這一點，我相信強\n化外交聯盟比建立軍事力ᰁ更᯿要。從這句可知 b 選項: More efforts should\nbe spent on arms than on diplomacy. 句意: 更多的努力應該花在武器上而不\n是外交上。與說話者的立場相左故選 b"
+  }
+ ]
+}

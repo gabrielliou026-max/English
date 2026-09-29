@@ -1,0 +1,1789 @@
+{
+ "bank": "21",
+ "title": "第 21 回",
+ "questions": [
+  {
+   "id": "b21-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Air is a mixture of gases surrounding the earth. What does air consist of?",
+   "options": {
+    "A": "O3",
+    "B": "several gases together",
+    "C": "exhaust vapors",
+    "D": "a compound"
+   },
+   "answer": "B",
+   "explain": "解析: a mixture of gases 氣體的混合",
+   "audio": "audio/b21/001.mp3"
+  },
+  {
+   "id": "b21-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The F-16 pilot can land now. What can he do?",
+   "options": {
+    "A": "fly faster",
+    "B": "bring his plane down",
+    "C": "take off",
+    "D": "fly the plane"
+   },
+   "answer": "B",
+   "explain": "解析: land v. 降落 Take off v. 起飛",
+   "audio": "audio/b21/002.mp3"
+  },
+  {
+   "id": "b21-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The mechanic asked Joe, “What is the capacity of the fuel tank?” What did the mechanic want to know?",
+   "options": {
+    "A": "when Joe could bring the fuel tank for repair",
+    "B": "how much fuel the tank could hold",
+    "C": "where Joe had bought the fuel tank",
+    "D": "what kind of fuel the tank was carrying"
+   },
+   "answer": "B",
+   "explain": "解析: capacity: n. 容量 fuel tank: 汽油桶/箱 fuel: n. oil, gasoline tank: n. a\ncontainer that holds liquid or gas",
+   "audio": "audio/b21/003.mp3"
+  },
+  {
+   "id": "b21-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Rajesh has an ache in his chest. Where is his chest?",
+   "options": {
+    "A": "right above his stomach",
+    "B": "in his neck",
+    "C": "below his lung",
+    "D": "in his tooth"
+   },
+   "answer": "A",
+   "explain": "解析: ache: n. pain chest 胸部 lung 肺",
+   "audio": "audio/b21/004.mp3"
+  },
+  {
+   "id": "b21-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Joseph is heading to the stylist. Why?",
+   "options": {
+    "A": "to get his suit pressed",
+    "B": "to have a drink",
+    "C": "to get a haircut",
+    "D": "to do some shopping"
+   },
+   "answer": "C",
+   "explain": "解析: stylist: n. a person whose job is to shape or design something\nHair stylist 髮型師\nTo get his suit pressed 燙⻄裝",
+   "audio": "audio/b21/005.mp3"
+  },
+  {
+   "id": "b21-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Klaus got a letter from his family last week. Should he answer it?",
+   "options": {
+    "A": "Yes, he ought to.",
+    "B": "Yes, he can.",
+    "C": "Yes, he might.",
+    "D": "Yes, he did."
+   },
+   "answer": "A",
+   "explain": "解析: ought to = should 答案a: Klaus 應該要回信",
+   "audio": "audio/b21/006.mp3"
+  },
+  {
+   "id": "b21-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How did you keep in touch with Daniel?",
+   "options": {
+    "A": "I wrote to him every 2 to 3 months.",
+    "B": "Professor Yang introduced him to me.",
+    "C": "I got acquainted with him through Miss Li.",
+    "D": "I’ll call him as often as possible."
+   },
+   "answer": "A",
+   "explain": "解析: keep in touch 保持聯繫 Got acquanted with someone: knowing or\nbeing familiar with a person 相識的；認識的",
+   "audio": "audio/b21/007.mp3"
+  },
+  {
+   "id": "b21-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "He wants to get in touch with her director. What does he want to do?",
+   "options": {
+    "A": "forget his director",
+    "B": "contact his director",
+    "C": "remember his director",
+    "D": "touch his director"
+   },
+   "answer": "B",
+   "explain": "解析: get in touch with= contact",
+   "audio": "audio/b21/008.mp3"
+  },
+  {
+   "id": "b21-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Rowan is going to use the scales. What does he want to do?",
+   "options": {
+    "A": "He wants to look at small things.",
+    "B": "He wants to clean fish.",
+    "C": "He wants to weigh something.",
+    "D": "He wants to measure people."
+   },
+   "answer": "C",
+   "explain": "解析: scales: n. a pice of equipment for measuring weight 秤 measure v. 測\n量",
+   "audio": "audio/b21/009.mp3"
+  },
+  {
+   "id": "b21-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "question",
+   "stem": "“What time did he get up?” Dick asked. What did Dick want to know?",
+   "options": {
+    "A": "the time he ate breakfast",
+    "B": "the time he got out of bed",
+    "C": "the time he opened his eyes",
+    "D": "the time he dressed"
+   },
+   "answer": "B",
+   "explain": "解析: get up = get out of bed",
+   "audio": "audio/b21/010.mp3"
+  },
+  {
+   "id": "b21-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "I haven't received my phone bill yet. Wasn't it mailed last week?",
+   "options": {
+    "A": "Don't worry. We can print out another one for you.",
+    "B": "Maybe your phone is not working.",
+    "C": "The mailman was late.",
+    "D": "Of course, we will send someone over right away."
+   },
+   "answer": "A",
+   "explain": "解析: print out 印出來 mailman n. 郵差 right away = immediately",
+   "audio": "audio/b21/011.mp3"
+  },
+  {
+   "id": "b21-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you know if the fax machine is fixed yet?",
+   "options": {
+    "A": "No, the fax machine is not affixed to the table.",
+    "B": "Yes, the fax machine is fixed to the wall.",
+    "C": "I wasn't even aware that it was out of order.",
+    "D": "The fax machine will not need fixing."
+   },
+   "answer": "C",
+   "explain": "解析: fix: v. to repair something 修理 affix: v. to fasten or stick one thing to\nanother 使固定；貼上 the fax machine is fixed to the wall. 傳真機被釘在牆上\nDo you know if the fax machine is fixed yet? 你知道傳真機是否已經修理?",
+   "audio": "audio/b21/012.mp3"
+  },
+  {
+   "id": "b21-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you want the deluxe model or regular one?",
+   "options": {
+    "A": "Give me the regular strength aspirin.",
+    "B": "I prefer the fancier one.",
+    "C": "I will model the regular one.",
+    "D": "The regular mode is too slow."
+   },
+   "answer": "B",
+   "explain": "解析: deluxe: adj. very comfortable and of very high quality fancy/ fancier:\nadj. decorative or complicated 花俏的、 繁複的",
+   "audio": "audio/b21/013.mp3"
+  },
+  {
+   "id": "b21-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "question",
+   "stem": "It is twelve forty five. What time is it?",
+   "options": {
+    "A": "a quarter to five",
+    "B": "fifteen numbers before one",
+    "C": "fifteen numbers before five",
+    "D": "a quarter to one"
+   },
+   "answer": "D",
+   "explain": "解析: a quarter to one= 12:45",
+   "audio": "audio/b21/014.mp3"
+  },
+  {
+   "id": "b21-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are the women sitting down?",
+   "options": {
+    "A": "Yes. They are going now.",
+    "B": "Yes. Here they come.",
+    "C": "Yes. They are putting it down.",
+    "D": "Yes. They are in their chairs."
+   },
+   "answer": "D",
+   "explain": "解析: 女人們正在坐下嗎? 答案d:是的,她們在椅子上了",
+   "audio": "audio/b21/015.mp3"
+  },
+  {
+   "id": "b21-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What color are her gloves?",
+   "options": {
+    "A": "red",
+    "B": "wool",
+    "C": "hands",
+    "D": "small"
+   },
+   "answer": "A",
+   "explain": "解析: 手套的顏色是什麼? wool n. 毛料",
+   "audio": "audio/b21/016.mp3"
+  },
+  {
+   "id": "b21-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "On his trip through Washington, Bob glanced at the White House. What did Bob do?",
+   "options": {
+    "A": "He photographed the White House.",
+    "B": "He looked at the White House.",
+    "C": "He stayed at the White House.",
+    "D": "He ate at the White House."
+   },
+   "answer": "B",
+   "explain": "解析: glance: v. to give a quick short look 快速看一眼",
+   "audio": "audio/b21/017.mp3"
+  },
+  {
+   "id": "b21-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Professor Lin wants us to meet with him on Thursday or Friday?",
+   "options": {
+    "A": "He can't come because he has to go to a meeting.",
+    "B": "We have an appointment for Thursday or Friday.",
+    "C": "The activity will be held on both days.",
+    "D": "You have to register for the Friday meet."
+   },
+   "answer": "B",
+   "explain": "解析: register: v. 註冊",
+   "audio": "audio/b21/018.mp3"
+  },
+  {
+   "id": "b21-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "question",
+   "stem": "My trousers are made of a synthetic fabric. What kind of fabric are they?",
+   "options": {
+    "A": "pants",
+    "B": "washed",
+    "C": "nylon",
+    "D": "man-made"
+   },
+   "answer": "C",
+   "explain": "解析: trousers n. 褲子 synthetic: adj. artificial synthetic fabric 人造布料 nylon\nn. 尼龍",
+   "audio": "audio/b21/019.mp3"
+  },
+  {
+   "id": "b21-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "question",
+   "stem": "One of the students bought a portable typewriter. What kind did he get?",
+   "options": {
+    "A": "a very large typewriter",
+    "B": "a very heavy typewriter",
+    "C": "a typewriter which is light and easy to move",
+    "D": "a typewriter that cannot be moved"
+   },
+   "answer": "C",
+   "explain": "解析: portable: adj. light and small enough to be easily carried or moved 輕\n便的，方便攜帶的",
+   "audio": "audio/b21/020.mp3"
+  },
+  {
+   "id": "b21-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Good afternoon, could you direct me to Mr. Chang's office, please?",
+   "options": {
+    "A": "I'm sorry. The director is out.",
+    "B": "Mr. Chang 's office is the largest in the building.",
+    "C": "Yes, I know where his office is located.",
+    "D": "Sure. Please follow me."
+   },
+   "answer": "D",
+   "explain": "解析: direct v. 指引 director n. 導演",
+   "audio": "audio/b21/021.mp3"
+  },
+  {
+   "id": "b21-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Will this plane be delayed?",
+   "options": {
+    "A": "Yes, it will be early.",
+    "B": "No, it won’t be late.",
+    "C": "Yes, it came yesterday.",
+    "D": "No, it is a private plane."
+   },
+   "answer": "B",
+   "explain": "解析: delay: v. 延遲 private: adj. personal 私人的",
+   "audio": "audio/b21/022.mp3"
+  },
+  {
+   "id": "b21-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "All tours are sold out except the one this afternoon.",
+   "options": {
+    "A": "That tour is really fantastic.",
+    "B": "That's fine. We'll take the afternoon one.",
+    "C": "Then I guess l'll have to go out to buy them.",
+    "D": "Lunch is until 2:00 p.m."
+   },
+   "answer": "B",
+   "explain": "解析: tour: n. a visit to a place or area, especially one during which you look\naround the place or area and learn about it 參觀；觀光 fantastic: adj.\nextremely good",
+   "audio": "audio/b21/023.mp3"
+  },
+  {
+   "id": "b21-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How much did those shoes you bought in Hong Kong cost?",
+   "options": {
+    "A": "I will choose the most expensive pair.",
+    "B": "Almost a whole month's salary.",
+    "C": "These shoes cost a little bit more in Taiwan.",
+    "D": "There was no way to check the price I bought them."
+   },
+   "answer": "B",
+   "explain": "解析: almost a whole month’s salary 幾乎一個月的房租",
+   "audio": "audio/b21/024.mp3"
+  },
+  {
+   "id": "b21-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Have you got all the groceries we'll need for tomorrow?",
+   "options": {
+    "A": "Why don't we call and find out?",
+    "B": "I haven't had time to do the shopping. I'll go tonight.",
+    "C": "Most of the stores close at ten.",
+    "D": "I can't go tomorrow."
+   },
+   "answer": "B",
+   "explain": "解析: grocery/groceries: n. the food that you buy in a grocer’s shop or\nsupermarket 食品雜貨",
+   "audio": "audio/b21/025.mp3"
+  },
+  {
+   "id": "b21-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "question",
+   "stem": "This house has lots of storage space. What does it have?",
+   "options": {
+    "A": "space to wash things in",
+    "B": "space to cook things in",
+    "C": "space to keep things in",
+    "D": "space to plant things in"
+   },
+   "answer": "C",
+   "explain": "解析: storage space 儲存空間",
+   "audio": "audio/b21/026.mp3"
+  },
+  {
+   "id": "b21-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Will the train arrive on schedule?",
+   "options": {
+    "A": "Yes, the training course will be carried out on schedule.",
+    "B": "Well, you’ll be caught in the rain.",
+    "C": "I certainly hope it will.",
+    "D": "Don’t worry. It’s on the right track."
+   },
+   "answer": "C",
+   "explain": "解析: on schedule: not early or late 準時 carry out: to do or complete\nsomething, especially that you have said you would do or that you have\nbeen told to do 執行，落實，完成 be on the right track: to be doing\nsomething in a way that will bring",
+   "audio": "audio/b21/027.mp3"
+  },
+  {
+   "id": "b21-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What should I do for my runny nose?",
+   "options": {
+    "A": "Run less.",
+    "B": "You should be hospitalized.",
+    "C": "Stop being nosy.",
+    "D": "Go have it checked by a doctor."
+   },
+   "answer": "D",
+   "explain": "解析: runny nose 流鼻水 Be hospitalized 住院 nosy: adj. too interested in\nwhat other people are doing and wanting to discover too much about them\n好管閒事的；愛打聽的 Stop being nosy. 不要再好管閒事了",
+   "audio": "audio/b21/028.mp3"
+  },
+  {
+   "id": "b21-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Can you help me with my homework?",
+   "options": {
+    "A": "Sorry, I was really busy yesterday.",
+    "B": "Yes, if you need more homework.",
+    "C": "I will try my best.",
+    "D": "You need to study harder."
+   },
+   "answer": "C",
+   "audio": "audio/b21/029.mp3"
+  },
+  {
+   "id": "b21-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Harold said he felt sleepy. What did he say?",
+   "options": {
+    "A": "He wasn’t sleepy.",
+    "B": "He couldn’t sleep.",
+    "C": "He was tired.",
+    "D": "He couldn’t be sleepy."
+   },
+   "answer": "C",
+   "explain": "解析: felt sleepy 感覺想睡",
+   "audio": "audio/b21/030.mp3"
+  },
+  {
+   "id": "b21-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What do you think of our new baseball coach?",
+   "options": {
+    "A": "He acts a bit harsh.",
+    "B": "He wants to travel by first class, not coach.",
+    "C": "I don't like to play baseball.",
+    "D": "I think it is a basketball."
+   },
+   "answer": "A",
+   "explain": "解析: harsh: adj. unpleasant, unkind, cruel, or more severe than is\nnecessary 嚴厲的 He wants to travel by first class, not coach. 他想要搭頭等\n艙旅行，不是長途客車",
+   "audio": "audio/b21/031.mp3"
+  },
+  {
+   "id": "b21-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Would you like a smoking or a non- smoking seat?",
+   "options": {
+    "A": "No, thanks. I don't care for one.",
+    "B": "You should quit smoking.",
+    "C": "Do you see the sign on the wall?",
+    "D": "Smoking, please."
+   },
+   "answer": "D",
+   "audio": "audio/b21/032.mp3"
+  },
+  {
+   "id": "b21-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Paul spent a great deal of time in the country. How much time did he spend there?",
+   "options": {
+    "A": "a few",
+    "B": "none",
+    "C": "a little",
+    "D": "a lot"
+   },
+   "answer": "D",
+   "explain": "解析: a great deal of time = a lot of time",
+   "audio": "audio/b21/033.mp3"
+  },
+  {
+   "id": "b21-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Parker often uses the dictionary. What does he often do?",
+   "options": {
+    "A": "A map of streets.",
+    "B": "He uses an encyclopedia.",
+    "C": "He has trouble finding direction.",
+    "D": "He looks up the meaning of words."
+   },
+   "answer": "D",
+   "explain": "解析: look up the dictionary 查單字意思 encyclopedia n. a book or set of\nbooks containing many articles arranged in alphabetical order that deal\neither with the whole of human knowledge or with a particular part of it, or a\nsimilar set of arti",
+   "audio": "audio/b21/034.mp3"
+  },
+  {
+   "id": "b21-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Today is Thursday. Yesterday, we went to town. When did we go?",
+   "options": {
+    "A": "tomorrow",
+    "B": "on Friday",
+    "C": "on Wednesday",
+    "D": "to town"
+   },
+   "answer": "C",
+   "audio": "audio/b21/035.mp3"
+  },
+  {
+   "id": "b21-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The clerk said that there were no rooms available at the motel. What did she mean?",
+   "options": {
+    "A": "There were no reservations.",
+    "B": "No one was at the motel.",
+    "C": "All the rooms are booked.",
+    "D": "She will be available at the motel."
+   },
+   "answer": "C",
+   "explain": "解析: clerk n. 職員\nNo rooms available 沒有房間了\nNo reservations 沒有預約\nBe booked 被預訂了",
+   "audio": "audio/b21/036.mp3"
+  },
+  {
+   "id": "b21-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "question",
+   "stem": "I have visited the dentist’s office at one-fifteen. When do I have to be there?",
+   "options": {
+    "A": "at 1015",
+    "B": "at 1315",
+    "C": "at 1501",
+    "D": "at 1110"
+   },
+   "answer": "B",
+   "audio": "audio/b21/037.mp3"
+  },
+  {
+   "id": "b21-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I'll take the bus next time.",
+   "options": {
+    "A": "When I go again, I’ll go by bus.",
+    "B": "I will take my time and go by bus.",
+    "C": "I took the next bus.",
+    "D": "The next bus was on time."
+   },
+   "answer": "A",
+   "audio": "audio/b21/038.mp3"
+  },
+  {
+   "id": "b21-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mrs. Clark would like to finish her work this morning, but she won't be able to.",
+   "options": {
+    "A": "She will finish her work this morning.",
+    "B": "She will not finish her work this morning.",
+    "C": "She is able to work this morning.",
+    "D": "She doesn’t want to finish it this morning."
+   },
+   "answer": "B",
+   "audio": "audio/b21/039.mp3"
+  },
+  {
+   "id": "b21-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Corporal Hill has great respect for his officer.",
+   "options": {
+    "A": "He dislikes them very much.",
+    "B": "He makes them angry.",
+    "C": "He has great trouble working with them.",
+    "D": "He has a high regard for them."
+   },
+   "answer": "D",
+   "explain": "解析: a high regard= great respect 高評價、尊敬",
+   "audio": "audio/b21/040.mp3"
+  },
+  {
+   "id": "b21-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The driver is relaxed behind the wheel.",
+   "options": {
+    "A": "He is at ease.",
+    "B": "He is frightened.",
+    "C": "He is tense.",
+    "D": "He is careful."
+   },
+   "answer": "A",
+   "explain": "解析: behind the wheel: driving a motor vehicle 開車",
+   "audio": "audio/b21/041.mp3"
+  },
+  {
+   "id": "b21-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Kelvin has a marvelous memory.",
+   "options": {
+    "A": "His memory is very good.",
+    "B": "He forgets quickly.",
+    "C": "He can’t remember anything.",
+    "D": "His memory is average."
+   },
+   "answer": "A",
+   "explain": "解析: a marvelous memory = good memory marvelous: adj. extremely good",
+   "audio": "audio/b21/042.mp3"
+  },
+  {
+   "id": "b21-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I wish this rainy season would be over.",
+   "options": {
+    "A": "I wish it would last longer.",
+    "B": "I wish it would get colder.",
+    "C": "I wish it would end.",
+    "D": "I wish it would start."
+   },
+   "answer": "C",
+   "explain": "解析: I wish this rainy season would be over. 我希望雨季趕快結束",
+   "audio": "audio/b21/043.mp3"
+  },
+  {
+   "id": "b21-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The coat didn’t belong to him.",
+   "options": {
+    "A": "It didn’t fit.",
+    "B": "He didn’t own it.",
+    "C": "It was too heavy.",
+    "D": "He didn’t like it."
+   },
+   "answer": "B",
+   "explain": "解析: It didn’t fit. 他不合身",
+   "audio": "audio/b21/044.mp3"
+  },
+  {
+   "id": "b21-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I had just left the office when you called.",
+   "options": {
+    "A": "I left only a minute before you called.",
+    "B": "You called before I left.",
+    "C": "My office is to the left.",
+    "D": "I entered the office just as you called."
+   },
+   "answer": "A",
+   "explain": "解析:　Ｉhad just left the office when you called. 你打電話來時，我剛離開辦\n公室 I left only a minute before you called. 你打電話來之前一分鐘，我剛離開",
+   "audio": "audio/b21/045.mp3"
+  },
+  {
+   "id": "b21-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "General Bascal’s car will lead the parade.",
+   "options": {
+    "A": "It will be protected from the crowed.",
+    "B": "It will be the first car in the parade.",
+    "C": "It will be the tenth car.",
+    "D": "It will wait for the parade to pass."
+   },
+   "answer": "B",
+   "explain": "解析: parade 遊行",
+   "audio": "audio/b21/046.mp3"
+  },
+  {
+   "id": "b21-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: What does Mrs. Bios do for a living? M: She writes stories. Q: What does Mrs. Bios do?",
+   "options": {
+    "A": "She writes fiction.",
+    "B": "She writes textbooks.",
+    "C": "She writes columns.",
+    "D": "She writes reports."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "What does Mrs. Bios do for a living?"
+    },
+    {
+     "s": "M",
+     "t": "She writes stories."
+    },
+    {
+     "s": "Q",
+     "t": "What does Mrs. Bios do?"
+    }
+   ],
+   "explain": "解析: fiction: n. novel column: n. 報紙、雜誌上的專欄",
+   "audio": "audio/b21/047.mp3"
+  },
+  {
+   "id": "b21-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: My medical opinion is that you should cut down on your smoking. W: Yes, doctor, I'll try. Q: What will the woman try to do?",
+   "options": {
+    "A": "quit smoking",
+    "B": "change brands",
+    "C": "increase her smoking",
+    "D": "reduce her smoking"
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "My medical opinion is that you should cut down on your smoking."
+    },
+    {
+     "s": "W",
+     "t": "Yes, doctor, I'll try."
+    },
+    {
+     "s": "Q",
+     "t": "What will the woman try to do?"
+    }
+   ],
+   "explain": "解析: quit: v. stop brands: n. 品牌 reduce: v. decrease, lesser, lower",
+   "audio": "audio/b21/048.mp3"
+  },
+  {
+   "id": "b21-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: How long did it take to do that? W: It took just an instant. Q: How much time did it take?",
+   "options": {
+    "A": "It took a very short time.",
+    "B": "It took a long time.",
+    "C": "It took too much time.",
+    "D": "It took a very long time."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "How long did it take to do that?"
+    },
+    {
+     "s": "W",
+     "t": "It took just an instant."
+    },
+    {
+     "s": "Q",
+     "t": "How much time did it take?"
+    }
+   ],
+   "explain": "解析: How long did it take to do that? 花了多長的時間去做? It took just an\ninstant. 只花一下子的時間",
+   "audio": "audio/b21/049.mp3"
+  },
+  {
+   "id": "b21-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "A: What should I do now? W: Proceed with the work. Q: What did the woman tell the man to do?",
+   "options": {
+    "A": "continue to work",
+    "B": "do the work over again",
+    "C": "stop working",
+    "D": "do the work better"
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "What should I do now?"
+    },
+    {
+     "s": "W",
+     "t": "Proceed with the work."
+    },
+    {
+     "s": "Q",
+     "t": "What did the woman tell the man to do?"
+    }
+   ],
+   "explain": "解析: proceed: v. to continue as planned",
+   "audio": "audio/b21/050.mp3"
+  },
+  {
+   "id": "b21-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Hi, Bruce. How's your brother? B: Not too good. He stopped attending school. Q: What happened to Bruce’s brother?",
+   "options": {
+    "A": "He dropped out of schooling.",
+    "B": "He had to extend his schooling.",
+    "C": "He fell and was injured.",
+    "D": "He had a great deal of homework from school."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Hi, Bruce. How's your brother?"
+    },
+    {
+     "s": "M2",
+     "t": "Not too good. He stopped attending school."
+    },
+    {
+     "s": "Q",
+     "t": "What happened to Bruce’s brother?"
+    }
+   ],
+   "explain": "解析: stop attending school 停止上學 drop out of schooling 退學 extend the\nschooling 延長上學學習 be injured: be hurt",
+   "audio": "audio/b21/051.mp3"
+  },
+  {
+   "id": "b21-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: I hear Major Roy is joining you. M: Yes. Can you tell me about his personality? Q: What does the man want to know about Major Roy?",
+   "options": {
+    "A": "when he is expected to arrive",
+    "B": "where he is coming from",
+    "C": "who his parents are",
+    "D": "what kind of person he is"
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "I hear Major Roy is joining you."
+    },
+    {
+     "s": "M",
+     "t": "Yes. Can you tell me about his personality?"
+    },
+    {
+     "s": "Q",
+     "t": "What does the man want to know about Major Roy?"
+    }
+   ],
+   "explain": "解析: personality 性格",
+   "audio": "audio/b21/052.mp3"
+  },
+  {
+   "id": "b21-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Did you see the new tank? W: No, but I saw the design for it. Q: What did the woman see?",
+   "options": {
+    "A": "a plan",
+    "B": "a color",
+    "C": "a soldier",
+    "D": "a mistake"
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Did you see the new tank?"
+    },
+    {
+     "s": "W",
+     "t": "No, but I saw the design for it."
+    },
+    {
+     "s": "Q",
+     "t": "What did the woman see?"
+    }
+   ],
+   "explain": "解析: design: n. v. make plans for something",
+   "audio": "audio/b21/053.mp3"
+  },
+  {
+   "id": "b21-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Well, what do you think we will do? W: Oh! I don't know, but it looks like it's going to clear up today. Q: What's being discussed?",
+   "options": {
+    "A": "the problem",
+    "B": "a picture",
+    "C": "a sickness",
+    "D": "the weather"
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Well, what do you think we will do?"
+    },
+    {
+     "s": "W",
+     "t": "Oh! I don't know, but it looks like it's going to clear up today."
+    },
+    {
+     "s": "Q",
+     "t": "What's being discussed?"
+    }
+   ],
+   "explain": "解析: clear up: If the weather clears up, the cloud and rain disappear.",
+   "audio": "audio/b21/054.mp3"
+  },
+  {
+   "id": "b21-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Cindy, how come I haven't seen you practice lately? Didn't they select you for that youth orchestra? W: Well, they haven't held the auditions yet. It's next Sunday. M: I see. But shouldn't you be practicing for it, anyway? Or are you too confident? W: It's not that. I think I just got a bit sick of playing the same tune over and over; they should give us the whole symphony instead of just the first movement. Q: Why doesn't Cindy practice for the audition?",
+   "options": {
+    "A": "She doesn't like this symphony.",
+    "B": "The audition has already taken place.",
+    "C": "She is full of assurance.",
+    "D": "The same tune has become tedious."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Cindy, how come I haven't seen you practice lately? Didn't they select you for that youth orchestra?"
+    },
+    {
+     "s": "W",
+     "t": "Well, they haven't held the auditions yet. It's next Sunday."
+    },
+    {
+     "s": "M",
+     "t": "I see. But shouldn't you be practicing for it, anyway? Or are you too confident?"
+    },
+    {
+     "s": "W",
+     "t": "It's not that. I think I just got a bit sick of playing the same tune over and over; they should give us the whole symphony instead of just the first movement."
+    },
+    {
+     "s": "Q",
+     "t": "Why doesn't Cindy practice for the audition?"
+    }
+   ],
+   "explain": "解析:\norchestra: n. a large group of musicians who play many different instruments\ntogether and are led by a conductor 管弦樂隊\naudition: n. v. a short performance that an actor, musician, dancer, etc. gives\nin order to show they are suitable for a",
+   "audio": "audio/b21/055.mp3"
+  },
+  {
+   "id": "b21-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M : Where does Carolyn work? W: In an automobile factory. M: What are her working hours? W: She works from nine to five. Q: When does Carolyn work?",
+   "options": {
+    "A": "after five o’clock.",
+    "B": "in a factory",
+    "C": "eight hours",
+    "D": "from nine to five"
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Where does Carolyn work?"
+    },
+    {
+     "s": "W",
+     "t": "In an automobile factory."
+    },
+    {
+     "s": "M",
+     "t": "What are her working hours?"
+    },
+    {
+     "s": "W",
+     "t": "She works from nine to five."
+    },
+    {
+     "s": "Q",
+     "t": "When does Carolyn work?"
+    }
+   ],
+   "explain": "解析: automobile: n. a car automobile factory 汽車工業",
+   "audio": "audio/b21/056.mp3"
+  },
+  {
+   "id": "b21-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "A: How many rooms do you need, ma'am? W: A single large room will do. Thank you. Q: How many rooms did the woman ask for?",
+   "options": {
+    "A": "a few",
+    "B": "one",
+    "C": "none",
+    "D": "two"
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "How many rooms do you need, ma'am?"
+    },
+    {
+     "s": "W",
+     "t": "A single large room will do. Thank you."
+    },
+    {
+     "s": "Q",
+     "t": "How many rooms did the woman ask for?"
+    }
+   ],
+   "audio": "audio/b21/057.mp3"
+  },
+  {
+   "id": "b21-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Where should we meet tomorrow? W: I think this corner would be good. M: I was going to say the post office, but now I think we'd better meet right here. Q: Where will the man and the woman probably meet?",
+   "options": {
+    "A": "on the base",
+    "B": "at the office",
+    "C": "on the corner",
+    "D": "at the post office"
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Where should we meet tomorrow?"
+    },
+    {
+     "s": "W",
+     "t": "I think this corner would be good."
+    },
+    {
+     "s": "M",
+     "t": "I was going to say the post office, but now I think we'd better meet right here."
+    },
+    {
+     "s": "Q",
+     "t": "Where will the man and the woman probably meet?"
+    }
+   ],
+   "explain": "解析: on the corner 角落",
+   "audio": "audio/b21/058.mp3"
+  },
+  {
+   "id": "b21-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: What caused the engine to fail? M: It failed because of poor maintenance. Q: What did the man blame the failure on?",
+   "options": {
+    "A": "low grade fuel",
+    "B": "rough roads",
+    "C": "improper care",
+    "D": "proper lubrication"
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "What caused the engine to fail?"
+    },
+    {
+     "s": "M",
+     "t": "It failed because of poor maintenance."
+    },
+    {
+     "s": "Q",
+     "t": "What did the man blame the failure on?"
+    }
+   ],
+   "explain": "解析: maintenance: n. the work needed to keep a road, building, machine,\netc. in good condition 維護，保養 blame: v. 怪罪",
+   "audio": "audio/b21/059.mp3"
+  },
+  {
+   "id": "b21-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Do you like professor Lark's lectures? W: Yes, he expresses himself very well. Q: What did the woman say about professor Lark?",
+   "options": {
+    "A": "that he was a good speaker",
+    "B": "that he talked very fast",
+    "C": "that his appearance was good",
+    "D": "that he knew a lot"
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Do you like professor Lark's lectures?"
+    },
+    {
+     "s": "W",
+     "t": "Yes, he expresses himself very well."
+    },
+    {
+     "s": "Q",
+     "t": "What did the woman say about professor Lark?"
+    }
+   ],
+   "explain": "解析: lecture n. a formal talk on a serious subject given to a group of people,\nespecially students 講課 he expresses himself very well. 他表達的很好 his\nappearance was good. 他的外表好看",
+   "audio": "audio/b21/060.mp3"
+  },
+  {
+   "id": "b21-061",
+   "n": 61,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "We’d better try to straighten ________ this room.",
+   "options": {
+    "A": "off",
+    "B": "up",
+    "C": "down",
+    "D": "to"
+   },
+   "answer": "B",
+   "explain": "解析: straighten up整頓，清理"
+  },
+  {
+   "id": "b21-062",
+   "n": 62,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Manuel is not the kind of person ________ work.",
+   "options": {
+    "A": "had avoided",
+    "B": "avoiding",
+    "C": "to avoid",
+    "D": "avoids"
+   },
+   "answer": "C",
+   "explain": "解析: 句意:曼努埃爾不是那種逃避工作的人。用不定詞去修飾前面的名詞\nperson"
+  },
+  {
+   "id": "b21-063",
+   "n": 63,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "This is a winter sale to make room for the new summer merchandise.",
+   "options": {
+    "A": "build",
+    "B": "provide space",
+    "C": "construct",
+    "D": "end business"
+   },
+   "answer": "B",
+   "underline": [
+    "make room"
+   ],
+   "explain": "解析: 句意:這是一個冬季特賣，為新的夏季商品騰出空間。merchandise商\n品，貨物; make room for ph.讓出空位；construct: v. 建造，構成"
+  },
+  {
+   "id": "b21-064",
+   "n": 64,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Items with defects must be returned within 30 days ________ the original receipt from this store.",
+   "options": {
+    "A": "paid",
+    "B": "before",
+    "C": "together with",
+    "D": "also"
+   },
+   "answer": "C",
+   "explain": "解析: 句意:有缺陷的物品必須在 30 天內與這家店的收據一起退回。\ndefect: n.瑕疵; 缺陷；original: 本來的； receipt: 收據"
+  },
+  {
+   "id": "b21-065",
+   "n": 65,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "People usually think of the Indian as a red-skinned man who wore a feathered headdress and rode a pony across the plains. Actually, Indians in different parts of what is now the United States lived in different ways, depending on their environment. According to the paragraph, _____.",
+   "options": {
+    "A": "the Indians’ surroundings affected their way of life",
+    "B": "the Indians spend most of their time riding ponies",
+    "C": "Indian ponies were plain so the Indians decorated them with feathers",
+    "D": "Plains are now found in different parts of the United States"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "b21-066",
+   "n": 66,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "When considering if an applicant is suitable for a job, we will compare his or her previous experience and professional training to the ________ of the job.",
+   "options": {
+    "A": "requests",
+    "B": "reforms",
+    "C": "restrictions",
+    "D": "requirements"
+   },
+   "answer": "D",
+   "explain": "解析: applicant: n. 申請者； compare: v. 比較； previous: adj.先前的 ；\nrequirement: 要求；規定； reform: n.v. 改革 restriction: n. 限制\n因為是要比較申請工作的人的資格須要考慮他的經驗與專業訓練是否符合工\n作的要 求，所以選d。"
+  },
+  {
+   "id": "b21-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "You are required to ________ all relevant data to the association ten days prior to the beginning of the conference.",
+   "options": {
+    "A": "emerge",
+    "B": "substantiate",
+    "C": "adapt",
+    "D": "submit"
+   },
+   "answer": "D",
+   "explain": "解析: 句意:您需要在會議開始之前十天內向協會提交所有相關資料。\nrequire: v.需要、要求；prior to: 在...之前； relevant: adj.有關的"
+  },
+  {
+   "id": "b21-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "When you are against a plan, you _______.",
+   "options": {
+    "A": "oppose it",
+    "B": "agree with it",
+    "C": "don’t understand it",
+    "D": "are trying it"
+   },
+   "answer": "A",
+   "explain": "解析: against反對；違反"
+  },
+  {
+   "id": "b21-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "We saw the leopard a __________ times during the game drive.",
+   "options": {
+    "A": "many",
+    "B": "some",
+    "C": "few",
+    "D": "lots"
+   },
+   "answer": "C",
+   "explain": "解析: a few 一些 (加可數名詞)\nleopard 豹"
+  },
+  {
+   "id": "b21-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I have a loose _______ in this tooth",
+   "options": {
+    "A": "cavity",
+    "B": "filling",
+    "C": "gum",
+    "D": "toothache"
+   },
+   "answer": "B",
+   "explain": "解析: loose 鬆動的; a loose filling 牙齒的填充物鬆動了"
+  },
+  {
+   "id": "b21-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "_________higher cost this year, attendance at the management training seminar remains above average.",
+   "options": {
+    "A": "Even though",
+    "B": "Nevertheless",
+    "C": "Despite",
+    "D": "Because of"
+   },
+   "answer": "C",
+   "explain": "解析: 句意:儘管今年費用較高，但參加管理培訓研討會人數仍然高於平均。\nAttendance n.出席人數；average: 平均。Despite 儘管為介係詞後面接名詞\n片語。Even though, nevertheless 為連接詞後面接子句。"
+  },
+  {
+   "id": "b21-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "After having ________ the matter, we discovered some confusion in the numbering of two different orders, which were collected for dispatch to Canada.",
+   "options": {
+    "A": "looked up",
+    "B": "looked into",
+    "C": "looked over",
+    "D": "looked for"
+   },
+   "answer": "B",
+   "explain": "解析: 句意:在調查此事後，我們發現了一些混亂在兩個不同訂單的編號，這些\n訂單是要被收集以發送到加拿大。Look into: 調查； discover: v. 發現；\nconfusion: 混亂； dispatch: v. 派遣；發送"
+  },
+  {
+   "id": "b21-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The need for in-service training programs _________ as a result of advances in global competition, consumer expectations, and the opening of huge new markets.",
+   "options": {
+    "A": "is creasing",
+    "B": "are increased",
+    "C": "have increased",
+    "D": "increased"
+   },
+   "answer": "D",
+   "explain": "解析: 句意:由於全球競爭的進步、消費者的期望和巨大的新市場的開放，在職\n培訓計劃的需求正在增加。主詞為the need，為單數，故選 a。as a result of\n由於；increase: 增大；增加"
+  },
+  {
+   "id": "b21-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Jansen usually works on Wednesday. _______ Heidi.",
+   "options": {
+    "A": "So does",
+    "B": "Neither does",
+    "C": "Either does",
+    "D": "So too"
+   },
+   "answer": "A",
+   "explain": "解析: So does Heidi. 此句為倒裝句，意思為 Heidi 也是通常星期三工作。"
+  },
+  {
+   "id": "b21-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Andy is out of his mind.",
+   "options": {
+    "A": "He is working hard.",
+    "B": "He is excited.",
+    "C": "He is getting crazy.",
+    "D": "He is studying hard."
+   },
+   "answer": "C",
+   "explain": "解析: out of one's mind= crazy or behaving in a crazy way 瘋了"
+  },
+  {
+   "id": "b21-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The customer asked, “Do you have any used tires for sale?” The clerk said, “I’m sorry; we just sold the last one.”",
+   "options": {
+    "A": "The store is out of them now.",
+    "B": "The store has a lot of them now.",
+    "C": "The clerk is selling the last one now.",
+    "D": "The store doesn’t carry used tires."
+   },
+   "answer": "A",
+   "explain": "解析: 句意: 客戶問：“你們有二手輪胎出售嗎？”店員說：“對不起； 我們剛賣\n了最後一個。”out of = 沒有；out of stock: 賣完了沒存貨； used tires: 二手輪\n胎"
+  },
+  {
+   "id": "b21-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "It is ________ that Ms. Jin wishes to handle all transactions by herself but it might be better if several people shared the responsibility.",
+   "options": {
+    "A": "admire",
+    "B": "admiring",
+    "C": "admirable",
+    "D": "admired"
+   },
+   "answer": "C",
+   "explain": "解析: 句意:金女士希望自己處理所有交易是令人欽佩，但如果幾個人分擔 責\n任可能會更好。admirable adj.值得讚揚的；令人欽佩的；極好的；絕妙的"
+  },
+  {
+   "id": "b21-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Currently, there is an excellent ________ for our society to boost its economic development.",
+   "options": {
+    "A": "popularity",
+    "B": "regularity",
+    "C": "opportunity",
+    "D": "liability"
+   },
+   "answer": "C",
+   "explain": "解析: 句意:目前有一個極好的機會來促進我們社會的經濟發展。\nOpportunity: 機會； boost: 推動；促進； liability: 責任，義務"
+  },
+  {
+   "id": "b21-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "This is how it actually happened.",
+   "options": {
+    "A": "supposedly",
+    "B": "probably",
+    "C": "really",
+    "D": "mistakenly"
+   },
+   "answer": "C",
+   "underline": [
+    "actually"
+   ],
+   "explain": "解析: actually= in fact or really實際上"
+  },
+  {
+   "id": "b21-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "With his box of matches, Tom ________ .",
+   "options": {
+    "A": "cut a hole in the paper",
+    "B": "filled up the gasoline tank",
+    "C": "melted the metal rod",
+    "D": "cleaned out the garage"
+   },
+   "answer": "C",
+   "explain": "解析: 使用火柴，湯姆融化了金屬棒\nmetal 金屬"
+  },
+  {
+   "id": "b21-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Did the electrician _______ a lot of work to do last week?",
+   "options": {
+    "A": "has",
+    "B": "make",
+    "C": "have",
+    "D": "had"
+   },
+   "answer": "C",
+   "explain": "解析: 助動詞後用原形動詞"
+  },
+  {
+   "id": "b21-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Please ________ the cello concert tomorrow evening.",
+   "options": {
+    "A": "play",
+    "B": "depart",
+    "C": "attend",
+    "D": "to go"
+   },
+   "answer": "C",
+   "explain": "解析: 句意:請參加明天晚上的大提琴音樂會。 attend: v. 參加; depart: v. 出\n發；離開"
+  },
+  {
+   "id": "b21-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I’ll get in touch with you sometime next month.",
+   "options": {
+    "A": "think about you",
+    "B": "massage you",
+    "C": "plan it for",
+    "D": "contact you"
+   },
+   "answer": "D",
+   "underline": [
+    "get in touch with"
+   ],
+   "explain": "解析: get in touch with you = contact you"
+  },
+  {
+   "id": "b21-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The athlete wore ________ his new running shoes.",
+   "options": {
+    "A": "with",
+    "B": "up",
+    "C": "for",
+    "D": "out"
+   },
+   "answer": "D",
+   "explain": "解析: athlete: 運動員；wear out: 用壞; 穿破; 耗盡"
+  },
+  {
+   "id": "b21-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The police searched for him throughout the barracks.",
+   "options": {
+    "A": "all over",
+    "B": "in part of",
+    "C": "outside of",
+    "D": "beside"
+   },
+   "answer": "A",
+   "underline": [
+    "throughout"
+   ],
+   "explain": "解析: throughout= all over =in every part遍及，遍布"
+  },
+  {
+   "id": "b21-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "We are going to have our annual meeting at noon. Can you ________ ?",
+   "options": {
+    "A": "make it",
+    "B": "do it",
+    "C": "succeed it",
+    "D": "go it"
+   },
+   "answer": "A",
+   "explain": "解析: 句意: 我們將在中午舉行年會。 你能趕到嗎？Make it: 及時趕到"
+  },
+  {
+   "id": "b21-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Passengers are reminded to allow for ________ travel time to the airport during the rush hours.",
+   "options": {
+    "A": "addition",
+    "B": "additive",
+    "C": "additional",
+    "D": "adding"
+   },
+   "answer": "C",
+   "explain": "解析: 句意: 提醒乘客在交通尖峰時間前往機場要留額外的交通時間。\nadditional: adj. 額外的。用形容詞修飾後面的名詞 travel time additive: adj.\n【數】加法的；n. 添加劑"
+  },
+  {
+   "id": "b21-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Kent: Would you please keep an eye on my car while I’m inside? Scott: Sure, I ________.",
+   "options": {
+    "A": "will an eye keep on it",
+    "B": "an eye will keep on it",
+    "C": "will keep an eye on it",
+    "D": "will keep on it an eye"
+   },
+   "answer": "C",
+   "explain": "解析: keep an eye on 仔細看守好; 細心照顧"
+  },
+  {
+   "id": "b21-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The 200-page, fully-illustrated ________ contains full details of our complete range of products.",
+   "options": {
+    "A": "leaflet",
+    "B": "brochure",
+    "C": "catalogue",
+    "D": "booklet."
+   },
+   "answer": "C",
+   "explain": "解析: brochure= booklet小冊子; leaflet傳單，活頁；（單頁）廣告;\nCatalogue目錄冊。200頁的產品目錄不可能是小冊子或傳單所以選 c。"
+  },
+  {
+   "id": "b21-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The colonel is ________ now, but he can see you tomorrow at 13:00.",
+   "options": {
+    "A": "unavailable",
+    "B": "free",
+    "C": "unoccupied",
+    "D": "present"
+   },
+   "answer": "A",
+   "explain": "解析: 句意: 上校現在不在，但他明天 13:00 可以見你。Unavailable: 難以獲\n得的；不能（或不願）交談"
+  },
+  {
+   "id": "b21-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The Bank of England ________ in 1694 by a group of wealthy merchants and landowners for the purpose of raising a loan for King William III.",
+   "options": {
+    "A": "was founded",
+    "B": "was found",
+    "C": "found",
+    "D": "has been founded"
+   },
+   "answer": "A",
+   "explain": "解析: 句意:英格蘭銀行成立於 1694 年，由一群富有的商人和土地所有者為國\n王威廉三世籌集貸款。found v. 創立；創辦。 founded founded (pt, pp) 由某\n人於過去某年所創建用過去式被動語態"
+  },
+  {
+   "id": "b21-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The firm decided to take further action to make the unpaid invoice of $90,000 payable, which has caused ________ financial difficulties.",
+   "options": {
+    "A": "considerate",
+    "B": "considering",
+    "C": "considerable",
+    "D": "considerably"
+   },
+   "answer": "C",
+   "explain": "解析: 句意:公司決定採取進一步行動，開具未付發票90,000 美元，這造成了\n相當大的財務困難。considerable: adj.相當大的體貼的；considerate: adj.周\n到的；關心的。"
+  },
+  {
+   "id": "b21-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Eason wasn’t in the board meeting this morning. Alvin wasn’t there _______ .",
+   "options": {
+    "A": "already",
+    "B": "neither",
+    "C": "either",
+    "D": "both"
+   },
+   "answer": "C",
+   "explain": "解析: either 作副詞（Adverb），雖然和 too 一樣都是「也」的意思，但用法\n上正好相反，它會用在附加的句子中來附和一個否定的句子"
+  },
+  {
+   "id": "b21-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The committee members have approached the proposal with a good deal of ________ because some of the ideas put forward are very controversial.",
+   "options": {
+    "A": "cautious",
+    "B": "caution",
+    "C": "cautioned",
+    "D": "cautiously"
+   },
+   "answer": "B",
+   "explain": "解析: 介係詞of後面接名詞，故選 b。a good deal of 大量, 許多；caution n.\n小心； controversial adj. 有爭議的"
+  },
+  {
+   "id": "b21-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The stores are convenient.",
+   "options": {
+    "A": "easy to get to",
+    "B": "too expensive",
+    "C": "too far off",
+    "D": "always full of people"
+   },
+   "answer": "A",
+   "underline": [
+    "convenient"
+   ],
+   "explain": "解析: convenient adj.方便的"
+  },
+  {
+   "id": "b21-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "We can always count _______ Ricardo to do the right thing",
+   "options": {
+    "A": "on",
+    "B": "for",
+    "C": "by",
+    "D": "to"
+   },
+   "answer": "A",
+   "explain": "解析: count on sb: to be confident that you can depend on someone\n依靠…；指望…"
+  },
+  {
+   "id": "b21-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The water buffalo died because it was underfed and ________ .",
+   "options": {
+    "A": "overworked",
+    "B": "underway",
+    "C": "overcooked",
+    "D": "undercover"
+   },
+   "answer": "A",
+   "explain": "解析: 句意: 水牛死了，是因為牠沒有被餵飽，而且勞累過度。 underfed adj.\n未餵飽的;營養不夠的；overworked adj.工作過度的;\nundercover暗中進行的；從事祕密（或間諜）工作的"
+  },
+  {
+   "id": "b21-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Variably cloudy skies continue over the northern tip of Taiwan and Yilan County. As this weak frontal band stretches out across the northern part of the island, it will produce some drizzle or light rainfall throughout the evening. The heaviest rain seems to be confined to the Keelung area, where around three centimeters have fallen so far. High pressure remains across the rest of the island, which means we will have a mild evening with clear skies and light winds. When is rain expected for northern Taiwan?",
+   "options": {
+    "A": "In the afternoon.",
+    "B": "In the evening.",
+    "C": "At noon.",
+    "D": "In the late afternoon."
+   },
+   "answer": "B",
+   "explain": "解析: As this weak frontal band stretches out across the northern part of the\nisland, it will produce some drizzle or light rainfall throughout the evening. 從\n此句中得知。 drizzle: n.毛毛雨 rainfall n.下雨；降雨量；light rainfall 少量降\n雨"
+  },
+  {
+   "id": "b21-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Variably cloudy skies continue over the northern tip of Taiwan and Yilan County. As this weak frontal band stretches out across the northern part of the island, it will produce some drizzle or light rainfall throughout the evening. The heaviest rain seems to be confined to the Keelung area, where around three centimeters have fallen so far. High pressure remains across the rest of the island, which means we will have a mild evening with clear skies and light winds. Which part of Taiwan will have clear skies?",
+   "options": {
+    "A": "The northern part of the island.",
+    "B": "The central and southern parts of the island.",
+    "C": "The Keelung area.",
+    "D": "Yilan county."
+   },
+   "answer": "B",
+   "explain": "解析: High pressure remains across the rest of the island, which means we\nwill have a mild evening with clear skies and light winds. 從此句中the rest of\nthe island (島嶼其他地方)得知非the northern tip of Taiwan and Yilan county,\nthe Keelung area地區，即中部及南部地區"
+  },
+  {
+   "id": "b21-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Variably cloudy skies continue over the northern tip of Taiwan and Yilan County. As this weak frontal band stretches out across the northern part of the island, it will produce some drizzle or light rainfall throughout the evening. The heaviest rain seems to be confined to the Keelung area, where around three centimeters have fallen so far. High pressure remains across the rest of the island, which means we will have a mild evening with clear skies and light winds. What report is this?",
+   "options": {
+    "A": "An air traffic report.",
+    "B": "A seismological report.",
+    "C": "A weather report.",
+    "D": "None of the above."
+   },
+   "answer": "C",
+   "explain": "解析: cloudy skies, clear skies, light wind 都與天氣氣象有關。seismological\nadj.地震學上的"
+  }
+ ]
+}

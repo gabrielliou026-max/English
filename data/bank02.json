@@ -296,7 +296,7 @@
    "options": {
     "A": "Ok, but you'd better hurry.",
     "B": "But I'm afraid of alligators.",
-    "C": "Ok, I'll put you through immediatedly.",
+    "C": "Ok, I'll put you through immediately.",
     "D": "Thanks, anyway."
    },
    "answer": "A",
@@ -371,7 +371,7 @@
    "options": {
     "A": "Yes, she wears makeup at work.",
     "B": "No, she never wears jewelry.",
-    "C": "Yes, she's a little nearshighted.",
+    "C": "Yes, she's a little nearsighted.",
     "D": "No, she's not yet engaged."
    },
    "answer": "C",

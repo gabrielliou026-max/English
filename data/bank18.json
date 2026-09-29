@@ -1,0 +1,1701 @@
+{
+ "bank": "18",
+ "title": "第 18 回",
+ "questions": [
+  {
+   "id": "b18-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "When will Miss Morrison be in?",
+   "options": {
+    "A": "She didn't tell me, but I guess she went there by train.",
+    "B": "She didn't tell me, but I guess she went out with her husband.",
+    "C": "She didn't tell me, but I guess she'd go to the movies.",
+    "D": "She didn't tell me, but I guess she'll be back soon."
+   },
+   "answer": "D",
+   "explain": "句意:摩里森女士什麼時候會在? 答案:D",
+   "audio": "audio/b18/001.mp3"
+  },
+  {
+   "id": "b18-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Tom said, \"Sometimes I eat out.\" Where does Tom sometimes have his meal?",
+   "options": {
+    "A": "at home",
+    "B": "in a restaurant",
+    "C": "in bed",
+    "D": "in the kitchen"
+   },
+   "answer": "B",
+   "explain": "句意: 湯姆有時候會吃外食. 湯姆有時候會在那裡吃飯? 答案: B (在餐廳) eat\nout 在外用餐",
+   "audio": "audio/b18/002.mp3"
+  },
+  {
+   "id": "b18-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you always drive so quickly?",
+   "options": {
+    "A": "No, I have never driven slowly.",
+    "B": "No, only when I am in a hurry.",
+    "C": "Yes, I would like to drive very much.",
+    "D": "Yes, or we will be late."
+   },
+   "answer": "B",
+   "explain": "句意:你通常都開快車嗎? 答案:B In a hurry 急忙，匆忙",
+   "audio": "audio/b18/003.mp3"
+  },
+  {
+   "id": "b18-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How long will it take to clean up the oil spill at Kenting?",
+   "options": {
+    "A": "Then you'll have to go buy some more.",
+    "B": "They'll probably clear out before Saturday.",
+    "C": "It'll be ten years before it's completely done.",
+    "D": "It's about an hour and a half by car."
+   },
+   "answer": "C",
+   "explain": "句意:需要花多久時間才能清除墾丁油輪漏油的情形?\n答案:C\noil spill 油輪漏油",
+   "audio": "audio/b18/004.mp3"
+  },
+  {
+   "id": "b18-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Mr. Grayson told us to watch out. What did he tell us to do?",
+   "options": {
+    "A": "be careful",
+    "B": "study the report",
+    "C": "find the answer",
+    "D": "be clear"
+   },
+   "answer": "A",
+   "explain": "句意:葛雷森先生告訴我們要小心! 答案:A (小心，注意安全) watch out (小心，\n當心)",
+   "audio": "audio/b18/005.mp3"
+  },
+  {
+   "id": "b18-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Are you taking any medicine?",
+   "options": {
+    "A": "No, I like the color the way it is.",
+    "B": "No, the house is full of them.",
+    "C": "No, I am getting well without it.",
+    "D": "No, the library has enough for me."
+   },
+   "answer": "C",
+   "explain": "句意:你有在服用任何藥物嗎? 答案:C",
+   "audio": "audio/b18/006.mp3"
+  },
+  {
+   "id": "b18-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Do you think this painting is too big to carry on the plane?",
+   "options": {
+    "A": "No, the carry-on bag isn't heavy, you won't pant.",
+    "B": "Well, not if you cut into three pieces.",
+    "C": "Yes, and you'd better check it in with your other luggage.",
+    "D": "Sure, you can always do some painting during the flight."
+   },
+   "answer": "C",
+   "explain": "句意:你覺得這幅畫帶上飛機上是否會太大? 答案:C carry 搬運，攜帶",
+   "audio": "audio/b18/007.mp3"
+  },
+  {
+   "id": "b18-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "It’s amazing how rockets can reach the moon. What do we mean by “amazing”?",
+   "options": {
+    "A": "remarkable",
+    "B": "true",
+    "C": "unknown",
+    "D": "uninteresting"
+   },
+   "answer": "A",
+   "explain": "句意:太令人驚訝了，火箭可以登陸月球。 答案:A Remarkable 卓越，引人注\n目",
+   "audio": "audio/b18/008.mp3"
+  },
+  {
+   "id": "b18-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mr. Chen wants me to remind you to bring your report to the meeting tomorrow.",
+   "options": {
+    "A": "You are very forgetful.",
+    "B": "I won't have time to read it tomorrow.",
+    "C": "Thanks. I'll make a note of it.",
+    "D": "No, thanks. I don't really need it."
+   },
+   "answer": "C",
+   "explain": "句意:陳先生交代我提醒你，要帶你的報告參加明天的會議。 答案:C make a\nnote of 把…記下來",
+   "audio": "audio/b18/009.mp3"
+  },
+  {
+   "id": "b18-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Sixty students attended church service last Sunday. How many were at the service?",
+   "options": {
+    "A": "sixteen",
+    "B": "sixty",
+    "C": "last Sunday",
+    "D": "six"
+   },
+   "answer": "B",
+   "explain": "句意:60位學生在上周六參加教會服侍.有多少人在這場服侍裡? 答案:B",
+   "audio": "audio/b18/010.mp3"
+  },
+  {
+   "id": "b18-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Why do you suppose no one has shown up yet for the party?",
+   "options": {
+    "A": "I am afraid I can't see anyone now.",
+    "B": "We went to a baseball game instead.",
+    "C": "I suppose several people are coming.",
+    "D": "Maybe you wrote down the wrong time."
+   },
+   "answer": "D",
+   "explain": "句意:為什麼你猜還沒有半個人出現在這場舞會? 答案:D(也許你寫錯時間)",
+   "audio": "audio/b18/011.mp3"
+  },
+  {
+   "id": "b18-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Why don't you ask Nancy to go? She enjoys watching movies.",
+   "options": {
+    "A": "I suggest that we watch a comedy instead.",
+    "B": "She has to work overtime tonight.",
+    "C": "The 9:00 show is already sold out.",
+    "D": "No, I don't really enjoy watching movies."
+   },
+   "answer": "B",
+   "explain": "句意:為什麼你沒問南⻄要不要去? 他很喜歡看電影。 答案:B Work overtime\n加班",
+   "audio": "audio/b18/012.mp3"
+  },
+  {
+   "id": "b18-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Bob wears a crash helmet when he works. What part of his body does it protect?",
+   "options": {
+    "A": "his stomach",
+    "B": "his shoulders",
+    "C": "his legs",
+    "D": "his head"
+   },
+   "answer": "D",
+   "explain": "句意:當包伯工作時，戴著一頂防撞安全帽。答案:D crash helmet 防撞安全帽",
+   "audio": "audio/b18/013.mp3"
+  },
+  {
+   "id": "b18-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Who broke the window?",
+   "options": {
+    "A": "No, I didn’t know.",
+    "B": "Fred did.",
+    "C": "It needs to be fixed.",
+    "D": "Yes, I heard it."
+   },
+   "answer": "B",
+   "explain": "句意:誰打破了窗戶? 答案:B",
+   "audio": "audio/b18/014.mp3"
+  },
+  {
+   "id": "b18-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The mechanic will inspect your car tomorrow.Q: What will he do?",
+   "options": {
+    "A": "He’ll sell the car.",
+    "B": "He’ll repair the car.",
+    "C": "He’ll examine the car.",
+    "D": "He’ll borrow the car."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "The mechanic will inspect your car tomorrow."
+    },
+    {
+     "s": "Q",
+     "t": "What will he do?"
+    }
+   ],
+   "explain": "句意:技工明天將會檢查你的車 答案:C Inspect 檢查 Examine 檢驗",
+   "audio": "audio/b18/015.mp3"
+  },
+  {
+   "id": "b18-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "question",
+   "stem": "When will you wind up the project?",
+   "options": {
+    "A": "When will you increase the project?",
+    "B": "When will you expand the project?",
+    "C": "When will you start the project?",
+    "D": "When will you finish the project?"
+   },
+   "answer": "D",
+   "explain": "句意:你何時可以玩這份計劃? 答案:D Wind up 完成，結束",
+   "audio": "audio/b18/016.mp3"
+  },
+  {
+   "id": "b18-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Frank notified his employer. What did Frank do?",
+   "options": {
+    "A": "He played a joke.",
+    "B": "He went out for a long lunch.",
+    "C": "He told his employer something.",
+    "D": "He asked his employer for more money."
+   },
+   "answer": "C",
+   "explain": "句意:法蘭克通知他的員工 答案:C Notify 通知，告知",
+   "audio": "audio/b18/017.mp3"
+  },
+  {
+   "id": "b18-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Joe has supper at four o'clock. He eats in a cafeteria. He always has good appetite. When does Joe have supper?",
+   "options": {
+    "A": "in the cafeteria",
+    "B": "He has a good appetite",
+    "C": "at 16:00 hours",
+    "D": "bread and meat"
+   },
+   "answer": "C",
+   "explain": "句意:喬四點時吃了晚餐 答案:C",
+   "audio": "audio/b18/018.mp3"
+  },
+  {
+   "id": "b18-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You must really be tired. Fifteen hours on a plane can take a lot out of you!",
+   "options": {
+    "A": "No. The food was actually pretty good.",
+    "B": "Absolutely! There's a lot more space in first class.",
+    "C": "It's no big deal; I'm used to it.",
+    "D": "I have to get at least seven hours of sleep every night."
+   },
+   "answer": "C",
+   "explain": "句意:你一定很累了，15小時的飛行旅程會讓你很疲倦。 答案:C take a lot out\nof sb. 使某人疲乏或厭倦",
+   "audio": "audio/b18/019.mp3"
+  },
+  {
+   "id": "b18-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Pilots must read their instruments accurately. How must they read them?",
+   "options": {
+    "A": "alone",
+    "B": "with others",
+    "C": "correctly",
+    "D": "quickly"
+   },
+   "answer": "C",
+   "explain": "句意:飛行員必須正確無誤地讀懂他們的儀器。 答案:C (準確地) instrument\n(n.)儀器；設備 accurately (adv.) 正確無誤地；精準地",
+   "audio": "audio/b18/020.mp3"
+  },
+  {
+   "id": "b18-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "question",
+   "stem": "If you're driving a car and you see a sign that says, \"Yield right of way.\" What should you do?",
+   "options": {
+    "A": "let the other cars go first",
+    "B": "increase your speed",
+    "C": "turn right immediately",
+    "D": "always come to a quick stop"
+   },
+   "answer": "A",
+   "explain": "句意:當你在開車時，看見禮讓來車的標語 答案:A Yield right of way 禮讓來車",
+   "audio": "audio/b18/021.mp3"
+  },
+  {
+   "id": "b18-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "question",
+   "stem": "John saw a friend in town last night. What did John see?",
+   "options": {
+    "A": "a train",
+    "B": "a movie",
+    "C": "a person",
+    "D": "a plane"
+   },
+   "answer": "C",
+   "explain": "句意:約翰昨晚在市區看見一個朋友。約翰看到了什麼? 答案:C (一個人)",
+   "audio": "audio/b18/022.mp3"
+  },
+  {
+   "id": "b18-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mr. Johnson, I'd like you to meet Mr. Chang, our marketing director.",
+   "options": {
+    "A": "No, we have never met before.",
+    "B": "A pleasure to make your acquaintance.",
+    "C": "Our marketing department has been very successful.",
+    "D": "It's on the other side of the office."
+   },
+   "answer": "B",
+   "explain": "句意:強森先生，為您介紹我們的市場經理張先生。 答案:B(認識你是我的榮\n幸) Acquaintance (與人)認識、相識",
+   "audio": "audio/b18/023.mp3"
+  },
+  {
+   "id": "b18-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "People say that Louise catches on quickly. What do they mean?",
+   "options": {
+    "A": "She is a fast learner.",
+    "B": "She plays baseball well.",
+    "C": "She is a slow learner.",
+    "D": "She daydreams."
+   },
+   "answer": "A",
+   "explain": "句意:大家說路易絲上手的很快 答案:A catch on 理解",
+   "audio": "audio/b18/024.mp3"
+  },
+  {
+   "id": "b18-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Vivian made a surprise visit to Tom's office. What kind of visit was it?",
+   "options": {
+    "A": "unexpected",
+    "B": "short",
+    "C": "planned",
+    "D": "long"
+   },
+   "answer": "A",
+   "explain": "句意:薇薇安到湯姆的辦公室給他一個驚喜的拜訪。那是什麼樣的一個拜訪?\n答案:A Unexpected 出乎意料的，令人意外的",
+   "audio": "audio/b18/025.mp3"
+  },
+  {
+   "id": "b18-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Since it was so hot, he stayed at home. Why did he remain at home?",
+   "options": {
+    "A": "because of the cold weather",
+    "B": "because of the work at home",
+    "C": "because of the heat",
+    "D": "because of the humidity"
+   },
+   "answer": "C",
+   "explain": "句意:自從天氣變得很熱，他就都待在家。為什麼他要一直待在家? 答案:C (因\n為高溫)",
+   "audio": "audio/b18/026.mp3"
+  },
+  {
+   "id": "b18-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "question",
+   "stem": "A new car will cost eight thousand dollars or higher. How much will the new car cost?",
+   "options": {
+    "A": "only $8,000",
+    "B": "less than $8,000",
+    "C": "$8,000 or more",
+    "D": "just $8,000"
+   },
+   "answer": "C",
+   "explain": "句意: 一輛新車要花費8000美元或更高的金額. 請問一台新車要花多少錢? 答\n案: C",
+   "audio": "audio/b18/027.mp3"
+  },
+  {
+   "id": "b18-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "question",
+   "stem": "John said, \"It's nine am and I'm leaving right away.\" When is he leaving?",
+   "options": {
+    "A": "after a while",
+    "B": "immediately",
+    "C": "at noon",
+    "D": "before 9:00 a.m."
+   },
+   "answer": "B",
+   "explain": "句意:約翰說 現在是早上9點，我馬上就要離開。 答案:B Immediately (adv.)\n立刻；馬上",
+   "audio": "audio/b18/028.mp3"
+  },
+  {
+   "id": "b18-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Although Burt wanted a sports car, he bought a sedan.",
+   "options": {
+    "A": "Bert wanted a sedan being.",
+    "B": "Bert didn’t want a sports car.",
+    "C": "Bert bought a sedan.",
+    "D": "Bert bought a sports car."
+   },
+   "answer": "C",
+   "explain": "句意:儘管伯特想買跑車，但還是買了一輛轎車。 答案:C Sedan 轎車，房車",
+   "audio": "audio/b18/029.mp3"
+  },
+  {
+   "id": "b18-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Joe wants to glance at the materials in the store. What does he want to do?",
+   "options": {
+    "A": "buy something",
+    "B": "handle the materials",
+    "C": "test the materials",
+    "D": "have a quick look at them"
+   },
+   "answer": "D",
+   "explain": "句意:喬想要瀏覽店裡的材料 答案:D glance at 掃視，快速瀏覽",
+   "audio": "audio/b18/030.mp3"
+  },
+  {
+   "id": "b18-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Robert doesn't speak Spanish, and James doesn't, either.",
+   "options": {
+    "A": "Robert and James speak Spanish.",
+    "B": "Only Robert speaks Spanish.",
+    "C": "Neither of them speaks Spanish.",
+    "D": "He doesn't have the money to buy the shoes."
+   },
+   "answer": "C",
+   "audio": "audio/b18/031.mp3"
+  },
+  {
+   "id": "b18-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "We don’t know what his reason was.",
+   "options": {
+    "A": "We don’t know why he did it.",
+    "B": "We don’t know where he was going.",
+    "C": "We don’t know how he did it.",
+    "D": "We don’t know who was with him."
+   },
+   "answer": "A",
+   "explain": "句意:我們不知道他的理由是什麼 答案:A",
+   "audio": "audio/b18/032.mp3"
+  },
+  {
+   "id": "b18-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Carl said, \"I need to buy a pair of new shoes, but I don't have the time.\"",
+   "options": {
+    "A": "Carl bought a pair of shoes.",
+    "B": "Carl has time to do some shopping.",
+    "C": "He doesn't have time to buy new shoes.",
+    "D": "He doesn't have the money to buy the shoes."
+   },
+   "answer": "C",
+   "explain": "句意: 卡爾說: 我需要買一雙新鞋，但我沒時間。 答案:C (他沒時間去買新鞋)",
+   "audio": "audio/b18/033.mp3"
+  },
+  {
+   "id": "b18-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Jane selected a book.",
+   "options": {
+    "A": "She read a book.",
+    "B": "She found a book.",
+    "C": "She sold a book.",
+    "D": "She chose a book."
+   },
+   "answer": "D",
+   "explain": "句意: 珍挑選了一本書。\n答案:D (他選擇了一本書)",
+   "audio": "audio/b18/034.mp3"
+  },
+  {
+   "id": "b18-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The weather is so cold that she doesn’t want to go out.",
+   "options": {
+    "A": "She doesn’t know what she wants to do.",
+    "B": "She doesn’t know what the weather.",
+    "C": "She wants to stay inside.",
+    "D": "The weather isn’t very cold."
+   },
+   "answer": "C",
+   "explain": "句意:天氣實在太冷，導致她不想出門 答案:C",
+   "audio": "audio/b18/035.mp3"
+  },
+  {
+   "id": "b18-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The climate in this country varies by season. The climate_ .",
+   "options": {
+    "A": "stays hot",
+    "B": "stays cold",
+    "C": "changes",
+    "D": "is always the same"
+   },
+   "answer": "C",
+   "explain": "句意:這個國家的氣候隨著季節變化。 答案:C (改變) Vary (v.) （使）不同；\n（使）呈現差異",
+   "audio": "audio/b18/036.mp3"
+  },
+  {
+   "id": "b18-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "There's something the matter with the engine.",
+   "options": {
+    "A": "The car is running fine.",
+    "B": "The car doesn’t make any noise.",
+    "C": "The engine was removed from the car.",
+    "D": "The car is not running well."
+   },
+   "answer": "D",
+   "explain": "句意:引擎出現了一些問題 答案:D (車子跑起來不順暢)",
+   "audio": "audio/b18/037.mp3"
+  },
+  {
+   "id": "b18-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Kim talked to Mary this morning.",
+   "options": {
+    "A": "Kim and Mary listened this morning.",
+    "B": "Kim looked for Mary this morning.",
+    "C": "Mary didn't see Kim this morning.",
+    "D": "Mary listened to Kim this morning."
+   },
+   "answer": "D",
+   "explain": "句意: 金今天早上跟瑪麗聊過. 答案:D listen to 傾聽…",
+   "audio": "audio/b18/038.mp3"
+  },
+  {
+   "id": "b18-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The organization set up a training schedule.",
+   "options": {
+    "A": "A schedule was lost.",
+    "B": "A schedule was destroyed.",
+    "C": "A schedule was found.",
+    "D": "A schedule was established."
+   },
+   "answer": "D",
+   "explain": "句意:單位建立了一份訓練計畫 答案:D Set up 建立",
+   "audio": "audio/b18/039.mp3"
+  },
+  {
+   "id": "b18-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "When I'm at home, I would like to take it easy.",
+   "options": {
+    "A": "I like to work hard.",
+    "B": "I like to study a lot.",
+    "C": "I like to take a bath.",
+    "D": "I like to relax."
+   },
+   "answer": "D",
+   "explain": "句意: 當我在家時，我想要放輕鬆。 答案:D (我喜歡放鬆) take it easy. 冷靜一\n下，放輕鬆",
+   "audio": "audio/b18/040.mp3"
+  },
+  {
+   "id": "b18-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Watkins forgot my telephone number.",
+   "options": {
+    "A": "He dialed it.",
+    "B": "He got it from me.",
+    "C": "He didn't remember it",
+    "D": "He wrote it down."
+   },
+   "answer": "C",
+   "explain": "句意:華金斯忘了我的電話號碼。\n答案:C",
+   "audio": "audio/b18/041.mp3"
+  },
+  {
+   "id": "b18-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "At last they finished their course.",
+   "options": {
+    "A": "They didn’t finish it.",
+    "B": "They finished half of it.",
+    "C": "They finished the final portion.",
+    "D": "They finally finished it."
+   },
+   "answer": "D",
+   "explain": "句意: 最後他們完成了他們的課程 答案:D At last 最後",
+   "audio": "audio/b18/042.mp3"
+  },
+  {
+   "id": "b18-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "This gas is invisible.",
+   "options": {
+    "A": "You can't see it.",
+    "B": "You can't smell it.",
+    "C": "You can't obtain it.",
+    "D": "You can't use it."
+   },
+   "answer": "A",
+   "explain": "句意:瓦斯是沒有形體的。 答案:A (你看不見它) invisible 看不見的；無形的；\n不顯眼的",
+   "audio": "audio/b18/043.mp3"
+  },
+  {
+   "id": "b18-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "question",
+   "stem": "It was sixty, but I don't know whether Centigrade or Fahrenheit. What does the man refer to?",
+   "options": {
+    "A": "size",
+    "B": "cost",
+    "C": "length",
+    "D": "temperature"
+   },
+   "answer": "D",
+   "explain": "句意:現在是60度，但我不確定是攝氏還是華氏。 答案:D Centigrade 攝氏\nFahrenheit 華氏",
+   "audio": "audio/b18/044.mp3"
+  },
+  {
+   "id": "b18-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Our team was composed of three people.",
+   "options": {
+    "A": "Our team saw the three people.",
+    "B": "Our team talked to the three people.",
+    "C": "Our team consisted of three people.",
+    "D": "The three people fight with our team."
+   },
+   "answer": "C",
+   "explain": "句意: 我們的隊伍由三個人組成\n答案: C",
+   "audio": "audio/b18/045.mp3"
+  },
+  {
+   "id": "b18-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The tool was wrapped in paper.",
+   "options": {
+    "A": "The paper was put inside the tool.",
+    "B": "The tool was explained on paper.",
+    "C": "The tool was covered with paper.",
+    "D": "The tool was used to cut the paper."
+   },
+   "answer": "C",
+   "explain": "句意:這個工具被紙包住 答案:C Be wrapped in 被…包住",
+   "audio": "audio/b18/046.mp3"
+  },
+  {
+   "id": "b18-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Charles had a new thought. What happened?",
+   "options": {
+    "A": "He got a car.",
+    "B": "He got an idea.",
+    "C": "He got a pain.",
+    "D": "He got an office."
+   },
+   "answer": "B",
+   "explain": "句意:查爾斯有了一個新想法? 答案:B",
+   "audio": "audio/b18/047.mp3"
+  },
+  {
+   "id": "b18-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You have to be sharp if you are going to complete pilot training successfully.",
+   "options": {
+    "A": "Pilot training is very easy.",
+    "B": "Pilots must be alert and intelligent.",
+    "C": "Pilots don’t study hard.",
+    "D": "Learning to fly requires little coordination."
+   },
+   "answer": "B",
+   "explain": "句意:如果你想成功地通過飛行訓練，你必須很敏銳。 答案:B Sharp 敏銳\nAlert 靈敏，機智",
+   "audio": "audio/b18/048.mp3"
+  },
+  {
+   "id": "b18-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Every six months, Mr. Brown takes his car to the mechanic for an inspection.",
+   "options": {
+    "A": "Mr. Brown wrecks his every 6 months.",
+    "B": "Mr. Brown trades his car every 6 months.",
+    "C": "The mechanic examines Mr. Brown’s car every 6 months.",
+    "D": "The mechanic repairs Mr. Brown’s car every 6 months"
+   },
+   "answer": "C",
+   "explain": "句意: 每6個月伯朗先生會把他的汽車牽去給技工檢查。 答案:C (技工每6個月\n會檢查伯朗先生的車)",
+   "audio": "audio/b18/049.mp3"
+  },
+  {
+   "id": "b18-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Cadet Brown was too late to catch the bus.",
+   "options": {
+    "A": "He got on the bus.",
+    "B": "He did not get off the bus.",
+    "C": "He missed the bus.",
+    "D": "He got on the wrong bus."
+   },
+   "answer": "C",
+   "explain": "句意:伯朗同學太晚去搭巴士 答案:C Miss 錯過",
+   "audio": "audio/b18/050.mp3"
+  },
+  {
+   "id": "b18-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Astronauts undergo years of training.",
+   "options": {
+    "A": "They dislike extensive training.",
+    "B": "They receive extensive training.",
+    "C": "Astronaut training is hazardous.",
+    "D": "They skip extensive training."
+   },
+   "answer": "B",
+   "explain": "句意:太空人要經歷很多年的訓練。 答案:B undergo 經歷，忍受",
+   "audio": "audio/b18/051.mp3"
+  },
+  {
+   "id": "b18-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Mr. Miller knows what the population of New York is.",
+   "options": {
+    "A": "He knows where New York is.",
+    "B": "He knows how to get to New York.",
+    "C": "He knows how many miles away New York is.",
+    "D": "He knows how many people live in New York."
+   },
+   "answer": "D",
+   "explain": "句意: 米勒先生了解紐約的人口數。 答案:D (他知道有多少人住在紐約)",
+   "audio": "audio/b18/052.mp3"
+  },
+  {
+   "id": "b18-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The farmer saw a whirlybird over his field. What did the farmer see?",
+   "options": {
+    "A": "a blackbird",
+    "B": "a helicopter",
+    "C": "a beautiful flower",
+    "D": "a new bird"
+   },
+   "answer": "B",
+   "explain": "句意:農夫看見一架直升機穿過他的農田 答案:B whirlybird 直升機",
+   "audio": "audio/b18/053.mp3"
+  },
+  {
+   "id": "b18-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: How can I get to the bank? M: Just walk straight ahead. Q: Where is the bank?",
+   "options": {
+    "A": "It’s in back of her.",
+    "B": "It’s in front of her.",
+    "C": "It’s across to her right.",
+    "D": "It’s toward her left."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "How can I get to the bank?"
+    },
+    {
+     "s": "M",
+     "t": "Just walk straight ahead."
+    },
+    {
+     "s": "Q",
+     "t": "Where is the bank?"
+    }
+   ],
+   "explain": "句意:銀行要怎麼去? 你直走就會到了 答案:B walk straight 直行",
+   "audio": "audio/b18/054.mp3"
+  },
+  {
+   "id": "b18-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Where is your son? M: He's getting a book. Q: What is the man's son getting?",
+   "options": {
+    "A": "something to eat",
+    "B": "something to wear",
+    "C": "something to read",
+    "D": "something to drink"
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Where is your son?"
+    },
+    {
+     "s": "M",
+     "t": "He's getting a book."
+    },
+    {
+     "s": "Q",
+     "t": "What is the man's son getting?"
+    }
+   ],
+   "explain": "句意:你兒子在哪? 他在看書 答案:C",
+   "audio": "audio/b18/055.mp3"
+  },
+  {
+   "id": "b18-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: \"Were you at Jerry's party Saturday night?” M: No. Were any of your friends there? W: Yes, a lot of them came from the city. Q: What did we learn from this conversation?",
+   "options": {
+    "A": "The woman saw many of her friends at the party.",
+    "B": "The woman saw the man at the party.",
+    "C": "The man’s friends were at the party.",
+    "D": "The woman had very few of her friends there."
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "\"Were you at Jerry's party Saturday night?”"
+    },
+    {
+     "s": "M",
+     "t": "No. Were any of your friends there?"
+    },
+    {
+     "s": "W",
+     "t": "Yes, a lot of them came from the city."
+    },
+    {
+     "s": "Q",
+     "t": "What did we learn from this conversation?"
+    }
+   ],
+   "explain": "句意: 答案:A Come from 來自(某處)",
+   "audio": "audio/b18/056.mp3"
+  },
+  {
+   "id": "b18-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: \"Your brother has really grown.\" M: \"Yes, he is over six feet now.\" Q: What did the woman say about her brother?",
+   "options": {
+    "A": "He is very smart.",
+    "B": "He is very heavy.",
+    "C": "He is very loud.",
+    "D": "He is very tall."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "\"Your brother has really grown.\""
+    },
+    {
+     "s": "M",
+     "t": "\"Yes, he is over six feet now.\""
+    },
+    {
+     "s": "Q",
+     "t": "What did the woman say about her brother?"
+    }
+   ],
+   "explain": "句意:你的兄弟成長很多。是呀，他已經超過6呎了\n答案:D",
+   "audio": "audio/b18/057.mp3"
+  },
+  {
+   "id": "b18-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: \"What did you tell them?\" M: \"That the situation is critical.\" Q: What did the man mean?",
+   "options": {
+    "A": "The woman has said something funny.",
+    "B": "The problem is very severe.",
+    "C": "Something strange is happening.",
+    "D": "There is nothing worth talking about."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "\"What did you tell them?\""
+    },
+    {
+     "s": "M",
+     "t": "\"That the situation is critical.\""
+    },
+    {
+     "s": "Q",
+     "t": "What did the man mean?"
+    }
+   ],
+   "explain": "句意:你跟他們說了什麼? 情況很危急 答案:B severe 嚴重的 critical 危急的",
+   "audio": "audio/b18/058.mp3"
+  },
+  {
+   "id": "b18-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: What did Joe say about the project? M: He spoke out against it. Q: What did the man say about Joe?",
+   "options": {
+    "A": "Joe talked loudly about the project.",
+    "B": "Joe opposed the project.",
+    "C": "Joe explained the project.",
+    "D": "Joe was in favor of the project."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "What did Joe say about the project?"
+    },
+    {
+     "s": "M",
+     "t": "He spoke out against it."
+    },
+    {
+     "s": "Q",
+     "t": "What did the man say about Joe?"
+    }
+   ],
+   "explain": "句意:關於計畫，喬說了什麼? 他大聲反對 答案:B Oppose 反對，對立面\nagainst 反對",
+   "audio": "audio/b18/059.mp3"
+  },
+  {
+   "id": "b18-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Why are you staying behind that show car? M: The road is too narrow for two cars. Q: What does the man mean?",
+   "options": {
+    "A": "The cars will get lost.",
+    "B": "The cars are too heavy.",
+    "C": "The cars cannot go very fast.",
+    "D": "The cars cannot pass each other."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Why are you staying behind that show car?"
+    },
+    {
+     "s": "M",
+     "t": "The road is too narrow for two cars."
+    },
+    {
+     "s": "Q",
+     "t": "What does the man mean?"
+    }
+   ],
+   "explain": "句意:你為什麼要跟在這台慢車後面? 路太狹窄無法容納兩台車 答案:D\nNarrow 狹窄",
+   "audio": "audio/b18/060.mp3"
+  },
+  {
+   "id": "b18-061",
+   "n": 61,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "A free gift will be provided with every purchase of NT 500 or more for a _____ period of time.",
+   "options": {
+    "A": "limit",
+    "B": "limited",
+    "C": "limiting",
+    "D": "limitation"
+   },
+   "answer": "B",
+   "explain": "句意: 在限定期間，每次購買500元或以上，可得到一份免費贈品 答案:B\nLimited (adj.)作為形容詞修飾後方 period"
+  },
+  {
+   "id": "b18-062",
+   "n": 62,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Either he _____ she is planning to confess the truth.",
+   "options": {
+    "A": "but",
+    "B": "no",
+    "C": "nor",
+    "D": "or"
+   },
+   "answer": "D",
+   "explain": "句意:\n答案:D\nEither（通常與or連用）或者"
+  },
+  {
+   "id": "b18-063",
+   "n": 63,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "We tightened the band around the radiator hose so the water would not leak.",
+   "options": {
+    "A": "Removed",
+    "B": "placed grease around",
+    "C": "put pressure on",
+    "D": "loosened"
+   },
+   "answer": "C",
+   "underline": [
+    "tightened"
+   ],
+   "explain": "句意: 我們綁緊暖氣軟管周的橡皮圈，這樣一來水就不會外洩。\n答案:C\nput pressure on 對…施加壓力"
+  },
+  {
+   "id": "b18-064",
+   "n": 64,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Bradley left the office early ___he could do some shopping.",
+   "options": {
+    "A": "once",
+    "B": "until",
+    "C": "that",
+    "D": "so"
+   },
+   "answer": "D",
+   "explain": "句意: 布萊德利提前離開辦公室，以方便他可以去購物。 答案:D So 以利…，\n以便…"
+  },
+  {
+   "id": "b18-065",
+   "n": 65,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Benjamin had to leave early, so he ___wait for us.",
+   "options": {
+    "A": "shall not",
+    "B": "couldn’t",
+    "C": "wasn’t",
+    "D": "hadn’t"
+   },
+   "answer": "B",
+   "explain": "句意: 班喬明要早點離開，所以他不能等我們 答案:B"
+  },
+  {
+   "id": "b18-066",
+   "n": 66,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The name of the 5th month of the year is _______.",
+   "options": {
+    "A": "May",
+    "B": "December",
+    "C": "June",
+    "D": "Friday"
+   },
+   "answer": "A",
+   "explain": "句意:\n答案:A\n一年之中的第五個月份是?"
+  },
+  {
+   "id": "b18-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The precipitation was good for the farmers' crops.",
+   "options": {
+    "A": "The rain helped the crops to grow.",
+    "B": "The farmers were paid good money for their crops.",
+    "C": "The sun helped the crops to ripen quickly.",
+    "D": "The farmers planted just the right crops."
+   },
+   "answer": "A",
+   "explain": "句意: 降雨有助於農夫的作物 答案:A Precipitation 降雨"
+  },
+  {
+   "id": "b18-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "As soon as we arrived, the rain began to fall. When did it start raining?",
+   "options": {
+    "A": "before we arrived",
+    "B": "when we arrived",
+    "C": "immediately before our arrival",
+    "D": "an hour after we arrived"
+   },
+   "answer": "B",
+   "explain": "句意: 我們才剛到就開始下雨了 答案:B As soon as 一…就"
+  },
+  {
+   "id": "b18-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I was terrified after watching the horror movie.",
+   "options": {
+    "A": "excited",
+    "B": "scared",
+    "C": "tired",
+    "D": "asleep"
+   },
+   "answer": "B",
+   "underline": [
+    "terrified"
+   ],
+   "explain": "句意: 我看完恐怖片之後整個被嚇到\n答案:B\nTerrify 受…驚嚇，使恐懼"
+  },
+  {
+   "id": "b18-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Any person who is _____ in applying the position of professional secretary should send his or her resume and three references to the personnel director.",
+   "options": {
+    "A": "interesting",
+    "B": "interest",
+    "C": "interested",
+    "D": "interestingly"
+   },
+   "answer": "C",
+   "explain": "句意: 任何對專業秘書一職有興趣的人可將他(她)的簡介及參考資料寄給人事\n主管 答案:C Interested in 對…感興趣"
+  },
+  {
+   "id": "b18-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Help me work out this math problem.",
+   "options": {
+    "A": "exercise",
+    "B": "check",
+    "C": "solve",
+    "D": "write"
+   },
+   "answer": "C",
+   "underline": [
+    "work out"
+   ],
+   "explain": "句意: 幫我解決這個數學問題\n答案:C\nwork out 解決，鍛鍊"
+  },
+  {
+   "id": "b18-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "French cuisine tastes _______ than Italian cuisine.",
+   "options": {
+    "A": "better",
+    "B": "very best",
+    "C": "more good",
+    "D": "more better"
+   },
+   "answer": "A",
+   "explain": "句意: 法式料理嘗起來比義式料理更好 答案:A Better than 比…更好(比較級用\n法)"
+  },
+  {
+   "id": "b18-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The answer we get in an addition problem is the _______ .",
+   "options": {
+    "A": "quotient",
+    "B": "product",
+    "C": "subtraction",
+    "D": "sum"
+   },
+   "answer": "D",
+   "explain": "句意:我們在加法問題得到的答案是總和 答案:D Addition 附加，加法 Sum 總\n結，總和"
+  },
+  {
+   "id": "b18-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The sunshine feels good _____ me.",
+   "options": {
+    "A": "to",
+    "B": "for",
+    "C": "with",
+    "D": "into"
+   },
+   "answer": "A",
+   "explain": "句意: 陽光對我來說真的很好\n答案:A"
+  },
+  {
+   "id": "b18-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Most adults ________ to read newspapers.",
+   "options": {
+    "A": "very like",
+    "B": "like",
+    "C": "are alike",
+    "D": "is like"
+   },
+   "answer": "B",
+   "explain": "句意: 大多數成人喜歡閱讀報紙\n答案:B"
+  },
+  {
+   "id": "b18-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "To respect the rights of non- smoking persons and in accordance with state regulations, smoking is _______in all public buildings.",
+   "options": {
+    "A": "prohibited",
+    "B": "proposed",
+    "C": "propelled",
+    "D": "prospected"
+   },
+   "answer": "A",
+   "explain": "句意: 為尊重不吸菸者的權益，根據國家規範，公共場所禁止吸菸。 答案:A\nProhibited 禁止 Proposed 提議，建議 Propelled 推動 Prospected 預期，勘\n查"
+  },
+  {
+   "id": "b18-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "You should put the fresh milk in the fridge.",
+   "options": {
+    "A": "did",
+    "B": "had to",
+    "C": "ought to",
+    "D": "would"
+   },
+   "answer": "C",
+   "underline": [
+    "should"
+   ],
+   "explain": "句意: 你應該把新鮮牛奶放進冰箱\n答案:C\nought to 應該"
+  },
+  {
+   "id": "b18-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "No ______ can be made on the weekend at the hotel.",
+   "options": {
+    "A": "delay",
+    "B": "violation",
+    "C": "reservations",
+    "D": "swimming"
+   },
+   "answer": "C",
+   "explain": "句意: 這周末的飯店已無法預約 答案:C Reservation 預約，預訂"
+  },
+  {
+   "id": "b18-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "My uncle ________ a brand new automobile now.",
+   "options": {
+    "A": "has drive",
+    "B": "is",
+    "C": "be driving",
+    "D": "drives"
+   },
+   "answer": "D",
+   "explain": "句意:我叔叔現在是開一輛新品牌的車 答案:D My uncle 主詞是第三人稱單\n數，所以選D"
+  },
+  {
+   "id": "b18-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Turn the knob to the ________ position. If you don’t, the engine will stop running.",
+   "options": {
+    "A": "off",
+    "B": "on",
+    "C": "drain",
+    "D": "high"
+   },
+   "answer": "D",
+   "explain": "句意: 將旋扭轉至高的位置，如果不這麼做，引擎會停止轉動 答案:D Knob 旋\n鈕"
+  },
+  {
+   "id": "b18-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Stanley thinks that he _____ Madagascar next month.",
+   "options": {
+    "A": "had gone",
+    "B": "has gone",
+    "C": "might go",
+    "D": "went"
+   },
+   "answer": "C",
+   "explain": "句意: 史丹利覺得下個月他可能會去馬達加斯加 答案:C might（表示可能，不\n確定，期望等，相當於may，但更帶遲疑，婉轉等語氣）可能；可以"
+  },
+  {
+   "id": "b18-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The jury are all set for the court case.",
+   "options": {
+    "A": "studying",
+    "B": "not there",
+    "C": "ready",
+    "D": "getting ready"
+   },
+   "answer": "C",
+   "underline": [
+    "all set"
+   ],
+   "explain": "句意: 陪審團已經準備好參加法庭訴訟\n答案:C\nJury 陪審團\nall set 準備好"
+  },
+  {
+   "id": "b18-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "He told his grandfather to turn the sausages if he _____.",
+   "options": {
+    "A": "should think",
+    "B": "would want",
+    "C": "want",
+    "D": "wanted to"
+   },
+   "answer": "D",
+   "explain": "句意:他告訴他的爺爺，如果他願意的話，可以把香腸翻面\n答案:D"
+  },
+  {
+   "id": "b18-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The Youth Club has arranged for card members to receive one thousand dollars of _____ life insurance.",
+   "options": {
+    "A": "compliant",
+    "B": "complimentary",
+    "C": "comprehensible",
+    "D": "compromise"
+   },
+   "answer": "B",
+   "explain": "句意: 青年俱樂部已安排對會員們贈送價值1000元的壽險 答案:B Compliant\n順從的；應允的 Complimentary 贈送的，表示敬意的 Comprehensible 可理\n解的 Compromise 妥協，和解"
+  },
+  {
+   "id": "b18-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "____ you mind closing the window? The temperature has really dropped.",
+   "options": {
+    "A": "Can",
+    "B": "Could",
+    "C": "If",
+    "D": "Would"
+   },
+   "answer": "D",
+   "explain": "句意: 你方便關一下窗戶嗎? 溫度真的冷很多 答案:D Would（表示喜歡，意\n願）願意"
+  },
+  {
+   "id": "b18-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The salesman wants Mr. Coleman to make a decision about the car.",
+   "options": {
+    "A": "The salesman wants Mr. Coleman to repair the car.",
+    "B": "The salesman wants Mr. Coleman’s opinion of the car.",
+    "C": "The salesman wants Mr. Coleman to decide about the car.",
+    "D": "The salesman wants Mr. Coleman to check on the condition of the car."
+   },
+   "answer": "C",
+   "explain": "句意: 銷售員希望凱門先生為購買車子與否做個決定 答案:C make a decision\n下決心，決定"
+  },
+  {
+   "id": "b18-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Jacky has been waiting for Brenda ___________ 6 o'clock.",
+   "options": {
+    "A": "during",
+    "B": "since",
+    "C": "between",
+    "D": "for"
+   },
+   "answer": "B",
+   "explain": "句意: 傑克從六點開始就等著布蘭達\n答案:B\nhas been 運用現在完成式代表時間軸是延續，尚未中斷\nwaiting for 等待"
+  },
+  {
+   "id": "b18-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The client has ______ a lawyer to act for her while she is abroad.",
+   "options": {
+    "A": "authority",
+    "B": "authorized",
+    "C": "authorization",
+    "D": "author"
+   },
+   "answer": "B",
+   "explain": "句意: 當她人在國外時，客戶已授權律師為她服務 答案:B Authorized 同意，\n授權"
+  },
+  {
+   "id": "b18-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Prior to joining our company, Dr. Jackson was an ______ professor of economics for more than a decade.",
+   "options": {
+    "A": "winning-award",
+    "B": "win-award",
+    "C": "award-winning",
+    "D": "award-winner"
+   },
+   "answer": "C",
+   "explain": "句意: 在加入我們公司之前，傑克森博士是一位在10多年來獲獎無數的經濟學\n專家 答案:C Prior to 在…之前 award-winning 獲獎"
+  },
+  {
+   "id": "b18-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Ms. White spoke quite excitedly while she _______her sales presentation.",
+   "options": {
+    "A": "gave",
+    "B": "was taking",
+    "C": "has taken",
+    "D": "had taken"
+   },
+   "answer": "A",
+   "explain": "句意: 懷特女士在進行她的銷售演說時興奮不已 答案:A"
+  },
+  {
+   "id": "b18-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The air traffic controller announced the arrival of flight BA366.",
+   "options": {
+    "A": "landing",
+    "B": "taking off",
+    "C": "departing",
+    "D": "number"
+   },
+   "answer": "A",
+   "underline": [
+    "arrival"
+   ],
+   "explain": "句意: 航空管制中心宣布抵達的飛機是BA366班次\n答案:A\nLanding 降落"
+  },
+  {
+   "id": "b18-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The faculty and staff get their paychecks automatically _____ in their bank accounts.",
+   "options": {
+    "A": "deposited",
+    "B": "depositing",
+    "C": "are deposited",
+    "D": "deposit"
+   },
+   "answer": "A",
+   "explain": "句意: 教師及行政人員的薪水會自動存入他們的銀行帳戶 答案:A deposited 存\n入"
+  },
+  {
+   "id": "b18-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Ice and water are the same substance in different forms.",
+   "options": {
+    "A": "Matter",
+    "B": "Time",
+    "C": "Metal",
+    "D": "Marker"
+   },
+   "answer": "A",
+   "underline": [
+    "substance"
+   ],
+   "explain": "句意: 冰和水都是同樣物質的不同形式\n答案:A\nMatter 物質"
+  },
+  {
+   "id": "b18-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "He finished ____ his lecture.",
+   "options": {
+    "A": "listened to",
+    "B": "listens by",
+    "C": "to listen",
+    "D": "listening to"
+   },
+   "answer": "D",
+   "explain": "句意: 他聽完了他的講座 答案:D Finish 完成 [+v-ing]"
+  },
+  {
+   "id": "b18-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The principal was appointed by the board of education.",
+   "options": {
+    "A": "Assigned",
+    "B": "Replaced",
+    "C": "Educated",
+    "D": "Instructed"
+   },
+   "answer": "A",
+   "underline": [
+    "appointed"
+   ],
+   "explain": "句意: 校長室由教育委員會所任命\n答案:A\nAppointed 任命的，指派的"
+  },
+  {
+   "id": "b18-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Mr. Lee was very concerned _____ the upcoming board of directors meeting.",
+   "options": {
+    "A": "to",
+    "B": "about",
+    "C": "at",
+    "D": "on"
+   },
+   "answer": "B",
+   "explain": "句意: 李先生對非常擔心即將到來的董事會議\n答案:B\nConcern about 對…擔憂"
+  },
+  {
+   "id": "b18-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Patrick would have called the fire department, if he ______ the smoke.",
+   "options": {
+    "A": "see",
+    "B": "look",
+    "C": "had seen",
+    "D": "sees"
+   },
+   "answer": "C",
+   "explain": "句意: 如果派翠克看見煙霧，他會打給消防單位\n答案:C\nfire department 消防單位"
+  },
+  {
+   "id": "b18-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Some people are allergic to animal fur. For example, cat fur and dog fur. Others are allergic to tiny particles such as dust, insects, pollen, or even temperature change. Some even claim to sneeze when they smell cat saliva. Those who are allergic to pollen have a very hard time in the spring, as a lot of flowers blossom and the breeze will carries the tiny pollen into people's nostrils, making them sneeze. I myself am such a person. I will never go out into the street unless I'm wearing a mask, especially if the streets of Dusty with busy traffic. In addition, the bright rays of the sunshine will also make me sneeze repeatedly, which can be quite annoying sometimes.According to the speaker, what can make him sneeze?",
+   "options": {
+    "A": "This suddenly dimmed atmosphere.",
+    "B": "The fibers of a cotton mask.",
+    "C": "The dried protein in cat saliva.",
+    "D": "The dust in the environment."
+   },
+   "answer": "D",
+   "explain": "句意: 根據作者所說，什麼過敏原會導致他打噴嚏? 答案:D Sneeze 打噴嚏 a)\nThis suddenly dimmed atmosphere.突然變昏暗的氛圍 b) The fibers of a\ncotton mask 口罩的纖維 c) The dried protein in cat saliva 貓唾液中的蛋白質\nd) The dust in the environment.環境中的灰塵"
+  },
+  {
+   "id": "b18-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Some people are allergic to animal fur. For example, cat fur and dog fur. Others are allergic to tiny particles such as dust, insects, pollen, or even temperature change. Some even claim to sneeze when they smell cat saliva. Those who are allergic to pollen have a very hard time in the spring, as a lot of flowers blossom and the breeze will carries the tiny pollen into people's nostrils, making them sneeze. I myself am such a person. I will never go out into the street unless I'm wearing a mask, especially if the streets of Dusty with busy traffic. In addition, the bright rays of the sunshine will also make me sneeze repeatedly, which can be quite annoying sometimes.Why do people prone to allergies have a hard time in spring?",
+   "options": {
+    "A": "The pollens will become sources of allergies.",
+    "B": "Insects are particularly active when it’s warm.",
+    "C": "The sharp temperature changes.",
+    "D": "The streets are especially dusty during spring."
+   },
+   "answer": "A",
+   "explain": "句意:為什麼對人們來說春天是個較易過敏的時節? 答案:A prone to 較容易\nPollen 花粉"
+  },
+  {
+   "id": "b18-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Some people are allergic to animal fur. For example, cat fur and dog fur. Others are allergic to tiny particles such as dust, insects, pollen, or even temperature change. Some even claim to sneeze when they smell cat saliva. Those who are allergic to pollen have a very hard time in the spring, as a lot of flowers blossom and the breeze will carries the tiny pollen into people's nostrils, making them sneeze. I myself am such a person. I will never go out into the street unless I'm wearing a mask, especially if the streets of Dusty with busy traffic. In addition, the bright rays of the sunshine will also make me sneeze repeatedly, which can be quite annoying sometimes.What is not a common cause of allergies?",
+   "options": {
+    "A": "Animal fur.",
+    "B": "The bitter smell of some household plants.",
+    "C": "Cherry blossom.",
+    "D": "Dust mites."
+   },
+   "answer": "B",
+   "explain": "句意: 下列什麼不是一般常見的過敏起因? 答案:B a) Animal fur.動物毛髮 b)\nThe bitter smell of some household plants.某些植物的苦味 c) Cherry\nblossom.櫻花 d) Dust mites.塵螨"
+  }
+ ]
+}

@@ -1,0 +1,1693 @@
+{
+ "bank": "12",
+ "title": "第 12 回",
+ "questions": [
+  {
+   "id": "b12-001",
+   "n": 1,
+   "section": "listening",
+   "cat": "question",
+   "stem": "If my car breaks down, what shall I do with it?",
+   "options": {
+    "A": "Give it to clarity.",
+    "B": "Get it fixed.",
+    "C": "Wash it.",
+    "D": "Make it into a new one."
+   },
+   "answer": "B",
+   "explain": "Break down 故障",
+   "audio": "audio/b12/001.mp3"
+  },
+  {
+   "id": "b12-002",
+   "n": 2,
+   "section": "listening",
+   "cat": "question",
+   "stem": "On her way to school yesterday morning, she saw the accident happen. When did the accident happen?",
+   "options": {
+    "A": "at school",
+    "B": "on her way",
+    "C": "yesterday morning",
+    "D": "the day before yesterday"
+   },
+   "answer": "C",
+   "audio": "audio/b12/002.mp3"
+  },
+  {
+   "id": "b12-003",
+   "n": 3,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "A: Are you sure her narration is accurate? B: Yes, her story is______ .",
+   "options": {
+    "A": "correct",
+    "B": "false",
+    "C": "inventive",
+    "D": "faulty"
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Are you sure her narration is accurate?"
+    },
+    {
+     "s": "W",
+     "t": "Yes, her story is______ ."
+    }
+   ],
+   "audio": "audio/b12/003.mp3"
+  },
+  {
+   "id": "b12-004",
+   "n": 4,
+   "section": "listening",
+   "cat": "question",
+   "stem": "When do you think the plane will take off?",
+   "options": {
+    "A": "It’ll arrive in 40 minutes.",
+    "B": "It’ll land in about 2 hour.",
+    "C": "It won’t leave until 4:30 pm.",
+    "D": "It’ll stop by Seattle."
+   },
+   "answer": "C",
+   "explain": "Take off :起飛 根據題意 答案選C",
+   "audio": "audio/b12/004.mp3"
+  },
+  {
+   "id": "b12-005",
+   "n": 5,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What’s the capacity of the theater?",
+   "options": {
+    "A": "30 feet",
+    "B": "300 people",
+    "C": "100 gallons",
+    "D": "300 dollars"
+   },
+   "answer": "B",
+   "audio": "audio/b12/005.mp3"
+  },
+  {
+   "id": "b12-006",
+   "n": 6,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How long does it take to fly from Seattle to New Orleans?",
+   "options": {
+    "A": "It depends on by train or by plane.",
+    "B": "It is about three to four hours.",
+    "C": "It’s about 1000 miles.",
+    "D": "It’s a long distance."
+   },
+   "answer": "B",
+   "audio": "audio/b12/006.mp3"
+  },
+  {
+   "id": "b12-007",
+   "n": 7,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Who’s going to entertain our guests from Orlando?",
+   "options": {
+    "A": "The R & D team will spoil the party.",
+    "B": "The PR department will throw a party.",
+    "C": "The Secretariat will cancel the meeting.",
+    "D": "The President will give a talk."
+   },
+   "answer": "B",
+   "explain": "entertain (v.): 招待, throw a party= to have a party 開派對, 根據題意 答案選B",
+   "audio": "audio/b12/007.mp3"
+  },
+  {
+   "id": "b12-008",
+   "n": 8,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The price of oil keeps rising. Last week it was four dollars per liter. This week you have to pay a quarter more. How much is the price per liter now?",
+   "options": {
+    "A": "$ 3 dollars",
+    "B": "$ 4 dollars",
+    "C": "$ 4.5 dollars",
+    "D": "$ 5 dollars"
+   },
+   "answer": "C",
+   "explain": "quarter 這裡是美元硬幣 25分 / A quarter more “超過 25美分硬幣” ,所以最接\n近題意的答案為選項 C",
+   "audio": "audio/b12/008.mp3"
+  },
+  {
+   "id": "b12-009",
+   "n": 9,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Ted has lived overseas for more than a decade. How long has Ted been abroad?",
+   "options": {
+    "A": "over 5 years",
+    "B": "over 10 years",
+    "C": "about 8 years",
+    "D": "under 10 years"
+   },
+   "answer": "B",
+   "explain": "A decade : 10年, more than 超過 所以答案選B",
+   "audio": "audio/b12/009.mp3"
+  },
+  {
+   "id": "b12-010",
+   "n": 10,
+   "section": "listening",
+   "cat": "question",
+   "stem": "How did Fred get along with his new studies?",
+   "options": {
+    "A": "He’s doing fine.",
+    "B": "He’s feeling better.",
+    "C": "His family was fine.",
+    "D": "D. He just bought a new car."
+   },
+   "answer": "A",
+   "explain": "Get along (ph.) 相處融洽",
+   "audio": "audio/b12/010.mp3"
+  },
+  {
+   "id": "b12-011",
+   "n": 11,
+   "section": "listening",
+   "cat": "question",
+   "stem": "What number is between 11 and 13?",
+   "options": {
+    "A": "sixteen",
+    "B": "twelve",
+    "C": "fourteen",
+    "D": "twenty"
+   },
+   "answer": "B",
+   "audio": "audio/b12/011.mp3"
+  },
+  {
+   "id": "b12-012",
+   "n": 12,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Which of these items would you keep in a refrigerator?",
+   "options": {
+    "A": "clothes",
+    "B": "umbrellas",
+    "C": "food",
+    "D": "animals"
+   },
+   "answer": "C",
+   "audio": "audio/b12/012.mp3"
+  },
+  {
+   "id": "b12-013",
+   "n": 13,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I don’t think your solution will work.",
+   "options": {
+    "A": "It is effective.",
+    "B": "It will probably fail.",
+    "C": "It is hard to find.",
+    "D": "It operates by itself."
+   },
+   "answer": "B",
+   "explain": "work (v.) 有效,成功 題目 “我認為你的解決方案不會有用” 所以答案選B",
+   "audio": "audio/b12/013.mp3"
+  },
+  {
+   "id": "b12-014",
+   "n": 14,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You certainly would bother them if you should call them early Sunday morning.",
+   "options": {
+    "A": "You would disturb them.",
+    "B": "You would invite them.",
+    "C": "You would remember them.",
+    "D": "You would contact them."
+   },
+   "answer": "A",
+   "explain": "Bother (V.)使擔心 Disturb (v.) 干擾, 根據題意 答案選B",
+   "audio": "audio/b12/014.mp3"
+  },
+  {
+   "id": "b12-015",
+   "n": 15,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Tom said he was available this afternoon.",
+   "options": {
+    "A": "He was busy.",
+    "B": "He was engaged.",
+    "C": "He was sad.",
+    "D": "He was free."
+   },
+   "answer": "D",
+   "explain": "available (adj.) “有空的”, he is not busy and be able to do something /\nEngaged (adj.) “忙於某件事” busy doing something",
+   "audio": "audio/b12/015.mp3"
+  },
+  {
+   "id": "b12-016",
+   "n": 16,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "When you describe the event, don’t leave out the details.",
+   "options": {
+    "A": "You need to add new details.",
+    "B": "You need to omit the details.",
+    "C": "You need to include the details.",
+    "D": "You need to forget the details."
+   },
+   "answer": "C",
+   "explain": "leave out: 忽略",
+   "audio": "audio/b12/016.mp3"
+  },
+  {
+   "id": "b12-017",
+   "n": 17,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The sign says “Caution”. What does it mean?",
+   "options": {
+    "A": "be careful",
+    "B": "be diligent",
+    "C": "be afraid",
+    "D": "be honest"
+   },
+   "answer": "A",
+   "explain": "Caution (n.) 小心,謹慎",
+   "audio": "audio/b12/017.mp3"
+  },
+  {
+   "id": "b12-018",
+   "n": 18,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Bill said his van can sit as many as 7 people. What did Bill talk about?",
+   "options": {
+    "A": "seven people",
+    "B": "a new vehicle",
+    "C": "the capacity of his van",
+    "D": "gasoline"
+   },
+   "answer": "C",
+   "explain": "Capacity (n.) 容量,容積",
+   "audio": "audio/b12/018.mp3"
+  },
+  {
+   "id": "b12-019",
+   "n": 19,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Stick to your studies and you’ll amount to something.",
+   "options": {
+    "A": "You need to enjoy life.",
+    "B": "You need to skip class.",
+    "C": "You need to study overseas.",
+    "D": "You need to work hard."
+   },
+   "answer": "D",
+   "explain": "Amount to: 等於, become, 題目 “堅持你的學習，你會有所作為。” 所以最接\n近題意的答案為D",
+   "audio": "audio/b12/019.mp3"
+  },
+  {
+   "id": "b12-020",
+   "n": 20,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "He’s developed a negative attitude toward life.",
+   "options": {
+    "A": "He looks at the bright side of life.",
+    "B": "He’s in poor health.",
+    "C": "He lives in poverty.",
+    "D": "He has become pessimistic."
+   },
+   "answer": "D",
+   "audio": "audio/b12/020.mp3"
+  },
+  {
+   "id": "b12-021",
+   "n": 21,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The swimming pool is open to the public. Who can use it?",
+   "options": {
+    "A": "No one",
+    "B": "Anybody",
+    "C": "Somebody",
+    "D": "Just a few"
+   },
+   "answer": "B",
+   "audio": "audio/b12/021.mp3"
+  },
+  {
+   "id": "b12-022",
+   "n": 22,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Bob is an efficient mechanic.",
+   "options": {
+    "A": "He complains a lot.",
+    "B": "He does his work poorly.",
+    "C": "He does his work quickly and well.",
+    "D": "He doesn’t care about his work."
+   },
+   "answer": "C",
+   "audio": "audio/b12/022.mp3"
+  },
+  {
+   "id": "b12-023",
+   "n": 23,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The man said he couldn’t put up with their behavior anymore. What does he mean?",
+   "options": {
+    "A": "He likes their behavior.",
+    "B": "He praises their behavior.",
+    "C": "He hates their behavior.",
+    "D": "He forgets their behavior."
+   },
+   "answer": "C",
+   "explain": "Put up with: 忍受, 題目 “那個男人說他再也忍受不了他們的行為了。” 所以答\n案選C",
+   "audio": "audio/b12/023.mp3"
+  },
+  {
+   "id": "b12-024",
+   "n": 24,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Excuse me, where is the main station? What’s the man asking?",
+   "options": {
+    "A": "directions",
+    "B": "friends",
+    "C": "buses",
+    "D": "a train schedule"
+   },
+   "answer": "A",
+   "audio": "audio/b12/024.mp3"
+  },
+  {
+   "id": "b12-025",
+   "n": 25,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Jane was invited to the ceremony but she declined the invitation.",
+   "options": {
+    "A": "She accepted the invitation.",
+    "B": "She went to the ceremony.",
+    "C": "She hesitated to go.",
+    "D": "She rejected the invitation."
+   },
+   "answer": "D",
+   "explain": "Decline (v) 拒絕",
+   "audio": "audio/b12/025.mp3"
+  },
+  {
+   "id": "b12-026",
+   "n": 26,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I wish I had been there when she beat her rival.",
+   "options": {
+    "A": "She didn’t win the game.",
+    "B": "I didn’t see how she won the game.",
+    "C": "I knew when she won the game.",
+    "D": "She didn’t want me to be there."
+   },
+   "answer": "B",
+   "explain": "beat her rival “擊敗她的對手”",
+   "audio": "audio/b12/026.mp3"
+  },
+  {
+   "id": "b12-027",
+   "n": 27,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "John is too mature and sophisticated for his age.",
+   "options": {
+    "A": "He is old.",
+    "B": "He is young.",
+    "C": "He is uncertain.",
+    "D": "He is punctual."
+   },
+   "answer": "B",
+   "explain": "Too… for 對 太 樣 題目”約翰對他的年齡來說過於成熟和世故。”",
+   "audio": "audio/b12/027.mp3"
+  },
+  {
+   "id": "b12-028",
+   "n": 28,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Harry was informed of his misdeeds.",
+   "options": {
+    "A": "He got a job.",
+    "B": "He was well behaved.",
+    "C": "He went broke.",
+    "D": "He had bad manners."
+   },
+   "answer": "D",
+   "explain": "Misdeeds: 劣跡",
+   "audio": "audio/b12/028.mp3"
+  },
+  {
+   "id": "b12-029",
+   "n": 29,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Nancy works in an ICU in a nearby hospital.",
+   "options": {
+    "A": "She is a nurse.",
+    "B": "She is a teacher.",
+    "C": "She is a salesperson.",
+    "D": "She is a financial advisor."
+   },
+   "answer": "A",
+   "explain": "從hospital ICU (醫院加護病房)得知Nancy 應該是在醫院工作, 所以答案選A",
+   "audio": "audio/b12/029.mp3"
+  },
+  {
+   "id": "b12-030",
+   "n": 30,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Utility bills are paid monthly.",
+   "options": {
+    "A": "They are paid every month.",
+    "B": "They are paid in the same amount.",
+    "C": "They are paid every two months.",
+    "D": "They are paid half the price."
+   },
+   "answer": "A",
+   "explain": "Utility bills:水電費 monthly: 每個月的",
+   "audio": "audio/b12/030.mp3"
+  },
+  {
+   "id": "b12-031",
+   "n": 31,
+   "section": "listening",
+   "cat": "question",
+   "stem": "The teacher said this composition still leaves much to be desired. What does he mean?",
+   "options": {
+    "A": "It is well written.",
+    "B": "It has a strong argument.",
+    "C": "It contains core messages.",
+    "D": "It is poorly written."
+   },
+   "answer": "D",
+   "explain": "Leave much to be desired: 還有很大改進餘地",
+   "audio": "audio/b12/031.mp3"
+  },
+  {
+   "id": "b12-032",
+   "n": 32,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Hurry up or you’ll miss the shuttle bus.",
+   "options": {
+    "A": "The shuttle bus is late.",
+    "B": "You need to get up early.",
+    "C": "You have missed the bus.",
+    "D": "You have to be quick."
+   },
+   "answer": "D",
+   "explain": "miss (v.) 錯過",
+   "audio": "audio/b12/032.mp3"
+  },
+  {
+   "id": "b12-033",
+   "n": 33,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The counter will begin at 7 o’clock in the evening.",
+   "options": {
+    "A": "It’ll close at 7 o’clock.",
+    "B": "It’ll resume at 7 o’clock.",
+    "C": "It’ll start at 7 o’clock.",
+    "D": "It’ll end at 7 o’clock."
+   },
+   "answer": "C",
+   "audio": "audio/b12/033.mp3"
+  },
+  {
+   "id": "b12-034",
+   "n": 34,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The post office was just across the street, right on the corner.",
+   "options": {
+    "A": "It’s opposite the street.",
+    "B": "It’s some miles away.",
+    "C": "It’s on the right hand side.",
+    "D": "It’s closed on the corner."
+   },
+   "answer": "A",
+   "audio": "audio/b12/034.mp3"
+  },
+  {
+   "id": "b12-035",
+   "n": 35,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The boy found the box too heavy to lift.",
+   "options": {
+    "A": "He could lift the box.",
+    "B": "He couldn’t find the box.",
+    "C": "He could move the box away.",
+    "D": "He couldn’t lift the box."
+   },
+   "answer": "D",
+   "explain": "Too… to 太... 而不能",
+   "audio": "audio/b12/035.mp3"
+  },
+  {
+   "id": "b12-036",
+   "n": 36,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "David has been ill for two weeks and that’s why he was absent from classes yesterday.",
+   "options": {
+    "A": "David wasn’t sick yesterday.",
+    "B": "David has been absent from classes for two weeks.",
+    "C": "David didn’t attend classes yesterday.",
+    "D": "David didn’t like classes."
+   },
+   "answer": "C",
+   "audio": "audio/b12/036.mp3"
+  },
+  {
+   "id": "b12-037",
+   "n": 37,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Sarah wanted to know what the shelf contains. What did she want to know?",
+   "options": {
+    "A": "What’s under the shelf?",
+    "B": "What’s next to the shelf?",
+    "C": "What’s on the shelf?",
+    "D": "What’s above the shelf?"
+   },
+   "answer": "C",
+   "explain": "Contain (v.) 包含",
+   "audio": "audio/b12/037.mp3"
+  },
+  {
+   "id": "b12-038",
+   "n": 38,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The two brothers are quite alike.",
+   "options": {
+    "A": "They resemble each other.",
+    "B": "They are different.",
+    "C": "They like each other.",
+    "D": "They don’t want to be together."
+   },
+   "answer": "A",
+   "explain": "Resemble (v.) 與....相似 根據題意 答案選A",
+   "audio": "audio/b12/038.mp3"
+  },
+  {
+   "id": "b12-039",
+   "n": 39,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Don’t give up until you’ve tried all methods.",
+   "options": {
+    "A": "Be lazy.",
+    "B": "Be easy.",
+    "C": "Be honest.",
+    "D": "Be perseverant."
+   },
+   "answer": "D",
+   "explain": "Give up: 放棄 根據題意 答案選 D perseverant 執著",
+   "audio": "audio/b12/039.mp3"
+  },
+  {
+   "id": "b12-040",
+   "n": 40,
+   "section": "listening",
+   "cat": "question",
+   "stem": "He has to deal with complaints from customers all over the world. What department is he in?",
+   "options": {
+    "A": "logistics",
+    "B": "accounting",
+    "C": "customers service",
+    "D": "HR"
+   },
+   "answer": "C",
+   "audio": "audio/b12/040.mp3"
+  },
+  {
+   "id": "b12-041",
+   "n": 41,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "If the machine is automatic, ______________.",
+   "options": {
+    "A": "it works by itself.",
+    "B": "it makes much noise.",
+    "C": "it is operated by hand.",
+    "D": "it is part of a factory."
+   },
+   "answer": "A",
+   "audio": "audio/b12/041.mp3"
+  },
+  {
+   "id": "b12-042",
+   "n": 42,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Sally was puzzled at her next step to take.",
+   "options": {
+    "A": "She knew what to do next.",
+    "B": "She was unsure of her next move.",
+    "C": "She liked to do puzzles.",
+    "D": "She had a few more steps to ascend."
+   },
+   "answer": "B",
+   "explain": "Puzzled (adj.) 困惑",
+   "audio": "audio/b12/042.mp3"
+  },
+  {
+   "id": "b12-043",
+   "n": 43,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Betty is on maternity leave, and that’s why she still gets paid.",
+   "options": {
+    "A": "It is a benefit.",
+    "B": "It is a penalty.",
+    "C": "It is free.",
+    "D": "It is optional."
+   },
+   "answer": "A",
+   "explain": "maternity leave:產假",
+   "audio": "audio/b12/043.mp3"
+  },
+  {
+   "id": "b12-044",
+   "n": 44,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "We aim to provide healthy food at fair prices. The prices are _____.",
+   "options": {
+    "A": "high",
+    "B": "low",
+    "C": "uncertain",
+    "D": "reasonable"
+   },
+   "answer": "D",
+   "explain": "fair (adj.) 公平的 reasonable (adj.)合理的",
+   "audio": "audio/b12/044.mp3"
+  },
+  {
+   "id": "b12-045",
+   "n": 45,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "Nancy selected a necktie for her husband.",
+   "options": {
+    "A": "She didn’t like the necktie.",
+    "B": "She found the necktie.",
+    "C": "She looked for the necktie.",
+    "D": "She chose the necktie."
+   },
+   "answer": "D",
+   "audio": "audio/b12/045.mp3"
+  },
+  {
+   "id": "b12-046",
+   "n": 46,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "It takes 30 minutes to record the tape.",
+   "options": {
+    "A": "The recording will start in 30 minutes.",
+    "B": "The tape recorder will be available in 30 minutes long.",
+    "C": "The recording is 30 minutes.",
+    "D": "The tape speed is 30 feet per minute."
+   },
+   "answer": "C",
+   "audio": "audio/b12/046.mp3"
+  },
+  {
+   "id": "b12-047",
+   "n": 47,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "I don’t know whether Jane will come.",
+   "options": {
+    "A": "I don’t know when she will come.",
+    "B": "I don’t know why she will come.",
+    "C": "I don’t know how she will come.",
+    "D": "I don’t know if she will come."
+   },
+   "answer": "D",
+   "audio": "audio/b12/047.mp3"
+  },
+  {
+   "id": "b12-048",
+   "n": 48,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Anne glanced at her watch. What was she doing?",
+   "options": {
+    "A": "She set the hands.",
+    "B": "She examined it carefully.",
+    "C": "She took a quick look at it.",
+    "D": "She was adjusting her watch."
+   },
+   "answer": "C",
+   "explain": "Glance (v.) 迅速地看一眼",
+   "audio": "audio/b12/048.mp3"
+  },
+  {
+   "id": "b12-049",
+   "n": 49,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "You can get an early bird discount if you buy tickets well in advance.",
+   "options": {
+    "A": "The early bird catches the worm.",
+    "B": "The second mouse gets the cheese.",
+    "C": "More haste, less speed.",
+    "D": "It’s never too late to mend."
+   },
+   "answer": "A",
+   "explain": "Early bird discount 早鳥優惠 / The early bird catches the worm: 早起的鳥兒\n有蟲吃 / More haste, less speed.: 欲速則不達。所以最接近題意的答案為A",
+   "audio": "audio/b12/049.mp3"
+  },
+  {
+   "id": "b12-050",
+   "n": 50,
+   "section": "listening",
+   "cat": "question",
+   "stem": "Make hay while the sun shines. What does it mean?",
+   "options": {
+    "A": "seize the moment",
+    "B": "forget the time.",
+    "C": "be polite",
+    "D": "be punctual"
+   },
+   "answer": "A",
+   "explain": "題目Make hay while the sun shines.: to make good use of an opportunity\nwhile it lasts (打鐵趁熱，勿失良機) Seize (v.) 把握",
+   "audio": "audio/b12/050.mp3"
+  },
+  {
+   "id": "b12-051",
+   "n": 51,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "It was only recently that Jack knew he was cut out for architecture.",
+   "options": {
+    "A": "Jack was not good at architecture.",
+    "B": "Jack has talent for architecture.",
+    "C": "Jack cut himself while building.",
+    "D": "Jack majored in architecture."
+   },
+   "answer": "B",
+   "explain": "Be cut out for (ph.)有….才能",
+   "audio": "audio/b12/051.mp3"
+  },
+  {
+   "id": "b12-052",
+   "n": 52,
+   "section": "listening",
+   "cat": "question",
+   "stem": "I’d rather have coffee. What does he mean?",
+   "options": {
+    "A": "He likes coffee.",
+    "B": "He doesn’t like coffee.",
+    "C": "He wants to buy coffee.",
+    "D": "He prefers tea to coffee."
+   },
+   "answer": "A",
+   "explain": "Would rather : 䌀可",
+   "audio": "audio/b12/052.mp3"
+  },
+  {
+   "id": "b12-053",
+   "n": 53,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The weather looks dark and gloomy. There might be showers and thunderstorms.",
+   "options": {
+    "A": "It will not rain today.",
+    "B": "The sun will shine today.",
+    "C": "There will be no clouds today.",
+    "D": "It will rain today."
+   },
+   "answer": "D",
+   "audio": "audio/b12/053.mp3"
+  },
+  {
+   "id": "b12-054",
+   "n": 54,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "The company has recently hired more than 20 new employees.",
+   "options": {
+    "A": "It is losing money.",
+    "B": "It is expanding.",
+    "C": "It will go bankrupt.",
+    "D": "It has a new manager."
+   },
+   "answer": "B",
+   "explain": "Expand (v.) 擴大 題目 “該公司最近僱用了20多名新員工。”根據題意 答案選B",
+   "audio": "audio/b12/054.mp3"
+  },
+  {
+   "id": "b12-055",
+   "n": 55,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "He should have taken our advice.",
+   "options": {
+    "A": "He listened to us.",
+    "B": "We didn’t want to give him advice.",
+    "C": "He turned a deaf ear to our advice.",
+    "D": "He thought our advice was good."
+   },
+   "answer": "C",
+   "explain": "題目”他應該接受我們的建議。” 根據題意 答案選C “他對我們的建議置若罔\n聞。”",
+   "audio": "audio/b12/055.mp3"
+  },
+  {
+   "id": "b12-056",
+   "n": 56,
+   "section": "listening",
+   "cat": "statement",
+   "stem": "After trying to rescue the ship, the captain finally gave an order to abandon it.",
+   "options": {
+    "A": "They saved the ship.",
+    "B": "They gave up the ship.",
+    "C": "They boarded the ship.",
+    "D": "They burned the ship."
+   },
+   "answer": "B",
+   "audio": "audio/b12/056.mp3"
+  },
+  {
+   "id": "b12-057",
+   "n": 57,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Have you made the appointment with the doctor? W: Yes, I am supposed to see him this afternoon. Q: What did they talk about?",
+   "options": {
+    "A": "some medical doctors",
+    "B": "some appointment with medical doctors",
+    "C": "some medical advice",
+    "D": "some medical treatment"
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Have you made the appointment with the doctor?"
+    },
+    {
+     "s": "W",
+     "t": "Yes, I am supposed to see him this afternoon."
+    },
+    {
+     "s": "Q",
+     "t": "What did they talk about?"
+    }
+   ],
+   "audio": "audio/b12/057.mp3"
+  },
+  {
+   "id": "b12-058",
+   "n": 58,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Am I supposed to use chopsticks... or just forks and knives? W: When in Rome, do as the Romans do. Q: What does the woman mean?",
+   "options": {
+    "A": "better use forks and knives",
+    "B": "better use chopsticks",
+    "C": "show respect for cultural differences",
+    "D": "Rome wasn’t built in a day."
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Am I supposed to use chopsticks... or just forks and knives?"
+    },
+    {
+     "s": "W",
+     "t": "When in Rome, do as the Romans do."
+    },
+    {
+     "s": "Q",
+     "t": "What does the woman mean?"
+    }
+   ],
+   "explain": "When in Rome, do as the Romans do. “入境隨俗”",
+   "audio": "audio/b12/058.mp3"
+  },
+  {
+   "id": "b12-059",
+   "n": 59,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Why were you absent from work yesterday? W: I had a bad cold and went to see a doctor. Q: What happened to the woman?",
+   "options": {
+    "A": "She was a doctor.",
+    "B": "She caught a cold.",
+    "C": "She was fired.",
+    "D": "She was not listening."
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Why were you absent from work yesterday?"
+    },
+    {
+     "s": "W",
+     "t": "I had a bad cold and went to see a doctor."
+    },
+    {
+     "s": "Q",
+     "t": "What happened to the woman?"
+    }
+   ],
+   "audio": "audio/b12/059.mp3"
+  },
+  {
+   "id": "b12-060",
+   "n": 60,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "Man: I just heard that Mr. Parker from accounting was promoted to the head of the finance division. Woman: Yeah, I heard that too. What change do you think he will make? Question: What did they talk about?",
+   "options": {
+    "A": "Mr. Parker’s promotion.",
+    "B": "Mr. Parker’s privacy",
+    "C": "Some of Mr. Parker’s strategies",
+    "D": "Some complaints about Mr. Parker"
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "M",
+     "t": "I just heard that Mr. Parker from accounting was promoted to the head of the finance division."
+    },
+    {
+     "s": "W",
+     "t": "Yeah, I heard that too. What change do you think he will make?"
+    },
+    {
+     "s": "Q",
+     "t": "What did they talk about?"
+    }
+   ],
+   "explain": "Promote (v.) 晉升 Promotion (n.) 升遷 complaints (n.) 抱怨",
+   "audio": "audio/b12/060.mp3"
+  },
+  {
+   "id": "b12-061",
+   "n": 61,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: I feel like having some dessert, how about you? M: I’m Okay. I still have this glass of wine to finish. Q: What did the woman want?",
+   "options": {
+    "A": "a glass of wine",
+    "B": "to finish her meal first",
+    "C": "some dessert",
+    "D": "to stay hungry"
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "I feel like having some dessert, how about you?"
+    },
+    {
+     "s": "M",
+     "t": "I’m Okay. I still have this glass of wine to finish."
+    },
+    {
+     "s": "Q",
+     "t": "What did the woman want?"
+    }
+   ],
+   "audio": "audio/b12/061.mp3"
+  },
+  {
+   "id": "b12-062",
+   "n": 62,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Does bus number 100 go to the subway station? M: No, but I can give you a transfer. Q: What could the man be?",
+   "options": {
+    "A": "a subway driver",
+    "B": "a taxi driver",
+    "C": "a bus driver",
+    "D": "a traffic policeman"
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Does bus number 100 go to the subway station?"
+    },
+    {
+     "s": "M",
+     "t": "No, but I can give you a transfer."
+    },
+    {
+     "s": "Q",
+     "t": "What could the man be?"
+    }
+   ],
+   "explain": "Transfer (n.) 轉乘",
+   "audio": "audio/b12/062.mp3"
+  },
+  {
+   "id": "b12-063",
+   "n": 63,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: May I have your flight schedule, ticket confirmation number, and passport, please? M: Here they are. Q: Where did the conversation most likely take place?",
+   "options": {
+    "A": "in a supermarket",
+    "B": "at the airport’s checking counter",
+    "C": "in a convenience store",
+    "D": "at a railway station"
+   },
+   "answer": "B",
+   "turns": [
+    {
+     "s": "W",
+     "t": "May I have your flight schedule, ticket confirmation number, and passport, please?"
+    },
+    {
+     "s": "M",
+     "t": "Here they are."
+    },
+    {
+     "s": "Q",
+     "t": "Where did the conversation most likely take place?"
+    }
+   ],
+   "explain": "the airport’s checking counter: 機場報到櫃檯 convenience store:便利店",
+   "audio": "audio/b12/063.mp3"
+  },
+  {
+   "id": "b12-064",
+   "n": 64,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "M: Excuse me. Where can I buy a money order? W: I’m sorry. Our bank doesn’t sell it. Q: Where did the conversation take place?",
+   "options": {
+    "A": "in a post office",
+    "B": "at a restaurant",
+    "C": "at a bank",
+    "D": "on the campus"
+   },
+   "answer": "C",
+   "turns": [
+    {
+     "s": "M",
+     "t": "Excuse me. Where can I buy a money order?"
+    },
+    {
+     "s": "W",
+     "t": "I’m sorry. Our bank doesn’t sell it."
+    },
+    {
+     "s": "Q",
+     "t": "Where did the conversation take place?"
+    }
+   ],
+   "explain": "Money order: 匯票",
+   "audio": "audio/b12/064.mp3"
+  },
+  {
+   "id": "b12-065",
+   "n": 65,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Can you meet me at the food court? M: Yes, it’s very convenient. Q: What did the man say about the meeting place?",
+   "options": {
+    "A": "convenient",
+    "B": "uncertain",
+    "C": "likely",
+    "D": "available"
+   },
+   "answer": "A",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Can you meet me at the food court?"
+    },
+    {
+     "s": "M",
+     "t": "Yes, it’s very convenient."
+    },
+    {
+     "s": "Q",
+     "t": "What did the man say about the meeting place?"
+    }
+   ],
+   "explain": "Food court: 美食廣場",
+   "audio": "audio/b12/065.mp3"
+  },
+  {
+   "id": "b12-066",
+   "n": 66,
+   "section": "listening",
+   "cat": "dialogue",
+   "stem": "W: Does your company manufacture copying machines? M: Yes, we do. Q: What does the man do?",
+   "options": {
+    "A": "He sells copying machines.",
+    "B": "He buys copying machines.",
+    "C": "He uses copying machines.",
+    "D": "He makes copying machines."
+   },
+   "answer": "D",
+   "turns": [
+    {
+     "s": "W",
+     "t": "Does your company manufacture copying machines?"
+    },
+    {
+     "s": "M",
+     "t": "Yes, we do."
+    },
+    {
+     "s": "Q",
+     "t": "What does the man do?"
+    }
+   ],
+   "explain": "Manufacture (v.) 製造",
+   "audio": "audio/b12/066.mp3"
+  },
+  {
+   "id": "b12-067",
+   "n": 67,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "These children are doing ____ in their English lessons.",
+   "options": {
+    "A": "well",
+    "B": "good",
+    "C": "careful",
+    "D": "easy"
+   },
+   "answer": "A"
+  },
+  {
+   "id": "b12-068",
+   "n": 68,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Thanks to their timely help, the crisis was averted.",
+   "options": {
+    "A": "because of",
+    "B": "in spite of",
+    "C": "for all",
+    "D": "regarding"
+   },
+   "answer": "A",
+   "explain": "Timely (adj.) 及時的 avert (v.) 防止 thanks to: 由於; 託...福; 幸虧"
+  },
+  {
+   "id": "b12-069",
+   "n": 69,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Freedom ______ speech is considered a universal and fundamental human right.",
+   "options": {
+    "A": "on",
+    "B": "of",
+    "C": "from",
+    "D": "with"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "b12-070",
+   "n": 70,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "More and more universities are beginning ______ surveillance cameras around the campus.",
+   "options": {
+    "A": "being installed",
+    "B": "installing",
+    "C": "to install",
+    "D": "to be installed"
+   },
+   "answer": "C",
+   "explain": "Install: (v.)安裝 surveillance cameras監控攝影機"
+  },
+  {
+   "id": "b12-071",
+   "n": 71,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Select the correct sentence.",
+   "options": {
+    "A": "The woman waiting in line for a ticket is my first cousin.",
+    "B": "The woman in line is my first cousin waiting for a ticket.",
+    "C": "My first cousin is the woman in line for a ticket waiting.",
+    "D": "Waiting in line for a ticket is the woman my first cousin."
+   },
+   "answer": "A"
+  },
+  {
+   "id": "b12-072",
+   "n": 72,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The new director ______ some troubles which he could not solve without the president’s support.",
+   "options": {
+    "A": "ran after",
+    "B": "ran for",
+    "C": "ran into",
+    "D": "ran through"
+   },
+   "answer": "C",
+   "explain": "Run into “遇到”"
+  },
+  {
+   "id": "b12-073",
+   "n": 73,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "For those who are interested ______ the show, please contact the front desk for information.",
+   "options": {
+    "A": "at",
+    "B": "with",
+    "C": "in",
+    "D": "for"
+   },
+   "answer": "C",
+   "explain": "Be interested in (ph.) 對…很感興趣"
+  },
+  {
+   "id": "b12-074",
+   "n": 74,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "It is often _____ that many hands make light work.",
+   "options": {
+    "A": "said",
+    "B": "told",
+    "C": "spoken",
+    "D": "lied"
+   },
+   "answer": "A",
+   "explain": "It is often said that : 常言道"
+  },
+  {
+   "id": "b12-075",
+   "n": 75,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "“Tired of working long hours and seeing others go home with all the financial rewards? There’s no need to be jealous of them, as you too can be one of them.” The passage above is ________.",
+   "options": {
+    "A": "a warning",
+    "B": "an advertisement",
+    "C": "a thank-you note",
+    "D": "a party notice"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "b12-076",
+   "n": 76,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Don’t lose your heart even in your moment of despair.",
+   "options": {
+    "A": "feel frustrated",
+    "B": "feel confident",
+    "C": "feel comfortable",
+    "D": "feel at ease"
+   },
+   "answer": "A",
+   "explain": "Lose heart=灰心，失去信心"
+  },
+  {
+   "id": "b12-077",
+   "n": 77,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "He _____ the farewell ceremony last Sunday, but he was engaged.",
+   "options": {
+    "A": "attends",
+    "B": "attended",
+    "C": "had attended",
+    "D": "should have attended"
+   },
+   "answer": "D",
+   "explain": "should＋have (been) V-en表示對過去事䋿相反意義的動詞詞組 題目 “他上週\n日應該出席告別儀式，但他有事。”"
+  },
+  {
+   "id": "b12-078",
+   "n": 78,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The president _____ his students that he had their best interest in mind.",
+   "options": {
+    "A": "connected",
+    "B": "convinced",
+    "C": "conferred",
+    "D": "condoned"
+   },
+   "answer": "B",
+   "explain": "Convince sb that ……= to cause (someone) to believe something"
+  },
+  {
+   "id": "b12-079",
+   "n": 79,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "He _______ in this city since he was 12.",
+   "options": {
+    "A": "lives",
+    "B": "lived",
+    "C": "has lived",
+    "D": "had lived"
+   },
+   "answer": "C",
+   "explain": "Since 的意思：不管是作為連接詞或是介系詞，since 的意思取決於句子結構\n和時態。 Since 作為連接詞：附屬子句的動詞為過去式時，since 通常表示時\n間。 在一個帶有 since 子句（since he was 12）的句子中，若主要動詞指涉\n一段包含現在的期間，則該動詞必須為現在完成式。"
+  },
+  {
+   "id": "b12-080",
+   "n": 80,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Diligence and discipline accounted for Ted’s success.",
+   "options": {
+    "A": "were the reasons for",
+    "B": "couldn’t explain",
+    "C": "were able to",
+    "D": "depended on"
+   },
+   "answer": "A",
+   "explain": "Account for (ph.): 說明, 作某事物的解釋, 解釋某事物的原因"
+  },
+  {
+   "id": "b12-081",
+   "n": 81,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The officer got promoted not because of his ability but because of good socializing skills. The officer was good at ________.",
+   "options": {
+    "A": "making a fortune",
+    "B": "relationships",
+    "C": "performance",
+    "D": "serving his duties"
+   },
+   "answer": "B",
+   "explain": "(Someone) is (very) good at (something)"
+  },
+  {
+   "id": "b12-082",
+   "n": 82,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "We are going to have a meeting next Monday. Can you ______?",
+   "options": {
+    "A": "do it",
+    "B": "get it",
+    "C": "go it",
+    "D": "make it"
+   },
+   "answer": "D",
+   "explain": "Make it : to manage to arrive on time"
+  },
+  {
+   "id": "b12-083",
+   "n": 83,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Your article needs to be polished before publication.",
+   "options": {
+    "A": "checked",
+    "B": "rewritten",
+    "C": "edited",
+    "D": "shortened"
+   },
+   "answer": "C"
+  },
+  {
+   "id": "b12-084",
+   "n": 84,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Of the two sisters, Betty is _______.",
+   "options": {
+    "A": "tallest",
+    "B": "tall",
+    "C": "the taller",
+    "D": "taller than"
+   },
+   "answer": "C",
+   "explain": "因為是兩位做比較, 故用比較級. 絶大多數的時候 the + adj 是複數。 但偶爾有\n例外， 像這裡 the taller, 指一個特定的人 Betty，是單數。"
+  },
+  {
+   "id": "b12-085",
+   "n": 85,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "If it _____ tomorrow, the game will be postponed.",
+   "options": {
+    "A": "rain",
+    "B": "rains",
+    "C": "will rain",
+    "D": "would rain"
+   },
+   "answer": "B",
+   "explain": "第一類條件句用來指現在或未來的真䋿情況。第一類條件句指的是可能的情\n況，以及該情況可能造成的結果。在這些句子中，if 子句的時態要使用現在簡\n單式，而主要子句是未來簡單式。"
+  },
+  {
+   "id": "b12-086",
+   "n": 86,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "He requested a personal leave from the officer.",
+   "options": {
+    "A": "gave",
+    "B": "asked for",
+    "C": "received",
+    "D": "applied for"
+   },
+   "answer": "B"
+  },
+  {
+   "id": "b12-087",
+   "n": 87,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The maximum number of passengers this vehicle can accommodate is 45.",
+   "options": {
+    "A": "usual",
+    "B": "greatest",
+    "C": "least",
+    "D": "average"
+   },
+   "answer": "B",
+   "explain": "Maximum (adj.) 最大的；最多的；最高的；頂點的"
+  },
+  {
+   "id": "b12-088",
+   "n": 88,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "What do the three colors in your national flag stand for?",
+   "options": {
+    "A": "allow",
+    "B": "represent",
+    "C": "permit",
+    "D": "speak"
+   },
+   "answer": "B",
+   "explain": "Stand for: 代表"
+  },
+  {
+   "id": "b12-089",
+   "n": 89,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Prospective candidates for an executive position must have a ______ command of the English language and exceptional analytical skills.",
+   "options": {
+    "A": "strong",
+    "B": "stronger",
+    "C": "strongly",
+    "D": "more strongly"
+   },
+   "answer": "A",
+   "explain": "題目 “行政職位的候選人必須具備______英語語言能力和出色的分析能力。”\n根據題意 答案為A"
+  },
+  {
+   "id": "b12-090",
+   "n": 90,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Mr. Jones wouldn’t mind ______ for one hour to get served.",
+   "options": {
+    "A": "wait",
+    "B": "waited",
+    "C": "to wait",
+    "D": "waiting"
+   },
+   "answer": "D",
+   "explain": "• mind (v.) 介意 mind+Ving 「動詞 ＋ 動名詞 (V-ing)」在國中裡有 enjoy,\nfinish, give up, keep, mind, practice"
+  },
+  {
+   "id": "b12-091",
+   "n": 91,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "I’m looking for a permanent job, and the one I have is only temporary.",
+   "options": {
+    "A": "existing for a limited period of time",
+    "B": "lasting forever",
+    "C": "unusual",
+    "D": "well-paying"
+   },
+   "answer": "B",
+   "explain": "Permanent (adj.) 永久的；固定性的；常在的 temporary (adj.) 臨時的；暫時\n的"
+  },
+  {
+   "id": "b12-092",
+   "n": 92,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "They decided to have the fences ______.",
+   "options": {
+    "A": "repair",
+    "B": "to repair",
+    "C": "repaired",
+    "D": "repairing"
+   },
+   "answer": "C",
+   "explain": "「使役動詞後面要用原形動詞」這件事本身是非常正確的，只是大家時常忽\n略一件事，這個規則的前提為：受詞「主動」做後面的動作。使役動詞 have\n以及 make 的受詞被動用法是在後方加上過去分詞"
+  },
+  {
+   "id": "b12-093",
+   "n": 93,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Following the ______ of a new department chair last quarter, there is a sense of fresh direction and energy in our company.",
+   "options": {
+    "A": "Appointed",
+    "B": "appointee",
+    "C": "appointing",
+    "D": "appointment"
+   },
+   "answer": "D",
+   "explain": "Appointment (n.) 任命，委派[U][（+as/of）"
+  },
+  {
+   "id": "b12-094",
+   "n": 94,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "The benefits of being ______ own boss are considerable, but fear of business risk keeps many people from succeeding.",
+   "options": {
+    "A": "One",
+    "B": "your",
+    "C": "the",
+    "D": "their"
+   },
+   "answer": "B",
+   "explain": "Be one’s own boss: have full control of a business or enterprise : have no\nboss except for oneself"
+  },
+  {
+   "id": "b12-095",
+   "n": 95,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "They psychologist Eckhard Hess had noticed that the pupils are sensitive indicators of mental efforts-they dilate substantially when people multiply two-digit numbers. According to this passage, to see whether a person is mentally working hard or not, we just need to see their _______.",
+   "options": {
+    "A": "tongue",
+    "B": "ears",
+    "C": "eyes",
+    "D": "cheeks"
+   },
+   "answer": "C",
+   "explain": "Pupil (n.) 瞳孔dilate (v.) 擴大"
+  },
+  {
+   "id": "b12-096",
+   "n": 96,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "She didn’t care which of the two offices she would get, but a day after the announcement was made, she was no longer willing to trade. What does the last sentence mean?",
+   "options": {
+    "A": "She likes both offices.",
+    "B": "She doesn’t want to change her office.",
+    "C": "She likes to use her office to do trade.",
+    "D": "She decided to buy her office."
+   },
+   "answer": "B",
+   "explain": "Trade (v.) 交換"
+  },
+  {
+   "id": "b12-097",
+   "n": 97,
+   "section": "reading",
+   "cat": "reading",
+   "stem": "Most of the buyers and sellers in the stock markets know that they have the same information: they exchange the stocks primarily because they have different opinions. According to this passage, which statement is NOT TRUE?",
+   "options": {
+    "A": "The buyers think the price is too low and likely to rise.",
+    "B": "The seller think the price is high and likely to drop.",
+    "C": "The buyers and the sellers alike think the current price is wrong.",
+    "D": "Both the buyers and the sellers believe the current price will drop."
+   },
+   "answer": "D",
+   "explain": "Stock market股票市場"
+  },
+  {
+   "id": "b12-098",
+   "n": 98,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "With millions of people unemployed, it was surprisingly noteworthy that 30 percent of companies still reported difficulty filling jobs.",
+   "options": {
+    "A": "It reports the talent shortage.",
+    "B": "It deals with the surplus of manpower.",
+    "C": "It complains about poor working environment.",
+    "D": "It gives advice on how to employ workers."
+   },
+   "answer": "A",
+   "explain": "題目”數百萬人失業，令人驚訝的是，30％的公司仍然表示仍有困難填補職\n缺。” the talent shortage:人才短缺"
+  },
+  {
+   "id": "b12-099",
+   "n": 99,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "When it comes to the morality of markets, it seems that our public discourse is not up to the task.",
+   "options": {
+    "A": "We are not allowed to talk about it in public.",
+    "B": "We are allowed to address it publicly.",
+    "C": "We find it inadequate in our public discourse.",
+    "D": "We find it easy to talk about it in public."
+   },
+   "answer": "C",
+   "explain": "Is not up to the task: 不能勝任這項任務。"
+  },
+  {
+   "id": "b12-100",
+   "n": 100,
+   "section": "reading",
+   "cat": "usage",
+   "stem": "Over the past three decades, market values have come to govern our lives as never before.",
+   "options": {
+    "A": "We have been influenced by market values.",
+    "B": "We don’t like market values.",
+    "C": "Market Values have taken the place of governments.",
+    "D": "Money is king."
+   },
+   "answer": "A",
+   "explain": "題目 “在過去的三十年裡，市場價值觀以前所未有的方式來影響我們的生\n活。”Govern: (v.) 影響"
+  }
+ ]
+}
