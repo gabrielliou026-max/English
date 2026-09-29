@@ -1212,6 +1212,9 @@
     "D": "regarding"
    },
    "answer": "A",
+   "underline": [
+    "Thanks to"
+   ],
    "explain": "Timely (adj.) 及時的 avert (v.) 防止 thanks to: 由於; 託...福; 幸虧"
   },
   {
@@ -1329,6 +1332,9 @@
     "D": "feel at ease"
    },
    "answer": "A",
+   "underline": [
+    "lose your heart"
+   ],
    "explain": "Lose heart=灰心，失去信心"
   },
   {
@@ -1389,6 +1395,9 @@
     "D": "depended on"
    },
    "answer": "A",
+   "underline": [
+    "accounted for"
+   ],
    "explain": "Account for (ph.): 說明, 作某事物的解釋, 解釋某事物的原因"
   },
   {
@@ -1433,7 +1442,10 @@
     "C": "edited",
     "D": "shortened"
    },
-   "answer": "C"
+   "answer": "C",
+   "underline": [
+    "polished"
+   ]
   },
   {
    "id": "b12-084",
@@ -1477,7 +1489,10 @@
     "C": "received",
     "D": "applied for"
    },
-   "answer": "B"
+   "answer": "B",
+   "underline": [
+    "requested"
+   ]
   },
   {
    "id": "b12-087",
@@ -1492,6 +1507,9 @@
     "D": "average"
    },
    "answer": "B",
+   "underline": [
+    "maximum"
+   ],
    "explain": "Maximum (adj.) 最大的；最多的；最高的；頂點的"
   },
   {
@@ -1507,6 +1525,9 @@
     "D": "speak"
    },
    "answer": "B",
+   "underline": [
+    "stand for"
+   ],
    "explain": "Stand for: 代表"
   },
   {
@@ -1552,6 +1573,9 @@
     "D": "well-paying"
    },
    "answer": "B",
+   "underline": [
+    "temporary"
+   ],
    "explain": "Permanent (adj.) 永久的；固定性的；常在的 temporary (adj.) 臨時的；暫時\n的"
   },
   {
