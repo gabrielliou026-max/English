@@ -17,9 +17,6 @@ const COUNTS = [0, 50, 20]; // 0 = 全部
 const $ = (s) => document.querySelector(s);
 const app = $('#app');
 const tabs = $('#tabs');
-const audio = new Audio();
-const preload = new Audio();
-preload.preload = 'auto';
 
 let banks = [];
 const bankData = {};   // bank -> questions[]
@@ -218,7 +215,7 @@ function renderQuiz(autoplay) {
   const secIdx = isL ? s.idx + 1 : s.idx - s.nL + 1;
   const secTotal = isL ? s.nL : total - s.nL;
 
-  audio.pause();
+  Player.stop();
   let html = `
     <div class="qtop">
       <button class="x" data-a="quit" aria-label="結束測驗">✕</button>
@@ -248,7 +245,7 @@ function renderQuiz(autoplay) {
   app.innerHTML = html;
 
   if (a) $('#fb').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-  if (isL && !a && autoplay) playQ(q);
+  if (isL && !a && autoplay) playQ(q, true);
   preloadNext();
 }
 
@@ -272,7 +269,7 @@ function renderBreak() {
   const s = session;
   const done = s.qids.slice(0, s.nL).filter((id) => s.answers[id]);
   const ok = done.filter((id) => s.answers[id].ok).length;
-  audio.pause();
+  Player.stop();
   app.innerHTML = `
     <div class="card" style="text-align:center;margin-top:18vh">
       <h1>聽力部分結束</h1>
@@ -282,29 +279,30 @@ function renderBreak() {
     </div>`;
 }
 
-function playQ(q) {
+function playQ(q, auto) {
   const btn = $('#play');
-  audio.src = q.audio;
-  audio.currentTime = 0;
-  audio.play().then(() => {
+  const setBtn = (text, on) => { if (btn && btn.isConnected) { btn.textContent = text; btn.classList.toggle('playing', !!on); } };
+  setBtn('⏳ 載入中…', false);
+  Player.play(q.audio, { onended: () => setBtn('↻ 重播', false) }).then(() => {
+    if (!session || session.qids[session.idx] !== q.id) return;
     session.plays[q.id] = (session.plays[q.id] || 0) + 1;
     saveSession();
     const p = $('#plays');
     if (p) p.textContent = `已播放 ${session.plays[q.id]} 次`;
-    if (btn) { btn.classList.add('playing'); btn.textContent = '🔊 播放中…（點擊重播）'; }
-  }).catch(() => {
-    if (btn) btn.textContent = '▶ 點擊播放題目';
+    setBtn('🔊 播放中…（點擊重播）', true);
+  }).catch((e) => {
+    setBtn('▶ 點擊播放題目', false);
+    if (!auto) {
+      const p = $('#plays');
+      if (p) p.textContent = `無法播放：${e.message}（iPhone 請確認未開啟靜音模式）`;
+    }
   });
 }
-audio.addEventListener('ended', () => {
-  const btn = $('#play');
-  if (btn) { btn.classList.remove('playing'); btn.textContent = '↻ 重播'; }
-});
-audio.addEventListener('error', () => { if ($('#play')) toast('音檔載入失敗，請檢查網路'); });
 
 function preloadNext() {
-  const next = Q[session.qids[session.idx + 1]];
-  if (next && next.audio && !preload.src.endsWith(next.audio)) preload.src = next.audio;
+  for (const id of session.qids.slice(session.idx, session.idx + 3)) {
+    if (Q[id] && Q[id].audio) Player.prefetch(Q[id].audio).catch(() => {});
+  }
 }
 
 function choose(k) {
@@ -334,7 +332,7 @@ function next() {
 }
 
 function finish() {
-  audio.pause();
+  Player.stop();
   const s = session;
   const answered = s.qids.filter((id) => s.answers[id]);
   session = null;
@@ -566,7 +564,7 @@ document.addEventListener('click', async (e) => {
     case 'discard':
       if (await ask('確定放棄這次未完成的測驗？已作答的題目仍會計入常見錯誤統計。')) { session = null; saveSession(); renderHome(); }
       break;
-    case 'play': playQ(Q[session.qids[session.idx]]); break;
+    case 'play': playQ(Q[session.qids[session.idx]], false); break;
     case 'pick': choose(v); break;
     case 'next': next(); break;
     case 'toReading': session.breakSeen = true; saveSession(); renderQuiz(false); break;
