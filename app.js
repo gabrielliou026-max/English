@@ -164,7 +164,7 @@ function renderHome() {
       <div class="row wrap">
         ${COUNTS.map((c) => `<button class="chip ${pick.count === c ? 'on' : ''}" data-a="count" data-v="${c}">${c ? c + ' 題' : `全部 ${pool} 題`}</button>`).join('')}
       </div>
-      <p class="muted">題目隨機排列，先聽力、後閱讀。聽力題只播放語音，可重播；作答後顯示逐字稿與正解。</p>
+      <p class="muted">依題型順序出題（聽力：問答 → 敘述 → 對話；閱讀：文法字彙 → 閱讀理解），各題型內隨機。聽力題只播放語音，可重播；作答後顯示逐字稿與正解。</p>
       <button class="btn" data-a="start" ${pick.banks.length ? '' : 'disabled'}>開始測驗</button>
     </div>
     <div class="card">
@@ -176,24 +176,26 @@ function renderHome() {
 
 /* ---------- quiz ---------- */
 
+// 出題順序依 ALCPT 題型分段，只在各段內隨機：
+// 聽力 問答 → 敘述 → 對話；閱讀 文法/字彙 → 閱讀理解
+const STAGES = [['question'], ['statement'], ['dialogue'], ['grammar', 'vocab'], ['reading']];
+
+function orderByStage(qs) {
+  return STAGES.flatMap((cats) => shuffle(qs.filter((q) => cats.includes(q.cat))));
+}
 function buildExam(bankIds, count) {
   const all = bankIds.flatMap((b) => bankData[b]);
-  let L = shuffle(all.filter((q) => q.section === 'listening'));
-  let R = shuffle(all.filter((q) => q.section === 'reading'));
-  if (count && count < all.length) {
-    const nL = Math.round((count * L.length) / all.length);
-    L = L.slice(0, nL);
-    R = R.slice(0, count - nL);
-  }
-  return [...L, ...R].map((q) => q.id);
+  if (!count || count >= all.length) return orderByStage(all).map((q) => q.id);
+  // 依各段題數比例抽題（最大餘數法，總數剛好等於 count）
+  const groups = STAGES.map((cats) => shuffle(all.filter((q) => cats.includes(q.cat))));
+  const quota = groups.map((g) => (count * g.length) / all.length);
+  const take = quota.map(Math.floor);
+  const order = quota.map((x, i) => [x - take[i], i]).sort((x, y) => y[0] - x[0]);
+  for (let k = 0; take.reduce((t, x) => t + x, 0) < count; k++) take[order[k][1]]++;
+  return groups.flatMap((g, i) => g.slice(0, take[i])).map((q) => q.id);
 }
 function reviewPool() {
   return Object.entries(db.stats).filter(([, s]) => s.last === 0).map(([id]) => id);
-}
-function orderListeningFirst(ids) {
-  const L = shuffle(ids.filter((id) => Q[id] && Q[id].section === 'listening'));
-  const R = shuffle(ids.filter((id) => Q[id] && Q[id].section === 'reading'));
-  return [...L, ...R];
 }
 function startSession(mode, qids, bankIds) {
   session = {
@@ -553,7 +555,7 @@ document.addEventListener('click', async (e) => {
         : Object.keys(db.stats).filter((id) => db.stats[id].wrong > 0)
           .sort((x, y) => db.stats[y].wrong - db.stats[x].wrong).slice(0, 20);
       await ensureBanks(ids.map(bankOf));
-      ids = orderListeningFirst(ids);
+      ids = orderByStage(ids.filter((id) => Q[id]).map((id) => Q[id])).map((q) => q.id);
       if (ids.length) startSession('review', ids, []);
       break;
     }
