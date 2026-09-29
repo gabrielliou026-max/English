@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kokoro 男聲試聽</title>
+<style>
+  /* 單欄清單：每個聲音一列，名稱＋播放 */
+  :root {
+    --bg: #f3f5f8; --card: #ffffff; --text: #1b2430; --muted: #5f6b7a; --line: #dde3ea; --accent: #2f6fb0; --tag: #e7eef7;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) { --bg: #11161d; --card: #1a212b; --text: #e6ebf1; --muted: #97a3b2; --line: #2b3542; --accent: #6aa5e6; --tag: #1f2d3d; color-scheme: dark; }
+  }
+  :root[data-theme="dark"] { --bg: #11161d; --card: #1a212b; --text: #e6ebf1; --muted: #97a3b2; --line: #2b3542; --accent: #6aa5e6; --tag: #1f2d3d; color-scheme: dark; }
+  body { background: var(--bg); color: var(--text); font: 16px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", "PingFang TC", sans-serif; }
+  main { max-width: 560px; margin: 0 auto; padding-inline: 16px; padding-block: 16px 32px; }
+  h1 { font-size: 1.3rem; margin: 4px 0 6px; text-wrap: balance; }
+  .muted { color: var(--muted); font-size: .92rem; }
+  .line { font-style: italic; margin: 10px 0 16px; }
+  ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+  li { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; display: flex; align-items: center; gap: 12px; }
+  li .name { flex: 1; min-width: 0; font-weight: 700; }
+  .tag { display: inline-block; font-size: .75rem; font-weight: 600; background: var(--tag); color: var(--accent); border-radius: 999px; padding: 1px 8px; margin-left: 6px; }
+  button { font: inherit; font-weight: 700; min-width: 88px; min-height: 48px; border-radius: 10px; border: 2px solid var(--accent); background: var(--card); color: var(--accent); touch-action: manipulation; }
+  button.on { background: var(--accent); color: var(--card); }
+  .err { display: block; font-weight: 400; font-size: .85rem; color: var(--muted); }
+  button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+</style>
+<style>body { margin: 0; }</style>
+</head>
+<body>
+<main>
+  <h1>Kokoro 男聲試聽</h1>
+  <p class="muted">每個聲音念同一段句子（美式英文設定、正常語速）。請挑出最像美國口音的一個，告訴我名稱。</p>
+  <p class="line">“It looks like we need to send more troops to the border now. Would you like to leave a message?”</p>
+  <ul id="list"></ul>
+</main>
+<script src="../player.js"></script>
+<script>
+  const voices = [
+    ['am_michael', '目前男聲'], ['am_fenrir', '目前旁白'], ['am_adam'], ['am_echo'],
+    ['am_eric'], ['am_liam'], ['am_onyx'], ['am_puck'],
+  ];
+  const list = document.getElementById('list');
+  list.innerHTML = voices.map(([v, tag]) =>
+    `<li><span class="name">${v}${tag ? `<span class="tag">${tag}</span>` : ''}<span class="err" id="e-${v}"></span></span><button id="b-${v}" data-v="${v}">▶ 播放</button></li>`).join('');
+  voices.forEach(([v]) => Player.prefetch(v + '.mp3').catch(() => {}));
+  let current = null;
+  function reset() { if (current) { current.classList.remove('on'); current.textContent = '▶ 播放'; current = null; } }
+  list.addEventListener('click', (e) => {
+    const b = e.target.closest('button');
+    if (!b) return;
+    const same = b === current;
+    Player.stop(); reset();
+    if (same) return;
+    const err = document.getElementById('e-' + b.dataset.v);
+    err.textContent = '';
+    b.textContent = '⏳';
+    Player.play(b.dataset.v + '.mp3', { onended: reset }).then(() => {
+      current = b; b.classList.add('on'); b.textContent = '■ 停止';
+    }).catch((x) => {
+      b.textContent = '▶ 播放';
+      err.textContent = '無法播放：' + x.message + '（iPhone 請確認未開啟靜音模式）';
+    });
+  });
+</script>
+<p style="text-align:center"><a href="../">← 回到練習</a></p>
+</body>
+</html>
