@@ -161,3 +161,11 @@ summary .n { color: var(--muted); font-variant-numeric: tabular-nums; margin-rig
 .dialog .row .btn { flex: 1; }
 .good { color: var(--ok); font-weight: 600; }
 .bad { color: var(--ng); font-weight: 600; }
+.select {
+  width: 100%; min-height: 52px; padding: 10px 44px 10px 14px; font: inherit; font-weight: 600; color: var(--text);
+  background: var(--card) no-repeat right 14px center / 14px;
+  background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%), linear-gradient(-45deg, transparent 50%, var(--muted) 50%);
+  background-size: 7px 7px, 7px 7px; background-position: right 22px center, right 15px center;
+  border: 2px solid var(--line); border-radius: 12px; -webkit-appearance: none; appearance: none;
+}
+.select:focus-visible { outline: 3px solid var(--brand-2); outline-offset: 2px; }

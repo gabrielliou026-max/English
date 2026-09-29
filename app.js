@@ -2,6 +2,7 @@
 
 const STORE = 'alcpt-practice-v1';   // 考試紀錄與每題統計
 const CURRENT = 'alcpt-current-v1';  // 進行中的測驗（可中斷後繼續）
+const PICK = 'alcpt-pick-v1';        // 上次選的題庫
 
 const CATS = {
   question: '聽力・問答',
@@ -51,7 +52,10 @@ function saveSession() {
 
 async function loadBanks() {
   banks = await (await fetch('data/banks.json')).json();
-  pick.banks = [banks[0].bank];
+  let saved = null;
+  try { saved = localStorage.getItem(PICK); } catch { /* ignore */ }
+  if (saved === 'all' && banks.length > 1) pick.banks = banks.map((b) => b.bank);
+  else pick.banks = [banks.some((b) => b.bank === saved) ? saved : banks[0].bank];
 }
 async function ensureBanks(ids) {
   await Promise.all([...new Set(ids)].filter((b) => !bankData[b]).map(async (b) => {
@@ -153,10 +157,14 @@ function renderHome() {
         <button class="btn ghost" data-a="discard">放棄並重新開始</button>
       </div>` : ''}
     <div class="card">
-      <h2 style="margin-top:0">選擇題庫</h2>
-      <div class="row wrap">
-        ${banks.map((b) => `<button class="chip ${pick.banks.includes(b.bank) ? 'on' : ''}" data-a="bank" data-v="${b.bank}">${esc(b.title)}</button>`).join('')}
-      </div>
+      <h2 style="margin-top:0"><label for="bank-sel">選擇題庫</label></h2>
+      <select id="bank-sel" class="select">
+        ${banks.map((b) => {
+          const last = lastScore(b.bank);
+          return `<option value="${b.bank}" ${pick.banks.length === 1 && pick.banks[0] === b.bank ? 'selected' : ''}>${esc(b.title)}${last === null ? '' : `（上次 ${last}%）`}</option>`;
+        }).join('')}
+        ${banks.length > 1 ? `<option value="all" ${pick.banks.length > 1 ? 'selected' : ''}>全部題庫混合（${banks.length} 回）</option>` : ''}
+      </select>
       <h2>題數</h2>
       <div class="row wrap">
         ${COUNTS.map((c) => `<button class="chip ${pick.count === c ? 'on' : ''}" data-a="count" data-v="${c}">${c ? c + ' 題' : `全部 ${pool} 題`}</button>`).join('')}
@@ -190,6 +198,11 @@ function buildExam(bankIds, count) {
   const order = quota.map((x, i) => [x - take[i], i]).sort((x, y) => y[0] - x[0]);
   for (let k = 0; take.reduce((t, x) => t + x, 0) < count; k++) take[order[k][1]]++;
   return groups.flatMap((g, i) => g.slice(0, take[i])).map((q) => q.id);
+}
+// 該題庫最近一次單回測驗的得分（%），沒做過回傳 null
+function lastScore(bank) {
+  const a = db.attempts.find((x) => x.mode === 'exam' && x.banks.length === 1 && x.banks[0] === bank);
+  return a ? pct(a.answers.reduce((t, x) => t + x[2], 0), a.answers.length) : null;
 }
 function reviewPool() {
   return Object.entries(db.stats).filter(([, s]) => s.last === 0).map(([id]) => id);
@@ -534,13 +547,6 @@ document.addEventListener('click', async (e) => {
       else if (v === 'history') { await ensureBanks(db.attempts.flatMap((a) => a.answers.map(([id]) => bankOf(id)))); renderHistory(); }
       else renderMistakes();
       break;
-    case 'bank': {
-      const i = pick.banks.indexOf(v);
-      if (i >= 0) pick.banks.splice(i, 1); else pick.banks.push(v);
-      pick.banks.sort();
-      renderHome();
-      break;
-    }
     case 'count': pick.count = Number(v); renderHome(); break;
     case 'start':
       if (session && !await ask('目前有未完成的測驗，要放棄並開始新的嗎？')) return;
@@ -590,6 +596,12 @@ document.addEventListener('click', async (e) => {
 });
 document.addEventListener('change', (e) => {
   if (e.target.id === 'file' && e.target.files[0]) importData(e.target.files[0]);
+  if (e.target.id === 'bank-sel') {
+    const v = e.target.value;
+    pick.banks = v === 'all' ? banks.map((b) => b.bank) : [v];
+    try { localStorage.setItem(PICK, v); } catch { /* ignore */ }
+    renderHome();
+  }
 });
 
 (async () => {
