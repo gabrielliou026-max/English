@@ -72,8 +72,11 @@ class Gemini:
                 data = base64.b64decode(d["candidates"][0]["content"]["parts"][0]["inlineData"]["data"])
                 return self._decode(data)
             except urllib.error.HTTPError as e:
+                msg = e.read().decode(errors="replace")
+                if "per_day" in msg:
+                    raise SystemExit("Gemini 每日額度已用完，明天再執行（已完成的音檔會自動略過）。\n" + msg[:400])
                 if e.code not in (429, 500, 502, 503, 504) or attempt == 5:
-                    raise SystemExit(f"Gemini TTS error {e.code}: {e.read()[:300]!r}")
+                    raise SystemExit(f"Gemini TTS error {e.code}: {msg[:300]}")
             except (urllib.error.URLError, TimeoutError, KeyError):
                 if attempt == 5:
                     raise
