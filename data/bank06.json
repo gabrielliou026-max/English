@@ -15,7 +15,9 @@
     "D": "He was crazy about me."
    },
    "answer": "A",
-   "audio": "audio/b06/001.mp3"
+   "audio": "audio/b06/001.mp3",
+   "explain": "break up with: 與...分手\ntwo-time: 劈腿、對感情不忠\nrecord-breaker: 破紀錄者\n解析：題目詢問分手原因。two-timing 指劈腿或感情不忠，符合分手的合理理由，故答案選A。B選項是利用 break 衍生的 record-breaker 設下字面陷阱；C選項等候我與D選項為我著迷，語意皆不符分手的情境邏輯。",
+   "explain_ai": true
   },
   {
    "id": "b06-002",
@@ -30,7 +32,9 @@
     "D": "Yes, I'm looking for the exit."
    },
    "answer": "D",
-   "audio": "audio/b06/002.mp3"
+   "audio": "audio/b06/002.mp3",
+   "explain": "be lost: 迷路\nlook for: 尋找\nexit: 出口\n解析：題意為「你看起來迷路了，需要幫忙嗎？」D選項回答「好啊，我在找出口」符合受助情境，故答案選D。干擾項A的 loser（失敗者）與C的 lost weight（減重）皆為同源字或字面陷阱；B未說明需求就道謝則不合對話邏輯。",
+   "explain_ai": true
   },
   {
    "id": "b06-003",
@@ -45,7 +49,9 @@
     "D": "It's all right."
    },
    "answer": "B",
-   "audio": "audio/b06/003.mp3"
+   "audio": "audio/b06/003.mp3",
+   "explain": "speak with: 與...通話\nThis is he: 我就是本人（電話用語）\nspeak one's mind: 直言不諱\n解析：題目為常見電話用語，意思是「請問約翰在嗎？」。若接聽者正是本人，習慣回答 This is he，故答案選B。選項A是用動詞 speak 的片語字面陷阱；選項C回答沒說話、選項D回應沒關係，皆偏離電話對話情境。",
+   "explain_ai": true
   },
   {
    "id": "b06-004",
@@ -60,7 +66,9 @@
     "D": "It was in 2009."
    },
    "answer": "A",
-   "audio": "audio/b06/004.mp3"
+   "audio": "audio/b06/004.mp3",
+   "explain": "fix someone up with: 替某人撮合或作媒\nstand someone up: 放某人鴿子\n解析：題目詢問「你是如何認識你女朋友的？」，重點在於相識的途徑。A選項表示「有人替我們牽線」，符合問句情境，故答案選A。B選項回答地點（Where）、D選項回答時間（When），皆非How的回答；C選項指被放鴿子，文意完全不符。",
+   "explain_ai": true
   },
   {
    "id": "b06-005",
@@ -75,7 +83,9 @@
     "D": "Toronto has been famous for its nightlife."
    },
    "answer": "C",
-   "audio": "audio/b06/005.mp3"
+   "audio": "audio/b06/005.mp3",
+   "explain": "time difference: 時差\nahead: （時間上）領先、提早\npopulation: 人口\n解析：題目詢問台北與多倫多之間的時差是多少。選項C指出台北快了12個小時，正確回答時差問題，因此答案選C。選項A提到人口統計，B介紹地理位置，D描述多倫多的夜生活，皆屬於答非所問的背景介紹干擾項。",
+   "explain_ai": true
   },
   {
    "id": "b06-006",
@@ -90,7 +100,9 @@
     "D": "It was a company trip."
    },
    "answer": "B",
-   "audio": "audio/b06/006.mp3"
+   "audio": "audio/b06/006.mp3",
+   "explain": "flight: 班機、飛行旅程\nbumpy: 顛簸的\n解析：題目詢問搭機過程如何。bumpy 意為顛簸的，常用於形容飛行時遇到氣流的狀況，故答案選B。選項 A 出差、C 露營與 D 員工旅遊，都是在回答旅行的性質或目的，而非描述班機飛行時的感受。",
+   "explain_ai": true
   },
   {
    "id": "b06-007",
@@ -105,7 +117,9 @@
     "D": "Yes, breakfast is the most important meal of the day."
    },
    "answer": "B",
-   "audio": "audio/b06/007.mp3"
+   "audio": "audio/b06/007.mp3",
+   "explain": "skip breakfast: 不吃早餐、略過早餐\ntoo busy: 太忙碌\nmeal: 一餐、餐點\n解析：題意為「你常常不吃早餐嗎？」，skip 指略過。B 選項回答「是的，我早上太忙了」，邏輯合理，故答案選B。干擾選項中，A 說不自己做但未回答是否不吃；C 扯到 lunch（午餐）偏離主題；D 回答 Yes（常不吃）卻又稱早餐最重要，前後語意矛盾。",
+   "explain_ai": true
   },
   {
    "id": "b06-008",
@@ -120,7 +134,9 @@
     "D": "It will take about a week."
    },
    "answer": "A",
-   "audio": "audio/b06/008.mp3"
+   "audio": "audio/b06/008.mp3",
+   "explain": "How long: 多久\nThat depends: 看情況、視情況而定\nstay: 停留、逗留\n解析：題意為「你打算在那裡待多久？」。詢問停留時間，回答「視情況而定」合乎日常對話邏輯，故答案選A。干擾選項B用get there混淆路程時間與停留時間；D的take指完成某事花費的時間而非停留；C答非所問。",
+   "explain_ai": true
   },
   {
    "id": "b06-009",
@@ -135,7 +151,9 @@
     "D": "No, I'm not that busy."
    },
    "answer": "B",
-   "audio": "audio/b06/009.mp3"
+   "audio": "audio/b06/009.mp3",
+   "explain": "go with: 和...一起去\nthird wheel: 電燈泡、多餘的人\naccept apologies: 接受道歉\n解析：題意詢問「你要跟我們一起去嗎？」，答案選B。B表示拒絕並說明「不想當電燈泡」，邏輯最合理。干擾選項A前後矛盾，說好卻打算自己去；C答非所問扯到道歉；D說自己沒那麼忙卻回答不參加，語意不合邏輯。",
+   "explain_ai": true
   },
   {
    "id": "b06-010",
@@ -150,7 +168,9 @@
     "D": "Yes, I'll give you a big hand."
    },
    "answer": "C",
-   "audio": "audio/b06/010.mp3"
+   "audio": "audio/b06/010.mp3",
+   "explain": "need a hand: 需要幫忙\nmanage: 處理、應付\ngive sb a big hand: 熱烈鼓掌\n解析：題目問「你需要幫忙嗎？」，主動提供協助。C表示「不用，我自己處理得來」，符合應答邏輯，故答案選C。選項A與B主客顛倒，變成回答者要去幫忙對方；D的片語意思是熱烈鼓掌，為常見的字面陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b06-011",
@@ -165,7 +185,9 @@
     "D": "Are you sure?"
    },
    "answer": "B",
-   "audio": "audio/b06/011.mp3"
+   "audio": "audio/b06/011.mp3",
+   "explain": "have no idea: 不知道\nhe or she: 公的還是母的\nbe sure: 確定\n解析：題目詢問「牠是公的還是母的？」，屬於選擇疑問句，不能用 Yes 或 No 回答。當不清楚性別時回答「我不知道」最符合邏輯，故答案選B。選項A與C用Yes/No回答選擇疑問句為常見陷阱，且C的人稱代名詞they與單數主詞it不符；D反問「你確定嗎？」語意不合。",
+   "explain_ai": true
   },
   {
    "id": "b06-012",
@@ -180,7 +202,9 @@
     "D": "At the duty-free shop."
    },
    "answer": "A",
-   "audio": "audio/b06/012.mp3"
+   "audio": "audio/b06/012.mp3",
+   "explain": "claim baggage: 提領行李\ncarousel: 行李轉盤\ncheck-in counter: 報到櫃檯\n解析：題目詢問在哪裡可以提領行李。carousel為機場行李轉盤，故答案選A。選項皆為常見機場地點陷阱：B報到櫃檯是辦理登機與託運處，C登機門是上飛機地點，D免稅店為購物處，皆非領取行李的位置。",
+   "explain_ai": true
   },
   {
    "id": "b06-013",
@@ -195,7 +219,9 @@
     "D": "In the bank."
    },
    "answer": "C",
-   "audio": "audio/b06/013.mp3"
+   "audio": "audio/b06/013.mp3",
+   "explain": "waste paper: 廢紙\ntrash can: 垃圾桶\nsafe: 保險箱\n解析：題意為「我該把廢紙放在哪裡？」廢棄物應丟進垃圾桶，故答案選C。干擾選項A冰箱、B保險箱及D銀行皆不符合常理，純粹是用不同容器或地點來混淆視聽。",
+   "explain_ai": true
   },
   {
    "id": "b06-014",
@@ -210,7 +236,9 @@
     "D": "No, it'll be a direct flight."
    },
    "answer": "D",
-   "audio": "audio/b06/014.mp3"
+   "audio": "audio/b06/014.mp3",
+   "explain": "change planes: 轉機\ndirect flight: 直飛航班\nsubject to change: 可能會改變\n解析：題目問「我需要在香港轉機嗎？」，不用轉機即是直飛，故答案選D。選項A利用for a change（改變一下）做字面干擾；選項C則是將planes（飛機）與發音相近的plans（計畫）混淆，皆非正解。",
+   "explain_ai": true
   },
   {
    "id": "b06-015",
@@ -225,7 +253,9 @@
     "D": "No, it's not a cold pill."
    },
    "answer": "C",
-   "audio": "audio/b06/015.mp3"
+   "audio": "audio/b06/015.mp3",
+   "explain": "split the bill: 平攤帳單（各付各的）\nit's my treat: 這次我請客\n解析：題意問「我們要平攤帳單嗎？」，回絕並表示由自己買單最符合情境，答案選C。干擾選項中，A是將帳單bill誤當成人名Bill；B的spilled和D的pill則是利用發音相近所設計的典型聽力陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b06-016",
@@ -240,7 +270,9 @@
     "D": "Yes, it says it'll expire on September 30."
    },
    "answer": "D",
-   "audio": "audio/b06/016.mp3"
+   "audio": "audio/b06/016.mp3",
+   "explain": "best-before date: 賞味期限、有效日期\nexpire: 到期、過期\n解析：問句詢問「你確認過賞味期限了嗎？」，D選項回應「有，上面寫9月30日到期」符合語意，答案選D。干擾選項皆為一詞多義陷阱：A將check誤導為支票，B將date誤導為男女約會，C則取best字面意思，皆偏離原意。",
+   "explain_ai": true
   },
   {
    "id": "b06-017",
@@ -255,7 +287,9 @@
     "D": "I'd like a coke, please."
    },
    "answer": "D",
-   "audio": "audio/b06/017.mp3"
+   "audio": "audio/b06/017.mp3",
+   "explain": "beverage: 飲料\ncoke: 可樂\nas busy as a beaver: 非常忙碌\n解析：題目詢問想喝哪種飲料，coke（可樂）屬於飲料，故答案選D。選項A的beaver（海狸）與B的average（平均）皆為發音與beverage相近的聽力陷阱，選項C提到bed（床）則文不對題。",
+   "explain_ai": true
   },
   {
    "id": "b06-018",
@@ -270,7 +304,9 @@
     "D": "Yes, I miss my school days."
    },
    "answer": "B",
-   "audio": "audio/b06/018.mp3"
+   "audio": "audio/b06/018.mp3",
+   "explain": "work one's way through college: 半工半讀讀完大學\ntuition: 學費\n解析：題意為「你大學是半工半讀念完的嗎？」。片語指靠自己打工賺學費與生活費完成學業，故答案選B。選項A是利用walked與worked發音相似設下的聽力陷阱，誤導為步行上學；C與D則皆與半工半讀無關。",
+   "explain_ai": true
   },
   {
    "id": "b06-019",
@@ -285,7 +321,9 @@
     "D": "I think I can wait a little longer."
    },
    "answer": "B",
-   "audio": "audio/b06/019.mp3"
+   "audio": "audio/b06/019.mp3",
+   "explain": "second helping: 第二份食物、再來一份\nhave room for: 還吃得下、有容納空間\n解析：題意為「你想再來一份嗎？」，helping在此指食物分量，故答案選B「我想我還吃得下」。選項A為字面陷阱，將helping誤當成help（幫忙）；選項C則被second誤導為第二次機會，皆非用餐情境的回覆。",
+   "explain_ai": true
   },
   {
    "id": "b06-020",
@@ -300,7 +338,9 @@
     "D": "No, the price is not reasonable."
    },
    "answer": "A",
-   "audio": "audio/b06/020.mp3"
+   "audio": "audio/b06/020.mp3",
+   "explain": "carry a guarantee: 附有保固\nwarranty: 保固\nrechargeable: 可充電的\n解析：題目詢問這台iPad是否有保固。guarantee與warranty為同義詞，均指保固，故答案選A。選項B（嘗試）、C（電池可充電）與D（價格合理性）皆答非所問，偏離保固主題。",
+   "explain_ai": true
   },
   {
    "id": "b06-021",
@@ -315,7 +355,9 @@
     "D": "No, I don't care about my reputation."
    },
    "answer": "C",
-   "audio": "audio/b06/021.mp3"
+   "audio": "audio/b06/021.mp3",
+   "explain": "reservation: 預約、訂位\nbook a table: 預訂位子\n解析：題目詢問「你有預約嗎？」，常用於餐廳或飯店。C選項的book代表預訂，回答訂了四人位，符合情境，故答案選C。A選項的conversation（對話）、B選項的information（資訊）及D選項的reputation（名譽），皆為尾音-tion的押韻聽力陷阱，文意完全無關。",
+   "explain_ai": true
   },
   {
    "id": "b06-022",
@@ -330,7 +372,9 @@
     "D": "I told them bedtime stories every night."
    },
    "answer": "B",
-   "audio": "audio/b06/022.mp3"
+   "audio": "audio/b06/022.mp3",
+   "explain": "childhood: 童年\nupbringing: 養育、家教\nstrict: 嚴格的\n解析：題目詢問「你的童年過得如何？」，答案選B（我受到的家教非常嚴格）切合對自身成長背景的描述。干擾選項A與D利用 children 設下字面陷阱，答非所問地提及自己養育小孩的狀況；選項C的主詞 They 則與問句詢問的 your 不符。",
+   "explain_ai": true
   },
   {
    "id": "b06-023",
@@ -345,7 +389,9 @@
     "D": "Sorry, I forgot to wear my watch."
    },
    "answer": "A",
-   "audio": "audio/b06/023.mp3"
+   "audio": "audio/b06/023.mp3",
+   "explain": "Do you have a minute?: 你有空嗎？\nWhat's up?: 怎麼了？\ntake a break: 休息\n解析：Do you have a minute? 用於詢問對方「現在是否有空講話」，A回答「當然，怎麼了？」最合適，故答案選A。選項B、C、D皆為字面陷阱，將minute誤解為遲到、休息幾分鐘或看手錶時間。",
+   "explain_ai": true
   },
   {
    "id": "b06-024",
@@ -360,7 +406,9 @@
     "D": "It was a free delivery."
    },
    "answer": "A",
-   "audio": "audio/b06/024.mp3"
+   "audio": "audio/b06/024.mp3",
+   "explain": "ambulance: 救護車\nhave a stroke: 中風\ncolleague: 同事\n解析：題目詢問外面為何有救護車。A表示鄰居中風，屬於需要緊急送醫的突發狀況，符合提問因果，故答案選A。干擾項B下大雨、C同事被解僱及D免費外送，均與救護車的情境完全無關，屬於不合生活邏輯的語意陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b06-025",
@@ -375,7 +423,9 @@
     "D": "The game was at its height."
    },
    "answer": "C",
-   "audio": "audio/b06/025.mp3"
+   "audio": "audio/b06/025.mp3",
+   "explain": "drop out of: 退出\npull a muscle: 肌肉拉傷\nat its height: 在頂峰、最熱烈時\n解析：題目問「你為什麼退出比賽？」，選項C「我肌肉拉傷了」合理說明退賽原因，故答案選C。選項A、B答非所問，D指比賽正精采，皆重複使用game製造字面干擾，未能回答退賽理由。",
+   "explain_ai": true
   },
   {
    "id": "b06-026",
@@ -390,7 +440,9 @@
     "D": "They may reveal our plans."
    },
    "answer": "D",
-   "audio": "audio/b06/026.mp3"
+   "audio": "audio/b06/026.mp3",
+   "explain": "give away: 洩漏，透露\nreveal: 揭露，洩漏\nobstruct: 阻礙，妨礙\n解析：題意為「他們可能會洩漏我們的計畫」。片語 give away 在此指洩漏情報或機密，同義詞為 reveal，故答案選D。干擾選項A（反對）、B（支持）與C（阻撓）皆為行動上的對抗或協助，非洩漏之意，屬於常見的詞義混淆陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b06-027",
@@ -405,7 +457,9 @@
     "D": "They were ready to announce their decision."
    },
    "answer": "C",
-   "audio": "audio/b06/027.mp3"
+   "audio": "audio/b06/027.mp3",
+   "explain": "jury: 陪審團\nunanimous: 全體一致的\ncomplete agreement: 完全同意\n解析：題意為陪審團的決定是一致的。單字 unanimous 指意見完全一致，與 in complete agreement 意思相同，故答案選C。干擾項A的「難以決定」與B的「產生分歧」皆與題意相反；D選項指「準備宣布」則未切中核心語意。",
+   "explain_ai": true
   },
   {
    "id": "b06-028",
@@ -420,7 +474,9 @@
     "D": "The president of Egypt has escaped."
    },
    "answer": "A",
-   "audio": "audio/b06/028.mp3"
+   "audio": "audio/b06/028.mp3",
+   "explain": "step down: 辭職、下台\nresign: 辭職\nretire: 退休\n解析：題意為埃及總統已經下台。片語 step down 意為「辭職、退位」，與 resign 同義，因此答案選A。主要干擾選項C是退休，通常指年齡屆滿離職；B消失與D逃跑則是字面混淆，與政治下台無關。",
+   "explain_ai": true
   },
   {
    "id": "b06-029",
@@ -435,7 +491,9 @@
     "D": "Taking some sleeping pills can improve your sleep quality."
    },
    "answer": "C",
-   "audio": "audio/b06/029.mp3"
+   "audio": "audio/b06/029.mp3",
+   "explain": "overdose: 服藥過量\nlethal: 致命的\nsleeping pill: 安眠藥\n解析：題意為「服用過量安眠藥可能是致命的」。overdose 指吃太多（taking too many），lethal 表示致命、會致死（cause death），故答案選C。選項A與B中的 legal（合法）是利用與 lethal 發音相近的聽力干擾陷阱；D 則完全偏離句意。",
+   "explain_ai": true
   },
   {
    "id": "b06-030",
@@ -450,7 +508,9 @@
     "D": "Hemingway was a professional writer."
    },
    "answer": "A",
-   "audio": "audio/b06/030.mp3"
+   "audio": "audio/b06/030.mp3",
+   "explain": "prolific: 多產的\nprofessional: 專業的\npolitical: 政治的\n解析：題幹表示海明威是位多產的作家。prolific 意思是多產的、產量豐富的，代表寫了許多書，故答案選A。干擾選項B舉世聞名不等於多產；選項C的 a few 與題意相反；選項D則是用字首拼法和發音相近的 professional 設下字面陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b06-031",
@@ -465,7 +525,9 @@
     "D": "It uses only solar energy."
    },
    "answer": "B",
-   "audio": "audio/b06/031.mp3"
+   "audio": "audio/b06/031.mp3",
+   "explain": "hybrid car: 油電混合車\nelectricity: 電力\nsolar energy: 太陽能\n解析：題意為「這是一輛油電混合車」。hybrid 指混合兩種動力，即同時使用汽油與電力運作，故答案選B。選項A全新車與C賽車皆偏離字義，選項D的太陽能則是替換成錯誤動力的干擾項。",
+   "explain_ai": true
   },
   {
    "id": "b06-032",
@@ -480,7 +542,9 @@
     "D": "You should check with your dictionary."
    },
    "answer": "C",
-   "audio": "audio/b06/032.mp3"
+   "audio": "audio/b06/032.mp3",
+   "explain": "weigh one's words: 斟酌字句、深思熟慮\nwait and see: 靜觀其變\n解析：題意為「你說話應當斟酌字句」，意指說話前要仔細思考，故答案選C。A選項利用weigh與wait發音相近設下聽力陷阱；B誤解為完全不說話；D則將words字面聯想到查字典，皆非原意。",
+   "explain_ai": true
   },
   {
    "id": "b06-033",
@@ -495,7 +559,9 @@
     "D": "One of us has to go to a briefing."
    },
    "answer": "B",
-   "audio": "audio/b06/033.mp3"
+   "audio": "audio/b06/033.mp3",
+   "explain": "either... or...: 不是…就是…（兩者之一）\ngive a briefing: 進行簡報\n解析：題意為「不是你就是我必須做簡報」，代表兩人中有一人要做，故答案選B。干擾選項A的Neither指兩者都不；C的Both指兩人都要；D則是把動詞give（報告）換成go to（去參加），皆與原意不符。",
+   "explain_ai": true
   },
   {
    "id": "b06-034",
@@ -510,7 +576,9 @@
     "D": "The hurricane is moving faster."
    },
    "answer": "D",
-   "audio": "audio/b06/034.mp3"
+   "audio": "audio/b06/034.mp3",
+   "explain": "hurricane: 颶風\ngain momentum: 獲得動力、加快速度\nslow down: 減速\n解析：題意為「颶風正獲得動量」。gain momentum 指動能或衝力增加、速度變快，故答案選D。C 選項「減速」與題意恰好相反；A 與 B 選項僅提到移動方向或即將來臨，屬於過度推論的干擾選項。",
+   "explain_ai": true
   },
   {
    "id": "b06-035",
@@ -525,7 +593,9 @@
     "D": "It is closed on ."
    },
    "answer": "C",
-   "audio": "audio/b06/035.mp3"
+   "audio": "audio/b06/035.mp3",
+   "explain": "around the clock: 晝夜不停、24小時全天候\nopen: 營業中的\n解析：題意指這家超市全天候營業。片語 around the clock 表示晝夜不停、24小時營業，因此答案選C。選項 A 刻意使用原句的 around 與 clock 設下字面陷阱；選項 B 與 D 提到超市會關門打烊，皆與全天候營業的意思相悖。",
+   "explain_ai": true
   },
   {
    "id": "b06-036",
@@ -540,7 +610,9 @@
     "D": "I'm not good at basketball."
    },
    "answer": "B",
-   "audio": "audio/b06/036.mp3"
+   "audio": "audio/b06/036.mp3",
+   "explain": "be no big fan of: 對...不感興趣\nbe interested in: 對...有興趣\nbe good at: 擅長於\n解析：題幹表示「我不是個籃球迷」，意即對籃球沒興趣，故答案選B。片語 not a fan of 表「不喜歡」，干擾選項A（太矮）、C（太忙）、D（不擅長）皆為過度推論的藉口陷阱，原句僅單純表達個人喜好，與身高限制、時間忙碌或打球技術好壞完全無關。",
+   "explain_ai": true
   },
   {
    "id": "b06-037",
@@ -555,7 +627,9 @@
     "D": "Your motorcycle needs to be serviced."
    },
    "answer": "D",
-   "audio": "audio/b06/037.mp3"
+   "audio": "audio/b06/037.mp3",
+   "explain": "maintain: 維護、保養\nservice: 檢修、保養\ninsure: 投保\n解析：題意為「你的機車需要保養」。maintain 與 service 皆指車輛的定期維修保養，意思相同，故答案選D。選項A（投保）、B（熱車）、C（登記註冊）雖是養車的相關動作，但並非 maintain 的同義詞，屬於情境干擾。",
+   "explain_ai": true
   },
   {
    "id": "b06-038",
@@ -570,7 +644,9 @@
     "D": "This painting is very abstract."
    },
    "answer": "A",
-   "audio": "audio/b06/038.mp3"
+   "audio": "audio/b06/038.mp3",
+   "explain": "forgery: 偽造品、贗品\nfake: 假貨、仿冒品\nmasterpiece: 傑作、名作\n解析：題幹意為「這幅畫是贗品」。名詞 forgery 與 fake 為同義詞，皆指偽造品，故答案選A。選項B（很有價值）與C（傑作）語意與贗品完全相反，選項D（抽象的）則與題意無關，皆為語意干擾項。",
+   "explain_ai": true
   },
   {
    "id": "b06-039",
@@ -585,7 +661,9 @@
     "D": "The media can influence a politician's view."
    },
    "answer": "B",
-   "audio": "audio/b06/039.mp3"
+   "audio": "audio/b06/039.mp3",
+   "explain": "make or break: 決定成敗、使成功或毀滅\npolitician: 政治人物、政客\n解析：題意為「媒體能成就或毀滅一個政治人物」。片語 make or break 指成敗關鍵，完美對應選項 B 的 promote or destroy，故答案選B。選項 A、C、D 僅片面提到改變行為、實現夢想或影響觀點，屬於字面過度延伸的干擾項，皆未能表達出原句「成就或毀滅」的對立含意。",
+   "explain_ai": true
   },
   {
    "id": "b06-040",
@@ -600,7 +678,9 @@
     "D": "You've created a lot of opportunities."
    },
    "answer": "C",
-   "audio": "audio/b06/040.mp3"
+   "audio": "audio/b06/040.mp3",
+   "explain": "open a can of worms: 引起一連串麻煩\nfishing gear: 釣魚用具\n解析：題幹片語 open a can of worms 意為「引發棘手問題」，故答案選C。選項A的開罐器與選項B的釣具都是針對 can 與 worms 設下的字面陷阱；選項D則是將麻煩誤解為機會，意思完全相反。",
+   "explain_ai": true
   },
   {
    "id": "b06-041",
@@ -615,7 +695,9 @@
     "D": "They are using chemical weapons."
    },
    "answer": "B",
-   "audio": "audio/b06/041.mp3"
+   "audio": "audio/b06/041.mp3",
+   "explain": "cutting-edge: 尖端的、最先進的\nadvanced: 先進的\n解析：題意為「他們正使用尖端武器」。cutting-edge 表最先進的技術，同義於 very advanced，故答案選B。干擾項 A 的 conventional（常規的）、C 的 automatic（自動的）與 D 的 chemical（化學的）皆為其他武器種類，非尖端之意。",
+   "explain_ai": true
   },
   {
    "id": "b06-042",
@@ -630,7 +712,9 @@
     "D": "They hurt the woman's feelings."
    },
    "answer": "A",
-   "audio": "audio/b06/042.mp3"
+   "audio": "audio/b06/042.mp3",
+   "explain": "hire: 僱用\non the spot: 當場、立刻\nemploy: 僱用、任用\n解析：題意為「他們當場錄取了那位女士」。hire 與 employ 同義，on the spot 意為 immediately（立刻），故答案選A。選項B的 fired（解雇）與 hired 發音相近且語意相反，為聽力常見的混淆陷阱；選項C與D則與句意完全無關。",
+   "explain_ai": true
   },
   {
    "id": "b06-043",
@@ -645,7 +729,9 @@
     "D": "She is gradually recovering."
    },
    "answer": "C",
-   "audio": "audio/b06/043.mp3"
+   "audio": "audio/b06/043.mp3",
+   "explain": "hard of hearing: 重聽、聽力不好\npartially deaf: 部分失聰、輕微耳聾\nstubborn: 固執的\n解析：題目中 hard of hearing 為固定片語，表示「重聽、聽力障礙」，故答案選C。選項B的 stubborn（固執）是常見陷阱，誤將聽不清楚引申為聽不進他人勸告；選項A（健康）與D（逐漸康復）則與聽力受損無關。",
+   "explain_ai": true
   },
   {
    "id": "b06-044",
@@ -660,7 +746,9 @@
     "D": "You should attend the meeting."
    },
    "answer": "D",
-   "audio": "audio/b06/044.mp3"
+   "audio": "audio/b06/044.mp3",
+   "explain": "be supposed to: 應該\nbe present at: 出席\nattend: 參加、出席\n解析：題意為「你應該出席這場會議」。be supposed to 等同 should，be present at 意同 attend，故答案選D。干擾項A利用同形字 presents（禮物）製造字面陷阱；選項B為宣佈開會；選項C為主持會議，皆偏離原意。",
+   "explain_ai": true
   },
   {
    "id": "b06-045",
@@ -675,7 +763,9 @@
     "D": "I have a lot of air in my stomach."
    },
    "answer": "B",
-   "audio": "audio/b06/045.mp3"
+   "audio": "audio/b06/045.mp3",
+   "explain": "butterflies in one's stomach: 感到緊張不安\nnervous: 緊張的\n解析：題意為「我非常緊張」。「have butterflies in one's stomach」是常見慣用語，形容因緊張而忐忑不安，故答案選B。選項A生病、C胃痛與D胃脹氣，都是由題目中的 stomach（胃）所衍生的字面陷阱，並非該片語的原意。",
+   "explain_ai": true
   },
   {
    "id": "b06-046",
@@ -690,7 +780,9 @@
     "D": "The movie has very good actors."
    },
    "answer": "D",
-   "audio": "audio/b06/046.mp3"
+   "audio": "audio/b06/046.mp3",
+   "explain": "cast: 演員陣容\nsoundtrack: 電影配樂\nspecial effects: 特效\n解析：題意為這部電影有優秀的演員陣容。cast 指電影或戲劇的「全體演員」，與 actors 同義，故答案選D。選項 A 配樂、B 特效與 C 服裝雖皆為電影製作常見項目，但非 cast 的字義，為情境主題干擾選項。",
+   "explain_ai": true
   },
   {
    "id": "b06-047",
@@ -705,7 +797,9 @@
     "D": "She almost broke into tears."
    },
    "answer": "A",
-   "audio": "audio/b06/047.mp3"
+   "audio": "audio/b06/047.mp3",
+   "explain": "scared to death: 嚇得要命、非常害怕\nfrightened: 害怕的、受驚嚇的\nbreak into tears: 突然大哭\n解析：題意為「我妹妹嚇得要命」。scared to death 為誇飾法，指極度恐懼，與 very frightened 同義，故答案選A。選項 B 是受到 death 誤導的字面陷阱，並非真有生命危險；C 指健康差；D 則是過度推論為快哭了，皆不符原意。",
+   "explain_ai": true
   },
   {
    "id": "b06-048",
@@ -720,7 +814,9 @@
     "D": "His headache was caused by insomnia."
    },
    "answer": "C",
-   "audio": "audio/b06/048.mp3"
+   "audio": "audio/b06/048.mp3",
+   "explain": "headache: 頭痛\nimaginary: 想像的、虛構的\nsymptom: 症狀\n解析：題意指「他的頭痛是想像出來的」。imaginary 表示虛構、非真實，與 not real 意思相同，故答案選C。干擾項 A（嚴重）、B（疾病症狀）與 D（失眠引起）都誤把頭痛當作真實存在的病況，屬於過度推論病因的干擾陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b06-049",
@@ -735,7 +831,9 @@
     "D": "I'm not sure when he'll come."
    },
    "answer": "A",
-   "audio": "audio/b06/049.mp3"
+   "audio": "audio/b06/049.mp3",
+   "explain": "bet one's bottom dollar: 敢打包票、極為肯定\nbe sure: 確信、有把握\n解析：題意為「我敢打包票他一定會來」。片語 bet one's bottom dollar 表示對某事極有把握、百分之百確信，因此答案選A。選項B與D使用 not sure（不確定），選項C則是否定句 won't come（不會來），皆與原意完全相反，屬於常見的反義干擾陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b06-050",
@@ -750,7 +848,9 @@
     "D": "Their service is erratic."
    },
    "answer": "B",
-   "audio": "audio/b06/050.mp3"
+   "audio": "audio/b06/050.mp3",
+   "explain": "leave nothing to be desired: 完美無缺、無可挑剔\nsatisfactory: 令人滿意的\nerratic: 不穩定的、忽好忽壞的\n解析：題幹表示「他們的服務好到無可挑剔」，leave nothing to be desired 為固定片語表示極為完美，故答案選B。選項A為主要字面陷阱，容易因看到 nothing 而誤判為服務很差；選項C（免費）與D（不穩定）皆與題意無關。",
+   "explain_ai": true
   },
   {
    "id": "b06-051",
@@ -779,7 +879,9 @@
      "t": "What is the woman doing?"
     }
    ],
-   "audio": "audio/b06/051.mp3"
+   "audio": "audio/b06/051.mp3",
+   "explain": "sign the lease: 簽署租約\nrent: 租金\nutilities: 水電雜費\n解析：男士詢問簽約前有無疑問，女士詢問租金是否包含水電費，由關鍵字可推知女士正在租屋，故答案選A。選項B賣家具、C買保險、D做家事，皆與簽租約的核心情境無關，為無關干擾項。",
+   "explain_ai": true
   },
   {
    "id": "b06-052",
@@ -808,7 +910,9 @@
      "t": "Why does the woman suggest taking a taxi?"
     }
    ],
-   "audio": "audio/b06/052.mp3"
+   "audio": "audio/b06/052.mp3",
+   "explain": "bulky: 龐大笨重的\nsuitcase: 行李箱\ncarry around: 到處攜帶\n解析：女士說明搭計程車是因為行李太笨重（bulky）不好到處提。選項B的 large and heavy 為 bulky 的同義替換，故答案選B。選項A節省時間、C司機會幫忙與D機場擁擠，皆為題幹未提及的常識干擾選項，切勿自行過度推論。",
+   "explain_ai": true
   },
   {
    "id": "b06-053",
@@ -837,7 +941,9 @@
      "t": "Why is the man wearing a cap and gown?"
     }
    ],
-   "audio": "audio/b06/053.mp3"
+   "audio": "audio/b06/053.mp3",
+   "explain": "cap and gown: 學士服與方帽\ngraduate from: 從...畢業\nparticipate in: 參加\n解析：對話中女士稱讚男士穿著學士服帽（cap and gown）很帥，男士也提到妹妹很快要上大學，可推知男士正要大學畢業，答案選D。選項A的比賽、B的角色扮演及C的打棒球皆與畢業情境無關，屬於字面過度聯想的干擾選項。",
+   "explain_ai": true
   },
   {
    "id": "b06-054",
@@ -866,7 +972,9 @@
      "t": "What does the man mean?"
     }
    ],
-   "audio": "audio/b06/054.mp3"
+   "audio": "audio/b06/054.mp3",
+   "explain": "bore: 無趣的人、討厭的人\nuninteresting: 無趣的、乏味的\n解析：女士詢問對珍妮男友的看法，男士回答He is a bore。名詞bore指令人厭煩或無趣的人，與uninteresting同義，故答案選C。選項A聰明的、B可靠的、D人很好皆為正面評價，與男士的負面批評完全相反，為主要干擾選項。",
+   "explain_ai": true
   },
   {
    "id": "b06-055",
@@ -895,7 +1003,9 @@
      "t": "What time is it now?"
     }
    ],
-   "audio": "audio/b06/055.mp3"
+   "audio": "audio/b06/055.mp3",
+   "explain": "quarter: 十五分鐘（一刻）\na quarter of: 差十五分鐘到\n解析：題目詢問現在時間。a quarter of 表示差十五分鐘到整點，three 是三點，因此 a quarter of three 是差十五分三點，即2:45，答案選B。選項A(3:15)與C(3:45)是將 of 誤解或混淆為 past/after（過了一刻）的常見時間陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b06-056",
@@ -924,7 +1034,9 @@
      "t": "What is the man doing?"
     }
    ],
-   "audio": "audio/b06/056.mp3"
+   "audio": "audio/b06/056.mp3",
+   "explain": "schedule: 時間表、日程\nmake an appointment: 預約、掛號\n解析：女士替醫生確認時間，男士同意此安排，可知男士正在預約看診，答案選B。干擾項A誤將看診當成男女約會；D利用對話中的fine（好的）混淆成名詞「罰款」的字面陷阱；C給予指示則與情境完全不符。",
+   "explain_ai": true
   },
   {
    "id": "b06-057",
@@ -953,7 +1065,9 @@
      "t": "Where will the man go in Las Vegas?"
     }
    ],
-   "audio": "audio/b06/057.mp3"
+   "audio": "audio/b06/057.mp3",
+   "explain": "try your luck: 碰運氣\nhit the jackpot: 中大獎\ncasino: 賭場\n解析：男士說迫不及待想「中大獎」並在賭城「試手氣」，顯然指的是去賭博，故答案選D。選項A夜店、B魔術秀與C餐廳雖都是拉斯維加斯常見的休閒娛樂，但皆無法對應贏得博弈頭獎的情境。",
+   "explain_ai": true
   },
   {
    "id": "b06-058",
@@ -986,7 +1100,9 @@
      "t": "What are the man and the woman going to do?"
     }
    ],
-   "audio": "audio/b06/058.mp3"
+   "audio": "audio/b06/058.mp3",
+   "explain": "bride and groom: 新娘與新郎\nraise one's glass: 舉杯祝賀\ndrink a toast: 舉杯敬酒\n解析：男士提議向新人舉杯，意思即為敬酒祝賀，故答案選C。選項A將酒杯glasses誤解為近視眼鏡，屬於一字多義的字面陷阱；選項B則將raise（舉起）混淆為raise money（募款）。",
+   "explain_ai": true
   },
   {
    "id": "b06-059",
@@ -1015,7 +1131,9 @@
      "t": "What happened to the woman?"
     }
    ],
-   "audio": "audio/b06/059.mp3"
+   "audio": "audio/b06/059.mp3",
+   "explain": "pass away: 去世，過世\nwalk out on: 拋棄，離棄\n解析：對話中 passed away 為 died 的委婉說法，表示父親已過世，因此答案選A。選項B意為重病但未過世；選項C為拋棄家庭離去；選項D為離奇失蹤，皆與事實不符，純屬字面與情境干擾。",
+   "explain_ai": true
   },
   {
    "id": "b06-060",
@@ -1044,7 +1162,9 @@
      "t": "What does the woman mean?"
     }
    ],
-   "audio": "audio/b06/060.mp3"
+   "audio": "audio/b06/060.mp3",
+   "explain": "How time flies: 光陰似箭\naround the corner: 即將來臨\n解析：女士說 New Year is around the corner，片語 around the corner 代表即將來臨，故答案選A。選項C說還很遙遠，意思完全相反；選項B最喜歡新年與選項D想做新年新希望在對話中皆未提及，屬於過度引申的干擾選項。",
+   "explain_ai": true
   },
   {
    "id": "b06-061",
@@ -1583,7 +1703,9 @@
     "C": "Greek medicine.",
     "D": "Greek politics."
    },
-   "answer": "A"
+   "answer": "A",
+   "explain": "mythology: 神話\ngoddess: 女神\nnot to mention: 更不用說\n解析：本段描述古希臘人深信自然界充滿神祇與女神，主題與神靈信仰有關，故答案選A。選項B（哲學）、C（醫學）與D（政治）雖同為古希臘文明知名領域，但文中完全未提及思辨、醫療或政制，為概念偏離的干擾項。",
+   "explain_ai": true
   },
   {
    "id": "b06-097",
@@ -1597,7 +1719,9 @@
     "C": "Because demand for corn as food was increasing.",
     "D": "Because more and more corn was used to make fuel."
    },
-   "answer": "D"
+   "answer": "D",
+   "explain": "attribute to: 歸因於\nsoaring: 暴漲的\nbiofuel: 生質燃料\n解析：題幹問玉米價格急升的原因。文中指出研究員將暴漲歸因於更多玉米被用於製造生質燃料，故答案選D。選項A歉收與B天災為常識陷阱但在文中未提及，選項C指糧食需求增加則與製造燃料的文意不符。",
+   "explain_ai": true
   },
   {
    "id": "b06-098",
@@ -1611,7 +1735,9 @@
     "C": "They tend to disagree with each other.",
     "D": "They enjoy taking pictures."
    },
-   "answer": "B"
+   "answer": "B",
+   "explain": "in a hurry: 匆忙\non the go: 忙碌奔波\ntrait: 特徵\n解析：題幹詢問速食族特徵。文中指出 usually in a hurry 與 on the go 同義，故答案選B。干擾選項A將 competitive 混淆為保守；C扭曲不同意該描述為彼此不合；D則是把 picture（寫照）字面誤解為拍照的陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b06-099",
@@ -1625,7 +1751,9 @@
     "C": "Men are always ready to endure pain.",
     "D": "Female dentists are more welcome than male ones."
    },
-   "answer": "A"
+   "answer": "A",
+   "explain": "put up with: 忍受\nendure: 忍受、忍耐\naware: 意識到的\n解析：題意問短文推論。首句指出女性比男性更能忍痛，put up with與A選項的endure同義，故答案選A。干擾項C說男性總是準備好忍痛，與文中說男性未準備好相反；B與D提到牙醫的性別比例與受歡迎程度，文中均未提及。",
+   "explain_ai": true
   },
   {
    "id": "b06-100",
@@ -1639,7 +1767,9 @@
     "C": "Global warming has some positive impacts.",
     "D": "Global warming has many bad influences."
    },
-   "answer": "C"
+   "answer": "C",
+   "explain": "global warming: 全球暖化\nlengthen: 延長\ncrop: 農作物\n解析：本題問主旨。文章開頭指出全球暖化對農業不全是壞事，並舉例氣溫升高能延長生長季，說明其帶有正面效益，故答案選C。干擾項A「一無是處」與D「許多壞影響」皆與正面論述相反，為常見字意陷阱；B「暖化日益嚴重」則非本文重點。",
+   "explain_ai": true
   }
  ]
 }

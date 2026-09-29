@@ -271,8 +271,9 @@
     "D": "I have no idea."
    },
    "answer": "D",
-   "explain": "*",
-   "audio": "audio/b13/017.mp3"
+   "explain": "boy or girl: 男孩還是女孩\nhave no idea: 不知道、不清楚\n解析：題目為選擇問句「是男生還是女生？」，不能用Yes或No回答，故排除A與C的文法陷阱；B反問「你確定嗎？」不合邏輯。因不確定性別而回答不知道，故答案選D。",
+   "audio": "audio/b13/017.mp3",
+   "explain_ai": true
   },
   {
    "id": "b13-018",
@@ -351,8 +352,9 @@
     "D": "I'm afraid I have to rush now."
    },
    "answer": "C",
-   "explain": "*",
-   "audio": "audio/b13/022.mp3"
+   "explain": "punch in: 打卡上班\ntake the subway: 搭捷運\non time: 準時\n解析：題目詢問上班的交通方式。take the subway 指搭乘捷運，符合句意，故答案選C。選項 A 與 B 回答準時及打卡時間，是把 How 誤聽為 When 的時間陷阱；D 表現在得趕時間，答非所問。",
+   "audio": "audio/b13/022.mp3",
+   "explain_ai": true
   },
   {
    "id": "b13-023",
@@ -1183,7 +1185,9 @@
     "C": "sight",
     "D": "site"
    },
-   "answer": "D"
+   "answer": "D",
+   "explain": "construction site: 建築工地\nscene: 現場、場景\nsight: 景象、視力\n解析：題意為「你可以在工地上看到許多工人」。英語中「工地」固定為 construction site，故答案選D。選項A（scene，多指案發現場）、B（seat，座位）語意不合；C（sight，景觀）與 site 發音相同，為同音異義字的干擾陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b13-065",
@@ -1227,7 +1231,9 @@
     "C": "to",
     "D": "by"
    },
-   "answer": "C"
+   "answer": "C",
+   "explain": "to one's surprise: 令某人驚訝的是\nsafe and sound: 安然無恙\n解析：題意為「令我大為驚訝的是，他從戰場安然無恙歸來」。表示「令某人感到...」的固定句型為「to one's + 情緒名詞」，前可加 much 強調，故答案選C。選項 A、B、D 均非固定搭配，其中 with 易受中文「帶著驚訝」字面直譯陷阱誤導，需特別注意。",
+   "explain_ai": true
   },
   {
    "id": "b13-068",
@@ -1274,7 +1280,9 @@
     "C": "on",
     "D": "over"
    },
-   "answer": "B"
+   "answer": "B",
+   "explain": "at: 在（特定門牌地址）\non: 在...街道上\nalong: 沿著\n解析：題意為祖父母住在公園路243號。英文提及具體門牌號碼時，介系詞須用at，故答案選B。主要干擾選項C的on僅用於不帶門牌的單純街名；A（沿著）與D（在...上方）皆不符合居住地址的文法。",
+   "explain_ai": true
   },
   {
    "id": "b13-071",
@@ -1381,7 +1389,9 @@
     "C": "digital",
     "D": "gentle"
    },
-   "answer": "C"
+   "answer": "C",
+   "explain": "old-fashioned: 老式的、過時的\ndigital: 數位的\nphysical: 實體的、身體的\nlogical: 合乎邏輯的\n解析：句意為「我不要那些老式相機，我想要一台數位的」。空格需與 old-fashioned 成對比，修飾相機應搭配 digital camera，故答案選C。干擾項 physical、logical 與 gentle 均為形容詞且字尾讀音類似，但語意分別為實體、邏輯與溫和，完全不符合題意。",
+   "explain_ai": true
   },
   {
    "id": "b13-078",

@@ -671,7 +671,9 @@
     "D": "I’ve been a farmer for years."
    },
    "answer": "B",
-   "audio": "audio/b28/042.mp3"
+   "audio": "audio/b28/042.mp3",
+   "explain": "vegetarian: 素食者\nfor years: 好幾年來\n解析：題目意為「我吃素好幾年了」。vegetarian 指不吃肉類或魚類的素食主義者，故答案選B。選項A的vegetables與D的farmer屬於蔬果字面的聯想陷阱；C的Italian則是字尾發音相近的聽力干擾。",
+   "explain_ai": true
   },
   {
    "id": "b28-043",
@@ -1588,7 +1590,9 @@
     "C": "delivering",
     "D": "being delivered"
    },
-   "answer": "B"
+   "answer": "B",
+   "explain": "arrange for: 安排\ndeliver: 運送\ngoods: 貨物\n解析：題意為「你能在十二月前安排送達那些貨物嗎？」。arrange for 後接名詞時，其補語需用不定詞。因貨物是被運送，必須使用被動態 to be delivered，故答案選B。選項A為主動語態，貨物不會自己運送；選項C與D使用動名詞，不符合此句型接不定詞的文法規則。",
+   "explain_ai": true
   },
   {
    "id": "b28-091",

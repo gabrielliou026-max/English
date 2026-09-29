@@ -31,7 +31,9 @@
     "D": "I can speak Thai."
    },
    "answer": "B",
-   "audio": "audio/b09/002.mp3"
+   "audio": "audio/b09/002.mp3",
+   "explain": "have been to: 曾經去過\nhospitality: 好客、熱情款待\nsuperior: 優越的、高品質的\n解析：題目詢問「你曾去過泰國嗎？」，答案選B，以「我去過那裡兩次」回答經驗最符合邏輯。選項A介紹泰國特色、D說明會說泰語，皆答非所問；選項C的coffee beans則是利用與been發音相近的諧音陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b09-003",
@@ -46,7 +48,9 @@
     "D": "No, he is my brother."
    },
    "answer": "D",
-   "audio": "audio/b09/003.mp3"
+   "audio": "audio/b09/003.mp3",
+   "explain": "cousin: 表（堂）兄弟姊妹\nbrother: 兄弟\n解析：題意為「喬治不是你的堂表兄弟嗎？」。英語否定疑問句回答需依事實前後一致，事實是否定就用No。選項A與B前後矛盾（No配is、Yes配isn't）；C答非所問；D符合文法且語意合邏輯（不，他是我兄弟），故答案選D。",
+   "explain_ai": true
   },
   {
    "id": "b09-004",
@@ -125,7 +129,9 @@
     "D": "Please pass me the salt."
    },
    "answer": "C",
-   "audio": "audio/b09/008.mp3"
+   "audio": "audio/b09/008.mp3",
+   "explain": "pass away: 去世，病逝\nwalk past: 經過，走過\npass the exam: 通過考試\n解析：題目詢問祖母何時去世，pass away 為「去世」的委婉說法，以時間 last night 回答，故答案選C。干擾選項皆為 pass 的多重字義或同音字陷阱：A 的 past 是經過、B 是通過考試、D 是傳遞物品，皆與題意無關。",
+   "explain_ai": true
   },
   {
    "id": "b09-009",
@@ -140,7 +146,9 @@
     "D": "You can meet him in the hardware store."
    },
    "answer": "B",
-   "audio": "audio/b09/009.mp3"
+   "audio": "audio/b09/009.mp3",
+   "explain": "store: 儲存、存放\nrefrigerator: 冰箱\n解析：題意為「我該把肉存放在哪裡？」，詢問地點，故答案選B（你可以存放在冰箱裡）。選項A離題講乾季儲水；選項C是字義陷阱，將動詞store混淆為名詞商店（肉舖）；選項D則是發音與字面雙重陷阱，用同音字meet混淆meat，且store在此是指五金行。",
+   "explain_ai": true
   },
   {
    "id": "b09-010",
@@ -171,7 +179,9 @@
     "D": "He fell down and broke his ankle."
    },
    "answer": "C",
-   "audio": "audio/b09/011.mp3"
+   "audio": "audio/b09/011.mp3",
+   "explain": "take a break: 休息一下\ntake a rest: 休息\nbrake: 煞車\n解析：題意問「我們要不要休息一下？」，是提出休息的建議，take a break 等同於 take a rest，故答案選C。A 的 brake（煞車）是同音字陷阱；B 的 breakfast（早餐）與 D 的 broke（摔斷）則是利用相似發音或字形所設計的干擾選項，皆與提議休息無關。",
+   "explain_ai": true
   },
   {
    "id": "b09-012",
@@ -186,7 +196,9 @@
     "D": "The shopping mall doesn't close until 10:00 PM."
    },
    "answer": "D",
-   "audio": "audio/b09/012.mp3"
+   "audio": "audio/b09/012.mp3",
+   "explain": "shopping mall: 購物中心\nnot... until...: 直到…才…\nclose: 關閉；接近\n解析：題意問購物中心幾點打烊。答案選D，說明直到十點才關門，符合問句。選項A與B是抓time一詞做字面干擾；選項C則是把動詞「關閉」混淆為同形形容詞「接近的」，皆非正確回答。",
+   "explain_ai": true
   },
   {
    "id": "b09-013",
@@ -281,7 +293,9 @@
     "D": "At a garage."
    },
    "answer": "A",
-   "audio": "audio/b09/018.mp3"
+   "audio": "audio/b09/018.mp3",
+   "explain": "bakery store: 麵包店\nbarber shop: 理髮店\ngarage: 修車廠、車庫\n解析：題意詢問「哪裡可以買麵包？」。麵包要在麵包店購買，故答案選A。選項B為美容院、C為理髮店、D為車庫或修車廠，皆非販售食品的地點，屬於常見的場所詞彙混淆題。",
+   "explain_ai": true
   },
   {
    "id": "b09-019",
@@ -328,7 +342,9 @@
     "D": "His illness kept him away from the meeting."
    },
    "answer": "D",
-   "audio": "audio/b09/021.mp3"
+   "audio": "audio/b09/021.mp3",
+   "explain": "Lieutenant: 中尉（軍銜）\nabsent from: 缺席\nkeep away from: 使…遠離、無法參加\n解析：題意問史密斯中尉為何缺席會議。D選項說明他因病無法出席，合理解釋原因，因此答案選D。選項B重複absent，選項C重複Lieutenant並用meet設下字面陷阱，兩者皆未回答原因；A語意完全無關。",
+   "explain_ai": true
   },
   {
    "id": "b09-022",
@@ -391,7 +407,9 @@
     "D": "We often talk about you."
    },
    "answer": "C",
-   "audio": "audio/b09/025.mp3"
+   "audio": "audio/b09/025.mp3",
+   "explain": "celebrity: 名人、知名人士\nactress: 女演員\ncelebrate: 慶祝\n解析：題意為「跟你說話的那位女士是名人嗎？」女演員屬於名人，合乎邏輯，故答案選C。選項A的celebrations與B的celebrate是利用字根相同、發音相近設下的聽力陷阱；D則是答非所問。",
+   "explain_ai": true
   },
   {
    "id": "b09-026",
@@ -422,7 +440,9 @@
     "D": "Every two weeks."
    },
    "answer": "D",
-   "audio": "audio/b09/027.mp3"
+   "audio": "audio/b09/027.mp3",
+   "explain": "how often: 多久一次（詢問頻率）\nhave one's haircut: 剪頭髮\nbarber shop: 理髮店\n解析：題目詢問「多久剪一次頭髮」，How often 專門詢問頻率，故答案選D（每兩週一次）。選項A回答的是過去的時間點（When）；選項B回答時間長度（How long），是常見的干擾陷阱；選項C提到理髮師，答非所問。",
+   "explain_ai": true
   },
   {
    "id": "b09-028",
@@ -453,7 +473,9 @@
     "D": "It's effortless, quite easy."
    },
    "answer": "D",
-   "audio": "audio/b09/029.mp3"
+   "audio": "audio/b09/029.mp3",
+   "explain": "a piece of cake: 輕而易舉的事\neffortless: 輕鬆的、不費力的\nsophisticated: 複雜精密的\n解析：題意指使用這套武器系統非常容易。片語 a piece of cake 表示輕而易舉，與 effortless 同義，故答案選D。選項 A 與題意相反；選項 B 屬於 cake 的字面干擾陷阱；選項 C 表示精密複雜，與題旨相悖。",
+   "explain_ai": true
   },
   {
    "id": "b09-030",
@@ -468,7 +490,9 @@
     "D": "This restaurant sells contaminated food."
    },
    "answer": "C",
-   "audio": "audio/b09/030.mp3"
+   "audio": "audio/b09/030.mp3",
+   "explain": "vegetarian: 素食的、素食者\ningredient: 食材、成分\ncontaminated: 受污染的\n解析：題意為「這是一家素食餐廳」。vegetarian 指不吃肉類或海鮮，與 C 的「不提供肉或魚」意思相符，故答案選C。干擾選項 A 著名料理、B 新鮮食材皆屬於過度推論的字面陷阱；D 販售受污染食物則完全偏離題意。",
+   "explain_ai": true
   },
   {
    "id": "b09-031",
@@ -563,7 +587,9 @@
     "D": "They asked if we can pay beforehand."
    },
    "answer": "C",
-   "audio": "audio/b09/036.mp3"
+   "audio": "audio/b09/036.mp3",
+   "explain": "in advance: 提前、預先\nrequest: 要求\ndue: 到期的\n解析：題意為「他們要求我預先付款」。in advance 表示提前，與 C 的 before it is due 語意一致，且 requested 對應 asked，故答案選C。干擾項 A 偷換成付現 in cash；B 借 advance 的「進步」設字面陷阱；D 的對象換成 we 且改成詢問句，皆不符合原意。",
+   "explain_ai": true
   },
   {
    "id": "b09-037",
@@ -626,7 +652,9 @@
     "D": "Let me try, please."
    },
    "answer": "D",
-   "audio": "audio/b09/040.mp3"
+   "audio": "audio/b09/040.mp3",
+   "explain": "give it a go: 嘗試看看\ngive someone a ride: 順道載某人一程\nleave someone alone: 別打擾某人\n解析：題幹中的 give it a go 為常見片語，意思是嘗試去做某事，與 try 同義，因此答案選D。選項C出現 go 是常見的字面重複干擾陷阱；選項A則是因含有動詞 give 而產生的字面混淆選項，與原意不符。",
+   "explain_ai": true
   },
   {
    "id": "b09-041",
@@ -769,7 +797,9 @@
     "D": "I like most people and enjoy praising people."
    },
    "answer": "B",
-   "audio": "audio/b09/049.mp3"
+   "audio": "audio/b09/049.mp3",
+   "explain": "praise: 稱讚\nexception: 例外\n解析：題意為多數人喜歡被稱讚，自己也不例外，代表說話者跟大家一樣喜歡被讚美，答案選B。選項A與C稱自己與他人不同，意思相反；D選項偷換主被動概念，將「被稱讚」改為「稱讚他人」，屬於常見的字面陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b09-050",
@@ -784,7 +814,9 @@
     "D": "The bus driver will deliver the briefcase to me."
    },
    "answer": "B",
-   "audio": "audio/b09/050.mp3"
+   "audio": "audio/b09/050.mp3",
+   "explain": "briefcase: 公事包\nleave on: 遺留在……上\nget off: 下（車）\n解析：題意為「我把公事包遺留在公車上」。leave在此指遺忘物品，表示下車時沒帶走，故答案選B。干擾選項A誤解成公事包太重拿不動；C是沒趕上公車；D則是過度推論司機會送還，皆不符原意。",
+   "explain_ai": true
   },
   {
    "id": "b09-051",
@@ -989,7 +1021,9 @@
      "t": "Where is the man?"
     }
    ],
-   "audio": "audio/b09/059.mp3"
+   "audio": "audio/b09/059.mp3",
+   "explain": "passport: 護照\nseat by the window: 靠窗的座位\namusement park: 遊樂園\n解析：女士要求出示護照與票，男士詢問能否劃靠窗座位，這是機場辦理登機的典型對話，故答案選C。選項B火車站通常不需檢查護照；選項A遊樂園與D博物館雖也需門票但不會有靠窗座位，皆為無關的場所干擾。",
+   "explain_ai": true
   },
   {
    "id": "b09-060",
@@ -1086,7 +1120,9 @@
      "t": "What does the woman mean?"
     }
    ],
-   "audio": "audio/b09/062.mp3"
+   "audio": "audio/b09/062.mp3",
+   "explain": "No way: 絕不可能\nbe scared of: 害怕……\ncramp: 抽筋\n解析：男士邀請女士下水，女士拒絕並表示不會游泳且害怕深水。scared of 與選項 C 的 fear 是同義代換，故答案選C。選項 A 剛游完與 B 腳抽筋在對話中完全未提及；D 說沒興趣則扭曲了害怕與不會游的真正原因。",
+   "explain_ai": true
   },
   {
    "id": "b09-063",

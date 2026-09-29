@@ -505,7 +505,9 @@
     "D": "He doesn't have the money to buy the shoes."
    },
    "answer": "C",
-   "audio": "audio/b18/031.mp3"
+   "audio": "audio/b18/031.mp3",
+   "explain": "either: 也不（用於否定句）\nneither of them: 兩者都不\n解析：題意為Robert不會說西班牙文，James也不會，表示兩人都不會說，故答案選C。選項A與B皆誤將否定句理解為肯定句，意思完全相反；選項D提到買鞋，屬於與語意毫無關聯的離題干擾項。",
+   "explain_ai": true
   },
   {
    "id": "b18-032",

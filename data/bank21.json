@@ -463,7 +463,9 @@
     "D": "You need to study harder."
    },
    "answer": "C",
-   "audio": "audio/b21/029.mp3"
+   "audio": "audio/b21/029.mp3",
+   "explain": "help someone with: 協助某人某事\ntry one's best: 盡全力\n解析：題意為「你能幫我做作業嗎？」，是請求協助的日常問句。選項C回答「我會盡力」，為合理且禮貌的回覆，故答案選C。干擾項A使用過去式yesterday，與當前的請求時態不合；B把幫忙誤解成「提供更多作業」；D則是說教對方要更用功，皆未針對請求正面回應。",
+   "explain_ai": true
   },
   {
    "id": "b21-030",
@@ -510,7 +512,9 @@
     "D": "Smoking, please."
    },
    "answer": "D",
-   "audio": "audio/b21/032.mp3"
+   "audio": "audio/b21/032.mp3",
+   "explain": "smoking: 吸菸的\nnon-smoking: 禁菸的\ncare for: 想要、喜歡\n解析：題目為二選一的選擇疑問句，詢問要吸菸區還是禁菸區座位，回答需直接二選一，不能用 Yes/No 回應，故答案選D。A 用 No 回應是把選擇問句當成一般問句的常見陷阱；B 勸人戒菸與 C 詢問牆上標誌皆與問題毫無關聯。",
+   "explain_ai": true
   },
   {
    "id": "b21-033",
@@ -557,7 +561,9 @@
     "D": "to town"
    },
    "answer": "C",
-   "audio": "audio/b21/035.mp3"
+   "audio": "audio/b21/035.mp3",
+   "explain": "Thursday: 星期四\nyesterday: 昨天\nWednesday: 星期三\n解析：題目說今天是星期四，詢問昨天何時去的。星期四的前一天是星期三，因此答案選C。選項A是明天、B是星期五，時間皆往後推算錯誤；選項D回答去哪裡，為重複原句town的字面陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b21-036",
@@ -588,7 +594,9 @@
     "D": "at 1110"
    },
    "answer": "B",
-   "audio": "audio/b21/037.mp3"
+   "audio": "audio/b21/037.mp3",
+   "explain": "dentist: 牙醫\none-fifteen: 一點十五分\nhave to: 必須\n解析：題意為「我一點十五分看牙醫，何時要到？」。軍中慣用24小時制軍事時間，下午1點15分換算後為1315，故答案選B。選項A（1015）與D（1110）為數字發音相近的干擾，C（1501）則是將時與分的位置顛倒。",
+   "explain_ai": true
   },
   {
    "id": "b21-038",
@@ -603,7 +611,9 @@
     "D": "The next bus was on time."
    },
    "answer": "A",
-   "audio": "audio/b21/038.mp3"
+   "audio": "audio/b21/038.mp3",
+   "explain": "take the bus: 搭公車\nnext time: 下次\ntake one's time: 不著急、慢慢來\n解析：原句表示「我下次要搭公車」。next time 等同 when I go again，take the bus 即 go by bus，句意相符，答案選A。干擾項 B 的 take one's time 是「慢慢來」的片語陷阱；C 變成搭下一班公車且為過去式；D 則是混淆 on time（準時）且時態錯誤。",
+   "explain_ai": true
   },
   {
    "id": "b21-039",
@@ -618,7 +628,9 @@
     "D": "She doesn’t want to finish it this morning."
    },
    "answer": "B",
-   "audio": "audio/b21/039.mp3"
+   "audio": "audio/b21/039.mp3",
+   "explain": "would like to: 想要\nbe able to: 能夠\n解析：題意為克拉克太太今早想完成工作但沒辦法做到，故答案選B。選項A與C忽略了後文否定詞won't；選項D誤把「做不到」當作「不想做」，與前半句想要（would like to）完成相反。",
+   "explain_ai": true
   },
   {
    "id": "b21-040",
@@ -1075,7 +1087,9 @@
      "t": "How many rooms did the woman ask for?"
     }
    ],
-   "audio": "audio/b21/057.mp3"
+   "audio": "audio/b21/057.mp3",
+   "explain": "single: 單一的、單個的\nwill do: 可以、足夠\n解析：男士詢問需要幾間房，女士回答一間大房即可（a single large room）。single 即代表 one，故答案選B。選項A、C、D分別表示少許、沒有與兩間，皆為數量上的干擾陷阱，與對話內容不符。",
+   "explain_ai": true
   },
   {
    "id": "b21-058",
@@ -1246,7 +1260,9 @@
     "C": "Indian ponies were plain so the Indians decorated them with feathers",
     "D": "Plains are now found in different parts of the United States"
    },
-   "answer": "A"
+   "answer": "A",
+   "explain": "surroundings: 環境\ndepend on: 取決於\nplain: 平原\n解析：題意指出各地印第安人因環境不同而有不同生活方式。文中 environment 與選項 A 的 surroundings 為同義替換，故答案選A。干擾選項 B 為開頭反駁的刻板印象；C 刻意混淆平原 plains 與形容詞 plain（樸素的）；D 偏離主旨。",
+   "explain_ai": true
   },
   {
    "id": "b21-066",

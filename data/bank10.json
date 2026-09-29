@@ -31,7 +31,9 @@
     "D": "Sure, you can get it everywhere."
    },
    "answer": "B",
-   "audio": "audio/b10/002.mp3"
+   "audio": "audio/b10/002.mp3",
+   "explain": "Have you got a light?: 你有打火機嗎？\nHere you are: 這個給你 / 在這裡\n解析：題意為「你有打火機嗎？」，常用於借火點菸。B選項表示把東西遞給對方（拿去吧），符合借物情境，故答案選B。選項A將light誤解為「光線」而說看不見，是常見的一字多義字面陷阱；D則是答非所問。",
+   "explain_ai": true
   },
   {
    "id": "b10-003",
@@ -126,7 +128,9 @@
     "D": "He enjoys parties and goes to as many as possible."
    },
    "answer": "A",
-   "audio": "audio/b10/008.mp3"
+   "audio": "audio/b10/008.mp3",
+   "explain": "couch potato: 懶骨頭、整天看電視的人\nactive: 活躍的、好動的\n解析：題目詢問 couch potato 的含義。此俚語字面為沙發馬鈴薯，專門用來形容成天窩在沙發上看電視且缺乏活動的人，故答案選A。選項B描述的是工作狂（workaholic），選項D描述的是派對狂（party animal），皆為描述人格特質的常見片語干擾選項。",
+   "explain_ai": true
   },
   {
    "id": "b10-009",
@@ -189,7 +193,9 @@
     "D": "Sorry, what you wanted is out of order."
    },
    "answer": "B",
-   "audio": "audio/b10/012.mp3"
+   "audio": "audio/b10/012.mp3",
+   "explain": "show someone the way: 指路、引路\nout of order: 故障、損壞\n解析：題目詢問前往購物中心的路該怎麼走。B選項提供直走與右轉等具體方向指引，故答案選B。選項A回答目前時間，選項C說明營業時間，選項D表示物品故障，皆為答非所問的干擾選項。",
+   "explain_ai": true
   },
   {
    "id": "b10-013",
@@ -284,7 +290,9 @@
     "D": "He can install the program."
    },
    "answer": "C",
-   "audio": "audio/b10/018.mp3"
+   "audio": "audio/b10/018.mp3",
+   "explain": "mechanic: 機械師、修車技工\nrepair: 修理\nengine: 引擎\n解析：題意為「喬治是技工，他會做什麼？」。mechanic的職責是維修機械或車輛，故答案選C。選項A煮飯是廚師、B粉刷是油漆工、D安裝程式是資訊人員的專長，皆為混淆不同職業工作內容的干擾項。",
+   "explain_ai": true
   },
   {
    "id": "b10-019",
@@ -299,7 +307,9 @@
     "D": "Sure, you can always have it."
    },
    "answer": "C",
-   "audio": "audio/b10/019.mp3"
+   "audio": "audio/b10/019.mp3",
+   "explain": "give someone a hand: 幫某人一個忙\nhave one's hands full: 忙得不可開交\none's hands are tied: 受限制而無能為力\n解析：題意為「你能幫我個忙嗎？」。選項C表示「我很想幫，但我現在忙不過來」，是合理的婉拒，故答案選C。干擾項B前句說沒問題，後句卻用片語表示無能為力，前後矛盾；選項D則是字面陷阱，誤將hand當成具體物品借人。",
+   "explain_ai": true
   },
   {
    "id": "b10-020",
@@ -362,7 +372,9 @@
     "D": "I prefer DIY."
    },
    "answer": "A",
-   "audio": "audio/b10/023.mp3"
+   "audio": "audio/b10/023.mp3",
+   "explain": "just looking: 只是隨便看看\nwallet: 皮夾\n解析：題目為店員詢問「需要幫您找什麼嗎？」，A「不用了，我只是看看」最符合購物情境，故答案選A。B把選購商品的find誤解為遺失物品的尋找，為字面陷阱；C與D則不符日常商場應答習慣。",
+   "explain_ai": true
   },
   {
    "id": "b10-024",
@@ -457,7 +469,9 @@
     "D": "The patient is getting worse."
    },
    "answer": "C",
-   "audio": "audio/b10/029.mp3"
+   "audio": "audio/b10/029.mp3",
+   "explain": "recover: 康復、復原\ngradually: 逐漸地\nget well: 身體好轉、康復\n解析：題意為「病人雖然仍虛弱，但正在逐漸康復中」。句中 recovering 表示病情好轉中，與 getting well 同義，故答案選C。干擾項B使用完成式，表示「已經完全康復」，與題目的進行式不符；D則是病情惡化，意思完全相反。",
+   "explain_ai": true
   },
   {
    "id": "b10-030",
@@ -472,7 +486,9 @@
     "D": "Make sure you give the book on the table for us."
    },
    "answer": "C",
-   "audio": "audio/b10/030.mp3"
+   "audio": "audio/b10/030.mp3",
+   "explain": "make sure: 確保\nbook: 預訂\nmake a reservation: 預約、訂位\n解析：題意為「務必替我們訂位」。動詞 book 在此是預訂之意，與 make a reservation 同義，因此答案選C。選項 A 的買桌子、B 的買書及 D 桌上的書，皆是利用 book 與 table 的其他字面意思所設計的干擾陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b10-031",
@@ -647,7 +663,9 @@
     "D": "The book has been order but not arrived yet."
    },
    "answer": "C",
-   "audio": "audio/b10/041.mp3"
+   "audio": "audio/b10/041.mp3",
+   "explain": "out on loan: 借出中\nborrow: 借入\nmisplace: 放錯地方\n解析：題意為你要找的書「外借中」，out on loan 表示已被借出，與 C 的 has been borrowed 同義，故答案選C。選項 A（放錯位置）與 B（遺失）皆為書不在架上的過度推測干擾項，D（訂購未到）則偏離題意。",
+   "explain_ai": true
   },
   {
    "id": "b10-042",
@@ -1217,7 +1235,9 @@
     "C": "until",
     "D": "if"
    },
-   "answer": "C"
+   "answer": "C",
+   "explain": "get off: 下車\ncomplete stop: 完全停止\nnot... until...: 直到...才...\n解析：句意為火車完全停妥前請勿下車。「not... until...」為固定搭配，表「直到…才…」，因此答案選C。干擾項 when（當…時）、while（在…期間）與 if（如果）代入後語意矛盾，會變成「停妥時不要下車」，不合常理。",
+   "explain_ai": true
   },
   {
    "id": "b10-066",
@@ -1261,7 +1281,9 @@
     "C": "to be",
     "D": "have been"
    },
-   "answer": "A"
+   "answer": "A",
+   "explain": "calm down: 冷靜下來\nnervous: 緊張的\n解析：題意為「冷靜點，湯姆。你現在太緊張了。」句中 You're 是 You are 的縮寫，後方接現在分詞 being 形成進行式，表示「當下暫時表現得...」，故答案選A。干擾選項 B 與 D 均為完成式分詞，不可直接接在 are 後；C 為不定詞，文法不符。",
+   "explain_ai": true
   },
   {
    "id": "b10-069",
@@ -1425,7 +1447,9 @@
     "C": "plastic",
     "D": "garlic"
    },
-   "answer": "C"
+   "answer": "C",
+   "explain": "cash: 現金\nplastic: 塑膠、信用卡\nfabric: 布料、織物\ngarlic: 大蒜\n解析：題意為「我現金不夠，能用信用卡嗎？」。美語口語常以 plastic 代指信用卡（塑膠貨幣），故答案選C。選項 A（經典的）、B（布料）、D（大蒜）皆為字尾發音相近的押韻干擾字，與付款語意完全不符。",
+   "explain_ai": true
   },
   {
    "id": "b10-080",
@@ -1604,7 +1628,9 @@
     "C": "So",
     "D": "Ever"
    },
-   "answer": "B"
+   "answer": "B",
+   "explain": "Much as: 雖然、儘管\nsympathize with: 同情\nvictim: 受害者\n解析：句意為雖然我很同情那些受害者，但我無能為力。「Much as + 主詞 + 動詞」為固定讓步句型，相當於 Although... very much，故答案選B。干擾項A的Even需接though或if才表雖然，Even as則表「正當…之際」；C與D的So和Ever皆無此讓步用法，純屬詞性干擾。",
+   "explain_ai": true
   },
   {
    "id": "b10-092",

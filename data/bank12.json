@@ -31,7 +31,9 @@
     "D": "the day before yesterday"
    },
    "answer": "C",
-   "audio": "audio/b12/002.mp3"
+   "audio": "audio/b12/002.mp3",
+   "explain": "on one's way: 在前往...的途中\naccident: 意外事故\nhappen: 發生\n解析：題目問車禍「何時」發生。句中提到昨天早上目睹意外，故答案選C。選項A與B回答的是地點而非時間；選項D將時間改成前天，與句意不符。",
+   "explain_ai": true
   },
   {
    "id": "b12-003",
@@ -56,7 +58,9 @@
      "t": "Yes, her story is______ ."
     }
    ],
-   "audio": "audio/b12/003.mp3"
+   "audio": "audio/b12/003.mp3",
+   "explain": "narration: 敘述、陳述\naccurate: 精確的、正確的\nfaulty: 有缺點的、錯誤的\n解析：男士詢問是否確定她的敘述很準確（accurate），女士給予肯定回答，空格需填入同義詞，故答案選A。correct 與 accurate 意思相同，皆指「正確的」。干擾選項 B（虛假的）與 D（有錯誤的）皆為反義詞，C（虛構創新的）則與事實查核的語意不合。",
+   "explain_ai": true
   },
   {
    "id": "b12-004",
@@ -87,7 +91,9 @@
     "D": "300 dollars"
    },
    "answer": "B",
-   "audio": "audio/b12/005.mp3"
+   "audio": "audio/b12/005.mp3",
+   "explain": "capacity: 容量、容納人數\ntheater: 劇院、電影院\n解析：題意問劇院的容納量是多少。capacity用於建築或場所時指可容納的人數，故答案選B。干擾選項A英呎為長度單位、C加侖為液體容量單位、D為金額，皆不符合計算場地容納人數的用法。",
+   "explain_ai": true
   },
   {
    "id": "b12-006",
@@ -102,7 +108,9 @@
     "D": "It’s a long distance."
    },
    "answer": "B",
-   "audio": "audio/b12/006.mp3"
+   "audio": "audio/b12/006.mp3",
+   "explain": "How long: 多久（詢問時間）\ntake: 花費（時間）\ndepend on: 取決於\n解析：題目問搭機要花「多久時間」。「How long does it take」詢問時間長短，故答案選B。選項C回答哩程、D回答距離，皆為詢問距離（How far）的干擾陷阱；選項A則忽略題目已限定搭飛機（fly），不合邏輯。",
+   "explain_ai": true
   },
   {
    "id": "b12-007",
@@ -181,7 +189,9 @@
     "D": "twenty"
    },
    "answer": "B",
-   "audio": "audio/b12/011.mp3"
+   "audio": "audio/b12/011.mp3",
+   "explain": "between: 在……之間\ntwelve: 十二\n解析：題意問「哪一個數字在11和13之間？」。11與13中間的數字是12，英文為twelve，因此答案選B。其餘選項A（16）、C（14）與D（20）均不在區間內，其中C選項fourteen等帶有teen字尾的數字為常見數字干擾項，切勿混淆。",
+   "explain_ai": true
   },
   {
    "id": "b12-012",
@@ -196,7 +206,9 @@
     "D": "animals"
    },
    "answer": "C",
-   "audio": "audio/b12/012.mp3"
+   "audio": "audio/b12/012.mp3",
+   "explain": "refrigerator: 冰箱\nkeep: 存放、保存\nitem: 物品\n解析：題意為「你會把哪項物品存放在冰箱裡？」。冰箱用於低溫保鮮，常理下只有食物需要冷藏，故答案選C。選項A衣服、B雨傘與D動物皆非冷藏物品，完全不合生活常識，純屬邏輯干擾選項。",
+   "explain_ai": true
   },
   {
    "id": "b12-013",
@@ -323,7 +335,9 @@
     "D": "He has become pessimistic."
    },
    "answer": "D",
-   "audio": "audio/b12/020.mp3"
+   "audio": "audio/b12/020.mp3",
+   "explain": "negative attitude: 負面態度\npessimistic: 悲觀的\nlook at the bright side: 看光明面\n解析：題意為「他對人生抱持負面態度」。negative attitude 即悲觀之意，故答案選D。干擾選項A（看光明面）為相反的樂觀意思；選項B（健康差）與C（窮困）則是將「負面」過度推論至健康或經濟狀況的字面陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b12-021",
@@ -338,7 +352,9 @@
     "D": "Just a few"
    },
    "answer": "B",
-   "audio": "audio/b12/021.mp3"
+   "audio": "audio/b12/021.mp3",
+   "explain": "open to the public: 對大眾開放\nanybody: 任何人\npublic: 公眾、民眾\n解析：題意為「這座游泳池對大眾開放，誰可以使用？」片語 open to the public 表示所有人都能使用，故答案選B。選項A（沒有人）與D（僅少數人）語意與開放相反；選項C（某人）意思過於狹隘特定，不符合公眾皆可使用的概念。",
+   "explain_ai": true
   },
   {
    "id": "b12-022",
@@ -353,7 +369,9 @@
     "D": "He doesn’t care about his work."
    },
    "answer": "C",
-   "audio": "audio/b12/022.mp3"
+   "audio": "audio/b12/022.mp3",
+   "explain": "efficient: 有效率的\nmechanic: 機械師、技工\npoorly: 糟糕地、貧乏地\n解析：題意指鮑伯是位有效率的技工。efficient 表示做事迅速且優良，故答案選C。干擾項選項B的 poorly（差勁地）為反義詞陷阱；選項A（愛抱怨）與選項D（不在乎工作）皆屬無關的負面語意干擾。",
+   "explain_ai": true
   },
   {
    "id": "b12-023",
@@ -384,7 +402,9 @@
     "D": "a train schedule"
    },
    "answer": "A",
-   "audio": "audio/b12/024.mp3"
+   "audio": "audio/b12/024.mp3",
+   "explain": "excuse me: 不好意思、請問\nmain station: 總站、主車站\nask for directions: 問路、詢問方向\n解析：男子詢問「不好意思，總站在哪裡？」，是在詢問特定地點的位置與路線，即「問路」，因此答案選A。選項D「火車時刻表」為車站情境的聯想陷阱，題幹問的是地點而非出發時間；B與C則語意不合。",
+   "explain_ai": true
   },
   {
    "id": "b12-025",
@@ -527,7 +547,9 @@
     "D": "It’ll end at 7 o’clock."
    },
    "answer": "C",
-   "audio": "audio/b12/033.mp3"
+   "audio": "audio/b12/033.mp3",
+   "explain": "begin: 開始\nresume: 重新開始、恢復\n解析：題意為「櫃檯將在晚間七點開始」。begin 與 start 為同義字，皆表示「開始」，故答案選C。干擾選項 A 的 close 與 D 的 end 意思相反，皆為「結束、關閉」；B 的 resume 則是「中斷後重新開始」，不符合原本單純開始的意思。",
+   "explain_ai": true
   },
   {
    "id": "b12-034",
@@ -542,7 +564,9 @@
     "D": "It’s closed on the corner."
    },
    "answer": "A",
-   "audio": "audio/b12/034.mp3"
+   "audio": "audio/b12/034.mp3",
+   "explain": "across the street: 在街對面\nopposite: 在…對面\nright on the corner: 就在轉角處\n解析：題意為「郵局就在街對面，正好在轉角處」。across the street與opposite同義，皆表示在街道對面，故答案選A。干擾項B說離數英哩遠與題意相反；C將表「正好」的副詞right誤導為「右手邊」的字面陷阱；D則無中生有加入closed（關閉）。",
+   "explain_ai": true
   },
   {
    "id": "b12-035",
@@ -573,7 +597,9 @@
     "D": "David didn’t like classes."
    },
    "answer": "C",
-   "audio": "audio/b12/036.mp3"
+   "audio": "audio/b12/036.mp3",
+   "explain": "be absent from: 缺席\nattend: 出席、參加\n解析：題意為大衛病了兩週，這就是他昨天缺課的原因。be absent from 等同於 not attend，故答案選C。干擾項部分：A選項與題意相反；B選項混淆時間細節，他是生病兩週而非缺席兩週；D選項稱他不喜歡上課則是無中生有的陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b12-037",
@@ -636,7 +662,9 @@
     "D": "HR"
    },
    "answer": "C",
-   "audio": "audio/b12/040.mp3"
+   "audio": "audio/b12/040.mp3",
+   "explain": "deal with: 處理\ncomplaint: 抱怨、投訴\ncustomer service: 客戶服務\n解析：題意為他必須處理來自全球顧客的抱怨，詢問他在哪個部門。處理顧客投訴是客服的核心業務，故答案選C。干擾選項均為常見部門，A為國軍常接觸的後勤物流、B為會計、D為人力資源，皆非第一線對外處理顧客抱怨的單位。",
+   "explain_ai": true
   },
   {
    "id": "b12-041",
@@ -651,7 +679,9 @@
     "D": "it is part of a factory."
    },
    "answer": "A",
-   "audio": "audio/b12/041.mp3"
+   "audio": "audio/b12/041.mp3",
+   "explain": "automatic: 自動的\nby itself: 自動地、靠自己\noperate by hand: 手動操作\n解析：題意為「如果這台機器是自動的……」。答案選A，因 automatic 表示不需人力介入、能自行運轉（works by itself）。干擾選項 C「手動操作」意思完全相反；B 產生噪音與 D 是工廠的一部分，皆與詞義無關。",
+   "explain_ai": true
   },
   {
    "id": "b12-042",
@@ -714,7 +744,9 @@
     "D": "She chose the necktie."
    },
    "answer": "D",
-   "audio": "audio/b12/045.mp3"
+   "audio": "audio/b12/045.mp3",
+   "explain": "select: 挑選、選擇\nnecktie: 領帶\nchoose: 選擇\n解析：題意為 Nancy 為先生挑選了一條領帶。動詞 select 與 choose 為同義詞，故答案選D。干擾項 B 的 found（找到）與 C 的 looked for（尋找）混淆了購物動作的階段與含義；A 則與題意相反。",
+   "explain_ai": true
   },
   {
    "id": "b12-046",
@@ -729,7 +761,9 @@
     "D": "The tape speed is 30 feet per minute."
    },
    "answer": "C",
-   "audio": "audio/b12/046.mp3"
+   "audio": "audio/b12/046.mp3",
+   "explain": "take time: 花費時間\nrecord: 錄音、錄製\nrecording: 錄音、錄音長度\n解析：題意指錄製這卷錄音帶需耗時30分鐘，代表該錄音長度就是30分鐘，故答案選C。干擾項A誤解為「30分鐘後才開始」，B混淆為「錄音機何時可用」，D選項則牽強附會扯到「每分鐘轉速30英尺」，皆扭曲原句花費時間的意涵。",
+   "explain_ai": true
   },
   {
    "id": "b12-047",
@@ -744,7 +778,9 @@
     "D": "I don’t know if she will come."
    },
    "answer": "D",
-   "audio": "audio/b12/047.mp3"
+   "audio": "audio/b12/047.mp3",
+   "explain": "whether: 是否\nif: 是否\n解析：原句題意為「我不知道珍是否會來」。連接詞 whether 與 if 引導名詞子句時皆表示「是否」，語意相同可直接代換，因此答案選D。選項 A 的 when（何時）、B 的 why（為什麼）及 C 的 how（如何）皆為不同的疑問副詞，改變了原句語意，屬於常見的疑問詞混淆陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b12-048",
@@ -839,7 +875,9 @@
     "D": "It will rain today."
    },
    "answer": "D",
-   "audio": "audio/b12/053.mp3"
+   "audio": "audio/b12/053.mp3",
+   "explain": "gloomy: 陰暗的\nshower: 陣雨\nthunderstorm: 雷雨\n解析：題意為天氣陰暗沉悶，可能會有陣雨和雷雨。句中提到陣雨與雷雨，表示今天會下雨，因此答案選D。選項A（不會下雨）、B（陽光普照）及C（萬里無雲）都與題幹描述的壞天氣相反，屬於語意完全顛倒的干擾項。",
+   "explain_ai": true
   },
   {
    "id": "b12-054",
@@ -886,7 +924,9 @@
     "D": "They burned the ship."
    },
    "answer": "B",
-   "audio": "audio/b12/056.mp3"
+   "audio": "audio/b12/056.mp3",
+   "explain": "rescue: 救援\nabandon: 放棄、拋棄\ngive up: 放棄\n解析：題意為船長在嘗試救援後，最終下達棄船命令。動詞 abandon 與 give up 意思相同，皆為「放棄」，故答案選B。選項A的 saved（拯救）與棄船意思相反；選項C的 boarded（登船）與 D的 burned（燒毀）皆扭曲字義，屬於錯誤推論。",
+   "explain_ai": true
   },
   {
    "id": "b12-057",
@@ -915,7 +955,9 @@
      "t": "What did they talk about?"
     }
    ],
-   "audio": "audio/b12/057.mp3"
+   "audio": "audio/b12/057.mp3",
+   "explain": "make an appointment: 預約掛號\nbe supposed to: 預計、應該\n解析：男士詢問是否已向醫生預約看診，女士回答預計下午去，問兩人在討論什麼。對話重點在於看診的預約行程，故答案選B。選項A討論醫生、C討論醫療建議、D討論治療，皆為延伸醫學詞彙的字面干擾陷阱，對話並未深入談及這些內容。",
+   "explain_ai": true
   },
   {
    "id": "b12-058",
@@ -974,7 +1016,9 @@
      "t": "What happened to the woman?"
     }
    ],
-   "audio": "audio/b12/059.mp3"
+   "audio": "audio/b12/059.mp3",
+   "explain": "absent from work: 缺勤、沒上班\ncatch a cold: 感冒\nsee a doctor: 看醫生\n解析：男士詢問女士昨天為何沒上班，女士說重感冒去看醫生。問女士怎麼了，had a cold同義替換為caught a cold，故答案選B。選項A以doctor設下字面陷阱，她是去看病而非醫生；C被開除與D沒在聽皆非事實。",
+   "explain_ai": true
   },
   {
    "id": "b12-060",
@@ -1033,7 +1077,9 @@
      "t": "What did the woman want?"
     }
    ],
-   "audio": "audio/b12/061.mp3"
+   "audio": "audio/b12/061.mp3",
+   "explain": "feel like: 想要\ndessert: 甜點\nglass of wine: 一杯酒\n解析：女士明確表示想吃點甜點（feel like having some dessert），問女士想要什麼，故答案選C。干擾選項A是男士手上還沒喝完的酒，並非女士想要的東西；B與D在對話中完全未提及，屬於無中生有的陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b12-062",
@@ -1197,7 +1243,9 @@
     "C": "careful",
     "D": "easy"
    },
-   "answer": "A"
+   "answer": "A",
+   "explain": "do well: 表現良好\nlesson: 課程\n解析：題意為這些孩子在英語課上表現得很好。空格處修飾動詞 doing，文法上需使用副詞，故答案選A。選項 B、C、D 皆為形容詞，不能修飾動詞；日常口語常誤用 good 代替副詞 well，為 ALCPT 極常見的詞性干擾陷阱。",
+   "explain_ai": true
   },
   {
    "id": "b12-068",
@@ -1229,7 +1277,9 @@
     "C": "from",
     "D": "with"
    },
-   "answer": "B"
+   "answer": "B",
+   "explain": "freedom of speech: 言論自由\nuniversal: 普遍的\nfundamental: 基本的\n解析：題意為「言論自由被視為普遍且基本的人權」。「freedom of speech」為固定搭配，故答案選B。干擾項C的 freedom from 指「免於…的自由（如免於恐懼）」，A與D則非慣用語。",
+   "explain_ai": true
   },
   {
    "id": "b12-070",
@@ -1258,7 +1308,9 @@
     "C": "My first cousin is the woman in line for a ticket waiting.",
     "D": "Waiting in line for a ticket is the woman my first cousin."
    },
-   "answer": "A"
+   "answer": "A",
+   "explain": "wait in line: 排隊\nfirst cousin: 堂/表兄弟姊妹\n解析：題意為選出正確句子。A選項以分詞片語 waiting in line 正確修飾主詞 The woman，句構與修飾關係清楚，答案選A。干擾選項B將買票的修飾語錯置於堂表親後方，易產生誤解；C將分詞 waiting 孤立置於句尾違反文法；D語序倒裝混亂不自然。",
+   "explain_ai": true
   },
   {
    "id": "b12-072",
@@ -1317,7 +1369,9 @@
     "C": "a thank-you note",
     "D": "a party notice"
    },
-   "answer": "B"
+   "answer": "B",
+   "explain": "financial reward: 財務報酬\njealous: 嫉妒的，羨慕的\nadvertisement: 廣告\n解析：題幹以「厭倦工時長、羨慕他人賺大錢嗎？你也可以」等煽動性話術吸引受眾，為典型的行銷宣傳，故答案選B。選項A警告、C感謝函及D派對通知，內容與語氣皆不符合推銷情境。",
+   "explain_ai": true
   },
   {
    "id": "b12-076",
@@ -1445,7 +1499,9 @@
    "answer": "C",
    "underline": [
     "polished"
-   ]
+   ],
+   "explain": "polish: 潤飾、修改\npublication: 出版、發表\nedit: 編輯、校訂\n解析：題意為「你的文章在發表前需要潤飾」。polish 原指磨光，用於文章指修飾文字使其更完善，與 edited 意思最接近，故答案選C。A checked 僅為查看檢查，B rewritten 指整篇重寫（程度過重），D shortened 則是縮短篇幅，皆非 polish 的核心含義。",
+   "explain_ai": true
   },
   {
    "id": "b12-084",
@@ -1492,7 +1548,9 @@
    "answer": "B",
    "underline": [
     "requested"
-   ]
+   ],
+   "explain": "request: 請求、要求\nask for: 請求、要求\npersonal leave: 事假\n解析：題意為「他向長官請事假」。句中 requested 表主動提出請求，與片語 asked for 同義，故答案選B。選項A（給予）語意相反；選項C（收到）偏離請求動作；選項D（申請）雖看似相近，但 ALCPT 常考 request 的最直接同義替換即為 ask for。",
+   "explain_ai": true
   },
   {
    "id": "b12-087",
