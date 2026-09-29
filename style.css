@@ -116,7 +116,7 @@ h2 { font-size: 1.1rem; margin: 22px 0 10px; }
 .script { border-left: 4px solid var(--brand-2); }
 .script p { margin: 4px 0; }
 .spk { display: inline-block; min-width: 1.6em; font-weight: 700; color: var(--brand-2); }
-.spk.W { color: #c2417a; }
+.spk.W, .spk.W2 { color: #c2417a; }
 .spk.Q { color: var(--muted); }
 .explain { white-space: pre-wrap; font-size: .95rem; }
 .next-wrap { position: sticky; bottom: calc(8px + env(safe-area-inset-bottom)); }

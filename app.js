@@ -13,7 +13,7 @@ const CATS = {
   usage: '文法・字彙', // PDF 未標註文法/字彙的回數
   reading: '閱讀理解',
 };
-const SPEAKER = { M: '男', W: '女', Q: '問' };
+const SPEAKER = { M: '男', W: '女', M2: '男2', W2: '女2', Q: '問' };
 const COUNTS = [0, 50, 20]; // 0 = 全部
 
 const $ = (s) => document.querySelector(s);

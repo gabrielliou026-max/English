@@ -28,8 +28,9 @@ ROOT = Path(__file__).resolve().parent.parent
 SR = 24000
 
 VOICES = {
-    "gemini": {"M": "Puck", "W": "Kore", "Q": "Charon"},
-    "kokoro": {"M": "am_fenrir", "W": "af_heart", "Q": "am_echo"},
+    # M2 / W2：同一段對話出現第二位男性／女性時使用（例如 W1、W2、M 三人對話）
+    "gemini": {"M": "Puck", "W": "Kore", "Q": "Charon", "M2": "Orus", "W2": "Aoede"},
+    "kokoro": {"M": "am_fenrir", "W": "af_heart", "Q": "am_echo", "M2": "am_liam", "W2": "af_bella"},
 }
 
 GEMINI_MODEL = os.environ.get("GEMINI_TTS_MODEL", "gemini-3.8-flash-tts")
@@ -123,23 +124,23 @@ class Kokoro:
         assert sr == SR
         return audio.astype(np.float32)
 
-    def dialogue(self, turns):
-        out = []
-        for i, t in enumerate(turns):
-            if i:
-                out.append(silence(0.5))
-            out.append(self.single(t["s"], t["t"]))
-        return np.concatenate(out)
 
 
 # ---------- build ----------
 
 def render(engine, q):
     if "turns" in q:
-        talk = [t for t in q["turns"] if t["s"] in "MW"]
+        talk = [t for t in q["turns"] if t["s"] != "Q"]
         ask = [t for t in q["turns"] if t["s"] == "Q"]
-        both = {t["s"] for t in talk} == {"M", "W"}
-        parts = [engine.dialogue(talk) if both else engine.single(talk[0]["s"], " ".join(t["t"] for t in talk))]
+        speakers = {t["s"] for t in talk}
+        if isinstance(engine, Gemini) and speakers == {"M", "W"}:
+            parts = [engine.dialogue(talk)]  # 雙人一次生成，語氣較自然
+        else:
+            parts = []
+            for i, t in enumerate(talk):
+                if i:
+                    parts.append(silence(0.5))
+                parts.append(engine.single(t["s"], t["t"]))
         for t in ask:
             parts += [silence(0.9), engine.single("Q", t["t"])]
         return np.concatenate(parts)

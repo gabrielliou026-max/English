@@ -76,15 +76,33 @@ def parse_block(b):
     return stem, {k: join(v) for k, v in opts.items()}, answer, "\n".join(expl).strip()
 
 
+# 說話者標示：PDF 中有 M:/W:、Man:/Woman:、A:/B:、W1:/W2:、「M :」等寫法
+LABEL = re.compile(r"\b(Question|Man|Woman|M1|M2|W1|W2|M|W|A|B|Q)\s*:\s*")
+QMARK = re.compile(r"\b(?:Question|Q)\s*:\s*")
+NORMAL = {"Man": "M", "Woman": "W", "M1": "M", "W1": "W", "Question": "Q"}
+
+
+def is_dialogue_stem(stem):
+    m = LABEL.match(stem)
+    return bool(m) and m.group(1) not in ("Q", "Question")
+
+
 def split_turns(text):
-    """'M: ... W: ... Q: ...' -> [{'s': 'M', 't': '...'}, ...]"""
-    parts = re.split(r"\b([MWQ]):\s*", text)
-    turns = []
-    for i in range(1, len(parts), 2):
-        t = parts[i + 1].strip()
-        if t:
-            turns.append({"s": parts[i], "t": t})
-    return turns
+    """'M: ... W: ... Q: ...' -> [{'s': 'M', 't': '...'}, ...]；s 為 M/W/M2/W2/Q"""
+    parts = LABEL.split(text)
+    raw = [(parts[i], parts[i + 1].strip()) for i in range(1, len(parts), 2) if parts[i + 1].strip()]
+    labels = [NORMAL.get(s, s) for s, _ in raw]
+    # A/B 沒有標性別：優先用對話中尚未出現的性別
+    others = {s for s in labels if s not in ("A", "B", "Q")}
+    pool = [g for g in ("M", "W") if g not in others] + ["M2", "W2"]
+    ab = {"A": pool[0], "B": pool[1]}
+    return [{"s": ab.get(s, s), "t": t} for s, (_, t) in zip(labels, raw)]
+
+
+def split_question(n, stem):
+    """單人陳述＋「Q:」提問 -> 說話者念前半、旁白念提問"""
+    before, after = QMARK.split(stem, maxsplit=1)
+    return [{"s": "M" if n % 2 else "W", "t": before.strip()}, {"s": "Q", "t": after.strip()}]
 
 
 def categorize(section, stem, is_dialogue):
@@ -94,7 +112,7 @@ def categorize(section, stem, is_dialogue):
         return "question" if stem.rstrip().endswith("?") else "statement"
     if stem.startswith("(文法)"):
         return "grammar"
-    if len(stem) > 180:
+    if len(stem) > 180 or is_dialogue or QMARK.search(stem):
         return "reading"
     return "vocab"
 
@@ -123,16 +141,18 @@ def build(pdf, bank=None):
     bank = f"{int(bank):02d}"
     corrections = json.loads(CORRECTIONS.read_text("utf-8")) if CORRECTIONS.exists() else {}
     parsed = [(b["n"], *parse_block(b)) for b in split_blocks(lines)]
-    # 聽力通常是 1–60，但有些回數的對話題延伸到 60 題之後（例如 61–66）
-    dialogue_ns = [n for n, stem_lines, *_ in parsed if re.match(r"^[MW]:", join(stem_lines))]
-    listening_last = max([LISTENING_LAST] + dialogue_ns)
+    # 聽力通常是 1–60，但有些回數的對話題接續到 60 題之後（例如 61–66）
+    dialogue_ns = {n for n, stem_lines, *_ in parsed if is_dialogue_stem(join(stem_lines))}
+    listening_last = LISTENING_LAST
+    while listening_last + 1 in dialogue_ns:
+        listening_last += 1
     # 有些回數的 PDF 沒有標註（文法），無法區分文法與字彙，改標為 usage（文法・字彙）
     tagged = any(join(s).startswith("(文法)") for n, s, *_ in parsed if n > listening_last)
     questions = []
     for n, stem_lines, opts, answer, expl in parsed:
         section = "listening" if n <= listening_last else "reading"
         stem = join(stem_lines)
-        is_dialogue = section == "listening" and bool(re.match(r"^[MW]:", stem))
+        is_dialogue = is_dialogue_stem(stem)
         cat = categorize(section, stem, is_dialogue)
         if section == "reading" and cat == "vocab" and not tagged:
             cat = "usage"
@@ -148,8 +168,10 @@ def build(pdf, bank=None):
         if cat == "reading":
             # keep the passage's own line breaks readable
             q["stem"] = stem
-        if is_dialogue:
+        if section == "listening" and is_dialogue:
             q["turns"] = split_turns(stem)
+        elif section == "listening" and QMARK.search(stem):
+            q["turns"] = split_question(n, stem)
         if expl:
             q["explain"] = expl
         if section == "listening":
