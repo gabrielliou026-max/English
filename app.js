@@ -96,6 +96,40 @@ function toast(msg) {
   clearTimeout(toastTimer);
   toastTimer = setTimeout(() => t.classList.remove('show'), 2200);
 }
+// 頁內確認視窗（部分環境會封鎖瀏覽器的 confirm()）
+function ask(msg, okLabel = '確定') {
+  return new Promise((resolve) => {
+    const box = document.createElement('div');
+    box.className = 'modal';
+    box.innerHTML = `<div class="dialog" role="dialog" aria-modal="true">
+      <p>${esc(msg)}</p>
+      <div class="row"><button class="btn ghost" data-r="0">取消</button><button class="btn" data-r="1">${esc(okLabel)}</button></div></div>`;
+    box.addEventListener('click', (e) => {
+      const b = e.target.closest('[data-r]');
+      if (!b && e.target !== box) return;
+      e.stopPropagation();
+      box.remove();
+      resolve(!!b && b.dataset.r === '1');
+    });
+    document.body.appendChild(box);
+    box.querySelector('[data-r="1"]').focus();
+  });
+}
+function copyBackup() {
+  const text = JSON.stringify(db);
+  const fallback = () => {
+    const t = document.createElement('textarea');
+    t.value = text;
+    document.body.appendChild(t);
+    t.select();
+    const ok = document.execCommand && document.execCommand('copy');
+    t.remove();
+    toast(ok ? '已複製備份文字' : '無法複製');
+  };
+  if (navigator.clipboard) navigator.clipboard.writeText(text).then(() => toast('已複製備份文字，可貼到記事本保存'), fallback);
+  else fallback();
+}
+
 function setView(v) {
   view = v;
   const inQuiz = v === 'quiz';
@@ -397,6 +431,7 @@ function renderHistory() {
     <div class="card">
       <p class="muted" style="margin-top:0">紀錄只存在這支手機的瀏覽器。換手機或清除瀏覽器資料前，請先匯出備份。</p>
       <button class="btn secondary" data-a="export">匯出紀錄檔</button>
+      <button class="btn ghost" data-a="copy">複製備份文字</button>
       <button class="btn ghost" data-a="import">匯入紀錄檔</button>
       <button class="btn ghost" data-a="wipe">清除所有紀錄</button>
       <input type="file" id="file" accept="application/json,.json" hidden>
@@ -459,11 +494,11 @@ function exportData() {
 }
 function importData(file) {
   const r = new FileReader();
-  r.onload = () => {
+  r.onload = async () => {
     try {
       const d = JSON.parse(r.result);
       if (!Array.isArray(d.attempts) || typeof d.stats !== 'object') throw new Error();
-      if (!confirm(`匯入 ${d.attempts.length} 筆紀錄，將取代目前的紀錄，確定嗎？`)) return;
+      if (!await ask(`匯入 ${d.attempts.length} 筆紀錄，將取代目前的紀錄，確定嗎？`)) return;
       db = d;
       saveDB();
       toast('匯入完成');
@@ -496,12 +531,12 @@ document.addEventListener('click', async (e) => {
     }
     case 'count': pick.count = Number(v); renderHome(); break;
     case 'start':
-      if (session && !confirm('目前有未完成的測驗，要放棄並開始新的嗎？')) return;
+      if (session && !await ask('目前有未完成的測驗，要放棄並開始新的嗎？')) return;
       await ensureBanks(pick.banks);
       startSession('exam', buildExam(pick.banks, pick.count), pick.banks.slice());
       break;
     case 'review': case 'drill': {
-      if (session && !confirm('目前有未完成的測驗，要放棄並開始複習嗎？')) return;
+      if (session && !await ask('目前有未完成的測驗，要放棄並開始複習嗎？')) return;
       let ids = el.dataset.a === 'review' ? reviewPool()
         : Object.keys(db.stats).filter((id) => db.stats[id].wrong > 0)
           .sort((x, y) => db.stats[y].wrong - db.stats[x].wrong).slice(0, 20);
@@ -515,7 +550,7 @@ document.addEventListener('click', async (e) => {
       renderQuiz(false);
       break;
     case 'discard':
-      if (confirm('確定放棄這次未完成的測驗？已作答的題目仍會計入常見錯誤統計。')) { session = null; saveSession(); renderHome(); }
+      if (await ask('確定放棄這次未完成的測驗？已作答的題目仍會計入常見錯誤統計。')) { session = null; saveSession(); renderHome(); }
       break;
     case 'play': playQ(Q[session.qids[session.idx]]); break;
     case 'pick': choose(v); break;
@@ -523,15 +558,16 @@ document.addEventListener('click', async (e) => {
     case 'toReading': session.breakSeen = true; saveSession(); renderQuiz(false); break;
     case 'quit': {
       const n = Object.keys(session.answers).length;
-      if (!confirm(n ? `結束測驗並儲存已作答的 ${n} 題成績？` : '結束測驗？')) return;
+      if (!await ask(n ? `結束測驗並儲存已作答的 ${n} 題成績？` : '結束測驗？')) return;
       finish();
       break;
     }
     case 'att': renderResult(db.attempts[Number(v)], true); break;
     case 'export': exportData(); break;
+    case 'copy': copyBackup(); break;
     case 'import': $('#file').click(); break;
     case 'wipe':
-      if (confirm('確定清除所有考試紀錄與錯題統計？此動作無法復原。')) { db = { attempts: [], stats: {} }; saveDB(); renderHistory(); }
+      if (await ask('確定清除所有考試紀錄與錯題統計？此動作無法復原。')) { db = { attempts: [], stats: {} }; saveDB(); renderHistory(); }
       break;
   }
 });
