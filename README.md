@@ -28,7 +28,7 @@ python3 tools/gen_audio.py data/bank03.json  # 產生 audio/b03/*.mp3
 ```
 
 - 只重做某幾題：`--force --only 13,51`
-- 沒有 Gemini 金鑰時可用離線引擎：`--engine kokoro`（首次會下載 Kokoro 模型到 tools/models/）
+- 沒有 Gemini 金鑰時可用離線引擎：`--engine kokoro`（男 am_fenrir、女 af_heart、旁白 am_echo；首次會下載 Kokoro 模型到 tools/models/）
 - 產生時會印出每題語速（words/s），異常的會標示 `check`，建議抽聽
 
 回數會自動從 PDF 頁首「第 NN 回」讀取，讀不到時可加 `--bank 3`。

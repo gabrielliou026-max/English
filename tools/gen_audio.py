@@ -29,7 +29,7 @@ SR = 24000
 
 VOICES = {
     "gemini": {"M": "Puck", "W": "Kore", "Q": "Charon"},
-    "kokoro": {"M": "am_michael", "W": "af_heart", "Q": "am_fenrir"},
+    "kokoro": {"M": "am_fenrir", "W": "af_heart", "Q": "am_echo"},
 }
 
 GEMINI_MODEL = os.environ.get("GEMINI_TTS_MODEL", "gemini-3.8-flash-tts")
