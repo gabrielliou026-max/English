@@ -159,3 +159,5 @@ summary .n { color: var(--muted); font-variant-numeric: tabular-nums; margin-rig
 .dialog { background: var(--card); color: var(--text); border-radius: var(--radius); padding: 18px 16px 8px; width: 100%; max-width: 420px; }
 .dialog p { margin: 0 0 8px; font-size: 1.05rem; }
 .dialog .row .btn { flex: 1; }
+.good { color: var(--ok); font-weight: 600; }
+.bad { color: var(--ng); font-weight: 600; }

@@ -99,12 +99,29 @@ def categorize(n, stem, is_dialogue):
     return "vocab"
 
 
+CORRECTIONS = Path(__file__).with_name("corrections.json")
+
+
+def apply_corrections(q, fixes):
+    def fix(text):
+        for old, new in fixes:
+            text = text.replace(old, new)
+        return text
+    q["stem"] = fix(q["stem"])
+    q["options"] = {k: fix(v) for k, v in q["options"].items()}
+    for t in q.get("turns", []):
+        t["t"] = fix(t["t"])
+    if "explain" in q:
+        q["explain"] = fix(q["explain"])
+
+
 def build(pdf, bank=None):
     lines, detected = read_lines(pdf)
     bank = bank or detected
     if not bank:
         sys.exit("Bank number not found in PDF; pass --bank")
     bank = f"{int(bank):02d}"
+    corrections = json.loads(CORRECTIONS.read_text("utf-8")) if CORRECTIONS.exists() else {}
     questions = []
     for b in split_blocks(lines):
         stem_lines, opts, answer, expl = parse_block(b)
@@ -131,6 +148,8 @@ def build(pdf, bank=None):
             q["explain"] = expl
         if section == "listening":
             q["audio"] = f"audio/b{bank}/{n:03d}.mp3"
+        if q["id"] in corrections:
+            apply_corrections(q, corrections[q["id"]])
         questions.append(q)
     return bank, questions
 

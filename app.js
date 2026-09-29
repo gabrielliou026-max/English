@@ -28,6 +28,8 @@ let db = loadDB();
 let session = loadJSON(CURRENT);
 let pick = { banks: [], count: 0 };
 let view = 'home';
+let resultFilter = 'wrong'; // 題目回顧：wrong / right / all
+let shownAttempt = null;
 
 /* ---------- storage ---------- */
 
@@ -357,7 +359,7 @@ function summarize(answers) {
   for (const [id, , ok] of answers) {
     const q = Q[id];
     if (!q) continue;
-    for (const key of [q.section, q.cat]) {
+    for (const key of ['sec:' + q.section, q.cat]) { // 'reading' 同時是大項與題型，需分開
       const b = by[key] || (by[key] = { n: 0, ok: 0 });
       b.n++;
       b.ok += ok;
@@ -383,13 +385,19 @@ function missItem(q, chosen, extra) {
     <div class="miss-body">${body}</div></details>`;
 }
 
+function reviewList(att) {
+  const list = att.answers.filter((a) => resultFilter === 'all' || (resultFilter === 'right') === !!a[2]);
+  if (!list.length) return `<div class="empty">${resultFilter === 'wrong' ? '全部答對，太棒了！' : '這次沒有答對的題目。'}</div>`;
+  return list.map(([id, p, ok]) => Q[id] ? missItem(Q[id], p, ok ? `<span class="good">✔ 答對（${p}）</span>` : `<span class="bad">✘ 你選 ${p}，正解 ${Q[id].answer}</span>`) : '').join('');
+}
+
 async function renderResult(att, fromHistory) {
   await ensureBanks(att.answers.map(([id]) => bankOf(id)));
   setView(fromHistory ? 'history' : 'result');
   const n = att.answers.length;
   const ok = att.answers.reduce((t, a) => t + a[2], 0);
   const by = summarize(att.answers);
-  const wrong = att.answers.filter((a) => !a[2]);
+  shownAttempt = att;
   const bankTitle = att.banks.length ? att.banks.map((b) => `第 ${b} 回`).join('、') : '';
   app.innerHTML = `
     ${fromHistory ? '<button class="btn ghost" data-a="tab" data-v="history">← 回到紀錄</button>' : ''}
@@ -400,12 +408,16 @@ async function renderResult(att, fromHistory) {
       <div class="muted">${fmtDate(att.start)}・用時 ${fmtDur(att.end - att.start)}${bankTitle ? '・' + bankTitle : ''}</div>
     </div>
     <div class="card">
-      ${by.listening ? meter('<b>聽力</b>', by.listening.ok, by.listening.n) : ''}
-      ${by.reading ? meter('<b>閱讀</b>', by.reading.ok, by.reading.n) : ''}
+      ${by['sec:listening'] ? meter('<b>聽力</b>', by['sec:listening'].ok, by['sec:listening'].n) : ''}
+      ${by['sec:reading'] ? meter('<b>閱讀</b>', by['sec:reading'].ok, by['sec:reading'].n) : ''}
       ${Object.keys(CATS).filter((c) => by[c]).map((c) => meter(CATS[c], by[c].ok, by[c].n)).join('')}
     </div>
-    <h2>答錯的題目（${wrong.length}）</h2>
-    <div class="card">${wrong.length ? wrong.map(([id, p]) => Q[id] ? missItem(Q[id], p, `你選 ${p}`) : '').join('') : '<div class="empty">全部答對，太棒了！</div>'}</div>
+    <h2>題目回顧</h2>
+    <div class="row wrap" id="rfilter">
+      ${[['wrong', `答錯 ${n - ok}`], ['right', `答對 ${ok}`], ['all', `全部 ${n}`]].map(([k, label]) =>
+        `<button class="chip ${resultFilter === k ? 'on' : ''}" data-a="rf" data-v="${k}">${label}</button>`).join('')}
+    </div>
+    <div class="card" id="rlist">${reviewList(att)}</div>
     ${fromHistory ? '' : '<button class="btn" data-a="tab" data-v="home">回到首頁</button>'}`;
 }
 
@@ -563,6 +575,11 @@ document.addEventListener('click', async (e) => {
       break;
     }
     case 'att': renderResult(db.attempts[Number(v)], true); break;
+    case 'rf':
+      resultFilter = v;
+      document.querySelectorAll('#rfilter .chip').forEach((b) => b.classList.toggle('on', b.dataset.v === v));
+      $('#rlist').innerHTML = reviewList(shownAttempt);
+      break;
     case 'export': exportData(); break;
     case 'copy': copyBackup(); break;
     case 'import': $('#file').click(); break;

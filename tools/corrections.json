@@ -1,0 +1,4 @@
+{
+ "_說明": "PDF 原文錯字校正。格式：題目 id -> [[原文, 改成]]。套用到題幹、選項、對話、解析；若改到聽力題幹，需用 gen_audio.py --force --only N 重做該題音檔。",
+ "b02-015": [["give hr a bath", "give her a bath"]]
+}
