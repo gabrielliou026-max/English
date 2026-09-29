@@ -1,0 +1,4 @@
+pymupdf
+kokoro-onnx
+lameenc
+numpy
