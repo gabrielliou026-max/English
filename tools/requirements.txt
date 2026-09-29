@@ -1,4 +1,5 @@
 pymupdf
-kokoro-onnx
 lameenc
 numpy
+# 只有 --engine kokoro 需要：
+kokoro-onnx
