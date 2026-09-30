@@ -35,6 +35,8 @@ let view = 'home';
 let resultFilter = 'all'; // 題目回顧：all / wrong / right
 let shownAttempt = null;
 let flash = null; // 閃卡複習：{ list, i, show }
+let countdown = null; // 模擬考聽力：播放前倒數的計時器
+const COUNTDOWN_SEC = 5;
 
 /* ---------- storage ---------- */
 
@@ -151,7 +153,32 @@ function copyBackup() {
   else fallback();
 }
 
+function clearCountdown() {
+  if (countdown) { clearInterval(countdown); countdown = null; }
+}
+
+// 模擬考聽力：倒數 5 秒讓考生先看選項，再自動播放（同正式考試）
+function startCountdown(q) {
+  let n = COUNTDOWN_SEC;
+  const tick = () => {
+    const p = $('#plays');
+    const b = $('#play');
+    if (!p || !session || session.qids[session.idx] !== q.id) return clearCountdown();
+    if (n <= 0) {
+      clearCountdown();
+      playQ(q, true);
+      return;
+    }
+    p.textContent = `${n} 秒後播放，請先看選項`;
+    if (b) b.textContent = `▶ ${n} 秒後播放（點擊立即播放）`;
+    n--;
+  };
+  tick();
+  countdown = setInterval(tick, 1000);
+}
+
 function setView(v) {
+  clearCountdown();
   view = v;
   const inQuiz = v === 'quiz';
   document.body.classList.toggle('quiz', inQuiz);
@@ -350,7 +377,7 @@ function renderMock(q, a, isL, secIdx, secTotal, autoplay) {
     `<button class="opt ${a && a.pick === k ? 'sel' : ''}" data-a="pick" data-v="${k}"><b>${k}</b><span>${esc(q.options[k])}</span></button>`).join('')}</div>
     <div class="next-wrap"><button class="btn" data-a="next">${last ? '交卷' : a ? '下一題 →' : '略過 →'}</button></div>`;
   app.innerHTML = html;
-  if (isL && !played && autoplay) playQ(q, true);
+  if (isL && !played && autoplay) startCountdown(q);
   preloadNext();
 }
 
@@ -748,6 +775,8 @@ function importData(file) {
 /* ---------- events ---------- */
 
 document.addEventListener('click', async (e) => {
+  // iPhone 只允許在點擊當下啟用聲音；先啟用，倒數結束後才能自動播放
+  Player.unlock();
   const el = e.target.closest('[data-a]');
   if (!el || el.disabled) return;
   const v = el.dataset.v;
@@ -797,7 +826,7 @@ document.addEventListener('click', async (e) => {
     case 'discard':
       if (await ask('確定放棄這次未完成的測驗？已作答的題目仍會計入常見錯誤統計。')) { session = null; saveSession(); renderHome(); }
       break;
-    case 'play': playQ(Q[session.qids[session.idx]], false); break;
+    case 'play': clearCountdown(); playQ(Q[session.qids[session.idx]], false); break;
     case 'pick': choose(v); break;
     case 'next': next(); break;
     case 'toReading': session.breakSeen = true; saveSession(); renderQuiz(false); break;
