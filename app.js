@@ -32,7 +32,7 @@ let session = loadJSON(CURRENT);
 let pick = { banks: [], count: 0, section: 'both', mode: 'practice' }; // section: both / listening / reading
 const SECTIONS = [['both', '聽力＋閱讀'], ['listening', '只考聽力'], ['reading', '只考閱讀']];
 let view = 'home';
-let resultFilter = 'wrong'; // 題目回顧：wrong / right / all
+let resultFilter = 'all'; // 題目回顧：all / wrong / right
 let shownAttempt = null;
 let flash = null; // 閃卡複習：{ list, i, show }
 
@@ -550,7 +550,8 @@ function finish() {
   const answered = s.qids.filter((id) => s.answers[id]);
   session = null;
   saveSession();
-  if (!answered.length) return renderHome();
+  // 模擬考即使一題都沒作答也要顯示成績與全部答案；練習模式沒作答則不留紀錄
+  if (!answered.length && !mock) return renderHome();
   if (mock) for (const id of answered) recordStat(id, s.answers[id].pick, s.answers[id].ok);
   const attempt = {
     id: Date.now(),
@@ -568,6 +569,7 @@ function finish() {
   };
   db.attempts.unshift(attempt);
   saveDB();
+  resultFilter = 'all';
   renderResult(attempt, false);
 }
 
@@ -635,7 +637,7 @@ async function renderResult(att, fromHistory) {
     </div>
     <h2>題目回顧</h2>
     <div class="row wrap" id="rfilter">
-      ${[['wrong', `答錯 ${n - ok}`], ['right', `答對 ${ok}`], ['all', `全部 ${n}`]].map(([k, label]) =>
+      ${[['all', `全部 ${n}`], ['wrong', `答錯 ${n - ok}`], ['right', `答對 ${ok}`]].map(([k, label]) =>
         `<button class="chip ${resultFilter === k ? 'on' : ''}" data-a="rf" data-v="${k}">${label}</button>`).join('')}
     </div>
     <div class="card" id="rlist">${reviewList(att)}</div>
